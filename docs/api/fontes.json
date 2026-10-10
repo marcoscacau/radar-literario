@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T19:30:41-03:00",
+ "gerado_em": "2026-10-10T19:36:20-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 2
+   "novos_hoje": 0
   },
   {
    "id": "quatrocincoum",
@@ -17,7 +17,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 8
+   "novos_hoje": 0
   },
   {
    "id": "folha",
@@ -26,7 +26,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 17,
-   "novos_hoje": 13
+   "novos_hoje": 0
   },
   {
    "id": "estadao",
@@ -35,7 +35,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 4,
-   "novos_hoje": 4
+   "novos_hoje": 0
   },
   {
    "id": "publico",
@@ -44,7 +44,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 2,
-   "novos_hoje": 2
+   "novos_hoje": 0
   },
   {
    "id": "observador",
@@ -53,7 +53,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 1,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "gn-premios-br",
@@ -62,7 +62,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 12
+   "novos_hoje": 0
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 34,
-   "novos_hoje": 12
+   "itens_no_feed": 35,
+   "novos_hoje": 0
   },
   {
    "id": "lithub",
@@ -80,7 +80,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 10
+   "novos_hoje": 0
   },
   {
    "id": "guardian",
@@ -89,7 +89,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 27,
-   "novos_hoje": 7
+   "novos_hoje": 0
   },
   {
    "id": "nyt",
@@ -98,7 +98,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 55,
-   "novos_hoje": 22
+   "novos_hoje": 0
   },
   {
    "id": "parisreview",
@@ -107,7 +107,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 3
+   "novos_hoje": 0
   },
   {
    "id": "gn-prizes",
@@ -115,8 +115,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 41,
-   "novos_hoje": 12
+   "itens_no_feed": 42,
+   "novos_hoje": 0
   }
  ]
 }
