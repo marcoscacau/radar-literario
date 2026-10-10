@@ -1,177 +1,850 @@
 {
-  "_leia": "Obras completas dos autores que o Cacau acompanha. Cada autor entra no 'Para você' com 3 pontos; os títulos também contam (só os inconfundíveis: 2+ palavras com sentido, ou 'unico': true; 'ambiguo': true fica de fora da busca). Livro novo que aparecer nas notícias e não estiver aqui vira alerta. Conferido com Open Library e notícias em 2026-10-10.",
-  "autores": [
+ "_leia": "Obras completas dos autores que o Cacau acompanha. Cada autor entra no 'Para você' com 3 pontos; os títulos também contam (só os inconfundíveis: 2+ palavras com sentido, ou 'unico': true; 'ambiguo': true fica de fora da busca). Livro novo que aparecer nas notícias e não estiver aqui vira alerta. Conferido com Open Library, notícias e edições brasileiras (Estante Virtual, Thomas Nelson) em 2026-10-10.",
+ "autores": [
+  {
+   "nome": "Rebecca Yarros",
+   "termos": [
+    "rebecca yarros",
+    "yarros"
+   ],
+   "livros": [
     {
-      "nome": "Rebecca Yarros",
-      "termos": ["rebecca yarros", "yarros"],
-      "livros": [
-        { "titulo": "Full Measures", "ano": 2014, "serie": "Flight & Glory #1" },
-        { "titulo": "Eyes Turned Skyward", "ano": 2014, "serie": "Flight & Glory #2" },
-        { "titulo": "Beyond What Is Given", "ano": 2015, "serie": "Flight & Glory #3" },
-        { "titulo": "Hallowed Ground", "ano": 2015, "serie": "Flight & Glory #4", "ambiguo": true },
-        { "titulo": "Wilder", "ano": 2016, "serie": "The Renegades #1" },
-        { "titulo": "Point of Origin", "ano": 2016, "serie": "Legacy", "ambiguo": true },
-        { "titulo": "Ignite", "ano": 2016, "serie": "Legacy" },
-        { "titulo": "Nova", "ano": 2017, "serie": "The Renegades #2" },
-        { "titulo": "Rebel", "ano": 2017, "serie": "The Renegades #3" },
-        { "titulo": "Reason to Believe", "ano": 2018, "serie": "Legacy #1", "ambiguo": true },
-        { "titulo": "The Last Letter", "pt": "A Última Carta", "ano": 2019, "ambiguo": true },
-        { "titulo": "Great and Precious Things", "ano": 2020 },
-        { "titulo": "Muses and Melodies", "ano": 2020, "serie": "Hush Note #3" },
-        { "titulo": "The Reality of Everything", "ano": 2020, "serie": "Flight & Glory #5" },
-        { "titulo": "The Things We Leave Unfinished", "ano": 2021 },
-        { "titulo": "A Little Too Close", "ano": 2022, "serie": "Madigan Mountain #2", "ambiguo": true },
-        { "titulo": "Fourth Wing", "pt": "Quarta Asa", "ano": 2023, "serie": "O Empyriano #1" },
-        { "titulo": "Iron Flame", "pt": "Chama de Ferro", "ano": 2023, "serie": "O Empyriano #2" },
-        { "titulo": "In the Likely Event", "ano": 2023, "ambiguo": true },
-        { "titulo": "Variation", "ano": 2024 },
-        { "titulo": "Onyx Storm", "pt": "Tempestade de Ônix", "ano": 2025, "serie": "O Empyriano #3" },
-        { "titulo": "Threshing Day", "ano": 2026, "serie": "O Empyriano" },
-        { "titulo": "Peculiar Stars", "ano": null, "anunciado": true }
-      ]
+     "titulo": "Full Measures",
+     "ano": 2014,
+     "serie": "Flight & Glory #1"
     },
     {
-      "nome": "Raphael Montes",
-      "termos": ["raphael montes"],
-      "livros": [
-        { "titulo": "Suicidas", "ano": 2012 },
-        { "titulo": "Dias Perfeitos", "ano": 2014, "ambiguo": true },
-        { "titulo": "O Vilarejo", "ano": 2015 },
-        { "titulo": "Jantar Secreto", "ano": 2016 },
-        { "titulo": "Bom Dia, Verônica", "ano": 2016, "serie": "com Ilana Casoy, como Andrea Killmore" },
-        { "titulo": "Uma Mulher no Escuro", "ano": 2019 },
-        { "titulo": "A Estranha na Cama", "ano": 2026 }
-      ]
+     "titulo": "Eyes Turned Skyward",
+     "ano": 2014,
+     "serie": "Flight & Glory #2"
     },
     {
-      "nome": "Stephen King",
-      "termos": ["stephen king", "richard bachman"],
-      "livros": [
-        { "titulo": "Carrie", "pt": "Carrie, a Estranha", "ano": 1974, "unico": true },
-        { "titulo": "'Salem's Lot", "pt": "'Salem", "ano": 1975, "unico": true },
-        { "titulo": "The Shining", "pt": "O Iluminado", "ano": 1977 },
-        { "titulo": "Rage", "pt": "Fúria", "ano": 1977, "serie": "como Richard Bachman" },
-        { "titulo": "The Stand", "pt": "A Dança da Morte", "ano": 1978 },
-        { "titulo": "Night Shift", "pt": "Sombras da Noite", "ano": 1978, "ambiguo": true },
-        { "titulo": "The Long Walk", "pt": "A Longa Marcha", "ano": 1979, "serie": "como Richard Bachman", "ambiguo": true },
-        { "titulo": "The Dead Zone", "pt": "A Zona Morta", "ano": 1979 },
-        { "titulo": "Firestarter", "pt": "A Incendiária", "ano": 1980, "unico": true },
-        { "titulo": "Roadwork", "ano": 1981, "serie": "como Richard Bachman" },
-        { "titulo": "Cujo", "ano": 1981, "unico": true },
-        { "titulo": "Danse Macabre", "pt": "Dança Macabra", "ano": 1981, "serie": "não ficção" },
-        { "titulo": "The Running Man", "pt": "O Concorrente", "ano": 1982, "serie": "como Richard Bachman" },
-        { "titulo": "The Gunslinger", "pt": "O Pistoleiro", "ano": 1982, "serie": "A Torre Negra #1" },
-        { "titulo": "Different Seasons", "pt": "Quatro Estações", "ano": 1982, "ambiguo": true },
-        { "titulo": "Christine", "ano": 1983 },
-        { "titulo": "Pet Sematary", "pt": "O Cemitério", "ano": 1983 },
-        { "titulo": "Cycle of the Werewolf", "pt": "A Hora do Lobisomem", "ano": 1983 },
-        { "titulo": "The Talisman", "pt": "O Talismã", "ano": 1984, "serie": "com Peter Straub · Talismã #1" },
-        { "titulo": "Thinner", "pt": "A Maldição do Cigano", "ano": 1984, "serie": "como Richard Bachman" },
-        { "titulo": "Skeleton Crew", "pt": "Tripulação de Esqueletos", "ano": 1985 },
-        { "titulo": "It", "pt": "It: A Coisa", "ano": 1986 },
-        { "titulo": "The Eyes of the Dragon", "pt": "Os Olhos do Dragão", "ano": 1987 },
-        { "titulo": "The Drawing of the Three", "pt": "A Escolha dos Três", "ano": 1987, "serie": "A Torre Negra #2" },
-        { "titulo": "Misery", "pt": "Misery: Louca Obsessão", "ano": 1987 },
-        { "titulo": "The Tommyknockers", "pt": "Os Estranhos", "ano": 1987, "unico": true },
-        { "titulo": "The Dark Half", "pt": "A Metade Sombria", "ano": 1989 },
-        { "titulo": "Four Past Midnight", "ano": 1990 },
-        { "titulo": "The Waste Lands", "pt": "As Terras Devastadas", "ano": 1991, "serie": "A Torre Negra #3" },
-        { "titulo": "Needful Things", "pt": "Trocas Macabras", "ano": 1991 },
-        { "titulo": "Gerald's Game", "pt": "Jogo Perigoso", "ano": 1992 },
-        { "titulo": "Dolores Claiborne", "ano": 1992 },
-        { "titulo": "Nightmares & Dreamscapes", "pt": "Pesadelos e Paisagens Noturnas", "ano": 1993 },
-        { "titulo": "Insomnia", "pt": "Insônia", "ano": 1994 },
-        { "titulo": "Rose Madder", "ano": 1995 },
-        { "titulo": "The Green Mile", "pt": "À Espera de um Milagre", "ano": 1996 },
-        { "titulo": "Desperation", "pt": "Desespero", "ano": 1996 },
-        { "titulo": "The Regulators", "ano": 1996, "serie": "como Richard Bachman" },
-        { "titulo": "Wizard and Glass", "pt": "Mago e Vidro", "ano": 1997, "serie": "A Torre Negra #4" },
-        { "titulo": "Bag of Bones", "pt": "Saco de Ossos", "ano": 1998 },
-        { "titulo": "The Girl Who Loved Tom Gordon", "pt": "A Menina que Amava Tom Gordon", "ano": 1999 },
-        { "titulo": "Hearts in Atlantis", "pt": "Corações na Atlântida", "ano": 1999 },
-        { "titulo": "On Writing", "pt": "Sobre a Escrita", "ano": 2000, "serie": "não ficção", "ambiguo": true },
-        { "titulo": "Dreamcatcher", "pt": "O Apanhador de Sonhos", "ano": 2001, "unico": true },
-        { "titulo": "Black House", "pt": "A Casa Negra", "ano": 2001, "serie": "com Peter Straub · Talismã #2", "ambiguo": true },
-        { "titulo": "Everything's Eventual", "pt": "Tudo é Eventual", "ano": 2002 },
-        { "titulo": "From a Buick 8", "pt": "Buick 8", "ano": 2002 },
-        { "titulo": "Wolves of the Calla", "pt": "Lobos de Calla", "ano": 2003, "serie": "A Torre Negra #5" },
-        { "titulo": "Song of Susannah", "pt": "Canção de Susannah", "ano": 2004, "serie": "A Torre Negra #6" },
-        { "titulo": "The Dark Tower", "pt": "A Torre Negra", "ano": 2004, "serie": "A Torre Negra #7" },
-        { "titulo": "The Colorado Kid", "ano": 2005 },
-        { "titulo": "Cell", "pt": "Celular", "ano": 2006 },
-        { "titulo": "Lisey's Story", "pt": "Love: A História de Lisey", "ano": 2006 },
-        { "titulo": "Blaze", "ano": 2007, "serie": "como Richard Bachman" },
-        { "titulo": "Duma Key", "ano": 2008 },
-        { "titulo": "Just After Sunset", "pt": "Ao Cair da Noite", "ano": 2008, "ambiguo": true },
-        { "titulo": "Under the Dome", "pt": "Sob a Redoma", "ano": 2009 },
-        { "titulo": "Full Dark, No Stars", "pt": "Escuridão Total Sem Estrelas", "ano": 2010 },
-        { "titulo": "11/22/63", "pt": "Novembro de 63", "ano": 2011 },
-        { "titulo": "The Wind Through the Keyhole", "pt": "O Vento pela Fechadura", "ano": 2012, "serie": "A Torre Negra #4.5" },
-        { "titulo": "Joyland", "ano": 2013, "unico": true },
-        { "titulo": "Doctor Sleep", "pt": "Doutor Sono", "ano": 2013 },
-        { "titulo": "Mr. Mercedes", "ano": 2014, "serie": "Bill Hodges #1" },
-        { "titulo": "Revival", "ano": 2014 },
-        { "titulo": "Finders Keepers", "pt": "Achados e Perdidos", "ano": 2015, "serie": "Bill Hodges #2", "ambiguo": true },
-        { "titulo": "The Bazaar of Bad Dreams", "pt": "O Bazar dos Sonhos Ruins", "ano": 2015 },
-        { "titulo": "End of Watch", "pt": "Último Turno", "ano": 2016, "serie": "Bill Hodges #3" },
-        { "titulo": "Gwendy's Button Box", "pt": "A Caixa de Botões de Gwendy", "ano": 2017, "serie": "com Richard Chizmar" },
-        { "titulo": "Sleeping Beauties", "pt": "Belas Adormecidas", "ano": 2017, "serie": "com Owen King", "ambiguo": true },
-        { "titulo": "The Outsider", "pt": "Outsider", "ano": 2018 },
-        { "titulo": "Elevation", "pt": "Elevação", "ano": 2018 },
-        { "titulo": "The Institute", "pt": "O Instituto", "ano": 2019 },
-        { "titulo": "If It Bleeds", "pt": "Com Sangue", "ano": 2020 },
-        { "titulo": "Later", "ano": 2021 },
-        { "titulo": "Billy Summers", "ano": 2021 },
-        { "titulo": "Gwendy's Final Task", "ano": 2022, "serie": "com Richard Chizmar" },
-        { "titulo": "Fairy Tale", "pt": "Conto de Fadas", "ano": 2022, "ambiguo": true },
-        { "titulo": "Holly", "ano": 2023 },
-        { "titulo": "You Like It Darker", "ano": 2024 },
-        { "titulo": "Never Flinch", "pt": "Não Pisque", "ano": 2025, "serie": "Holly Gibney" },
-        { "titulo": "Other Worlds Than These", "ano": 2026, "serie": "com Peter Straub · Talismã #3" }
-      ]
+     "titulo": "Beyond What Is Given",
+     "ano": 2015,
+     "serie": "Flight & Glory #3"
     },
     {
-      "nome": "C. S. Lewis",
-      "termos": ["c. s. lewis", "c.s. lewis", "cs lewis", "c. s. lewis's"],
-      "livros": [
-        { "titulo": "Spirits in Bondage", "ano": 1919, "serie": "poesia" },
-        { "titulo": "Dymer", "ano": 1926, "serie": "poesia" },
-        { "titulo": "The Pilgrim's Regress", "pt": "O Regresso do Peregrino", "ano": 1933 },
-        { "titulo": "The Allegory of Love", "pt": "A Alegoria do Amor", "ano": 1936 },
-        { "titulo": "Out of the Silent Planet", "pt": "Além do Planeta Silencioso", "ano": 1938, "serie": "Trilogia Cósmica #1" },
-        { "titulo": "Rehabilitations and Other Essays", "ano": 1939 },
-        { "titulo": "The Problem of Pain", "pt": "O Problema do Sofrimento", "ano": 1940 },
-        { "titulo": "The Screwtape Letters", "pt": "Cartas de um Diabo a seu Aprendiz", "ano": 1942 },
-        { "titulo": "A Preface to Paradise Lost", "pt": "Um Prefácio a Paraíso Perdido", "ano": 1942 },
-        { "titulo": "Perelandra", "ano": 1943, "serie": "Trilogia Cósmica #2", "unico": true },
-        { "titulo": "The Abolition of Man", "pt": "A Abolição do Homem", "ano": 1943 },
-        { "titulo": "That Hideous Strength", "pt": "Uma Força Medonha", "ano": 1945, "serie": "Trilogia Cósmica #3" },
-        { "titulo": "The Great Divorce", "pt": "O Grande Abismo", "ano": 1945, "ambiguo": true },
-        { "titulo": "Miracles", "pt": "Milagres", "ano": 1947 },
-        { "titulo": "The Weight of Glory", "pt": "O Peso da Glória", "ano": 1949 },
-        { "titulo": "The Lion, the Witch and the Wardrobe", "pt": "O Leão, a Feiticeira e o Guarda-Roupa", "ano": 1950, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "Prince Caspian", "pt": "Príncipe Caspian", "ano": 1951, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "The Voyage of the Dawn Treader", "pt": "A Viagem do Peregrino da Alvorada", "ano": 1952, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "Mere Christianity", "pt": "Cristianismo Puro e Simples", "ano": 1952 },
-        { "titulo": "The Silver Chair", "pt": "A Cadeira de Prata", "ano": 1953, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "The Horse and His Boy", "pt": "O Cavalo e seu Menino", "ano": 1954, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "English Literature in the Sixteenth Century", "ano": 1954 },
-        { "titulo": "The Magician's Nephew", "pt": "O Sobrinho do Mago", "ano": 1955, "serie": "As Crônicas de Nárnia" },
-        { "titulo": "Surprised by Joy", "pt": "Surpreendido pela Alegria", "ano": 1955 },
-        { "titulo": "The Last Battle", "pt": "A Última Batalha", "ano": 1956, "serie": "As Crônicas de Nárnia", "ambiguo": true },
-        { "titulo": "Till We Have Faces", "pt": "Até que Tenhamos Rostos", "ano": 1956 },
-        { "titulo": "Reflections on the Psalms", "pt": "Reflexões sobre os Salmos", "ano": 1958 },
-        { "titulo": "The Four Loves", "pt": "Os Quatro Amores", "ano": 1960 },
-        { "titulo": "Studies in Words", "ano": 1960 },
-        { "titulo": "A Grief Observed", "pt": "A Anatomia de uma Dor", "ano": 1961 },
-        { "titulo": "An Experiment in Criticism", "pt": "Um Experimento na Crítica Literária", "ano": 1961 },
-        { "titulo": "Screwtape Proposes a Toast", "ano": 1961 },
-        { "titulo": "The Discarded Image", "pt": "A Imagem Descartada", "ano": 1964 },
-        { "titulo": "Letters to Malcolm", "pt": "Cartas a Malcolm", "ano": 1964 },
-        { "titulo": "Of Other Worlds", "ano": 1966, "serie": "póstumo" },
-        { "titulo": "Christian Reflections", "pt": "Reflexões Cristãs", "ano": 1967, "serie": "póstumo" },
-        { "titulo": "God in the Dock", "pt": "Deus no Banco dos Réus", "ano": 1970, "serie": "póstumo" }
-      ]
+     "titulo": "Hallowed Ground",
+     "ano": 2015,
+     "serie": "Flight & Glory #4",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Wilder",
+     "ano": 2016,
+     "serie": "The Renegades #1"
+    },
+    {
+     "titulo": "Point of Origin",
+     "ano": 2016,
+     "serie": "Legacy",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Ignite",
+     "ano": 2016,
+     "serie": "Legacy"
+    },
+    {
+     "titulo": "Nova",
+     "ano": 2017,
+     "serie": "The Renegades #2"
+    },
+    {
+     "titulo": "Rebel",
+     "ano": 2017,
+     "serie": "The Renegades #3"
+    },
+    {
+     "titulo": "Reason to Believe",
+     "ano": 2018,
+     "serie": "Legacy #1",
+     "ambiguo": true,
+     "pt": "Uma Razão para Acreditar"
+    },
+    {
+     "titulo": "The Last Letter",
+     "pt": "A Última Carta",
+     "ano": 2019,
+     "ambiguo": true
+    },
+    {
+     "titulo": "Great and Precious Things",
+     "ano": 2020,
+     "pt": "As Coisas Belas e Preciosas"
+    },
+    {
+     "titulo": "Muses and Melodies",
+     "ano": 2020,
+     "serie": "Hush Note #3"
+    },
+    {
+     "titulo": "The Reality of Everything",
+     "ano": 2020,
+     "serie": "Flight & Glory #5"
+    },
+    {
+     "titulo": "The Things We Leave Unfinished",
+     "ano": 2021,
+     "pt": "Tudo que Deixamos Inacabado"
+    },
+    {
+     "titulo": "A Little Too Close",
+     "ano": 2022,
+     "serie": "Madigan Mountain #2",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Fourth Wing",
+     "pt": "Quarta Asa",
+     "ano": 2023,
+     "serie": "O Empyriano #1"
+    },
+    {
+     "titulo": "Iron Flame",
+     "pt": "Chama de Ferro",
+     "ano": 2023,
+     "serie": "O Empyriano #2"
+    },
+    {
+     "titulo": "In the Likely Event",
+     "ano": 2023,
+     "ambiguo": true,
+     "pt": "No Evento Provável"
+    },
+    {
+     "titulo": "Variation",
+     "ano": 2024,
+     "pt": "Profundezas"
+    },
+    {
+     "titulo": "Onyx Storm",
+     "pt": "Tempestade de Ônix",
+     "ano": 2025,
+     "serie": "O Empyriano #3"
+    },
+    {
+     "titulo": "Threshing Day",
+     "ano": 2026,
+     "serie": "O Empyriano",
+     "pt": "Dia da Ceifa"
+    },
+    {
+     "titulo": "Peculiar Stars",
+     "ano": null,
+     "anunciado": true
     }
-  ]
+   ]
+  },
+  {
+   "nome": "Raphael Montes",
+   "termos": [
+    "raphael montes"
+   ],
+   "livros": [
+    {
+     "titulo": "Suicidas",
+     "ano": 2012
+    },
+    {
+     "titulo": "Dias Perfeitos",
+     "ano": 2014,
+     "ambiguo": true
+    },
+    {
+     "titulo": "O Vilarejo",
+     "ano": 2015
+    },
+    {
+     "titulo": "Jantar Secreto",
+     "ano": 2016
+    },
+    {
+     "titulo": "Bom Dia, Verônica",
+     "ano": 2016,
+     "serie": "com Ilana Casoy, como Andrea Killmore"
+    },
+    {
+     "titulo": "Uma Mulher no Escuro",
+     "ano": 2019
+    },
+    {
+     "titulo": "A Mágica Mortal",
+     "ano": 2023
+    },
+    {
+     "titulo": "Uma Família Feliz",
+     "ano": 2024
+    },
+    {
+     "titulo": "A Estranha na Cama",
+     "ano": 2026
+    }
+   ]
+  },
+  {
+   "nome": "Stephen King",
+   "termos": [
+    "stephen king",
+    "richard bachman"
+   ],
+   "livros": [
+    {
+     "titulo": "Carrie",
+     "pt": "Carrie, a Estranha",
+     "ano": 1974,
+     "unico": true
+    },
+    {
+     "titulo": "'Salem's Lot",
+     "pt": "'Salem",
+     "ano": 1975,
+     "unico": true
+    },
+    {
+     "titulo": "The Shining",
+     "pt": "O Iluminado",
+     "ano": 1977
+    },
+    {
+     "titulo": "Rage",
+     "pt": "Fúria",
+     "ano": 1977,
+     "serie": "como Richard Bachman"
+    },
+    {
+     "titulo": "The Stand",
+     "pt": "A Dança da Morte",
+     "ano": 1978
+    },
+    {
+     "titulo": "Night Shift",
+     "pt": "Sombras da Noite",
+     "ano": 1978,
+     "ambiguo": true
+    },
+    {
+     "titulo": "The Long Walk",
+     "pt": "A Longa Marcha",
+     "ano": 1979,
+     "serie": "como Richard Bachman",
+     "ambiguo": true
+    },
+    {
+     "titulo": "The Dead Zone",
+     "pt": "A Zona Morta",
+     "ano": 1979
+    },
+    {
+     "titulo": "Firestarter",
+     "pt": "A Incendiária",
+     "ano": 1980,
+     "unico": true
+    },
+    {
+     "titulo": "Roadwork",
+     "ano": 1981,
+     "serie": "como Richard Bachman",
+     "pt": "A Autoestrada"
+    },
+    {
+     "titulo": "Cujo",
+     "ano": 1981,
+     "unico": true
+    },
+    {
+     "titulo": "Danse Macabre",
+     "pt": "Dança Macabra",
+     "ano": 1981,
+     "serie": "não ficção"
+    },
+    {
+     "titulo": "The Running Man",
+     "pt": "O Concorrente",
+     "ano": 1982,
+     "serie": "como Richard Bachman"
+    },
+    {
+     "titulo": "The Gunslinger",
+     "pt": "O Pistoleiro",
+     "ano": 1982,
+     "serie": "A Torre Negra #1"
+    },
+    {
+     "titulo": "Different Seasons",
+     "pt": "Quatro Estações",
+     "ano": 1982,
+     "ambiguo": true
+    },
+    {
+     "titulo": "Christine",
+     "ano": 1983
+    },
+    {
+     "titulo": "Pet Sematary",
+     "pt": "O Cemitério",
+     "ano": 1983
+    },
+    {
+     "titulo": "Cycle of the Werewolf",
+     "pt": "A Hora do Lobisomem",
+     "ano": 1983
+    },
+    {
+     "titulo": "The Talisman",
+     "pt": "O Talismã",
+     "ano": 1984,
+     "serie": "com Peter Straub · Talismã #1"
+    },
+    {
+     "titulo": "Thinner",
+     "pt": "A Maldição do Cigano",
+     "ano": 1984,
+     "serie": "como Richard Bachman"
+    },
+    {
+     "titulo": "Skeleton Crew",
+     "pt": "Tripulação de Esqueletos",
+     "ano": 1985
+    },
+    {
+     "titulo": "It",
+     "pt": "It: A Coisa",
+     "ano": 1986
+    },
+    {
+     "titulo": "The Eyes of the Dragon",
+     "pt": "Os Olhos do Dragão",
+     "ano": 1987
+    },
+    {
+     "titulo": "The Drawing of the Three",
+     "pt": "A Escolha dos Três",
+     "ano": 1987,
+     "serie": "A Torre Negra #2"
+    },
+    {
+     "titulo": "Misery",
+     "pt": "Misery: Louca Obsessão",
+     "ano": 1987
+    },
+    {
+     "titulo": "The Tommyknockers",
+     "pt": "Os Estranhos",
+     "ano": 1987,
+     "unico": true
+    },
+    {
+     "titulo": "The Dark Half",
+     "pt": "A Metade Sombria",
+     "ano": 1989
+    },
+    {
+     "titulo": "Four Past Midnight",
+     "ano": 1990,
+     "pt": "Depois da Meia-Noite"
+    },
+    {
+     "titulo": "The Waste Lands",
+     "pt": "As Terras Devastadas",
+     "ano": 1991,
+     "serie": "A Torre Negra #3"
+    },
+    {
+     "titulo": "Needful Things",
+     "pt": "Trocas Macabras",
+     "ano": 1991
+    },
+    {
+     "titulo": "Gerald's Game",
+     "pt": "Jogo Perigoso",
+     "ano": 1992
+    },
+    {
+     "titulo": "Dolores Claiborne",
+     "ano": 1992,
+     "pt": "Dolores Claiborne"
+    },
+    {
+     "titulo": "Nightmares & Dreamscapes",
+     "pt": "Pesadelos e Paisagens Noturnas",
+     "ano": 1993
+    },
+    {
+     "titulo": "Insomnia",
+     "pt": "Insônia",
+     "ano": 1994
+    },
+    {
+     "titulo": "Rose Madder",
+     "ano": 1995
+    },
+    {
+     "titulo": "The Green Mile",
+     "pt": "À Espera de um Milagre",
+     "ano": 1996
+    },
+    {
+     "titulo": "Desperation",
+     "pt": "Desespero",
+     "ano": 1996
+    },
+    {
+     "titulo": "The Regulators",
+     "ano": 1996,
+     "serie": "como Richard Bachman"
+    },
+    {
+     "titulo": "Wizard and Glass",
+     "pt": "Mago e Vidro",
+     "ano": 1997,
+     "serie": "A Torre Negra #4"
+    },
+    {
+     "titulo": "Bag of Bones",
+     "pt": "Saco de Ossos",
+     "ano": 1998
+    },
+    {
+     "titulo": "The Girl Who Loved Tom Gordon",
+     "pt": "A Menina que Amava Tom Gordon",
+     "ano": 1999
+    },
+    {
+     "titulo": "Hearts in Atlantis",
+     "pt": "Corações na Atlântida",
+     "ano": 1999
+    },
+    {
+     "titulo": "On Writing",
+     "pt": "Sobre a Escrita",
+     "ano": 2000,
+     "serie": "não ficção",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Dreamcatcher",
+     "pt": "O Apanhador de Sonhos",
+     "ano": 2001,
+     "unico": true
+    },
+    {
+     "titulo": "Black House",
+     "pt": "A Casa Negra",
+     "ano": 2001,
+     "serie": "com Peter Straub · Talismã #2",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Everything's Eventual",
+     "pt": "Tudo é Eventual",
+     "ano": 2002
+    },
+    {
+     "titulo": "From a Buick 8",
+     "pt": "Buick 8",
+     "ano": 2002
+    },
+    {
+     "titulo": "Wolves of the Calla",
+     "pt": "Lobos de Calla",
+     "ano": 2003,
+     "serie": "A Torre Negra #5"
+    },
+    {
+     "titulo": "Song of Susannah",
+     "pt": "Canção de Susannah",
+     "ano": 2004,
+     "serie": "A Torre Negra #6"
+    },
+    {
+     "titulo": "The Dark Tower",
+     "pt": "A Torre Negra",
+     "ano": 2004,
+     "serie": "A Torre Negra #7"
+    },
+    {
+     "titulo": "The Colorado Kid",
+     "ano": 2005,
+     "pt": "O Garoto do Colorado"
+    },
+    {
+     "titulo": "Cell",
+     "pt": "Celular",
+     "ano": 2006
+    },
+    {
+     "titulo": "Lisey's Story",
+     "pt": "Love: A História de Lisey",
+     "ano": 2006
+    },
+    {
+     "titulo": "Blaze",
+     "ano": 2007,
+     "serie": "como Richard Bachman"
+    },
+    {
+     "titulo": "Duma Key",
+     "ano": 2008
+    },
+    {
+     "titulo": "Just After Sunset",
+     "pt": "Ao Cair da Noite",
+     "ano": 2008,
+     "ambiguo": true
+    },
+    {
+     "titulo": "Under the Dome",
+     "pt": "Sob a Redoma",
+     "ano": 2009
+    },
+    {
+     "titulo": "Full Dark, No Stars",
+     "pt": "Escuridão Total Sem Estrelas",
+     "ano": 2010
+    },
+    {
+     "titulo": "11/22/63",
+     "pt": "Novembro de 63",
+     "ano": 2011
+    },
+    {
+     "titulo": "The Wind Through the Keyhole",
+     "pt": "O Vento pela Fechadura",
+     "ano": 2012,
+     "serie": "A Torre Negra #4.5"
+    },
+    {
+     "titulo": "Joyland",
+     "ano": 2013,
+     "unico": true
+    },
+    {
+     "titulo": "Doctor Sleep",
+     "pt": "Doutor Sono",
+     "ano": 2013
+    },
+    {
+     "titulo": "Mr. Mercedes",
+     "ano": 2014,
+     "serie": "Bill Hodges #1"
+    },
+    {
+     "titulo": "Revival",
+     "ano": 2014
+    },
+    {
+     "titulo": "Finders Keepers",
+     "pt": "Achados e Perdidos",
+     "ano": 2015,
+     "serie": "Bill Hodges #2",
+     "ambiguo": true
+    },
+    {
+     "titulo": "The Bazaar of Bad Dreams",
+     "pt": "O Bazar dos Sonhos Ruins",
+     "ano": 2015
+    },
+    {
+     "titulo": "End of Watch",
+     "pt": "Último Turno",
+     "ano": 2016,
+     "serie": "Bill Hodges #3"
+    },
+    {
+     "titulo": "Gwendy's Button Box",
+     "pt": "A Pequena Caixa de Gwendy",
+     "ano": 2017,
+     "serie": "com Richard Chizmar"
+    },
+    {
+     "titulo": "Sleeping Beauties",
+     "pt": "Belas Adormecidas",
+     "ano": 2017,
+     "serie": "com Owen King",
+     "ambiguo": true
+    },
+    {
+     "titulo": "The Outsider",
+     "pt": "Outsider",
+     "ano": 2018
+    },
+    {
+     "titulo": "Elevation",
+     "pt": "Elevação",
+     "ano": 2018
+    },
+    {
+     "titulo": "The Institute",
+     "pt": "O Instituto",
+     "ano": 2019
+    },
+    {
+     "titulo": "If It Bleeds",
+     "pt": "Com Sangue",
+     "ano": 2020
+    },
+    {
+     "titulo": "Later",
+     "ano": 2021
+    },
+    {
+     "titulo": "Billy Summers",
+     "ano": 2021
+    },
+    {
+     "titulo": "Gwendy's Final Task",
+     "ano": 2022,
+     "serie": "com Richard Chizmar",
+     "pt": "A Última Missão de Gwendy"
+    },
+    {
+     "titulo": "Fairy Tale",
+     "pt": "Conto de Fadas",
+     "ano": 2022,
+     "ambiguo": true
+    },
+    {
+     "titulo": "Holly",
+     "ano": 2023
+    },
+    {
+     "titulo": "You Like It Darker",
+     "ano": 2024,
+     "pt": "Mais Sombrio"
+    },
+    {
+     "titulo": "Never Flinch",
+     "pt": "Não Pisque",
+     "ano": 2025,
+     "serie": "Holly Gibney"
+    },
+    {
+     "titulo": "Other Worlds Than These",
+     "ano": 2026,
+     "serie": "com Peter Straub · Talismã #3"
+    }
+   ]
+  },
+  {
+   "nome": "C. S. Lewis",
+   "termos": [
+    "c. s. lewis",
+    "c.s. lewis",
+    "cs lewis",
+    "c. s. lewis's"
+   ],
+   "livros": [
+    {
+     "titulo": "Spirits in Bondage",
+     "ano": 1919,
+     "serie": "poesia"
+    },
+    {
+     "titulo": "Dymer",
+     "ano": 1926,
+     "serie": "poesia"
+    },
+    {
+     "titulo": "The Pilgrim's Regress",
+     "pt": "O Regresso do Peregrino",
+     "ano": 1933
+    },
+    {
+     "titulo": "The Allegory of Love",
+     "pt": "A Alegoria do Amor",
+     "ano": 1936
+    },
+    {
+     "titulo": "Out of the Silent Planet",
+     "pt": "Além do Planeta Silencioso",
+     "ano": 1938,
+     "serie": "Trilogia Cósmica #1"
+    },
+    {
+     "titulo": "Rehabilitations and Other Essays",
+     "ano": 1939
+    },
+    {
+     "titulo": "The Problem of Pain",
+     "pt": "O Problema da Dor",
+     "ano": 1940
+    },
+    {
+     "titulo": "The Screwtape Letters",
+     "pt": "Cartas de um Diabo a seu Aprendiz",
+     "ano": 1942
+    },
+    {
+     "titulo": "A Preface to Paradise Lost",
+     "pt": "Prefácio ao Paraíso Perdido",
+     "ano": 1942
+    },
+    {
+     "titulo": "Perelandra",
+     "ano": 1943,
+     "serie": "Trilogia Cósmica #2",
+     "unico": true
+    },
+    {
+     "titulo": "The Abolition of Man",
+     "pt": "A Abolição do Homem",
+     "ano": 1943
+    },
+    {
+     "titulo": "That Hideous Strength",
+     "pt": "Aquela Fortaleza Medonha",
+     "ano": 1945,
+     "serie": "Trilogia Cósmica #3"
+    },
+    {
+     "titulo": "The Great Divorce",
+     "pt": "O Grande Divórcio",
+     "ano": 1945,
+     "ambiguo": true
+    },
+    {
+     "titulo": "Miracles",
+     "pt": "Milagres",
+     "ano": 1947
+    },
+    {
+     "titulo": "The Weight of Glory",
+     "pt": "O Peso da Glória",
+     "ano": 1949
+    },
+    {
+     "titulo": "The Lion, the Witch and the Wardrobe",
+     "pt": "O Leão, a Feiticeira e o Guarda-Roupa",
+     "ano": 1950,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "Prince Caspian",
+     "pt": "Príncipe Caspian",
+     "ano": 1951,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "The Voyage of the Dawn Treader",
+     "pt": "A Viagem do Peregrino da Alvorada",
+     "ano": 1952,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "Mere Christianity",
+     "pt": "Cristianismo Puro e Simples",
+     "ano": 1952
+    },
+    {
+     "titulo": "The Silver Chair",
+     "pt": "A Cadeira de Prata",
+     "ano": 1953,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "The Horse and His Boy",
+     "pt": "O Cavalo e seu Menino",
+     "ano": 1954,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "English Literature in the Sixteenth Century",
+     "ano": 1954
+    },
+    {
+     "titulo": "The Magician's Nephew",
+     "pt": "O Sobrinho do Mago",
+     "ano": 1955,
+     "serie": "As Crônicas de Nárnia"
+    },
+    {
+     "titulo": "Surprised by Joy",
+     "pt": "Surpreendido pela Alegria",
+     "ano": 1955
+    },
+    {
+     "titulo": "The Last Battle",
+     "pt": "A Última Batalha",
+     "ano": 1956,
+     "serie": "As Crônicas de Nárnia",
+     "ambiguo": true
+    },
+    {
+     "titulo": "Till We Have Faces",
+     "pt": "Até que Tenhamos Rostos",
+     "ano": 1956
+    },
+    {
+     "titulo": "Reflections on the Psalms",
+     "pt": "Reflexões sobre Salmos",
+     "ano": 1958
+    },
+    {
+     "titulo": "The Four Loves",
+     "pt": "Os Quatro Amores",
+     "ano": 1960
+    },
+    {
+     "titulo": "Studies in Words",
+     "ano": 1960
+    },
+    {
+     "titulo": "The World's Last Night",
+     "pt": "A Última Noite do Mundo",
+     "ano": 1960
+    },
+    {
+     "titulo": "A Grief Observed",
+     "pt": "A Anatomia de um Luto",
+     "ano": 1961
+    },
+    {
+     "titulo": "An Experiment in Criticism",
+     "pt": "Um Experimento em Crítica Literária",
+     "ano": 1961
+    },
+    {
+     "titulo": "Screwtape Proposes a Toast",
+     "ano": 1961
+    },
+    {
+     "titulo": "The Discarded Image",
+     "pt": "A Imagem Descartada",
+     "ano": 1964
+    },
+    {
+     "titulo": "Letters to Malcolm",
+     "pt": "Cartas a Malcolm",
+     "ano": 1964
+    },
+    {
+     "titulo": "Of Other Worlds",
+     "ano": 1966,
+     "serie": "póstumo"
+    },
+    {
+     "titulo": "Christian Reflections",
+     "pt": "Reflexões Cristãs",
+     "ano": 1967,
+     "serie": "póstumo"
+    },
+    {
+     "titulo": "God in the Dock",
+     "pt": "Deus no Banco dos Réus",
+     "ano": 1970,
+     "serie": "póstumo"
+    },
+    {
+     "titulo": "On Stories",
+     "pt": "Sobre Histórias",
+     "ano": 1982
+    },
+    {
+     "titulo": "Boxen",
+     "ano": 1985
+    }
+   ]
+  }
+ ]
 }
