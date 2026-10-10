@@ -1,13 +1,17 @@
 {
  "data": "2026-10-10",
- "gerado_em": "2026-10-10T19:49:35-03:00",
- "total": 136,
+ "gerado_em": "2026-10-10T20:08:28-03:00",
+ "total": 158,
  "secoes": {
   "para-voce": [
    "a9e05283f232",
    "01c9e34fb7bb",
    "432b561be225",
+   "fdf739480202",
+   "cd10715bda68",
+   "eb3a1c117d6f",
    "bdf735729197",
+   "8f52c9bf4db6",
    "05f363d18e15",
    "03be29defb69",
    "617fa0882220",
@@ -22,7 +26,10 @@
    "9d8e883cbab6"
   ],
   "premios-lancamentos": [
+   "98518d71f95f",
+   "eb485b13cc0c",
    "dabc01688f1a",
+   "495db9e5a7ee",
    "3e5a36badab7",
    "ccb6189edc71",
    "71433fb3a75b",
@@ -61,6 +68,7 @@
    "12d590d13a3d",
    "7dd3d3d4dc61",
    "4e3d91544d67",
+   "d76038f95597",
    "1a6f5c47ed0d",
    "75a864c496c9",
    "994c3f49db9d",
@@ -74,20 +82,30 @@
    "bc6cbf21f9ba"
   ],
   "brasil-portugal": [
+   "fdf739480202",
    "d650d2f9b9bc",
+   "de151bb72ac5",
+   "6a249882c2f9",
+   "077b137297af",
    "03ddacfbcc33",
    "28ee87d18584",
    "40914c00e6b3",
    "fb33a9fe7ee9",
    "bdf735729197",
+   "4e78f813fafc",
    "266e33b8bd36",
    "59a2da3eaf3f",
    "05f363d18e15",
    "1c9345b02d10",
    "8df1f39862ee",
    "3e5a36badab7",
+   "2595e857a772",
+   "6dfc8ff258b5",
+   "4db54dfb3234",
    "71433fb3a75b",
+   "19fc1baa2137",
    "9dbd32b09129",
+   "12ff5e49328d",
    "b7dbabac041b",
    "3f35a96eef93",
    "617fa0882220",
@@ -141,11 +159,19 @@
    "562ef1f9a6f9"
   ],
   "internacional": [
+   "cd10715bda68",
+   "9f937d7309d6",
    "e9bf3c66c547",
+   "eb3a1c117d6f",
+   "cf22b0140171",
+   "98518d71f95f",
    "e15cf9a22e5c",
    "204ced2fe7b9",
    "f8d36d0f84e8",
+   "057c5e9937e4",
    "fd433e24978d",
+   "8f52c9bf4db6",
+   "eb485b13cc0c",
    "c164ae436526",
    "03be29defb69",
    "4ad170aa5875",
@@ -156,6 +182,7 @@
    "d7f273ff218c",
    "78ed0e531266",
    "01c9e34fb7bb",
+   "495db9e5a7ee",
    "ccb6189edc71",
    "a9e05283f232",
    "604c13db3528",
@@ -169,6 +196,7 @@
    "b78c5d565cfb",
    "6659d5dfec53",
    "cafb3e6c5dbb",
+   "299e9a555adc",
    "a070add305e8",
    "72f63cdd7028",
    "414864042e0e",
@@ -183,6 +211,7 @@
    "cb973bad8c33",
    "9b75b21959ca",
    "1128e8ab320f",
+   "926143ab90ea",
    "29e2e37217ca",
    "48876df2ca59",
    "0bcdaa318736",
@@ -199,6 +228,7 @@
    "04026a96475e",
    "4d1604e431eb",
    "4e3d91544d67",
+   "d76038f95597",
    "75a864c496c9",
    "bbe229155040",
    "cafb5808d0e6",
@@ -216,6 +246,25 @@
  },
  "itens": [
   {
+   "id": "fdf739480202",
+   "titulo": "Carrie e o Kingverso: entenda como as obras de Stephen King se conectam",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vUkxfdWc2YUFWOWlKOG5UZVU5M2pjUkkzaWhUUVczckRTYzRERDJKTjFsNDZ3dUc5bjdpZk5NWi0zY21ZZ1BSc2dEaC1Vd285MVU1ZThiRzZDOU9CYkJwMlczay1tdUlyS1JOOTdyZF8yUnV6bHlUUGVTZHFJc0k?oc=5",
+   "resumo": "",
+   "fonte": "Game Overdrive (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T19:15-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
    "id": "d650d2f9b9bc",
    "titulo": "10 animes baseados em livros: de Anne Shirley a Sherlock Holmes",
    "link": "https://www.estadao.com.br/minha-serie/cultura-asiatica/10-animes-baseados-em-livros-de-anne-shirley-a-sherlock-holmes/",
@@ -225,6 +274,80 @@
    "grupo": "brasil-portugal",
    "idioma": "pt",
    "publicado_em": "2026-10-10T18:15-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "cd10715bda68",
+   "titulo": "7 Books Like Fourth Wing To Read In 2026",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkMGdLYTNLMFpSenFIVWJJbGM2YWV0WEtqNTBnb2JlVkZfNlFiMUpXMkZ3MHlQd3lva1BpM1BYck9YRFRtcFZBdHl3WXRTeHpmTE1Sa1Qtb3h3VlFDOWVvTF8tWEZmTXlpTzM0YlF6WUpfdVhveHRNSA?oc=5",
+   "resumo": "",
+   "fonte": "Vocal (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T16:57-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Rebecca Yarros"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "de151bb72ac5",
+   "titulo": "Esquece Carrie! As 3 melhores adaptações de Stephen King estão na Netflix Portugal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTVxMEhRWnRROUFQOFJFRHlqMFdFUHNETDl5SHFrVWpyN0pPUm1ncFRKRmE5aF82VFJ3WGV6UURNOVJqQ1piOXpqdi1qZWphaW1pVnJYR2lkeEpMcWhIRnhHQnFSU2JFVGRJaTlQMVBrU1g4RjduOWl1WVdBZVpBUUpnTlM0a1FBaVJwajJtYjltaWgweEZIZWlPRUpNWTRkRV9LT1R3?oc=5",
+   "resumo": "",
+   "fonte": "Magazine.HD (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T16:45-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "6a249882c2f9",
+   "titulo": "All 6 Seasons Of This Fan-Favorite Stephen King TV Adaptation Are Streaming For Free",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FOEtqUC1vTzdvdEoweUZTM3I2dnZsb3lYaldwdWRMRFl1MUowN1dabFR3c1Q3MHpaNmtPZVpOWXAxeUJaUkEzM3FNSDkxdXQ0Unh1YVgzTUhybkxrQmRUZjZhTEtXZzBhbVE?oc=5",
+   "resumo": "",
+   "fonte": "IMDb (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T16:22-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "9f937d7309d6",
+   "titulo": "Jaandaar and Iron Mirage should fight out the finish of the Villoo C. Poonawalla Pune Derby",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblp3T3l1dm1jSjI2XzVVOVRNNy03c3IxTHZuaDh1bE9PbFBQa28xNXFsdS1ucGd2d2tjNk12dlVVbzBPOG5oSFhwNGFNTWJCT3FaWW1xak1mZjV1VW9SYjh2amUyaFhBR1B6UWVhZEpKRnRIMWRzLXQtOGNpNnE4MnAtV1Q2V2l3WmlKYVlPOEItc3VkTVlmbHRWMzJKZWRSTmFuMTNmSS1ib055RkltRW15X1FXQUxQOGpvU28xOWFqRWxPZGpCRVZ2cUE5Ry1SLWQzbVg4SGRWd0xPTE1PWERMZGpySnPSAecBQVVfeXFMTm5ad095dXZtY0oyNl81VTlUTTctN3NyMUx2bmg4dWxPT2xQUGtvMTVxbHUtbnBndndrYzZNdnZVVW8wTzhuaEhYcDRhTU1iQk9xWlltcWpNZmY1dVVvUmI4dmplMmhYQUdQelFlYWRKSkZ0SDFkcy10LThjaTZxODJwLVdUNldpd1ppSmFZTzhCLXN1ZE1ZZmx0VjMySmVkUk5hbjEzZkktYm9OeUZJbUVteV9RV0FMUDhqb1NvMTlhakVsT2RqQkVWdnFBOUctUi1kM21YOEhkVndMT0xNT1hETGRqckpz?oc=5",
+   "resumo": "",
+   "fonte": "The Hindu (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T16:20-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 0,
@@ -249,6 +372,82 @@
     "temas": [
      "fantasia"
     ]
+   }
+  },
+  {
+   "id": "eb3a1c117d6f",
+   "titulo": "Every Stephen King Book, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43d1JIYjcySHotMHpUbldZMEhNWTlza2prNVdsQ3dSdmRIVVV3bmJVWk9lanU4LXozQUNhdXJTUXRKUHItaVNqd1FDcGg3TUVKd1NENEZZd3pta2M?oc=5",
+   "resumo": "",
+   "fonte": "Collider (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T15:55-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "cf22b0140171",
+   "titulo": "Forget Xaden & Violet, This Is Fourth Wing's Biggest Casting Challenge",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVW40NWhzMGozZEZhYk9CaXptZjVobWNabjhiZGtxYzBJMHZXMDFlM0hUQ1ZNQnkweElPS1JCUjlvWktiN1lQY3ZDQVJRWWJEd2dneWlwRGw5N21ZcDJTMC04SERYN29JaHp5ZG9JdjRZeVpnVXVkbFM2eUN0a3l0NWw5ZGRVZE1NMHc?oc=5",
+   "resumo": "",
+   "fonte": "ScreenRant (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T15:30-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Rebecca Yarros"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "077b137297af",
+   "titulo": "\"Menos Homenagem, mais Traição\": As críticas demolidoras à nova Minissérie Carrie (Stephen King), atualmente no Top da Prime Video Portugal",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHIwWVdSd24tVVRjZnhLamo5Qmw4VEhSNVdGYTllc2U5Ui1Zb3JpSXhsay1GNy01elRSNTJZX3FrZnBRczZXY1liaHAzQkZzNWdlQkF6MXNKeGxfMW8xUzlpcHZDSjdBS3NUby1kT1Nsc0JhT2x5ZFpoYmVhdkpJd3gxQktKSk5MdktFUW54anBmUlBXUzRUY1ZCQzd5WkhqVlBxcDV0a2w0NHlxeF9YLVUwV0U?oc=5",
+   "resumo": "",
+   "fonte": "Magazine.HD (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T14:30-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "98518d71f95f",
+   "titulo": "This week’s bestsellers from Publishers Weekly",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenVuM1hyRGxDQU9XYjlsc2R5WlhyZ042WnFyYV9DNDUwNWxuOGVfNGNLdW02NW1yREtNR01EUi1aeExaZUhrNGRKX09kZUdUMnFvTnNuM3FGaWkzakdLRFFSVHFQQjhDZXBXUWdCbEhibXp2dGVRbG5PNGxRUEtYNHlxd3RkWmxhOXQ5YXZoLUNnczM0cVNv?oc=5",
+   "resumo": "",
+   "fonte": "The Spokesman-Review (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T14:26-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
    }
   },
   {
@@ -356,6 +555,23 @@
    }
   },
   {
+   "id": "057c5e9937e4",
+   "titulo": "New library books: Charles Spencer's 'Swan Song: Diana, My Sister' added to collection",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3pHaXVGWUkzWkpPenJLVXVnTUg2c192NHFHZkczakRXTEJVQXdVUXF0ajRXb2loTjd6aVYxMjF3U1hRSnBONHJLeTVZUXA3QTkwVThHc3g5c3FuMGVVWXc3Z19UaHg4anNvM0UwaEwyckU4QjJPcTluU1JtY2Q0bExqOXN4U202bWhGR0RUU1ROdkpWZ0pwVlZpTjVHZk5YcjMyZ1N0bjZ1RjgzUk1YZmprZnRHblVTVmxyX1I3bw?oc=5",
+   "resumo": "",
+   "fonte": "The Wilson Times (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T10:03-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
    "id": "fb33a9fe7ee9",
    "titulo": "Musical de 'Percy Jackson', em São Paulo, preserva o livro ante a fúria dos fãs",
    "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/musical-de-percy-jackson-em-sao-paulo-preserva-o-livro-ante-a-furia-dos-fas.shtml",
@@ -402,6 +618,63 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T09:08-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "8f52c9bf4db6",
+   "titulo": "8 Horror Books That Rival Stephen King, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOHlrSTZHdFVVMW5hbkQ4YXNCWkR4bDlKcFBMTVBsQzh1MWs3OXZvbmRodlVaQW9EeTJGZkNMUnlNVjRDS3pzSDJuNXVZZlgzUkhXX2xQZVU0S1ZsTWdhNDg5czc2elZoZmc?oc=5",
+   "resumo": "",
+   "fonte": "Collider (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T09:02-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "4e78f813fafc",
+   "titulo": "Carrie, a Estranha: 10 grandes mudanças da série do Prime Video em relação ao livro de Stephen King",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHYzQWJwSHNicV9xczViSDZFTVhzaGMwTHJwSmIxM0g2MkZzNFp6bVdHN2dvRE5ucGZGY0lfSTVjX0M1R2hJWWZQX29QSEZUdFctZkF5cTV5dDJtckFzem5YekVCY0ZxVkxaNWgySGtJMkx0Vk83MVpYeHRUQzZ2aEVTMHM2cS0tM0dyRUxScU51RHdHc0ZFanZ0YVY2dnZyUEd0UkFGbjhqdUdrMkt0aUx5NlZnaEhIV0U3dVAwWVprRjQ0ZGZkckpOakoyUEIwM3NCaHNxSzhDUFk?oc=5",
+   "resumo": "",
+   "fonte": "Legião dos Heróis (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T08:46-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "eb485b13cc0c",
+   "titulo": "Freida McFadden just announced her next book, and it's called 'The Sleepwalker'",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnRoNm1zcUhoVDd3Q09WMDlWdGlTLUlBMlhIcmxJWmtrLXhHRUN5NkdqUThoRkpHa29vMFEyWGI0cDNsaVJOMU80R29MZ3oydWZpYlZjWm8yNmsxbnJ5QjF0VGdKUEQ3a1RzdExEbHNQbzBrQ2ZyaGRpblRMd3d3SlRwQkhkSkw0R2tsSUt0NFNGTFVhTDBTMFlEUXF5X0ZBQ1hjV2czdm1mWl8tTlFKLU95NFFoY3A2OU1wOFB4NERyYWZXWWE4dmp4UUc3Zw?oc=5",
+   "resumo": "",
+   "fonte": "Yahoo Creators (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T08:14-03:00",
+   "tags": [
+    "lancamentos"
+   ],
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -682,6 +955,25 @@
    }
   },
   {
+   "id": "495db9e5a7ee",
+   "titulo": "Bestseller Lists",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQWt2VlBveGVRWVBaRFdibHJKZ0tUUGttUmlmVTFjbktsSmdkc2VkV0ZZM3VaSS1PN0ZOVGVROFZiSGhtMzg3bTNYMTU3LXRNa2JWR2NjcGMyTmVqSUxtb05xeC14QlhqUnFjZXV2MW8yNEVweWc?oc=5",
+   "resumo": "",
+   "fonte": "Texarkana Gazette (via Google)",
+   "fonte_id": "gn-yarros-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T00:00-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
    "id": "3e5a36badab7",
    "titulo": "Publicação de vencedores do Nobel no Brasil oscila entre a euforia e a gaveta",
    "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/publicacao-de-vencedores-do-nobel-no-brasil-oscila-entre-a-euforia-e-a-gaveta.shtml",
@@ -720,6 +1012,63 @@
    }
   },
   {
+   "id": "2595e857a772",
+   "titulo": "Carrie: nova série de Stephen King muda o destino da protagonista",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnR4clhzNVdGS2VpOGZIdy15NDNoUUVFV3BmelZ3Mm1iaFMyeVY4c1JtcEFib0UyNFI1aUlwR3hWVDk0dVlkWGpBTWpYRjNFNXMxRWJLdFBaTWozbkZYd2VtYmQwNnZITE9ORFY0THViN1FjdHNNRUsyaDhhaDZwVWNYY0VWRm16Zmh2TlRnOGhEMHRPZE1Fdm11T0s1NFZoV2s3Z0I0Yw?oc=5",
+   "resumo": "",
+   "fonte": "Agora Litoral (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T21:12-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "6dfc8ff258b5",
+   "titulo": "Stephen King nomeia Mike Flanagan como melhor adaptador",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEl4VkYwenNYYjloNlBCY0l4c19QNzhHdzhTZEZOaXI5aGU5b3JIX1JybzFYSkJvczl2TXN0Vmt4VE5Ka1JhU2Vjd1dDVnJKQ1JIc19QSldhWm1Ca2NmcGNDd0Vrd2RUQk1Sa0Z5TlNZYjA1b25pMGNraTRRZGdja0tuUVduRkc0?oc=5",
+   "resumo": "",
+   "fonte": "culpadolag.com.br (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T21:07-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "4db54dfb3234",
+   "titulo": "Aos fãs de #Carrie: podem se preparar para as mudanças! Nesta semana, estreou a série “Carrie: A Estranha”, no Prime Video. Baseada no clássico de terror de Stephen King, a adaptação apresenta diferenças em relação ao livro. OMG! As alterações vão d",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSblRjcXZZM0N6cDVBYVZiQXJQUnNDeWJjWmhlLUVva3k5R0VJNG1PVUEydnViakVzRVg2dFBLOHZzaGJqbXNLOWJEZWVQZnQwNHc?oc=5",
+   "resumo": "",
+   "fonte": "Instagram (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T20:46-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
    "id": "71433fb3a75b",
    "titulo": "As autoras latinas na mira do Prêmio Nobel de Literatura 2026, segundo críticos - Estadão",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUW9iVk4xMjVVdkRTQl9MX0tMWWk5SE1FM1FyUjM1QjY2N0swZ3RmVC1fTnpPZUdYVXRRUFpkeGI0Zlo4YkRSQkFDelhsbW9SS09qZHoxQkFpZV84WlZaSXg2a0wyU3F6ZWM5QS1ia3ZBZGZRYkFjUjluOTR6aWp4aE5jVU0teFJVaE5IVW9hWmNNR1hSejlEcDFiQjE1RU5VYzhlX3RBT1BDRmV0d2swOHFBRnhzQTJaa3J0Tl8xVDVGVG41Ykk5azNkRmNzdw?oc=5",
@@ -739,6 +1088,25 @@
    }
   },
   {
+   "id": "19fc1baa2137",
+   "titulo": "Mike Flanagan aponta filmes de Stephen King que não devem ganhar remake",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3haejQtUW16R05ZbmI3UWdBR1VVeUtnb2E5bnhjNDNNOUYtY210MUlHOXdkak1xcG1FeGhiRHEtVG40cWhtelZycDd3UUdYWTljSmxaSm8weVEtbUVxNWhpWmRUWDNIaW1XSmdHTnVEZ2cycWRGVnBaWmdpYnU0WUVrT2ppOHdrYU9Pc0duVnotX29kTVBfRUpQeUpiVERYU1pmc2RwaUhzaEtHOEVQWGozbTU?oc=5",
+   "resumo": "",
+   "fonte": "Máquina Nerd (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T20:31-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
    "id": "9dbd32b09129",
    "titulo": "MIS exibe 'O Estrangeiro', adaptação de François Ozon do romance de Albert Camus",
    "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mis-exibe-o-estrangeiro-adaptacao-de-francois-ozon-do-romance-de-albert-camus.shtml",
@@ -752,6 +1120,25 @@
    "para_voce": {
     "pontos": 0,
     "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "12ff5e49328d",
+   "titulo": "Carrie: Série baseada em clássico de Stephen King muda destino da protagonista e traz personagens inéditos; veja diferenças",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jdHFtZTBrVUZ4MXVZb0hjSXBseGZLelB1bW5EcmppbTJReUhGMzVTVjdBSGlZSC13TmRKM3JTZmd4Q2NBdE1XUGJmcnd3NUE1TFFGYnE4NUc0a21LQUFaYWRmTWlha0UtcVctYkd5V2t6QdIBd0FVX3lxTE1mSkR4cXZfcXlIUm91N1B5XzNtLW1WcnJyU0wxLWxMLXFWSG9waVk1V1BDdEI0U2pyQkRBS1A4LTlJeGFYVGR5S01faVNtZVU0UF93Z25BbVlTSFp3Q0gwdy1hSHNUQXBIMDFadGdEVFphS3RqekE0?oc=5",
+   "resumo": "",
+   "fonte": "Hugo Gloss (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T20:18-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
     "temas": []
    }
   },
@@ -1438,6 +1825,25 @@
    }
   },
   {
+   "id": "299e9a555adc",
+   "titulo": "Stanley Kubrick Filmed The Shining for 13 Months and Stephen King Said It Got Everything Wrong; Both of Them Have a Point",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3NTVjNobmFBRTBDZkpsckxHZWVuQ2NmVi13VWxMcWg4enhURF9ndUhmRlJJVktPb216R0RvY080ZDQ3STEySEp4T21nOGFVc09UQml3TFlQWktmekQwYVZ6RjVXNW10NHFSRkg1Z1BmUUJteEdmZkFzWmJmdFZZNE9RWnR2THNPMlBJV1pZek1ETnpLNVducjg3RUdIaU9YQmttVG9EQ0NZOHVsN3M4M2YzWmZ5Q3VuUHFB?oc=5",
+   "resumo": "",
+   "fonte": "Parade Magazine (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:17-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
    "id": "a070add305e8",
    "titulo": "March 5, 1933: The Election That Destroyed German Democracy",
    "link": "https://lithub.com/march-5-1933-the-election-that-destroyed-german-democracy/",
@@ -1716,6 +2122,25 @@
    "para_voce": {
     "pontos": 0,
     "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "926143ab90ea",
+   "titulo": "Who is Bill Green? Stephen King slams retired sportscaster over pro-Susan Collins campaign ad",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc05YeUc2bHJkWnVFNHo4cGF5dk9xVVRJRjlmNXFEbXJGdFJ6bW80Vjc2MkE2SlRBTVBOaVhWVnhiOWplbjk5TGUtOHA2d3V0dlU0cnZUXzZBNFNHWG1rR0lkZDRQRFZMSUFJb3JSMlo4YTlrNkZaZUR1OFNxNlRRVzNqeWMyWTR2VmpZQnd2OV9peTBPNEg5R1ROX2NfMERtSENXbE90MEVwczBJWUV0WDF2LU84ai1GUUtwaHhWb1k4NE1K?oc=5",
+   "resumo": "",
+   "fonte": "Soap Central (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T04:09-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
     "temas": []
    }
   },
@@ -2171,8 +2596,10 @@
    "publicado_em": "2026-10-08T16:27-03:00",
    "tags": [],
    "para_voce": {
-    "pontos": 0,
-    "autores": [],
+    "pontos": 1,
+    "autores": [
+     "Stephen King"
+    ],
     "temas": []
    }
   },
@@ -2262,6 +2689,27 @@
    "para_voce": {
     "pontos": 0,
     "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "d76038f95597",
+   "titulo": "John Mellencamp’s The Songbook Arrives With a Stephen King Foreword",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXd2bWZwaS13MlNLMC1lU0YwMmVtM1NCa2JNb1gtTTViT1FZTEFXNHVjcHlUSTR3ZnBsMjZBQ0djMG9ZVld1YjREYWNnSU5nNnNXQmNHV1hMbjVXakl4YzFqbXlCZ3E1OEJ6RDN3RE1yLW80Q01Ic1c0RnY3ZTBlcWRkU3ctRkdyYTd5MzF2ZmhFYzBLQWZ0V0VmZEJTUkR3YjNxX0ZNYXh3c2R5?oc=5",
+   "resumo": "",
+   "fonte": "25YearsLaterSite.com (via Google)",
+   "fonte_id": "gn-king-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T14:33-03:00",
+   "tags": [
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
     "temas": []
    }
   },

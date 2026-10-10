@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T19:49:35-03:00",
+ "gerado_em": "2026-10-10T20:08:28-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -70,7 +70,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 36,
+   "itens_no_feed": 35,
    "novos_hoje": 0
   },
   {
@@ -80,6 +80,15 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 43,
+   "novos_hoje": 0
+  },
+  {
+   "id": "gn-acompanhados-br",
+   "nome": "Google Notícias – Yarros, King, Montes, Lewis",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 48,
    "novos_hoje": 10
   },
   {
@@ -89,7 +98,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "fapesp",
@@ -161,7 +170,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 6
+   "novos_hoje": 0
   },
   {
    "id": "ct",
@@ -170,7 +179,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 1,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "reactor",
@@ -179,7 +188,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 5,
-   "novos_hoje": 2
+   "novos_hoje": 0
   },
   {
    "id": "gn-estante-en",
@@ -188,7 +197,25 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 59,
-   "novos_hoje": 8
+   "novos_hoje": 0
+  },
+  {
+   "id": "gn-yarros-en",
+   "nome": "Google News – Rebecca Yarros",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 43,
+   "novos_hoje": 6
+  },
+  {
+   "id": "gn-king-en",
+   "nome": "Google News – Stephen King",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 26,
+   "novos_hoje": 6
   },
   {
    "id": "parisreview",

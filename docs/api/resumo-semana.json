@@ -1,0 +1,78 @@
+{
+ "gerado_em": "2026-10-10T20:08:28-03:00",
+ "dias": [
+  "2026-10-10"
+ ],
+ "total": 158,
+ "por_grupo": {
+  "brasil-portugal": 75,
+  "internacional": 83
+ },
+ "temas": [
+  {
+   "id": "fe",
+   "nome": "fé e teologia",
+   "noticias": 6
+  },
+  {
+   "id": "fantasia",
+   "nome": "fantasia e ficção científica",
+   "noticias": 4
+  },
+  {
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 3
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Stephen King",
+   "noticias": 16
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 8
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 4
+  },
+  {
+   "nome": "Rebecca Yarros",
+   "noticias": 2
+  },
+  {
+   "nome": "Dan Brown",
+   "noticias": 1
+  },
+  {
+   "nome": "C. S. Lewis",
+   "noticias": 1
+  },
+  {
+   "nome": "Franz Kafka",
+   "noticias": 1
+  },
+  {
+   "nome": "Raphael Montes",
+   "noticias": 1
+  }
+ ],
+ "em_alta": [
+  "Anne Carson",
+  "Nobel de Literatura",
+  "Augusto Cury"
+ ],
+ "subindo": [],
+ "destaques": [
+  "a9e05283f232",
+  "432b561be225",
+  "fdf739480202",
+  "cd10715bda68",
+  "bdf735729197",
+  "05f363d18e15",
+  "2b6d501d1050",
+  "e9bf3c66c547"
+ ]
+}
