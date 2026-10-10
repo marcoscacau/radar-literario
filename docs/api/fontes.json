@@ -1,0 +1,122 @@
+{
+ "gerado_em": "2026-10-10T19:30:41-03:00",
+ "fontes": [
+  {
+   "id": "rascunho",
+   "nome": "Rascunho",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 2
+  },
+  {
+   "id": "quatrocincoum",
+   "nome": "Quatro Cinco Um",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 8
+  },
+  {
+   "id": "folha",
+   "nome": "Folha – Ilustrada",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 17,
+   "novos_hoje": 13
+  },
+  {
+   "id": "estadao",
+   "nome": "Estadão – Cultura",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 4,
+   "novos_hoje": 4
+  },
+  {
+   "id": "publico",
+   "nome": "Público – Cultura",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 2,
+   "novos_hoje": 2
+  },
+  {
+   "id": "observador",
+   "nome": "Observador – Livros",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 1,
+   "novos_hoje": 1
+  },
+  {
+   "id": "gn-premios-br",
+   "nome": "Google Notícias – prêmios",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 100,
+   "novos_hoje": 12
+  },
+  {
+   "id": "gn-mercado-br",
+   "nome": "Google Notícias – mercado editorial",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 34,
+   "novos_hoje": 12
+  },
+  {
+   "id": "lithub",
+   "nome": "Literary Hub",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 10
+  },
+  {
+   "id": "guardian",
+   "nome": "The Guardian – Books",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 27,
+   "novos_hoje": 7
+  },
+  {
+   "id": "nyt",
+   "nome": "The New York Times – Books",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 55,
+   "novos_hoje": 22
+  },
+  {
+   "id": "parisreview",
+   "nome": "The Paris Review",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 3
+  },
+  {
+   "id": "gn-prizes",
+   "nome": "Google News – literary prizes",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 41,
+   "novos_hoje": 12
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "_leia": "Fontes do Radar Literário. grupo: brasil-portugal | internacional. filtrar: true = fonte de cultura geral, só entra o que falar de livros/literatura.",
+  "fontes": [
+    { "id": "rascunho",      "nome": "Rascunho",              "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "url": "https://rascunho.com.br/feed/" },
+    { "id": "quatrocincoum", "nome": "Quatro Cinco Um",       "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "url": "https://quatrocincoum.com.br/feed/" },
+    { "id": "folha",         "nome": "Folha – Ilustrada",     "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true,  "url": "https://feeds.folha.uol.com.br/ilustrada/rss091.xml" },
+    { "id": "estadao",       "nome": "Estadão – Cultura",     "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true,  "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/cultura/" },
+    { "id": "publico",       "nome": "Público – Cultura",     "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true,  "url": "https://feeds.feedburner.com/PublicoCultura" },
+    { "id": "observador",    "nome": "Observador – Livros",   "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true,  "url": "https://observador.pt/seccao/cultura/livros/feed/" },
+    { "id": "gn-premios-br", "nome": "Google Notícias – prêmios", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "max_por_dia": 12,
+      "url": "https://news.google.com/rss/search?q=%22Pr%C3%AAmio+Jabuti%22+OR+%22Pr%C3%AAmio+Oceanos%22+OR+%22Pr%C3%AAmio+Cam%C3%B5es%22+OR+%22Nobel+de+Literatura%22+OR+%22Academia+Brasileira+de+Letras%22+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+    { "id": "gn-mercado-br", "nome": "Google Notícias – mercado editorial", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "max_por_dia": 12,
+      "url": "https://news.google.com/rss/search?q=%22mercado+editorial%22+OR+%22livros+mais+vendidos%22+OR+%22lan%C3%A7amento+liter%C3%A1rio%22+OR+%22Bienal+do+Livro%22+OR+Flip+literatura+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+
+    { "id": "lithub",        "nome": "Literary Hub",          "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://lithub.com/feed/" },
+    { "id": "guardian",      "nome": "The Guardian – Books",  "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://www.theguardian.com/books/rss" },
+    { "id": "nyt",           "nome": "The New York Times – Books", "grupo": "internacional", "idioma": "en", "filtrar": false, "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml" },
+    { "id": "parisreview",   "nome": "The Paris Review",      "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://www.theparisreview.org/blog/feed/" },
+    { "id": "gn-prizes",     "nome": "Google News – literary prizes", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 12,
+      "url": "https://news.google.com/rss/search?q=%22Booker+Prize%22+OR+%22Pulitzer+Prize%22+fiction+OR+%22National+Book+Award%22+OR+%22Nobel+Prize+in+Literature%22+OR+%22Women%27s+Prize%22+when:7d&hl=en-US&gl=US&ceid=US:en" }
+  ]
+}

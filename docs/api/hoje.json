@@ -1,0 +1,1569 @@
+{
+ "data": "2026-10-10",
+ "gerado_em": "2026-10-10T19:30:41-03:00",
+ "total": 108,
+ "secoes": {
+  "premios-lancamentos": [
+   "dabc01688f1a",
+   "3e5a36badab7",
+   "ccb6189edc71",
+   "71433fb3a75b",
+   "b7dbabac041b",
+   "e06619c324c6",
+   "91406b3b1159",
+   "604c13db3528",
+   "cd00db54469b",
+   "a690d09ebd85",
+   "986df8f2843c",
+   "4831b6f0858c",
+   "648f640d3121",
+   "39a40c5b7676",
+   "e6a4be714e8b",
+   "4a9e221d31dd",
+   "42631d16f77e",
+   "b78c5d565cfb",
+   "414864042e0e",
+   "36e5291a5409",
+   "8c7e6da15bc7",
+   "cb973bad8c33",
+   "ed018dc03165",
+   "d693059a8882",
+   "3c625876cbc5",
+   "925701688a13",
+   "eff76e1f299e",
+   "fda3b19292e6",
+   "edfb74a4f982",
+   "9a7a24cd57ac",
+   "8b1b84d8688d",
+   "88906431d72c",
+   "42e8b008bf8d",
+   "e1e07796c7f2",
+   "05bfe1704c0c",
+   "232b047ad706",
+   "12d590d13a3d",
+   "7dd3d3d4dc61",
+   "4e3d91544d67",
+   "1a6f5c47ed0d",
+   "75a864c496c9",
+   "994c3f49db9d",
+   "0aa834dda4b4",
+   "303830dd66ef",
+   "bc19b0ac663f",
+   "1a9e24283e04",
+   "b7b0c6174329",
+   "ac68fc4b5a0f",
+   "9849bf03f96a",
+   "bc6cbf21f9ba"
+  ],
+  "brasil-portugal": [
+   "d650d2f9b9bc",
+   "03ddacfbcc33",
+   "28ee87d18584",
+   "40914c00e6b3",
+   "fb33a9fe7ee9",
+   "266e33b8bd36",
+   "59a2da3eaf3f",
+   "1c9345b02d10",
+   "3e5a36badab7",
+   "71433fb3a75b",
+   "9dbd32b09129",
+   "b7dbabac041b",
+   "3f35a96eef93",
+   "e7adbc67f38d",
+   "e06619c324c6",
+   "34e70a4db72a",
+   "91406b3b1159",
+   "77f290cee998",
+   "7c9b080feeee",
+   "cd00db54469b",
+   "bed395238978",
+   "3ec9344ce624",
+   "4831b6f0858c",
+   "1d510cc1c697",
+   "b6dc1ef55da2",
+   "39a40c5b7676",
+   "e6a4be714e8b",
+   "4a9e221d31dd",
+   "bac283b62b2a",
+   "4a86232a0977",
+   "ed018dc03165",
+   "adf463e26d51",
+   "925701688a13",
+   "eff76e1f299e",
+   "8b1b84d8688d",
+   "88906431d72c",
+   "e1e07796c7f2",
+   "1cef28f39ee5",
+   "05bfe1704c0c",
+   "78bcb0a0c139",
+   "232b047ad706",
+   "7dd3d3d4dc61",
+   "eab1f8ef430a",
+   "6eb97b08e926",
+   "a053d9012469",
+   "1a6f5c47ed0d",
+   "994c3f49db9d",
+   "12cedbe54a6e",
+   "0aa834dda4b4",
+   "b7b0c6174329",
+   "ac68fc4b5a0f",
+   "9849bf03f96a",
+   "bc6cbf21f9ba",
+   "562ef1f9a6f9"
+  ],
+  "internacional": [
+   "e15cf9a22e5c",
+   "204ced2fe7b9",
+   "fd433e24978d",
+   "c164ae436526",
+   "4ad170aa5875",
+   "a1aaf44a3fd6",
+   "89c260925533",
+   "dabc01688f1a",
+   "ccb6189edc71",
+   "604c13db3528",
+   "bf728fe78cd0",
+   "a690d09ebd85",
+   "986df8f2843c",
+   "648f640d3121",
+   "42631d16f77e",
+   "b78c5d565cfb",
+   "6659d5dfec53",
+   "a070add305e8",
+   "72f63cdd7028",
+   "414864042e0e",
+   "1265f922fb67",
+   "b489827f724a",
+   "f15cb3023d59",
+   "9c7fbf6e5fcf",
+   "36e5291a5409",
+   "3f9af8b754cb",
+   "742d5c27f6b2",
+   "8c7e6da15bc7",
+   "cb973bad8c33",
+   "9b75b21959ca",
+   "1128e8ab320f",
+   "29e2e37217ca",
+   "d693059a8882",
+   "3c625876cbc5",
+   "fda3b19292e6",
+   "728ddc43e3e0",
+   "edfb74a4f982",
+   "9a7a24cd57ac",
+   "42e8b008bf8d",
+   "12d590d13a3d",
+   "33e54476f75a",
+   "04026a96475e",
+   "4e3d91544d67",
+   "75a864c496c9",
+   "bbe229155040",
+   "cafb5808d0e6",
+   "09dc12c9f54d",
+   "9c8c3ccd655b",
+   "303830dd66ef",
+   "bc19b0ac663f",
+   "1a9e24283e04",
+   "9d8e883cbab6",
+   "ceb49b87c319",
+   "30a71f253713"
+  ]
+ },
+ "itens": [
+  {
+   "id": "d650d2f9b9bc",
+   "titulo": "10 animes baseados em livros: de Anne Shirley a Sherlock Holmes",
+   "link": "https://www.estadao.com.br/minha-serie/cultura-asiatica/10-animes-baseados-em-livros-de-anne-shirley-a-sherlock-holmes/",
+   "resumo": "Conheça 10 animes baseados em livros, de clássicos infantis como Heidi a thrillers como Moriarty the Patriot, e descubra onde a literatura ganhou vida em animação.",
+   "fonte": "Estadão – Cultura",
+   "fonte_id": "estadao",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T18:15-03:00",
+   "tags": []
+  },
+  {
+   "id": "e15cf9a22e5c",
+   "titulo": "Sidney Offit, a ‘Central Figure’ in the World of New York Writers, Has Died",
+   "link": "https://www.nytimes.com/2026/10/09/obituaries/sidney-offit-dead.html",
+   "resumo": "He was the author of more than a dozen books. “He knew every writer in New York,” Robert A. Caro said.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T13:29-03:00",
+   "tags": []
+  },
+  {
+   "id": "204ced2fe7b9",
+   "titulo": "Have Rachel Cusk’s Novels Lost the Plot?",
+   "link": "https://www.nytimes.com/video/books/review/100000011134451/have-rachel-cusks-novels-lost-the-plot.html",
+   "resumo": "Rachel Cusk’s newest novel, “Life of M,” arrived in a pile of old-fashioned gossip. Alexandra Jacobs, a New York Times book critic, reviews the author’s latest novel.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T12:53-03:00",
+   "tags": []
+  },
+  {
+   "id": "03ddacfbcc33",
+   "titulo": "Porque é que tanta gente lê \"Os Diários de Emma M. Lion\"?",
+   "link": "https://observador.pt/especiais/a-jovem-vitoriana-com-tracos-de-gilmore-girls-e-uma-avo-portuguesa-porque-e-que-tanta-gente-le-os-diarios-de-emma-m-lion/",
+   "resumo": "A coleção terá 25 livros, que cobrem quatro anos da vida de personagens excêntricas, cativantes e sarcásticas. É um fenómeno no TikTok e chega agora a Portugal. Falámos com a autora, Beth Brower.",
+   "fonte": "Observador – Livros",
+   "fonte_id": "observador",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T12:50-03:00",
+   "tags": []
+  },
+  {
+   "id": "28ee87d18584",
+   "titulo": "O homem que enganou escritores e o mercado editorial por anos pode ter voltado - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1lNZlh2NlcwUnRVTVJjSnR3N3dtczJaeDUybVJzbVN6RmhPZVZkcElteDQ3YTdtN2VJWWpWSW51T2FSTTF2MzM2M29ROTlBYnNLbC0wT091bXAteU5yOUFac2RUN1c5anJmWVV5REJDaEg1RmZPSWQwRC0wSDdIQjhXNG5nVjFodDN5TWhjQV9VdDRMYUUxX2gzQzEwRGd2QkdmNnlFdmN4Vnl1X0l5eDJHMUFYeXpNN0NFN3RKRGVGRkpON2NCNGZQY3JLQQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T12:40-03:00",
+   "tags": []
+  },
+  {
+   "id": "40914c00e6b3",
+   "titulo": "‘Bons Tempos: Yesteryear’: Como o polêmico livro sobre ‘tradwives’ virou o maior fenômeno do ano?",
+   "link": "https://www.estadao.com.br/cultura/literatura/bons-tempos-yesteryear-como-o-polemico-livro-sobre-tradwives-virou-o-maior-fenomeno-do-ano/",
+   "resumo": "",
+   "fonte": "Estadão – Cultura",
+   "fonte_id": "estadao",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T12:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "fb33a9fe7ee9",
+   "titulo": "Musical de 'Percy Jackson', em São Paulo, preserva o livro ante a fúria dos fãs",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/musical-de-percy-jackson-em-sao-paulo-preserva-o-livro-ante-a-furia-dos-fas.shtml",
+   "resumo": "Eu nunca quis ser um meio-sangue, entoa um Percy Jackson cantor no começo do musical \"O Ladrão de Raios\", em cartaz em São Paulo. A frase dita por ele é a mesma que abre o primeiro livro de \"Percy Jackson e os Olimpianos\" , uma das sagas mais populares entre as crianças da década passada. Leia mais…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T10:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "fd433e24978d",
+   "titulo": "Book Review: ‘Voice of a Century,’ by Anthony Tommasini",
+   "link": "https://www.nytimes.com/2026/10/10/books/review/voice-of-a-century-anthony-tommasini-marian-anderson.html",
+   "resumo": "As Anthony Tommasini demonstrates in his new biography, the inspiring singer preferred to incite change through excellence, not banner-waving.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T09:08-03:00",
+   "tags": []
+  },
+  {
+   "id": "266e33b8bd36",
+   "titulo": "Crônica: A xícara de louça de Matisse",
+   "link": "https://www.estadao.com.br/cultura/alice-ferraz/cronica-a-xicara-de-louca-de-matisse/",
+   "resumo": "",
+   "fonte": "Estadão – Cultura",
+   "fonte_id": "estadao",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T08:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "59a2da3eaf3f",
+   "titulo": "Depois de A Parede , 13 contos de Marlen Haushofer regressam à casa",
+   "link": "https://www.publico.pt/2026/10/10/culturaipsilon/critica/parede-13-contos-marlen-haushofer-regressam-casa-2190435",
+   "resumo": "A casa e aquilo que nela se procura preservar. Por vezes, essa protecção torna possível muita crueldade.",
+   "fonte": "Público – Cultura",
+   "fonte_id": "publico",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T07:33-03:00",
+   "tags": []
+  },
+  {
+   "id": "c164ae436526",
+   "titulo": "Lit Hub Weekly: October 5 – 9, 2026",
+   "link": "https://lithub.com/lit-hub-weekly-october-5-9-2026/",
+   "resumo": "Samantha’s all grown up, and American Girl books are entering a new era. | Lit Hub Criticism How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative: Trans people are not real, only our",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T07:30-03:00",
+   "tags": []
+  },
+  {
+   "id": "4ad170aa5875",
+   "titulo": "Book Review: ‘Weimar Germany,’ by Victor Sebestyen",
+   "link": "https://www.nytimes.com/2026/10/10/books/review/weimar-germany-victor-sebestyen.html",
+   "resumo": "In “Weimar Germany,” Victor Sebestyen focuses on the populist culture wars that brought an end to popular rule in the fledgling republic.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "a1aaf44a3fd6",
+   "titulo": "Should You Put Your Books in the Freezer?",
+   "link": "https://www.nytimes.com/2026/10/10/books/book-preservation-silverfish.html",
+   "resumo": "Silverfish, book lice and mold are a thing, especially in secondhand books. Here’s how to deal with them.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "89c260925533",
+   "titulo": "‘People forgot I existed’: Audrey Niffenegger on taking 14 years to write a sequel to The Time Traveler’s Wife",
+   "link": "https://www.theguardian.com/books/2026/oct/10/people-forgot-i-existed-audrey-niffenegger-on-taking-14-years-to-write-a-sequel-to-the-time-travelers-wife",
+   "resumo": "Her debut made her a global star. Now she has finally written a follow-up – and this time, it’s political. She talks about impostor syndrome, screen adaptations and becoming radicalised The artist and novelist Audrey Niffenegger began writing the long-awaited sequel to her bestselling debut, The…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T05:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "1c9345b02d10",
+   "titulo": "A matemática ao redor",
+   "link": "https://quatrocincoum.com.br/trechos/trechos/a-matematica-ao-redor/",
+   "resumo": "Depois de Histórias da matemática: da contagem nos dedos à inteligência artificial (2024) e A descoberta dos números: uma aventura matemática (2025), o diretor-geral do Instituto de Matemática Pura e Aplicada (Impa) Marcelo Viana publica Matemática para seres humanos (e alguns robôs), seu terceiro…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T04:51-03:00",
+   "tags": []
+  },
+  {
+   "id": "dabc01688f1a",
+   "titulo": "Booker Prize-winning authors to headline Shillong Literary Fest - EdexLive",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2RBd3Q2V2tHYlhtQlBCQmNfV1VwY3M1bnFGTDBlTVUyaWJMNURTVE40NVRMbTJUaC1rVXIyM2x0YkR5VTJtbF90dENjcERPdFczYThWYVg4ZkNFUzRjb2dEWE5yajZzVC1PY29ybmlRdHZ0b0pLVzhkei1IWEZrUFpvUWZpd2N4eVQ3Q3dNUlVucjl3UWNpczRGRXliSFVBclJYOTN0b9IBtAFBVV95cUxQX2VmYUJyQ2NhOE9oZG5UM3h5S09kNmtEREVNb0c5VWY1Z01WdXJ0TlItbXd6Wjhqa2lHeTV6cnBxZXozTmZ1aWttRkN6dUQ1QkNWMnBTMWVyODUzRnA0bWt0cTJoYU9fN0NFY21pWlhJSkRWSDJ5RUQ0UWlieWNoQkpiOEdxY2FFaUg5bHBETnJwQXNJSE9Da1RUZy0tWC1KVnZsTE91OWRwbUJueXAwUzdZVXo?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T04:45-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "3e5a36badab7",
+   "titulo": "Publicação de vencedores do Nobel no Brasil oscila entre a euforia e a gaveta",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/publicacao-de-vencedores-do-nobel-no-brasil-oscila-entre-a-euforia-e-a-gaveta.shtml",
+   "resumo": "É raro que uma autora viva tenha sua obra publicada por várias editoras ao mesmo tempo -ainda mais raro que ela ganhe um Nobel de Literatura nessa condição. Mas foi o que aconteceu com Anne Carson , com oito livros dispersos em quatro editoras brasileiras , todos em publicações recentes. Leia mais…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T23:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "ccb6189edc71",
+   "titulo": "Two booker prize winners to attend Shillong literary festival - Meghalaya Monitor",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUFQZzdrb0lScW9tajNfQ1dITXQ5UER1U0o4YkxSeTVPb21TWWlUNFhfYnNnMXV0NllWVk5Ka1R4SW1vVlhtYW9uaFNDX3RiVUF4bG5fNDQwOTV6X2dveEJvRGdtWE52eXN0bWUzRzdOUlNaUXJJZEFmbkxxZ3NKaUxXbGlocUZWVnF3bFEzQ2d3c1RzUkE?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T22:37-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "71433fb3a75b",
+   "titulo": "As autoras latinas na mira do Prêmio Nobel de Literatura 2026, segundo críticos - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUW9iVk4xMjVVdkRTQl9MX0tMWWk5SE1FM1FyUjM1QjY2N0swZ3RmVC1fTnpPZUdYVXRRUFpkeGI0Zlo4YkRSQkFDelhsbW9SS09qZHoxQkFpZV84WlZaSXg2a0wyU3F6ZWM5QS1ia3ZBZGZRYkFjUjluOTR6aWp4aE5jVU0teFJVaE5IVW9hWmNNR1hSejlEcDFiQjE1RU5VYzhlX3RBT1BDRmV0d2swOHFBRnhzQTJaa3J0Tl8xVDVGVG41Ykk5azNkRmNzdw?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T20:33-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "9dbd32b09129",
+   "titulo": "MIS exibe 'O Estrangeiro', adaptação de François Ozon do romance de Albert Camus",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mis-exibe-o-estrangeiro-adaptacao-de-francois-ozon-do-romance-de-albert-camus.shtml",
+   "resumo": "Na terça-feira (13), às 19h, o Museu da Imagem e do Som, o MIS, exibe o filme \"O Estrangeiro\", de François Ozon , adaptação do romance homônimo de Albert Camus, publicado em 1942. A sessão gratuita integra o Ciclo de Cinema e Psicanálise, parceria entre a Sociedade Brasileira de Psicanálise de São…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T20:22-03:00",
+   "tags": []
+  },
+  {
+   "id": "b7dbabac041b",
+   "titulo": "Jorge Amado foi 19 vezes indicado ao Nobel de Literatura; veja outros brasileiros indicados - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXY0N1NxUXRXaU8zSlpTUUZveXRTeTl1UUR0dHNDSGlFMkNWejZ5SS1hYUVOaW04S1BjT3gtWlM3ZlU3MUl0TlowbGNhcnVFSmVrZFZWRWI1cXZsUkUwd3EycHF1MTduWlRCaHFvdkhUNWV5LXQyaTlmY0VmRm5ONlY2ZFVBTmNvcEJRRWRXU2h1N2VhaUF5MDM3MTZEM3RHanNMcURhMlVfWXRrdmxTQVd1dnBtNURQTk05Y1RQSUZYQzJKZVpBODBhUDByaExZMTJrUTFXXzF3ZGQ2RWc?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T19:45-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "3f35a96eef93",
+   "titulo": "8 frases de Mário de Andrade sobre a vida para ler no aniversário do escritor",
+   "link": "https://www.estadao.com.br/emais/comportamento/8-frases-de-mario-de-andrade-sobre-a-vida-para-ler-no-aniversario-do-escritor-nprec/",
+   "resumo": "",
+   "fonte": "Estadão – Cultura",
+   "fonte_id": "estadao",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T17:53-03:00",
+   "tags": []
+  },
+  {
+   "id": "e7adbc67f38d",
+   "titulo": "Confira a programação completa da Flim 2026 - Maringa.Com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTk84bVZuc0E1Uk1FR0NhMzFEaFVxSmlUQVZZR2RfQkdMVm5HZEswWWdpc1F0RUQxM2lYRUhEdFRpaUxXdTBhNC1Sc2FaamFubU15QWUxVTVwTExRUURQY2R4MWQ4cVpJQkJ6VlltNExGbGYwWkdKa1JJM0FpanRpUDhMZTE?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T16:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "e06619c324c6",
+   "titulo": "3 livros para conhecer Anne Carson, vencedora do Nobel de Literatura 2026 - Guia do Estudante",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGxndDZBeWgxNHZFVmdSQ1hBOGhQNWRvUzJfWmJzNENsY29Xd0lMVkJ6dmI0UkdWNk5SVU8xMVBiOF9lRHlKSjZVdlp3T2JJT0Z2eFRYUUI2ME84TnRNZGFveExyeGdXekswSk0tdFp6dkR6U2t6OFcxZml3SmRPcHo1bnZaSEZTZVh1NW5GSEtCMTdoX2lzc1IzZ2pnTTBsc0xfd3lfX0dWaXgwaU16Zm5FZWFyZ1BObTRlRUlSdW5xQQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T15:37-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "34e70a4db72a",
+   "titulo": "Lívia Silva antecipa choque de Dalila com segredo do pai em 'Por Você': 'Vai ser uma grande dor'",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/livia-silva-antecipa-choque-de-dalila-com-segredo-do-pai-em-por-voce-vai-ser-uma-grande-dor.shtml",
+   "resumo": "Lívia Silva , 21, ainda não recebeu todos os capítulos que vão levar Dalila a descobrir um dos maiores segredos de sua família em \" Por Você \" ( Globo ). Mas já sabe que a revelação promete mexer com a personagem -e também com o romance recém-iniciado com Peixe, vivido por Cauê Campos . Leia mais…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T15:30-03:00",
+   "tags": []
+  },
+  {
+   "id": "91406b3b1159",
+   "titulo": "Bienal Literária de Taubaté terá palestra com vencedor do Prêmio Jabuti e programação gratuita - THMais",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSFRZZlNLYnZiaEM5RzVmWDJEZzJjRVhvUklrYW5OT2pqczJ0cnpBeERpcXkxNHpnTmF1TnQ1eVcydEM1OWJjdmFkMmd3QUEtRXJaLTNhSlhWX0E1SkVJTk5Mam1mNmJ5b0NXODBNX0hwZjhGd1Znc0dESjRQOXhYWi1zVzEzNWhjY1ZDT2RIbUhlZjBiQVc2UE16ZlpsRXpRTEZMTDMxY1NhZF9oRHdPalA1cXhQajRNU3pJSFpEa1VLc2MwSUhvODhqUG1EUWRXRU91WVRSV3JMcDg?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T15:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "604c13db3528",
+   "titulo": "Anne Carson’s Publisher Has Won the Nobel Prize Twice in Two Years",
+   "link": "https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html",
+   "resumo": "Fourteen authors in the New Directions stable have received the Nobel Prize in Literature, including this year and last. How does this small press pack such a punch?",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T15:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "77f290cee998",
+   "titulo": "Autobiografia resgata uma grande liderança africana do século 20",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/autobiografia-resgata-uma-grande-lideranca-africana-do-seculo-20.shtml",
+   "resumo": "Após a leitura de poucas páginas de \"Meu País, a África \", causa surpresa que apenas agora o título chegue aos leitores brasileiros. Leia mais (10/09/2026 - 13h00)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T13:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "7c9b080feeee",
+   "titulo": "Locadora de livros no Rio de Janeiro preserva curadoria sem algoritmo há 30 anos",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/locadora-de-livros-no-rio-de-janeiro-preserva-curadoria-sem-algoritmo-ha-30-anos.shtml",
+   "resumo": "Entrar na Encontro Marcado, uma pequena locadora de livros no segundo andar de uma galeria em Ipanema, na zona sul do Rio de Janeiro, é como parar o tempo por algumas páginas. A experiência parece desafiar o ritmo acelerado das novas formas de consumir livros. Leia mais (10/09/2026 - 13h00)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T13:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "cd00db54469b",
+   "titulo": "Anne Carson, escritora canadense, vence Nobel com obra ousada - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHZaZm8xcDkwbGlUOXV6VEN3QUZYLXc2VTlqT1loOWIxSGQxUXd2Qlh2djFjeUNvcDVMQ1B4WmhEem01WlFOV0d0aUxoZ2lLaGJvWWp5dFFYZUh4blR2Q05MNEtFMVhaWm1pMF9nU1NDTHhTV0xKXzdHLWNmRHkxajVrWHR6WnRReVp3TlZkQnZpV01NWkMw?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T12:57-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "bf728fe78cd0",
+   "titulo": "Great Horror Novels for Young Readers",
+   "link": "https://www.nytimes.com/2026/10/09/books/review/erin-entrada-kelly-horror-novels-kids.html",
+   "resumo": "The two-time Newbery medalist Erin Entrada Kelly recommends 10 books whose mingling of fear and suspense has tantalized her.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T12:20-03:00",
+   "tags": []
+  },
+  {
+   "id": "a690d09ebd85",
+   "titulo": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
+   "link": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
+   "resumo": "The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever since Where to start with Anne Carson ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson 1. Anne Carson is one of the greatest writers of…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T12:08-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "986df8f2843c",
+   "titulo": "Booker Prize winners Kiran Desai, Damon Galgut to attend Shillong Literary Festival in November - India Today NE",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaTJ5c2swNWwtRnA1N2RjWFdmVUQwT1gyN181ejQ3U2Rzb0RZRmhIdzBoNHlOektQUlZWX25SRkxPNmNneVJMVTF4Y0dOOXlyTy1ndkhSNXRDdnFNNXNTT3lsSURYRHN4UnRMaV83VG1tZHJHSWFmTjNpTmh5MUN0WS1ROTVOMjdLcVFnNW9EeEZoTXFMRzQ2RnNDQXdlUkloUUV3V3Zub1JrR0U3UEZkMVZacGJFdXlCalV3M2JWMUZhakdzanhuYU93TDVUaThGdHR1bmttbE5FR293V1F5a1h1bUhGODB5c2dGY01R0gHzAUFVX3lxTE04LXFRSExNTmlOOVRiWm0zWjByXzN0YnNZbTlXZWN4V3JOall3T0p5TkpkZHdJREN3VXJtUklFOWU3c09sTzVOTU1WNEVFQWRBci1QNXQzQWFrck5uLTVsNVlvbTFZQ3hkVmJiNDQzR1RXcWh4VmhVOU5mM09LVjFwYkVDak5RekxEVVd3NkhFVldYMkJNbWlWajZpZXhsbGh5cktzU2dxV2xpWEhhcHdKT0FkTzhvSGhJNmpWWjM1ZG5XbjQtNHE2TklxSVg1Q0FVcFBXZDladnRrdVNPZzdXR3ZCNlhzaHg2cDhjejRueDZ5Zw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T11:51-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "bed395238978",
+   "titulo": "O caminho de Santiago",
+   "link": "https://quatrocincoum.com.br/podcasts/repertorio-451-mhz/o-caminho-de-santiago/",
+   "resumo": "Está no ar o 216º episódio do 451 MHz, o podcast dos livros. Esta edição apresenta uma conversa em homenagem ao escritor e crítico literário Silviano Santiago, que completou 90 anos em 29 de setembro. Ele bate um papo com o jornalista João Pombo Barile, autor de Presente do acaso: um ensaio…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:50-03:00",
+   "tags": []
+  },
+  {
+   "id": "3ec9344ce624",
+   "titulo": "IA e literatura: o direito de apagar",
+   "link": "https://www.publico.pt/2026/10/09/culturaipsilon/cronica/ia-literatura-direito-apagar-2190411",
+   "resumo": "O romance afastado do Goncourt por suspeitas de uso de IA suscita perguntas. E abre a possibilidade inquietante de o escritor ter de começar a guardar tudo aquilo que sempre teve o direito de apagar. Crónica de Isabel Lucas",
+   "fonte": "Público – Cultura",
+   "fonte_id": "publico",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:22-03:00",
+   "tags": []
+  },
+  {
+   "id": "4831b6f0858c",
+   "titulo": "Defensora pública e romancista premiada: Conheça Mariana Salomão Carrara - Migalhas",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFU5NV9RZnNCbTZFZ0dJRXY0NENlRHNoMEZWVTVhM1lSZzBmbjRoMENhTHVPakpUdkE3Y1JndFR2Wml5SXBOWldvNGZUNTNZZ0RBVVE4TlR6VW1qQnVzZTB4NDlHUU9yMU9XVjlBS25iRDV0RnBWQkpEUDA5SVo2WjhZY0htWmp3ZklnZ2M0WmRqVUE5QXFXQ212UWVtajBYbTJRZmNMWEZzdw?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:19-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "1d510cc1c697",
+   "titulo": "A biografia gay do século 20",
+   "link": "https://quatrocincoum.com.br/resenhas/livros-e-livres/a-biografia-gay-do-seculo-20/",
+   "resumo": "Talvez ainda falte um grande trabalho biográfico que debata de forma sistemática o que foi a experiência LGBTQIA+ ao longo do século 20. No entanto, consigo listar alguns projetos que têm, mesmo que de maneira pulverizada, reunido essa história. É o caso de A cidade solitária (trad. Bruno Casotti,…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:06-03:00",
+   "tags": []
+  },
+  {
+   "id": "648f640d3121",
+   "titulo": "Passages We Underlined This Fall",
+   "link": "https://www.theparisreview.org/blog/2026/10/09/passages-we-underlined-this-fall/",
+   "resumo": "A selection of some of our favorite passages from September and October new releases.",
+   "fonte": "The Paris Review",
+   "fonte_id": "parisreview",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T11:00-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "b6dc1ef55da2",
+   "titulo": "Bienal Literária de Taubaté divulga programação completa com André Kondo - PortalR3",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkg4dkszT21ZaEE5Q19zTl9PM1pBWDVlUF9lU2xhYi1iZ0c1Q3NsMVA5SkdRamVQUWJLT1JmVmVDOTBvMjhIaVhGM2dLRWp1OTNGZ1BnTGdkSUdoWjctcWo3Y1dNeUJnWmlqZmhmLTJjU0pJc05lcXYtWlA0d2dTcA?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T10:50-03:00",
+   "tags": []
+  },
+  {
+   "id": "39a40c5b7676",
+   "titulo": "Anne Carson vence o Prêmio Nobel de Literatura de 2026 - Portal ABC do ABC",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOeGotVFZiTWJpbDJSWFRUQ3ZYM0RIb3Zjc0hoYVgxNE1sbUdKaTY5OTRpYllVNlltLXU5SW9IQ3FXSVpNV2xkTzd6TVlMTFJ0Wm9Sd2tmaXU0SnpDam5sb2hncG53OFh2QXl6X0MtSndxU1R5eFlZbGpNYmY?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T09:44-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "e6a4be714e8b",
+   "titulo": "Ganhadora do Nobel de Literatura vai dar casa para amigo com dinheiro do prêmio - VEJA",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGszYU1LUTNOUkc3SjNqSTJWS1dwVm1IdkpOLWFGNjVOREZ0clNZVk1RTDd2Z0h1YWZtYmNuUDRVakpid1pSUF9xUDdEQnU4UlJlNzRLaG0zaFprQXlwTkU1djJGaG9zQ1hDYzExRlZ4R21oQ2dMY3VyVEh0bG8zckIwUWgycFhRQUFLLUctc3YzTHVfdHBWekp6UVRuVG9sQkc4ZTlnUmVBNHFJT0ozQ0pFdVQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T09:40-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "4a9e221d31dd",
+   "titulo": "Gigante de tecnologia de voz por IA, ElevenLabs lança 70 mil audiolivros em português; conheça - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWNlZTVmei1ieHo5QjZFWW1TbC10U3FpVGJTcERHOGJfTllXSVh2c0lBV2w4QUFjYTUtVlFGOHhsclVPaTVBcmg1MV9SU3ptSHVhdnFndDF5elBELUFVR2Z3Y29GUlh4NkkwbzRxUXFVZHd1UEJQYTh3WFJPQnQ1d1l1djVYeU9YZUFER2FxeUhPcndIUThDQV9CWmgyOV9nblN3YndtTUZsY2ZGWnVsdzBWQzMwSF9WT19NZnJfVlRSdUJpN1F1aHo2bDc5UXVvcHRJZ3Zn0gHbAUFVX3lxTE00U0x6dEE5SGQxNzZTM0c5TFJENnhBQVU5ajNJV1FSNUFRWG9BOVVSTDZBeGo3YWpNaEY0ejIxMzJtY2NfZGRRNGxDN1JjRWwyMDdwNjhOVjZLenpmNE5OZzZNLThQLVhDUFRSaEVhVG5RYnNITG40bWlNeENWUXFHcVRlMGxybU1QYnQ3MlQ0ZFBLSEthWFU0RldZcjJTZ0l1YjBSNHphOERjZmlEWXotMGZ4b3NVaVlNR3l4YkdHNDVYNlpkU0lmb0Z4bzY1WGJfbjJoNnA5YVRXQQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T08:45-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "bac283b62b2a",
+   "titulo": "Feira de Frankfurt: metadados, IA e América Latina - PublishNews",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmJRWHJBNGNlc1JOV0NxbVRCd1IyZFltZy1JeXFKRUVHTDRVV2Uxd1hiajZjVVNxazFUcmJyTzhOblVmeUFqTFFkcUNrMU93Q3hzcy03TUtvUFB6TDBHcG5mbXhxWmZxLWdGWG1EMFczcTZZUlZJelRMRmp1b29ldkhxQnVzSVo5UW9ySFVQZ2RfR0w2bmJRdWUxeEZRZGpl?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T08:41-03:00",
+   "tags": []
+  },
+  {
+   "id": "42631d16f77e",
+   "titulo": "The best recent science fiction, fantasy and horror – review roundup",
+   "link": "https://www.theguardian.com/books/2026/oct/09/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+   "resumo": "The Ballad of Black Tom by Victor LaValle; As You Wake, Break the Shell by Becky Chambers; The Eye of Goliath by Diego Muzzio; Our Cut of Salt by Deena Helm The Ballad of Black Tom by Victor LaValle ( Penguin , £9.99 ) This short novel won almost every genre award following its 2016 US publication.…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T08:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "b78c5d565cfb",
+   "titulo": "Lit Hub Daily: October 9, 2026",
+   "link": "https://lithub.com/lit-hub-daily-october-9-2026/",
+   "resumo": "Morgan Entrekin attends the Heinrich Maria Ledig-Rowohlt Translation Prize dinner at the Frankfurt Book Fair. | Lit Hub On Translation Demetris Papadimitropoulos considers the complex relationships between queer people and their families through reading Families We Keep and Families We",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T07:30-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "6659d5dfec53",
+   "titulo": "Min Jin Lee Says Choosing Community Is Radical",
+   "link": "https://www.nytimes.com/video/books/review/100000011203440/min-jin-lee-says-choosing-community-is-radical.html",
+   "resumo": "Min Jin Lee, the author of “American Hagwon,” joined “The Book Review” podcast to talk about how building bonds and community can be a strategy for survival.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T07:22-03:00",
+   "tags": []
+  },
+  {
+   "id": "a070add305e8",
+   "titulo": "March 5, 1933: The Election That Destroyed German Democracy",
+   "link": "https://lithub.com/march-5-1933-the-election-that-destroyed-german-democracy/",
+   "resumo": "Recently, President Donald Trump banned three media organizations from the White House because of their negative coverage of him and his administration. “I mean, there’s something wrong with a country that can allow people to write purposely negative stories,” Trump",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:10-03:00",
+   "tags": []
+  },
+  {
+   "id": "72f63cdd7028",
+   "titulo": "What Should You Read Next? Here Are the Best Reviewed Books of the Week",
+   "link": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-14/",
+   "resumo": "Barbara Kingsolver’s Partita, Sarah Perry’s Death of an Ordinary Man, T. Geronimo Johnson’s The Occidental Book of the Dead, and Nathaniel Philbrick’s The Rush all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews.",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:09-03:00",
+   "tags": []
+  },
+  {
+   "id": "414864042e0e",
+   "titulo": "From Dud to Delicious: Deesha Philyaw on Raising the Stakes in Fiction",
+   "link": "https://lithub.com/from-dud-to-delicious-deesha-philyaw-on-raising-the-stakes-in-fiction/",
+   "resumo": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. In 2006, when I started writing the book that would eventually become my debut novel The True Confessions of First Lady Freeman, I shared my first, tentative pages with a",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:09-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "1265f922fb67",
+   "titulo": "Queer Recognition, Estrangement, and the Great Grey Area in Between",
+   "link": "https://lithub.com/queer-recognition-estrangement-and-the-great-grey-area-in-between/",
+   "resumo": "Cross-stitch watercolor by Demetris Papadimitropoulos When Aly changed hir name, hir mother heard more than a new set of syllables. Margaret told researchers in Rin Reczek and Emma Bosley-Smith’s study that she felt Aly had “divorced the whole family.” Before",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:08-03:00",
+   "tags": []
+  },
+  {
+   "id": "b489827f724a",
+   "titulo": "Jérôme Lindon, Jérôme Lindon: On the Relationship Between Jean Echenoz and His Publisher",
+   "link": "https://lithub.com/jerome-lindon-jerome-lindon-on-the-relationship-between-jean-echenoz-and-his-publisher/",
+   "resumo": "Jean Echenoz’s Jérôme Lindon recounts, in sixty spare, affectionate, sometimes lightly barbed pages, the twenty-year relationship that its author enjoyed with his publisher, a legend of the French literary establishment. The story begins in 1979 with an unexpected summons to",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:07-03:00",
+   "tags": []
+  },
+  {
+   "id": "f15cb3023d59",
+   "titulo": "How Navigating the Demands of Academia Helped Me Cope With Terrible Loss",
+   "link": "https://lithub.com/how-navigating-the-demands-of-academia-helped-me-cope-with-terrible-loss/",
+   "resumo": "The first summer after my daughter died, I received an email invitation to give a keynote address the next spring. I didn’t know the scholar who invited me, but she’d been told that my daughter had recently died and offered",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:07-03:00",
+   "tags": []
+  },
+  {
+   "id": "9c7fbf6e5fcf",
+   "titulo": "Alice Elliott Dark’s Afterword to “In the Gloaming”",
+   "link": "https://lithub.com/alice-elliott-darks-afterword-to-in-the-gloaming/",
+   "resumo": "It began when I heard a sentence: “He wanted to talk again, suddenly.” The words cut sharply into the jumble of to-do lists, fantasies, snippets of possible writing, worry, and leftover traces of postpartum depression that constituted my mind in",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:07-03:00",
+   "tags": []
+  },
+  {
+   "id": "36e5291a5409",
+   "titulo": "Eli McCann Talks About ‘Stitched,’ His Best-Selling Novel About Quilting",
+   "link": "https://www.nytimes.com/2026/10/09/books/review/eli-mccann-stitched.html",
+   "resumo": "Eli McCann had a surprise hit with his debut novel, “Stitched.” He talks about how he came to write the book and what its success has meant.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:01-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "3f9af8b754cb",
+   "titulo": "AK Blakemore: ‘The Goldfinch by Donna Tartt was extremely silly and bad’",
+   "link": "https://www.theguardian.com/books/2026/oct/09/ak-blakemore-the-goldfinch-by-donna-tartt-was-extremely-silly-and-bad",
+   "resumo": "The poet and author on F Scott Fitzgerald’s perfect novel, losing faith in Ernest Hemingway – and the recent debut that blew her away My earliest reading memory Lynley Dodd’s Hairy Maclary from Donaldson’s Dairy – where an assortment of differently shaped dogs go on a walk – wormed its way into my…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "742d5c27f6b2",
+   "titulo": "How Reading “East of Eden” Affected Writers and Artists",
+   "link": "https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html",
+   "resumo": "With a Netflix adaptation now streaming, Rachel Kushner, Héctor Tobar, Zoe Kazan and others share why Steinbeck’s operatic family saga has stayed with them.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "8c7e6da15bc7",
+   "titulo": "Book Review: ‘The Rhyl Poster,’ by Tom McCarthy",
+   "link": "https://www.nytimes.com/2026/10/09/books/review/tom-mccarthy-rhyl-poster.html",
+   "resumo": "Tom McCarthy’s new novel brings double agents, drugs and document drops into his signature critiques of contemporary systems.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:00-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "cb973bad8c33",
+   "titulo": "Book Review: ‘The Red Dress,’ by Frank Huyler",
+   "link": "https://www.nytimes.com/2026/10/09/books/review/the-red-dress-frank-huyler.html",
+   "resumo": "Frank Huyler’s new novel is a devastating commentary on the place of an ordinary man in the world of the ultrarich.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T06:00-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "9b75b21959ca",
+   "titulo": "Roadshow",
+   "link": "https://lithub.com/roadshow/",
+   "resumo": "Annie bought a fifth of whiskey from the liquor store beside the Starbucks because money was imminent, and because Vera’s addendum had knocked something loose that needed fixing, the image of her lips against Tom Selleck’s mustache, again and again,",
+   "fonte": "Literary Hub",
+   "fonte_id": "lithub",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T05:44-03:00",
+   "tags": []
+  },
+  {
+   "id": "4a86232a0977",
+   "titulo": "O romance que previu sociedade distópica em que eleitores não escolhem nenhum candidato",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/o-romance-que-previu-sociedade-distopica-em-que-eleitores-nao-escolhem-nenhum-candidato.shtml",
+   "resumo": "Em determinada cidade portuguesa, cerca de 70% dos eleitores votam em branco. Atônitas com o resultado, as autoridades decidem convocar novo pleito, para o domingo seguinte. O resultado é ainda mais desconcertante: 83% das cédulas inválidas. Leia mais (10/09/2026 - 05h23)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T05:23-03:00",
+   "tags": []
+  },
+  {
+   "id": "1128e8ab320f",
+   "titulo": "Jeb Stuart says ‘Lonesome Dove’ novel goes beyond 1989 series - iNews Zoombangla",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZzl3LXZ4TWRZdjdKRlZfR0dndldLTzI1SFlHMElXVW0wR2JfaVQ0ZXBjWFFiQUpWdzRXSzhqUVFWejNOczJEOUkzX0FqeXZBQ2tXUmg0ZW4yVDI1SUZSdVJwQnJ1TFc2Mi1fSHNnb242WGZLQzl0OFZSenREVjZPb1dZVFN4dw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T05:19-03:00",
+   "tags": []
+  },
+  {
+   "id": "ed018dc03165",
+   "titulo": "Nobel de Literatura - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmhaUERucmdIcWI5WE5BV2JyTlRzeF9JSlJoTHowd1VDTmZrQ3Z4ODE5YVdvTkI4dlZBcTFMdFZlcHRoZzhtOEk0VDM0UllpUGlSSHZQbTdvemVBSEU3cGJ6a0NHRW9EVFplbFY2Q0Q5SzdiQ0pkaTE3UjczdU16Wnlyc9IBkgFBVV95cUxNclZwN2ZhWThQeXM2NkZCelJ4ekhfSWFhRnFuMUVXNVB0M1VzLTJoVktRb0EwRl8tbUVhUWJhcVlScXh5dDFfMXNKc2JvMlVURklHWHRYMnltN0JXR2EwS2JHZkF2MXZXekxaR0ZINlJzUWs3RWFPOVNFWkhGR3paSl82S0VnNUxKV0tCUWZSWGhfUQ?oc=5",
+   "resumo": "Nobel de Literatura Valor Econômico",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T05:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "29e2e37217ca",
+   "titulo": "The Queerest of Folk by Russell T Davies review – the groundbreaking screenwriter tells it like it is",
+   "link": "https://www.theguardian.com/books/2026/oct/09/the-queerest-of-folk-by-russell-t-davies-review-the-groundbreaking-screenwriter-tells-it-like-it-is",
+   "resumo": "From Coronation Street to It’s a Sin, Davies’ memoir of a career in TV is also a rallying cry for creativity Television is an intimate art form, once beamed into living rooms, now on devices right in front of our faces. The screenwriter Russell T Davies understands that intimacy. Whether discussing…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T03:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "d693059a8882",
+   "titulo": "Booker Prize Foundation launches full UEA scholarship in memory of literary champion - Eastern Daily Press",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGVEbHU2MTBldUxyMl9KUy1YRjJLUGE5WEJFdDdyYkhwM2ZFd3RpdWY0aTBrNDViU2wxY0ZVMXFRY3lKOTk5ODZoRGg2VXFCcTNQaUVGTVh2SlU4SGtDR2xhTjU0LWU0WUJLaGd0eUNhMVJNUEFuSHZJb3R6NjQ1elR3ZHR6S181TkxMUXV1bk91Tms5SWpCYw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T01:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "3c625876cbc5",
+   "titulo": "Princeton Celebrates Anne Carson, a Nobel Prize Winner Who Was Denied Tenure",
+   "link": "https://www.nytimes.com/2026/10/08/books/anne-carson-nobel-prize-princeton-university-tenure-denied.html",
+   "resumo": "Carson, who was awarded the Literature prize on Thursday, was denied tenure when teaching at the university in the 1980s, leading social media users to mock a congratulatory message.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T23:15-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "adf463e26d51",
+   "titulo": "João Bosco, com novo disco e show em São Paulo, ilumina aspecto coletivo de sua obra",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/joao-bosco-com-novo-disco-e-show-em-sao-paulo-ilumina-aspecto-coletivo-de-sua-obra.shtml",
+   "resumo": "\"As frases e as manhãs são espontâneas. Levantam do escuro e ninguém pode evitar\", foi como Aldir Blanc começou a música \"Amigos Novos e Antigos\", lançada por João Bosco há 45 anos. O poeta havia sido provocado a escrever algo inspirado pela faixa \"Sun King\", dos Beatles . Leia mais (10/08/2026 -…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T22:59-03:00",
+   "tags": []
+  },
+  {
+   "id": "925701688a13",
+   "titulo": "Escritora canadense Anne Carson vence o Prêmio Nobel de Literatura - G1",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmNLVzRGMkFKLVNURFZhZjZUT0EtSm53ZXFXTTE4VUtCX2N2Ym1DNFI3a3ROQzZkSUlpaDVFbjZDS051WFVYdU55UUJKd29VM0hYQ0hFSkZqMHBTcm9NNVpMejlQWXUtN2NhZDUzQVhvWkhWdFRGZmU1Z29oOUxFU0JVeUEtaGFjUHpHTXZnT0pmTjVkYkxJTG5pdnd3U3lITHlIdm56ODdZWlZYNGs0WHcyQW8tMVFoUDBYVkN4TzF2SkRJd3Jv0gHWAUFVX3lxTE5UeTJBMEhCRmJOOENiQzdfb1FYRFNNNFZlVll3b29YVFZpOXZLdkFleHAyWWF3UW1SQ1puaDVlYjlzUmlrVS1QU0RUeHg3Y0hURVFWeGNWUnd3bnRZTTgzZlY1S0ZBWVlLWjI4RVZYLUNCcmlibDRzMVIzZUFLYXNhTE03ZjJYcXlHY01tSWg4WHRyU2h1cUpSX0doTEJjekM2d2VMV3oxWUl6RzR4R3ZfOVQ4RGJOV3lpb0dpN3VRYTN5MXJQVDhlNzljWDljT1pPNDY1YkE?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T22:16-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "eff76e1f299e",
+   "titulo": "Escritora canadense Anne Carson ganha Nobel de Literatura - G1",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3JMZXZnMVhWeGxnZTVGRjV6LUtKZ0JJdWZGVEdtTGlVbXMtZ2Y4bGNHbnlxWm8wbVJxeWQ1S25vazNVYU5Lak9LbUtXX2VUcTF1cEZLWmdKTVFocFY0SURVOWhsM1I0MDU4RmxfTFNydUpHcXMweHRPQ1VVVFJxY0xsZi1OeWt3M3IxbjFkbHh2TUM4cmg2bmY2azFXWGJ2UTltUng3a1BaM2xjVHZjRDBtemo2d9IBxAFBVV95cUxPaGhVWjBBNEhacm9WbFNuUUVLWUJkTDVmLTFxZThpTFlRUEhTdDFXSGZrQk5acFdXYjBfcnlwQ2FaLWhFQzNnOTg1SkJpX0VFUmUxRzZ3YVQyc3RmbVVBeTVnYlJrdmNXa2pGSEpMUDkyMnhVbmtjUTJvOTFxNjVOUE9WUGxycVRSeXpKclZVaGtpb3NpYnBtclRXb3plcG9DWGVoMHJPN0xaMFFwRGVZYkpNQUVkeVdxdVAzMjZsM0dYZVZI?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T20:48-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "fda3b19292e6",
+   "titulo": "Russian plague lab case has haunting parallels in new book - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0NsRDg5WXlQNjRTc05BdmZlcXpVazh6a2c3OGJKZWlsYVRrTTJHalJHeWJsMlhDZE1hNzlHX3dDaG1LYzJrVlpWcDFUd0VWYnFSUmpRQktfUzNYY056VEEtTzVvd0t3S20xRW5PY3VSN3FSYmtxUWtuR09vT0FXd2FVaDB6OFhJNkRvWjVwa0dXX3FsVDV1SHdlNG5Odzk4dDFFeFpHaGhiWVZvcmdJYW0xaGM0S2E1NDQw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T20:47-03:00",
+   "tags": [
+    "lancamentos"
+   ]
+  },
+  {
+   "id": "728ddc43e3e0",
+   "titulo": "LCCC to host Toni Morrison film screening, discussion on Oct. 19 - Chronicle Telegram",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkdXTDRuVzBWNUMwVU5hd24tSDdFX1FwczhlRGdIRng0MGVwLU1FelF4VktOVUg0QU9HNGhNN3ZaTnZMSEI5b1VWUDBNRzlZWUE1Y3YydTI2SHBSZ2dsX3JLUUl3OWNUNTZMd3Fyd0VHOFhuekNvOFlSLUJRWVcyQk9YVGpsTW1SX1RPNFhqa2d6VlA4cVZUR1Y1T20tTjA?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T20:46-03:00",
+   "tags": []
+  },
+  {
+   "id": "edfb74a4f982",
+   "titulo": "Why Anne Carson, the New Nobel Laureate, Is the Easiest Difficult Poet",
+   "link": "https://www.nytimes.com/2026/10/08/books/review/anne-carson-appraisal.html",
+   "resumo": "Carson has mind-boggling range and formal audacity, our poetry columnist writes, but however much she toys with obscurity she remains too hilarious to be intimidating.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T19:14-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "9a7a24cd57ac",
+   "titulo": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
+   "link": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
+   "resumo": "The writer joins a list of laureates that includes Toni Morrison, Samuel Beckett and Bob Dylan.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T19:08-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "8b1b84d8688d",
+   "titulo": "Conheça as obras de Anne Carson, nova Nobel de Literatura - Poder360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQel94UDhmUUFNR2VNRUtLRUtWOEh2X3VPNG5tNHpsa2pmWFJ0Q1Jud3huYlBhem1YN01aU1M5LTZFMlAtd1E4Rkh1aUQya1NXTkk1aTRVYXJ5eUJxbVpqYldhNlZUSzVEN1g4Tlk0ajJuTnpUdEhIQXJVV3dGQ1pMdGVMVHM0ZENEX3JMOUhjbE9TOHU1Uk5ra2ZzQ1I?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T19:01-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "88906431d72c",
+   "titulo": "Quem é Anne Carson, escritora que venceu o Nobel de Literatura de 2026 - Superinteressante",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHVTbHVEYVkzenp4UFR0ZXVNOWdXQ3hITEhxV1E0c1NQM3Q0VE1ZVE9MbzFJem1kVElFa3NnUE5pa0VwbDJOVFktY1k0LWZhRXNhNHM1RExXYW5XM29UeXZTNTlEWktkR0d2Nm1VVlRoU2Q3U3NaSmRXWWhNcm1Pc093b21iMm5waW53by1OczVMM1hVU2czemZUMVhoYVZuY3hjYlRfREE?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T19:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "42e8b008bf8d",
+   "titulo": "National Book Award unveils 2026 Translated Literature shortlist - The Lagos Review",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTnloZ1JGVmt5ZldGY0hGTlMzSEJKVW03d01rR01HSEJFQW1paEJxSVFIUTAtTEpMZ3NObjdNR0M2cTdZQ3VOd3pDR0ZPMHI3Z2diYUxoNmhfVUZWM29Udnp0SFUteWhLYjh3Z25TTE1HVThyanJEc3BOYldKVkpWN3JfNlRqejdfOVpYRUlnc1IyX21zX2c?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T18:38-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "e1e07796c7f2",
+   "titulo": "Autora de obras que mesclam diferentes gêneros literários, Anne Carson recebe o Nobel de Literatura de 2026 - Jornal da Unesp",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUi1ESXp6ZnVVaWdfa2M2ZDJIU1VqWW45LUx2RERPeXNrbEhZTFJwbHJVdlY4T0xBczZzQnZRSnlnS0Rkb2gzdjR3N05GYVVNd2VuM01jTU96SkJFSS1Wdk5KTmREckVvcC0yOGdzMUlPTU93Z3lVTS1IRTBrekNxaGdtSVFMaEZkVVpEX01Fd05fREhvRUhLZ3VWVHI4TmNfaVRGNmtiVW9RemQwZ3NBTmhBRFVUTlRJdVJlRklMVUtWMTFQRFFKMjMzZl8yTE1SX1FYbC1UZFJXZw?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T18:37-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "1cef28f39ee5",
+   "titulo": "Ser levado, deixar-se ir",
+   "link": "https://quatrocincoum.com.br/colunas/onde-queremos-viver/ser-levado-deixar-se-ir/",
+   "resumo": "Numa noite de febre em São Paulo dei-me conta de um conflito inerente na minha vida, ou uma ironia. Poderia ter sido deste lado do Atlântico? Não sei. Sei que era preciso atravessar aquela repentina febre, naquela circunstância onírica que é o Brasil visto da janela do autocarro para um português…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T18:27-03:00",
+   "tags": []
+  },
+  {
+   "id": "05bfe1704c0c",
+   "titulo": "Anne Carson vence o Nobel de Literatura - ELLE Brasil",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40d3JwRDc0OVB3Y2pBN2V0VXczVVFqU3Z0OFY5dFd2NEhJZlBaMHZlamRnYkk1d1QwNl9rRUF0SHJmUkd4M2xBTUpfbjY5OEF4OHNuU0JuSmNDQVVJdlByZHdSVjQxMElKZ0MyM1RIWk9zdEswWUE?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T18:23-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "78bcb0a0c139",
+   "titulo": "Conhecer uma casa",
+   "link": "https://quatrocincoum.com.br/colunas/onde-queremos-viver/conhecer-uma-casa/",
+   "resumo": "Vou conhecendo as sombras, aprendendo os barulhos do prédio. Os passos a custo da cadela de vinte anos, o castelhano dos ocupantes do apartamento do fundo do corredor, a zanga do vizinho zangado, o olhar do velho senhor de pijama, que me observa à mesa da varanda, detrás do vidro, enquanto fumo.…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T18:21-03:00",
+   "tags": []
+  },
+  {
+   "id": "232b047ad706",
+   "titulo": "Nobel de Literatura de 2026 premia escritora canadense Anne Carson - Opera Mundi",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzNfaUF6RGtZUVIwbUVtX1BhaktVaGJrbUk3alJfd0NfcmQ4SkxzYVdBbjNBZWJpQ1BjazdQNTdMTjhRTVlQRjB5SFlPYW9XenZOU3R2N0V2bzE3LUF4cmxOMzFfNmNXdHd0VGhlRVVObGZBREpGenR5dmtyZ1dvVS1oZXdIM0NBU2llaF9Pb3VLa290aUdWdkV5Qm5wZ09ra2EyQjFnR0Z0UzZr?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – prêmios",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T18:20-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "12d590d13a3d",
+   "titulo": "New to Anne Carson’s Books? Start Here.",
+   "link": "https://www.nytimes.com/2026/10/08/books/review/anne-carson-best-books.html",
+   "resumo": "The Canadian poet won this year’s Nobel Prize in Literature. If you’ve never read any of her work, here’s where to start.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T18:12-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "33e54476f75a",
+   "titulo": "Behind South Korea’s Competitive Education System",
+   "link": "https://www.nytimes.com/video/books/review/100000011203524/behind-south-koreas-competitive-education-system.html",
+   "resumo": "On “The Book Review” podcast, Min Jin Lee, the author of “Pachinko” and “American Hagwon,” explains how losing social safety nets after 1997 reshaped Korean culture into an intense educational race.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T17:29-03:00",
+   "tags": []
+  },
+  {
+   "id": "04026a96475e",
+   "titulo": "Books Our Editors Love This Week",
+   "link": "https://www.nytimes.com/2026/10/08/books/review/new-recommended-books.html",
+   "resumo": "Suggested reading from critics and editors at The New York Times.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T16:45-03:00",
+   "tags": []
+  },
+  {
+   "id": "7dd3d3d4dc61",
+   "titulo": "Todas as definições sobre Anne Carson, Nobel de Literatura, estão erradas",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/todas-as-definicoes-sobre-anne-carson-nobel-de-literatura-estao-erradas.shtml",
+   "resumo": "O problema com Anne Carson , que venceu o Nobel de Literatura nesta quinta (8), começa quando tentamos juntar seu nome a alguma designação mais ou menos fixa. Leia mais (10/08/2026 - 16h23)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T16:23-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "eab1f8ef430a",
+   "titulo": "Jornalistas e influenciadores já podem solicitar acesso à 4ª Bienal do Livro de Guarulhos em novembro - Guarulhos Online",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGR1bjN1V1BYMEt0dHRkanZzLW9UdkEtTnRrOGxVRmpEd2RtVWtkRmFLVERLT0MtLVFRVWp4cUc0bzRTMXFDSGxXRW4zVHlLa2lFXy03S3I0ZnpWSFY5Szk0d2xVMEVSMkRTT0NsWWxOZGtnVW1mTVpzWmJteDVCUjI4c0d0ZTBRNXRBUFhZUdIBjwFBVV95cUxORGR1bjN1V1BYMEt0dHRkanZzLW9UdkEtTnRrOGxVRmpEd2RtVWtkRmFLVERLT0MtLVFRVWp4cUc0bzRTMXFDSGxXRW4zVHlLa2lFXy03S3I0ZnpWSFY5Szk0d2xVMEVSMkRTT0NsWWxOZGtnVW1mTVpzWmJteDVCUjI4c0d0ZTBRNXRBUFhZUQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T16:21-03:00",
+   "tags": []
+  },
+  {
+   "id": "4e3d91544d67",
+   "titulo": "Anne Carson Wins the Nobel Prize in Literature",
+   "link": "https://www.theparisreview.org/blog/2026/10/08/anne-carson-nobel-prize/",
+   "resumo": "This week, we’ve unlocked all of Carson’s work from our archive.",
+   "fonte": "The Paris Review",
+   "fonte_id": "parisreview",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T16:18-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "6eb97b08e926",
+   "titulo": "Mel Maia terá romance ardente com Cauã Reymond na continuação de 'Avenida Brasil'",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/mel-maia-tera-romance-ardente-com-caua-reymond-na-continuacao-de-avenida-brasil.shtml",
+   "resumo": "A história de \" Avenida Brasil 2 \" terá uma passagem curiosa: Mel Maia , que participou da trama original como atriz mirim, voltará a novela em uma nova personagem. Ela será responsável por fazer Jorginho, o mocinho interpretado por Cauã Reymond , de trouxa. Leia mais (10/08/2026 - 16h01)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T16:01-03:00",
+   "tags": []
+  },
+  {
+   "id": "a053d9012469",
+   "titulo": "FliMUJ, cordel, Silvana Tavano e mais: os eventos da semana",
+   "link": "https://quatrocincoum.com.br/noticias/agenda-451/flimuj-cordel-silvana-tavano-e-mais-os-eventos-da-semana/",
+   "resumo": "De 14 a 18 de outubro, a 5ª edição do Festival Literário do Museu Judaico de São Paulo (FliMUJ) reúne autores brasileiros e estrangeiros para uma programação que reflete literatura, memória, identidade e política. Entre os convidados estão Giovana Madalosso, Marcelo D’Salete, Oscar Nakasato,…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T15:23-03:00",
+   "tags": []
+  },
+  {
+   "id": "1a6f5c47ed0d",
+   "titulo": "Anne Carson: conheça os livros da vencedora do Prêmio Nobel de Literatura disponíveis no Brasil - Terra",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbHB3S1IzT2NmOGFfNUNjSWZoTkNYYVhHR0ZhVVA2Mlk0dko3bThuZWJYN2l2anFPZXR3b2VrLVVxUGNJaXZ0Q1FtaGdnOXJ0WFF1bTB1eUhqYV85Qk9DUURCYUx2UUVDamhVYU1zR1VrTFRUWnhWbnhvT2xiUFJnQTdPLTdwcGxZQ0x2clpVV2ZQdFdwSXFiblVkRmhfVHBfMksyNHhScVNpbnpzUmZMb0pKbXhRRXBjLUZ0QUMyUHNWN2N3bXNjZkxRWi11Mm8zNkFvVXhqZ1RINWxNY1pqOXlFcms0VXpYa0FjQWotaXFzQ0dNVlJiMmVsWFN3dzZ1ZFIyeg?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T14:25-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "75a864c496c9",
+   "titulo": "Pulitzer Prize-winner’s latest novel unfolds in two timelines - The Seattle Times",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmR4NUdSSlFfTmdmWDZGU1o0WXViOWE2WEpUZHpPT1YyOWlTSHIxSHhnQlRpU2ZQOFk0QVg4Z2VzSWE1Vk4weE9DUGFtMnlLY0l3MWdNRFJRSTU3TVZkMVdRSHNaLWNkYW9CVE9FdzlJOThZT05BWVRnV2ZEY3VoNi1B?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T14:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "994c3f49db9d",
+   "titulo": "'Se a prosa é uma casa, a poesia é um homem em chamas', disse Anne Carson",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/se-a-prosa-e-uma-casa-a-poesia-e-um-homem-em-chamas-disse-anne-carson.shtml",
+   "resumo": "Anne Carson ganhou nesta quinta (8) o Nobel de Literatura . A escritora canadense é conhecida por uma obra que combina poesia, prosa, tradução e estudos clássicos, frequentemente rompendo as fronteiras entre os gêneros. Leia mais (10/08/2026 - 13h52)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T13:52-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "12cedbe54a6e",
+   "titulo": "5ª edição do FliMUJ discute a importância das palavras na era das imagens",
+   "link": "https://quatrocincoum.com.br/noticias/bagagem-literaria/5a-edicao-do-flimuj-discute-a-importancia-das-palavras-na-era-das-imagens/",
+   "resumo": "O FliMUJ (Festival Literário do Museu Judaico de São Paulo) chega à quinta edição, que acontece de 14 a 18 de outubro, com a pergunta-tema “Uma palavra pode valer mais que mil imagens?”. O questionamento, uma inversão da expressão popular que defende a primazia da imagem sobre o texto, propõe um…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T13:49-03:00",
+   "tags": []
+  },
+  {
+   "id": "bbe229155040",
+   "titulo": "Dispelling the Myth of Cormac McCarthy as Cowboy-Artist",
+   "link": "https://www.nytimes.com/2026/10/07/magazine/cormac-mccarthy-biography-myths.html",
+   "resumo": "The first biography of the elusive novelist shows how little the lore ever told us about the man — or his art.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T13:42-03:00",
+   "tags": []
+  },
+  {
+   "id": "cafb5808d0e6",
+   "titulo": "Dark Retellings of Classic Books Like ‘Jane Eyre,’ ‘Frankenstein’ and More",
+   "link": "https://www.nytimes.com/2026/10/08/books/classic-retelling-gothic-horror-books.html",
+   "resumo": "The best-selling author Kat Dunn recommends some of her favorite modern retellings, of “Jane Eyre,” “Frankenstein” and more.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T12:59-03:00",
+   "tags": []
+  },
+  {
+   "id": "0aa834dda4b4",
+   "titulo": "Dos 123 vencedores do Nobel de Literatura, apenas 19 são mulheres; veja quem são elas - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQUdzQ0ZWSmtCWFFBRUxjemR4XzFScXZiVUtBOEliUjZvNlFONTlKcmRidG56QWplRnpOTzNrQWRJekVNNEtQNFctSHU5a0Zxam5hdGdodGNXc1l2NTBla0NxaGw2bHlXVlJ2QXJwaEJ1V0NySVJCVGFiVlVDbHFpdEdXb2Q2YVY4OVRKTGJjNjUzRHlBUGJ4RWJjYkRyUHh3QjRLdjVmNWNHQ0tudEpXSEhLUTZPYXVPYk5hbUladlNidEhSdk1zNG5Ub2stc2dacnR2MlFhTdIB1wFBVV95cUxQQUdzQ0ZWSmtCWFFBRUxjemR4XzFScXZiVUtBOEliUjZvNlFONTlKcmRidG56QWplRnpOTzNrQWRJekVNNEtQNFctSHU5a0Zxam5hdGdodGNXc1l2NTBla0NxaGw2bHlXVlJ2QXJwaEJ1V0NySVJCVGFiVlVDbHFpdEdXb2Q2YVY4OVRKTGJjNjUzRHlBUGJ4RWJjYkRyUHh3QjRLdjVmNWNHQ0tudEpXSEhLUTZPYXVPYk5hbUladlNidEhSdk1zNG5Ub2stc2dacnR2MlFhTQ?oc=5",
+   "resumo": "",
+   "fonte": "Google Notícias – mercado editorial",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T12:34-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "09dc12c9f54d",
+   "titulo": "Book of Lives by Margaret Atwood audiobook review – a dryly funny memoir",
+   "link": "https://www.theguardian.com/books/2026/oct/08/book-of-lives-by-margaret-atwood-audiobook-review-a-dryly-funny-memoir",
+   "resumo": "The Handmaid’s Tale author reflects on her loves, losses and literary achievements in a memoir that showcases her wisdom and wit Margaret Atwood had to be persuaded to write a memoir. The thought of writing about herself initially seemed “dead boring. Who wants to read about someone sitting at a…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T11:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "9c8c3ccd655b",
+   "titulo": "Making of a Poem: Natalie Shapero on “The Top of Hell”",
+   "link": "https://www.theparisreview.org/blog/2026/10/08/making-of-a-poem-natalie-shapero-on-the-top-of-hell/",
+   "resumo": "For our series Making of a Poem, Natalie Shapero talks about her issue no. 257 poem, “The Top of Hell.”",
+   "fonte": "The Paris Review",
+   "fonte_id": "parisreview",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T11:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "303830dd66ef",
+   "titulo": "Himesh Patel & Maxine Peake Among The Stars In Latest Booker Prize Short Films - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYm16VEtiWnl2aG01VVVMX1NidHhHYzJLQ3NERFdhS3Z3LTQ2Q0NNQUtFdjFnalJGV2ZkT01vQWVNUzhGSl9rVl9ia3NDcWxNYldjb2puTXhXV0lGc29fV2tkSF82UUsxTjVnRUlVcHNDS2dJVTktYTBvcjdGVXNqSm5RdWs1Wm1RNldQaUFpYnVRWU5aUHc?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T10:05-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "bc19b0ac663f",
+   "titulo": "Himesh Patel reads from Black Bag | The Booker Prize - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wd3U0Qy1qWk5YWFZma3UtV3VSVDRZVndZa2tNTzJpNjZkUWlPRVk1ckpDcmZVM3c3bHZJVzhNQ0N6dw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T10:02-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "1a9e24283e04",
+   "titulo": "Himesh Patel, Maxine Peake, Kathryn Hunter and Paterson Joseph among cast for Booker Prize 2026 films - The Booker Prizes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkt5VHZicEU1WFdFR0xMZWtESm05NENrMHM3Y2dtM0NVRzdjT0xjQXpRUWx3UmNIalBKRWNpdzNrek4yVnk0RnFTQ0d5TTNRS0NscFpXYTZKcGxQd0gyM2x0YjNjOEZjR2RRQVluOGJIWWpiNUtmbGE4VC13Y2pvX3VkN0ludw?oc=5",
+   "resumo": "",
+   "fonte": "Google News – literary prizes",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T10:00-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "b7b0c6174329",
+   "titulo": "Conheça os livros de Anne Carson, a mais nova Nobel de Literatura",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/conheca-os-livros-de-anne-carson-a-mais-nova-nobel-de-literatura.shtml",
+   "resumo": "Anne Carson já tinha diversos livros publicados no Brasil antes de vencer o Nobel de Literatura , na manhã desta quinta (8), algo relativamente raro no mercado editorial e que abre boas oportunidades para quem não conhece a autora. Leia mais (10/08/2026 - 09h52)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T09:52-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "ac68fc4b5a0f",
+   "titulo": "🔓 Anne Carson vence o Nobel de Literatura de 2026",
+   "link": "https://rascunho.com.br/noticias/anne-carson-vence-o-nobel-de-literatura-de-2026/",
+   "resumo": "Aos 76 anos, a escritora canadense é premiada por uma obra que aproxima poesia, ensaio, tradução e tradição clássica The post 🔓 Anne Carson vence o Nobel de Literatura de 2026 first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T09:10-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "9849bf03f96a",
+   "titulo": "Anne Carson vence o Nobel de Literatura 2026",
+   "link": "https://quatrocincoum.com.br/noticias/premios-literarios/anne-carson-vence-o-nobel-de-literatura-2026/",
+   "resumo": "A escritora canadense Anne Carson, de 76 anos, venceu nesta quinta-feira (8) o Prêmio Nobel de Literatura. O comitê da premiação concedida pela Academia Sueca a reconheceu “por sua obra ousada e inventiva, que, em diálogo lúdico com a tradição clássica, criou novas formas para a literatura…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T08:21-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "bc6cbf21f9ba",
+   "titulo": "Nobel de Literatura premia Anne Carson, canadense que renovou a língua inglesa",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/nobel-de-literatura-premia-anne-carson-canadense-que-renovou-a-lingua-inglesa.shtml",
+   "resumo": "O prêmio Nobel de Literatura de 2026 é da poeta e ensaísta canadense Anne Carson , anunciou a Academia Sueca na manhã desta quinta-feira (8). Leia mais (10/08/2026 - 08h03)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T08:03-03:00",
+   "tags": [
+    "premios"
+   ]
+  },
+  {
+   "id": "562ef1f9a6f9",
+   "titulo": "Minicrônicas do mau humor",
+   "link": "https://rascunho.com.br/cronistas/carolina-vigna/minicronicas-do-mau-humor/",
+   "resumo": "Parafuso perdido, cachorros inconvenientes, política e elevadores testam a paciência de quem já não tem disposição para fingir calma The post Minicrônicas do mau humor first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T07:55-03:00",
+   "tags": []
+  },
+  {
+   "id": "9d8e883cbab6",
+   "titulo": "Book Review: ‘The Names of the New World,’ by Kawai Strong Washburn",
+   "link": "https://www.nytimes.com/2026/10/08/books/review/the-names-of-the-new-world-kawai-strong-washburn.html",
+   "resumo": "In the Minneapolis of Kawai Strong Washburn’s climate dystopia, three characters form unlikely bonds to take on the nation’s greediest oil behemoths.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "ceb49b87c319",
+   "titulo": "Book Review: ‘Fair Ones,’ by Lydia Millet",
+   "link": "https://www.nytimes.com/2026/10/08/books/review/fair-ones-lydia-millet.html",
+   "resumo": "In Lydia Millet’s dialogue-driven novel, a random act of violence leaves two New York women at loose ends (though not for long).",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T06:00-03:00",
+   "tags": []
+  },
+  {
+   "id": "30a71f253713",
+   "titulo": "Agate Head / Stone Soup by Patricia Lockwood review – a gem of a collection",
+   "link": "https://www.theguardian.com/books/2026/oct/08/agate-head-stone-soup-by-patricia-lockwood-review-a-gem-of-a-collection",
+   "resumo": "Inspired by stones and metals, the memoirist and novelist’s first poetry collection for more than a decade is charming, whimsical and intimate In the introduction to her first book of poetry in 12 years, Patricia Lockwood states that, “For almost a decade … I had not been able to hear it. The poems…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T03:00-03:00",
+   "tags": []
+  }
+ ]
+}
