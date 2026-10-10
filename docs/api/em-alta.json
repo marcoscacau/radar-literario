@@ -1,0 +1,69 @@
+{
+ "gerado_em": "2026-10-10T19:49:35-03:00",
+ "dias": [
+  "2026-10-10"
+ ],
+ "termos": [
+  {
+   "termo": "Anne Carson",
+   "fontes": 6,
+   "mencoes": 19,
+   "por_dia": [
+    19
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "3e5a36badab7",
+    "e06619c324c6",
+    "cd00db54469b",
+    "a690d09ebd85",
+    "39a40c5b7676",
+    "925701688a13",
+    "eff76e1f299e",
+    "8b1b84d8688d",
+    "88906431d72c",
+    "e1e07796c7f2",
+    "05bfe1704c0c",
+    "232b047ad706"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "fontes": 5,
+   "mencoes": 17,
+   "por_dia": [
+    17
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "3e5a36badab7",
+    "b7dbabac041b",
+    "e06619c324c6",
+    "ed018dc03165",
+    "eff76e1f299e",
+    "8b1b84d8688d",
+    "88906431d72c",
+    "e1e07796c7f2",
+    "05bfe1704c0c",
+    "232b047ad706",
+    "7dd3d3d4dc61",
+    "994c3f49db9d"
+   ]
+  },
+  {
+   "termo": "Augusto Cury",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    4
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "05f363d18e15",
+    "617fa0882220",
+    "ae5ab3f11b52",
+    "8f5d6c37c1db"
+   ]
+  }
+ ]
+}

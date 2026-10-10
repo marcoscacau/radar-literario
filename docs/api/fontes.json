@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T19:49:06-03:00",
+ "gerado_em": "2026-10-10T19:49:35-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -70,7 +70,34 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
+   "itens_no_feed": 36,
+   "novos_hoje": 0
+  },
+  {
+   "id": "gn-estante-br",
+   "nome": "Google Notícias – autores da estante",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 43,
+   "novos_hoje": 10
+  },
+  {
+   "id": "mundocristao",
+   "nome": "Mundo Cristão (editora)",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 1
+  },
+  {
+   "id": "fapesp",
+   "nome": "Revista Pesquisa FAPESP",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 2,
    "novos_hoje": 0
   },
   {
@@ -101,6 +128,69 @@
    "novos_hoje": 0
   },
   {
+   "id": "guardian-ciencia",
+   "nome": "The Guardian – livros de ciência",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 20,
+   "novos_hoje": 0
+  },
+  {
+   "id": "guardian-filosofia",
+   "nome": "The Guardian – livros de filosofia",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 20,
+   "novos_hoje": 0
+  },
+  {
+   "id": "guardian-religiao",
+   "nome": "The Guardian – religião",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 7,
+   "novos_hoje": 0
+  },
+  {
+   "id": "tgc",
+   "nome": "The Gospel Coalition – resenhas",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 100,
+   "novos_hoje": 6
+  },
+  {
+   "id": "ct",
+   "nome": "Christianity Today",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 1,
+   "novos_hoje": 1
+  },
+  {
+   "id": "reactor",
+   "nome": "Reactor (fantasia e ficção científica)",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 5,
+   "novos_hoje": 2
+  },
+  {
+   "id": "gn-estante-en",
+   "nome": "Google News – authors on the shelf",
+   "grupo": "internacional",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 59,
+   "novos_hoje": 8
+  },
+  {
    "id": "parisreview",
    "nome": "The Paris Review",
    "grupo": "internacional",
@@ -115,7 +205,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 42,
+   "itens_no_feed": 40,
    "novos_hoje": 0
   }
  ]

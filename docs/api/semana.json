@@ -1,10 +1,28 @@
 {
- "gerado_em": "2026-10-10T19:49:06-03:00",
+ "gerado_em": "2026-10-10T19:49:35-03:00",
  "dias": [
   "2026-10-10"
  ],
- "total": 108,
+ "total": 136,
  "secoes": {
+  "para-voce": [
+   "a9e05283f232",
+   "01c9e34fb7bb",
+   "432b561be225",
+   "bdf735729197",
+   "05f363d18e15",
+   "03be29defb69",
+   "617fa0882220",
+   "2b6d501d1050",
+   "ae5ab3f11b52",
+   "e9bf3c66c547",
+   "d7f273ff218c",
+   "95299bf1cc66",
+   "bf728fe78cd0",
+   "42631d16f77e",
+   "39b2c622ac5f",
+   "9d8e883cbab6"
+  ],
   "premios-lancamentos": [
    "dabc01688f1a",
    "3e5a36badab7",
@@ -63,24 +81,34 @@
    "28ee87d18584",
    "40914c00e6b3",
    "fb33a9fe7ee9",
+   "bdf735729197",
    "266e33b8bd36",
    "59a2da3eaf3f",
+   "05f363d18e15",
    "1c9345b02d10",
+   "8df1f39862ee",
    "3e5a36badab7",
    "71433fb3a75b",
    "9dbd32b09129",
    "b7dbabac041b",
    "3f35a96eef93",
+   "617fa0882220",
    "e7adbc67f38d",
+   "2b6d501d1050",
    "e06619c324c6",
    "34e70a4db72a",
    "91406b3b1159",
+   "95299bf1cc66",
    "77f290cee998",
    "7c9b080feeee",
    "cd00db54469b",
+   "432b561be225",
+   "48553410f058",
    "bed395238978",
+   "ae5ab3f11b52",
    "3ec9344ce624",
    "4831b6f0858c",
+   "8f5d6c37c1db",
    "1d510cc1c697",
    "b6dc1ef55da2",
    "39a40c5b7676",
@@ -108,22 +136,33 @@
    "12cedbe54a6e",
    "0aa834dda4b4",
    "b7b0c6174329",
+   "39b2c622ac5f",
    "ac68fc4b5a0f",
    "9849bf03f96a",
    "bc6cbf21f9ba",
    "562ef1f9a6f9"
   ],
   "internacional": [
+   "e9bf3c66c547",
    "e15cf9a22e5c",
    "204ced2fe7b9",
+   "f8d36d0f84e8",
    "fd433e24978d",
    "c164ae436526",
+   "03be29defb69",
    "4ad170aa5875",
    "a1aaf44a3fd6",
+   "16c05fd87b35",
    "89c260925533",
    "dabc01688f1a",
+   "d7f273ff218c",
+   "78ed0e531266",
+   "01c9e34fb7bb",
    "ccb6189edc71",
+   "a9e05283f232",
    "604c13db3528",
+   "185de5534594",
+   "2ab2e44c4cf6",
    "bf728fe78cd0",
    "a690d09ebd85",
    "986df8f2843c",
@@ -131,6 +170,7 @@
    "42631d16f77e",
    "b78c5d565cfb",
    "6659d5dfec53",
+   "cafb3e6c5dbb",
    "a070add305e8",
    "72f63cdd7028",
    "414864042e0e",
@@ -146,7 +186,10 @@
    "9b75b21959ca",
    "1128e8ab320f",
    "29e2e37217ca",
+   "48876df2ca59",
+   "0bcdaa318736",
    "d693059a8882",
+   "04e83f20de30",
    "3c625876cbc5",
    "fda3b19292e6",
    "728ddc43e3e0",
@@ -156,19 +199,31 @@
    "12d590d13a3d",
    "33e54476f75a",
    "04026a96475e",
+   "4d1604e431eb",
    "4e3d91544d67",
    "75a864c496c9",
    "bbe229155040",
    "cafb5808d0e6",
    "09dc12c9f54d",
    "9c8c3ccd655b",
+   "c5ce501740b8",
    "303830dd66ef",
    "bc19b0ac663f",
    "1a9e24283e04",
    "9d8e883cbab6",
    "ceb49b87c319",
-   "30a71f253713"
+   "30a71f253713",
+   "82de091ce889"
   ]
+ },
+ "temas": {
+  "fisica": "física e ciência",
+  "fe": "fé e teologia",
+  "filosofia": "filosofia",
+  "russos": "literatura russa",
+  "fantasia": "fantasia e ficção científica",
+  "suspense": "suspense e mistério",
+  "mente": "mente e emoções"
  },
  "itens": [
   {
@@ -182,6 +237,31 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T18:15-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "e9bf3c66c547",
+   "titulo": "5 Greatest Fantasy Book Trilogies Of All Time, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakpZZ1NERVhmdmZKU0VTTFltbWU2M3h3bU5fbmpPUVVDVEdDVWJUM0cyZkFTaXpVVVRENFFuSkU1WmhlUmlDYmZQRVhzX3B5c20zVGthRkZ3T19NaW5VQ0tJQ1NwTHo4T2VGMmxvZ2pRYWFOamFlM21rTXZHSzJweThn?oc=5",
+   "resumo": "",
+   "fonte": "Comic Book Resources (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T16:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "fantasia"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -195,6 +275,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T13:29-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -208,6 +293,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T12:53-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -221,6 +311,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T12:50-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -234,6 +329,31 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T12:40-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "f8d36d0f84e8",
+   "titulo": "The Lord of the Rings D&d Books Smash Crowdfunding Record",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UX0xTdzdUMjFreGVvM3NvUC1hWjM3Nk5BbGREcmtmS2hOTkY4LTY3SnBTM1FNSDhXZXhYVlFkSG54OUhWU3JGYlBsZ0J4X1F4Z2NyeFdsUW4yTEZxZFkxOVBfWmdwWFU?oc=5",
+   "resumo": "",
+   "fonte": "IMDb (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T12:04-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -247,6 +367,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T12:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -260,6 +385,31 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T10:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "bdf735729197",
+   "titulo": "Brasileiras levam leitores de Lisboa a Praga para percorrer os cenários de Dan Brown",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVVHQVQwN1hiSHpnb3BCV0hBSXlWNkU4TEYyem83eGJkWFFRMnZZOVNKSW14Y3FJVmJ4MXl6SUR3RkY1dGlWeWFRSEE0NDU5WUc4SEtQclB4Zm9TVUphcjM4cndtS0xJTTdVNUZ3TmFQN1VFNTh6cW42dzNia1gycGF0QW85UlpDUkF1UDJ1NWpRN0dOQ3JyNWJ6aFhzcGcwd1BoRDZKTlY1elBJYkFTUzJiSlFOVFBtYVNQeXBGWDdaTXZLdGFaWVl1b3JRdw?oc=5",
+   "resumo": "",
+   "fonte": "Público (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T10:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Dan Brown"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -273,6 +423,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T09:08-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -286,6 +441,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T08:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -299,6 +459,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T07:33-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -312,6 +477,51 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T07:30-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "05f363d18e15",
+   "titulo": "O Caçador de corruptos: Augusto Cury contradiz a própria obra",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWRqWG9faUFLVG5RWS1kczlrV05jWnZGVUdjY1pWd1lYVlFVaFVGeGc3SmN1Z2JqT0lzQVotRXphVzlINVU4dTZWR3FiRVFXSmZJZ1QzSmh2LXdBSWwzUEpXUkFJSU9xOGZseXM3R2tfUGJoNWoxQUp1OXZTcEdXVGY3SDYteTJpYVVyMGJySk02SmRv?oc=5",
+   "resumo": "",
+   "fonte": "Portal 25 Horas (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T06:47-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Augusto Cury"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "03be29defb69",
+   "titulo": "Lord Of The Rings: The One Ring Officially Releases September 2027",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWEFuMlVnR1dhWXhNSGZjT0dUS3F0S3lPcFlPd0lFbjFia1BodnJzN2k4N0NGVkhmWjFvUm01QnVTWUFhd1N3bmZjMU9wYThiQ0xhOVoxbEI0U2I2d2xWb2VITWVEMUJqSWNUYXFGd2h1TVU?oc=5",
+   "resumo": "",
+   "fonte": "ScreenRant (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T06:30-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -325,6 +535,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -338,6 +553,31 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "16c05fd87b35",
+   "titulo": "The Rings Of Power's New Wizard Is Based On A Single Line Of Tolkien Lore",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqOTQwM09keFdfSG1UX2JhQ1I1Z055dUlQOS1xQ2ZUd19OZThGZDZxYUlzYWxVSUgwVnRGdkhjazREQUJwLVVHUUdZd0xpdGkycjhoWnlHQWd1NW9vLXpoTUhJU0VndlJ6RFM5WmFpUWloZDk1dFE?oc=5",
+   "resumo": "",
+   "fonte": "ScreenRant (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T06:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -351,6 +591,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-10T05:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -364,6 +609,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-10T04:51-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -379,6 +629,93 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "8df1f39862ee",
+   "titulo": "The Lord of the Rings: The War of the Rohirrim honra Tolkien com Old English",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmRKXzVPTVAtQjdJT0VldE9zdUFJYWhabDg0ejVSaWxTd09lN1RBUHBwcWpHMEhCVWxCTW1iQ3NQdEdFYTRJdHg2WEpBUDBNb3BNNy1kVExsZGZrTW00MGVZc2dmY0FNU2xWR3puYmFhenFoYnBXNUVrRkM0SkpuMTFEOHh6UlR6SEI2UHhhdGhBdWFKN2NSQUFpWWVVbldTMllZ?oc=5",
+   "resumo": "",
+   "fonte": "culpadolag.com.br (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T02:23-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "d7f273ff218c",
+   "titulo": "Editor’s Pick: 7 Theology Books That Encourage Devotion",
+   "link": "https://www.thegospelcoalition.org/reviews/editors-pick-systematic-theology/",
+   "resumo": "This list of recently published (or republished) theological texts includes books that can encourage Christians at various stages of spiritual maturity and equip them to serve the church.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T01:02-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "78ed0e531266",
+   "titulo": "In a World of More, We Need a Theology of Enough",
+   "link": "https://www.thegospelcoalition.org/article/world-more-theology-enough/",
+   "resumo": "A theology of enough is the foundation of contentment.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T01:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "01c9e34fb7bb",
+   "titulo": "5 Fantasy Books With Better Magic Systems Than Lord of the Rings",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA1cURDSmZvTEZhdENNMDFoX09mRWpfY3hZbnNYdm9yZkJWUG9qUWNsRTUtWVczMkcyaWRsYWNQMnNBOXJSd0NTVHZYMmU1alZGSmVQRW5IQjMzU0FDdy1pc3BPSXFiczdUQmEwS0VsX3Y3ZzB5NjZLX3hXTS1OZ3Z5V3BTWUE?oc=5",
+   "resumo": "",
+   "fonte": "Comic Book Resources (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-10T00:30-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 5,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": [
+     "fantasia"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -394,6 +731,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -409,6 +751,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -424,6 +771,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -437,6 +789,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T20:22-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -452,6 +809,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -465,6 +827,52 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T17:53-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "617fa0882220",
+   "titulo": "Viva! Augusto Cury abraça Flávio Bolsonaro. Documento de compromisso contempla Livre Iniciativa e...",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVk9nTUliSVRFMVE1dWVGaUNObjE1LVNoVkxseGxZNXUwUUdrYTFhY0gzZkVWNUdMbzdnZmZiaGxaOWtwQ0ZGRkpSbjBCVV9hUkFEZGU3bDJLWUxQQ3dWVDZybnFjTjlWU1RSSXl2Zl9OVExNUGZRa2Vma2VWRzhqaVVzSGFpTEMxemJiQzM4d2RuZTVzZW5WQUlaUjlObU5Kdy1Vb3hKc3ZqYjlnM1JaY01iSG1fRDN1NWJ2eV82RXVYcDRHckxKN3ZaOV8yUjF0OFJldHZyVi1aZEnSAeABQVVfeXFMTzdlMUxLenBDZEdrbmFIRWIzUGMzTzRQQTIxOVppMW9nNTVEUUMycWNkaXpyRHNGWFlnVXpuUmtxdGIzcHFrTVhTVGVNV2NFaUlxZVMtM1ZQa0J3akF3OEF5aWRaMkpYS011cm9vVW9neGdfQjRjTWsxSEV1Z1llYldrNHRlQmlpZmNKS05Fc0JkdWM3MVlkTGMydnZILVdXMUhpZWFmVTNuVjB5ZGJ2UWExT2RENmV4ckdGNlFkcExGTkJpdkoyeTFfUjBldzV2N21KUGN5QjM2Um40Nk5tZ3U?oc=5",
+   "resumo": "",
+   "fonte": "SEGS Portal Nacional (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T17:38-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Augusto Cury"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "a9e05283f232",
+   "titulo": "New Doc Explores ‘The Forge of Friendship’ Between J.R.R. Tolkien and C.S. Lewis",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yYTVzV1dQVnpjLUNCczdkWGdlbE5EQXJROGE5XzlaVlNabnhWNENKdUFIMm91a3VyOHRUTGIwRjAxYmtnSXRQN2NzQV9xZG9UZ0FCaXdReTVDM05DVUdURE8zNHZhdUtkcWpuN2FXLUZCYVFCYnNBRnlaMA?oc=5",
+   "resumo": "",
+   "fonte": "MovieMaker Magazine (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T16:34-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 6,
+    "autores": [
+     "J. R. R. Tolkien",
+     "C. S. Lewis"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -478,6 +886,31 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T16:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "2b6d501d1050",
+   "titulo": "Orquestra Ouro Preto adapta 'A Metamorfose', de Kafka, para público infantojuvenil no Sesc Palladium",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlVSSmtDYm5nRWxqaFJRN3ZNYlRSamZ4dW9wSjd3WkhzbFBZZ1AxdUQzY1J4dEdnV1Vac0VET0RlczRvNXhkYTZub21LaUEzRlpzWXFXYkR0Z3hFY1VxZW9IUmNhaG1yMzQ2S3d6T1FFeVlEOXFfZDFLN1lxWWpJeVhnNWtlS2xidDF0dUlaRl9tUVhVcTVSYzhnUzhOdE9sU2dKaU5KRjZCZDlZMllCTmJESElFVEhBYnhlMUxZSk1SUQ?oc=5",
+   "resumo": "",
+   "fonte": "BHAZ (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T15:46-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Franz Kafka"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -493,6 +926,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -506,6 +944,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T15:30-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -521,6 +964,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -536,6 +984,69 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "185de5534594",
+   "titulo": "The Lord Of The Rings: The War Of The Rohirrim Pays Tribute To Tolkien In An Unexpected And Heartfelt Way",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGw2eF9ZT0JXQ09fTDF4cWFhU0dlcGROVDh3dnNuRDY2VGI0U1pvSmlDYTZueVVEVWV2TFBSRWw1NjRNUEFJVFBKeTRkZHpQM0tVXzV4SnpWZV9hTUpsLVIydjYtTF82QmhCbFVJT3RfajZ1N295RjRlZUhVZ1hIVGdrei1uQnBucEtUcVZ4dEpGdWtWV1MwOHVkLU5pZDRHNG1Tako5b0pxVG03NFgtQ3RNNnFHMHRmaE9wTjk1Zld3YTRPU045NDlwT0VjWEVaRTB5ZE5wakY?oc=5",
+   "resumo": "",
+   "fonte": "ComicBook.com (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T14:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "2ab2e44c4cf6",
+   "titulo": "The rise of the intellectual influencer: Why the fashion industry is turning to writers and artists",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGhMWG1oNVV2cUdlR1R6Wmlnb29Rb3M5UWczeFZNTXZHb1hwTTEyVDM0ODFTUXFFdDRHblZzUjhydkVucHl5ZEdSWTU1eEI0emlPdjRGeWRNY3JHRVdBZkVFYW1DLWVRNTg0ZTJ3b1F4UURRSlZzM2VHQ3AxTDFyRUR2cFlmSzVMS2NYZlQtRWNYVC1DMERUT3JNRDhhaTF5VW1ER2hQbTduRURSN2xMRm94OFdHSDlTQXNnVXM3SHVBRjJZR0pUX2w5X25lUi1NQXhhdXoyTDNKdXlEclHSAfIBQVVfeXFMTmVmV3BPM3l1WHMzZVZwOUM0dVhvdVRydHpvaWp1ZzBNX09JUlp2ZV91S01HNmRsdHV3ZVlLRlhJZFhDNXU1ZU1xVjF3dXBQYXpjUE5Pa3gwOG41ZU9nTFdUbVA0UTNwNzdDOHBlcVFtQnVqcVg0T3UtWGlaQVB4MGt5NkZlSjMySk9Sdmd4M183SjJFQnFYU2doX2p3RTlkVHhPbXVJenhKUDFrOTJLYV93TTd0WlBUbUFrUENqQkZ2ZnNzR3A1ZEc3N0Q4VGQ3ZVJ4U3VVa3J4X1ptUEdsQ2QxUXloSGdacjQzSlVsTGFObkE?oc=5",
+   "resumo": "",
+   "fonte": "EL PAÍS English (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T13:47-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "95299bf1cc66",
+   "titulo": "Livros de suspense com brindes exclusivos chegam às lojas em outubro",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZjJ2RnZtQUt1c3VPV1FlNnFNQ24zYU1yLVZfUWVnd2h4UzhueHU1TER3SlN1ZFFNYjBqNEZLR1hISmhwa2pEY3hNX3k1Wl9JdEVFYmhsVW5XOE9LTVVRckhkQ1Boem8taHlIdV9Idm55R0tPOEtUZGU1TnREWTNDUzg3T0RyZEdJaUdlWFVFaERhOUhheS1idHFLVW8waXR4UE5ZSzFOOTAxeFJrWS1saFhUYjBMNFhpeVFEOWt2S1paWEo2R3AxV1NTc2NpTFE3STlNeFNLZ2U2M1ZTU3lhMVBn?oc=5",
+   "resumo": "",
+   "fonte": "Terra (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T13:05-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "suspense"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -549,6 +1060,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T13:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -562,6 +1078,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T13:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -577,6 +1098,33 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "432b561be225",
+   "titulo": "O que é um thriller? Raphael Montes destrincha o gênero no programa Livro Aberto; assista",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFdnNHZWN1VpMS1oUEZiQVE1N3l0ckswTTY3QnZhZVd3RnR0T1J0aUF1UTFIMDJpTjctM0xscm1Kb1RMakNvcVB6WEpmMnc0UkhFbzNzcExoTXN1MWVtai1hZE9YQWZRTm9MTGROamNxR1RNZWRwamZKanZjcEhmb3Rva3lRRF92VHNOVkhkODNpWVRLQVZLMTdTTjhMT2pGSEZoNnNNdk5vTEl5VzFEUUMzM3ZZYzhpYkgyUHExMA?oc=5",
+   "resumo": "",
+   "fonte": "VEJA (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T12:33-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 5,
+    "autores": [
+     "Raphael Montes"
+    ],
+    "temas": [
+     "suspense"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -590,6 +1138,33 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T12:20-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "suspense"
+    ]
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "48553410f058",
+   "titulo": "Em Busca de Tolkien estreia nos cinemas da Cinemark em 13 de outubro",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlF1NkpkanZLVVhaYUFNS3VsZkVBS0NZbV83cGZIZF9NSUV1YjdQclZZbkxQLUxaTk1aXzVES2NjbHRSM3NOVzdoSHNjSldwY1Yta2lsaFB4X3BkbldJMncxbGRhb3ZoSk15X3RCZEU3dTdfcURiTThQSWJPQVZRWF9vUHdEVUZWaGxZcS1YcVdXMVRWSEJrUUtHWjZqbUl0bDQ1eg?oc=5",
+   "resumo": "",
+   "fonte": "jwave.com.br (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T12:17-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -605,6 +1180,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -620,6 +1200,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -633,6 +1218,31 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T11:50-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "ae5ab3f11b52",
+   "titulo": "Augusto Cury: o vendedor de sonhos que comprou um Dark Horse",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDlIQ0dRY1RnYWRDdGdCRnF2czJjbVhiXy0tQWgzVk83dTJzdGRIVlJUU0JqT1B6NG4zblZBaWRNaE9xQ0N6WmpSYjRIX3QtLVMxTjJUckxMeld3b3pEYmI3WDBBZXpLTXJGTmpkSTR6dGh2UHBrYTB6OEVfUHZfTkE2SXRnWnlEYlNlaEZpRVFCQWg0anFBNDE3UUsyT3AzMnRaWkNSZ1RfekZiSEE?oc=5",
+   "resumo": "",
+   "fonte": "Metrópoles (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:33-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Augusto Cury"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -646,6 +1256,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T11:22-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -661,6 +1276,31 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "8f5d6c37c1db",
+   "titulo": "Augusto Cury anuncia apoio a Flávio Bolsonaro e destaca compromisso público com projetos para o Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHFqTXh6WW1VWkI3YlkzQ0dRNzFYRlFGNkhYWHJ4aE9QTUp6dlBhbzEzNmVTbXVfMkhrSlAtZjNIRWNaazMzSXlLMjJpbWo4R0c2eTI2eW9Vb1djUWw0LUxXSzZ1Rmx2R3BJYVUxUTltMUdKZWFQTGpTM1JYTU9zV2tNWDlOWDYwbHVkNURlcURLVWw1UG1mcGRrUWxsdndVd09qWkRjSV9aWG1uN0tmeVFnYnhaZzNKRHJGc0ZVWFhaMWpwTUc3YUxMVno4WE8tWUcw?oc=5",
+   "resumo": "",
+   "fonte": "Folha Metropolitana (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T11:15-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Augusto Cury"
+    ],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -674,6 +1314,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T11:06-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -689,6 +1334,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -702,6 +1352,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T10:50-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -717,6 +1372,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -732,6 +1392,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -747,6 +1412,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -760,6 +1430,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T08:41-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -775,6 +1450,13 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "fantasia"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -790,6 +1472,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -803,6 +1490,29 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T07:22-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "cafb3e6c5dbb",
+   "titulo": "The Confessions, the Comforter, and ChatGPT",
+   "link": "https://www.christianitytoday.com/2026/10/the-confessions-the-comforter-and-chatgpt/",
+   "resumo": "This piece was adapted from CT’s books newsletter. Subscribe here. Gene Edward Veith Jr. and A. Trevor Sutton, Irreplaceable: Humanity, Vocation, and the Limits of Technology (Baker Books, 2026) Christians are writing a lot of books about technology at the moment. You can see why. Even before the…",
+   "fonte": "Christianity Today",
+   "fonte_id": "ct",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T07:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -816,6 +1526,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:10-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -829,6 +1544,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:09-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -844,6 +1564,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -857,6 +1582,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:08-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -870,6 +1600,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:07-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -883,6 +1618,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:07-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -896,6 +1636,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:07-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -911,6 +1656,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -924,6 +1674,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -937,6 +1692,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -952,6 +1712,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -967,6 +1732,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -980,6 +1750,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T05:44-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -993,6 +1768,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-09T05:23-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1006,6 +1786,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T05:19-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1021,6 +1806,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1034,6 +1824,49 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T03:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "48876df2ca59",
+   "titulo": "One Nation Under God? Responding to Christian Nationalism",
+   "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/one-nation-under-god/",
+   "resumo": "Not everyone means the same thing when they talk about Christian nationalism.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T01:03-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "0bcdaa318736",
+   "titulo": "Caleb Flynn and the Deadly Sin of Greed",
+   "link": "https://www.thegospelcoalition.org/article/caleb-flynn-greed/",
+   "resumo": "Caleb Flynn’s lust led him to commit adultery. But greed might have been what led him to commit murder.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T01:02-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1049,6 +1882,31 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "04e83f20de30",
+   "titulo": "How to Make Racism Sound Christian",
+   "link": "https://www.thegospelcoalition.org/article/make-racism-sound-christian/",
+   "resumo": "When human rationalism, reasonable argument, and individual preference ground our morality, we’ll always struggle to clearly identify right from wrong.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-09T01:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1064,6 +1922,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1077,6 +1940,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T22:59-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1092,6 +1960,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1107,6 +1980,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1122,6 +2000,11 @@
    "tags": [
     "lancamentos"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1135,6 +2018,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T20:46-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1150,6 +2038,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1165,6 +2058,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1180,6 +2078,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1195,6 +2098,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1210,6 +2118,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1225,6 +2138,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1238,6 +2156,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T18:27-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1253,6 +2176,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1266,6 +2194,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T18:21-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1281,6 +2214,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1296,6 +2234,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1309,6 +2252,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T17:29-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1322,6 +2270,29 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T16:45-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "4d1604e431eb",
+   "titulo": "The Biggest Changes Prime Video’s Carrie Makes to Stephen King’s Book",
+   "link": "https://reactormag.com/changes-prime-video-carrie-book/",
+   "resumo": "At times, it's almost an entirely different story The post The Biggest Changes Prime Video’s <i>Carrie</i> Makes to Stephen King’s Book appeared first on Reactor .",
+   "fonte": "Reactor (fantasia e ficção científica)",
+   "fonte_id": "reactor",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T16:27-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1337,6 +2308,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1350,6 +2326,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T16:21-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1365,6 +2346,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1378,6 +2364,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T16:01-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1391,6 +2382,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T15:23-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1406,6 +2402,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1421,6 +2422,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1436,6 +2442,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1449,6 +2460,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T13:49-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1462,6 +2478,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T13:42-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1475,6 +2496,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T12:59-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1490,6 +2516,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1503,6 +2534,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T11:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1516,6 +2552,29 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T11:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "c5ce501740b8",
+   "titulo": "Five Stories of First Contact in African SF",
+   "link": "https://reactormag.com/five-stories-of-first-contact-in-african-sf/",
+   "resumo": "A look at five African books from the rich history of SFF that work as First Contact narratives. The post Five Stories of First Contact in African SF appeared first on Reactor .",
+   "fonte": "Reactor (fantasia e ficção científica)",
+   "fonte_id": "reactor",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T11:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1531,6 +2590,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1546,6 +2610,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1561,6 +2630,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1576,6 +2650,31 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "39b2c622ac5f",
+   "titulo": "O que a Bíblia diz sobre a morte: esperança e consolação eternas",
+   "link": "https://www.mundocristao.com.br/blog/o-que-a-biblia-fala-sobre-morte/",
+   "resumo": "Entender o que a Bíblia diz sobre a morte pode trazer clareza para uma das… O post O que a Bíblia diz sobre a morte: esperança e consolação eternas apareceu primeiro em Editora Mundo Cristão .",
+   "fonte": "Mundo Cristão (editora)",
+   "fonte_id": "mundocristao",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-08T09:24-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1591,6 +2690,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1606,6 +2710,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1621,6 +2730,11 @@
    "tags": [
     "premios"
    ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1634,6 +2748,11 @@
    "idioma": "pt",
    "publicado_em": "2026-10-08T07:55-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1647,6 +2766,13 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "fantasia"
+    ]
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1660,6 +2786,11 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T06:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
    "dia": "2026-10-10"
   },
   {
@@ -1673,6 +2804,31 @@
    "idioma": "en",
    "publicado_em": "2026-10-08T03:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "82de091ce889",
+   "titulo": "From TGC ‘National Conference’ to ‘Church Conference’: Behind the Name Change",
+   "link": "https://www.thegospelcoalition.org/article/tgc-church-conference-name-change/",
+   "resumo": "Since 2007, TGC’s biennial conference has been our ‘national conference.’ But for TGC27, we changed the name to ‘church conference.’ Why?",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-08T01:05-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   },
    "dia": "2026-10-10"
   }
  ]
