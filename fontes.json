@@ -13,6 +13,8 @@
       "url": "https://news.google.com/rss/search?q=%22mercado+editorial%22+OR+%22livros+mais+vendidos%22+OR+%22lan%C3%A7amento+liter%C3%A1rio%22+OR+%22Bienal+do+Livro%22+OR+Flip+literatura+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
     { "id": "gn-estante-br", "nome": "Google Notícias – autores da estante", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "max_por_dia": 10,
       "url": "https://news.google.com/rss/search?q=%22Augusto+Cury%22+OR+%22Dan+Brown%22+OR+Tolkien+OR+%22C.+S.+Lewis%22+OR+%22Carl+Sagan%22+OR+%22Michio+Kaku%22+OR+%22Raphael+Montes%22+OR+Kafka+OR+Dostoi%C3%A9vski+livro+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+    { "id": "gn-acompanhados-br", "nome": "Google Notícias – Yarros, King, Montes, Lewis", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": false, "max_por_dia": 10,
+      "url": "https://news.google.com/rss/search?q=%22Rebecca+Yarros%22+OR+%22Quarta+Asa%22+OR+%22Raphael+Montes%22+OR+%22C.+S.+Lewis%22+OR+N%C3%A1rnia+OR+%22Stephen+King%22+livro+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
     { "id": "mundocristao",  "nome": "Mundo Cristão (editora)", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://www.mundocristao.com.br/blog/feed/" },
     { "id": "fapesp",        "nome": "Revista Pesquisa FAPESP", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://revistapesquisa.fapesp.br/feed/" },
 
@@ -27,7 +29,11 @@
     { "id": "reactor",       "nome": "Reactor (fantasia e ficção científica)", "grupo": "internacional", "idioma": "en", "filtrar": true, "url": "https://reactormag.com/feed/" },
     { "id": "gn-estante-en", "nome": "Google News – authors on the shelf", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 8,
       "url": "https://news.google.com/rss/search?q=%22Dan+Brown%22+OR+Tolkien+OR+%22C.S.+Lewis%22+OR+%22Svetlana+Alexievich%22+OR+%22Michio+Kaku%22+OR+%22Carl+Sagan%22+OR+Dostoevsky+book+when:7d&hl=en-US&gl=US&ceid=US:en" },
-    { "id": "parisreview",  "nome": "The Paris Review",      "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://www.theparisreview.org/blog/feed/" },
+    { "id": "gn-yarros-en",  "nome": "Google News – Rebecca Yarros", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 6,
+      "url": "https://news.google.com/rss/search?q=%22Rebecca+Yarros%22+OR+%22Fourth+Wing%22+OR+%22Threshing+Day%22+OR+%22Empyrean+series%22+when:7d&hl=en-US&gl=US&ceid=US:en" },
+    { "id": "gn-king-en",    "nome": "Google News – Stephen King", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 6,
+      "url": "https://news.google.com/rss/search?q=%22Stephen+King%22+book+OR+novel+OR+novella+-series+-trailer+when:7d&hl=en-US&gl=US&ceid=US:en" },
+    { "id": "parisreview", "nome": "The Paris Review",      "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://www.theparisreview.org/blog/feed/" },
     { "id": "gn-prizes",     "nome": "Google News – literary prizes", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 12,
       "url": "https://news.google.com/rss/search?q=%22Booker+Prize%22+OR+%22Pulitzer+Prize%22+fiction+OR+%22National+Book+Award%22+OR+%22Nobel+Prize+in+Literature%22+OR+%22Women%27s+Prize%22+when:7d&hl=en-US&gl=US&ceid=US:en" }
   ]

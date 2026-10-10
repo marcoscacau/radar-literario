@@ -7,7 +7,7 @@
 <meta name="description" content="O que está acontecendo no mundo literário, atualizado todo dia — com uma seção pela estante do Cacau.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&family=UnifrakturMaguntia&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
   :root {
     --papel: #faf6ee;
@@ -22,6 +22,8 @@
     --lilas: #e8e0f0;  --lilas-t: #66577d;
     --barra: #b9aed0;  --barra-vazia: #ece6dc;
     --link: #5b6f8f;
+    --serifa: "EB Garamond", Georgia, serif;
+    --sans: Inter, system-ui, sans-serif;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
@@ -38,85 +40,152 @@
     --lilas: #3e3849; --lilas-t: #ddd2ee; --barra: #9d90b8; --barra-vazia: #3a3732; --link: #b9c9e4;
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--papel); color: var(--tinta);
-    font: 17px/1.5 "EB Garamond", Georgia, serif;
-  }
+  body { margin: 0; background: var(--papel); color: var(--tinta); font: 17px/1.5 var(--serifa); }
   .folha { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
-  header { text-align: center; border-bottom: 3px double var(--linha); padding-bottom: 18px; }
-  .sobre { font: 500 12px/1 Inter, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-suave); }
+  header { text-align: center; border-bottom: 3px double var(--linha); padding-bottom: 18px; position: relative; }
+  .sobre { font: 500 12px/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-suave); }
   h1 { font-size: clamp(38px, 8vw, 60px); font-weight: 600; margin: 10px 0 4px; letter-spacing: -.01em; }
   .data { font-style: italic; color: var(--tinta-suave); }
+  .estilo { position: absolute; top: -12px; right: 0; font: 500 12px/1 var(--sans); color: var(--tinta-suave);
+    background: none; border: 1px solid var(--linha); border-radius: 999px; padding: 7px 11px; cursor: pointer; }
   nav { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 22px 0 10px; }
   nav button {
-    font: 500 13px/1 Inter, sans-serif; border: 1px solid var(--linha); background: var(--cartao);
+    font: 500 13px/1 var(--sans); border: 1px solid var(--linha); background: var(--cartao);
     color: var(--tinta); padding: 9px 14px; border-radius: 999px; cursor: pointer;
   }
   nav button[aria-pressed="true"] { background: var(--areia); color: var(--areia-t); border-color: transparent; }
   nav button .n { color: var(--tinta-suave); margin-left: 4px; }
   .busca { display: block; width: 100%; max-width: 420px; margin: 8px auto 0; padding: 10px 14px;
-    font: 15px Inter, sans-serif; border: 1px solid var(--linha); border-radius: 10px;
+    font: 15px var(--sans); border: 1px solid var(--linha); border-radius: 10px;
     background: var(--cartao); color: var(--tinta); }
   .intro { margin: 26px 0 0; padding: 14px 18px; background: var(--cartao); border: 1px solid var(--linha);
     border-radius: 12px; font-size: 16px; color: var(--tinta-suave); }
   .intro strong { color: var(--tinta); font-weight: 600; }
-  .intro .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
   h2 { font-size: 22px; font-weight: 600; margin: 34px 0 6px; padding-bottom: 6px; border-bottom: 1px solid var(--linha); }
-  h2 small { font: 400 13px Inter, sans-serif; color: var(--tinta-suave); margin-left: 8px; }
+  h2 small { font: 400 13px var(--sans); color: var(--tinta-suave); margin-left: 8px; }
+  h3 { font-size: 18px; font-weight: 600; margin: 22px 0 6px; }
   article { padding: 14px 0; border-bottom: 1px dotted var(--linha); }
   article a.titulo { color: var(--tinta); text-decoration: none; font-size: 20px; line-height: 1.3; }
   article a.titulo:hover { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
   article p { margin: 6px 0 0; color: var(--tinta-suave); }
   .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; margin-top: 8px;
-    font: 12px/1 Inter, sans-serif; color: var(--tinta-suave); }
-  .selo { padding: 4px 8px; border-radius: 999px; font: 500 12px/1 Inter, sans-serif; white-space: nowrap; }
+    font: 12px/1 var(--sans); color: var(--tinta-suave); }
+  .selo { padding: 4px 8px; border-radius: 999px; font: 500 12px/1 var(--sans); white-space: nowrap; }
   .s-premios { background: var(--rosa); color: var(--rosa-t); }
-  .s-lancamentos { background: var(--verde); color: var(--verde-t); }
+  .s-lancamentos, .s-novo { background: var(--verde); color: var(--verde-t); }
   .s-en { background: var(--azul); color: var(--azul-t); }
   .s-voce { background: var(--lilas); color: var(--lilas-t); }
-  .s-novo { background: var(--verde); color: var(--verde-t); }
+  .s-cinza { background: var(--barra-vazia); color: var(--tinta-suave); }
+  a.selo { text-decoration: none; }
 
   /* Em alta */
   .alta { list-style: none; margin: 18px 0 0; padding: 0; }
   .alta > li { border-bottom: 1px dotted var(--linha); }
-  .alta button.linha {
+  button.linha {
     all: unset; box-sizing: border-box; width: 100%; cursor: pointer;
     display: grid; grid-template-columns: 28px 1fr auto; gap: 4px 14px; align-items: center; padding: 14px 4px;
   }
-  .alta button.linha:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 8px; }
-  .alta .pos { font: 500 13px Inter, sans-serif; color: var(--tinta-suave); text-align: right; }
-  .alta .nome { font-size: 21px; line-height: 1.2; }
-  .alta .conta { grid-column: 2; font: 12px/1.4 Inter, sans-serif; color: var(--tinta-suave);
-    display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  button.linha:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 8px; }
+  .pos { font: 500 13px var(--sans); color: var(--tinta-suave); text-align: right; }
+  .nome { font-size: 21px; line-height: 1.2; }
+  .conta { grid-column: 2; font: 12px/1.4 var(--sans); color: var(--tinta-suave); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
   .alta .faisca { grid-row: 1 / span 2; grid-column: 3; }
   .faisca { display: flex; align-items: flex-end; gap: 2px; height: 34px; position: relative; }
   .faisca span { width: 9px; border-radius: 4px 4px 0 0; background: var(--barra); position: relative; }
   .faisca span.zero { background: var(--barra-vazia); height: 2px !important; border-radius: 0; }
-  .faisca span:hover::after, .faisca span:focus-visible::after {
+  .faisca span:hover::after {
     content: attr(data-dica); position: absolute; bottom: calc(100% + 6px); right: -6px; white-space: nowrap;
-    background: var(--tinta); color: var(--papel); font: 12px/1 Inter, sans-serif; padding: 6px 8px; border-radius: 6px; z-index: 2;
+    background: var(--tinta); color: var(--papel); font: 12px/1 var(--sans); padding: 6px 8px; border-radius: 6px; z-index: 2;
   }
   .faisca::before { content: ""; position: absolute; left: -2px; right: -2px; top: -6px; bottom: 0; }
-  .alta .noticias { padding: 0 4px 12px 46px; }
-  .alta .noticias article { padding: 8px 0; border: 0; }
-  .alta .noticias a.titulo { font-size: 17px; }
-  .nota-rodape { font: 12px/1.6 Inter, sans-serif; color: var(--tinta-suave); margin-top: 14px; }
+  .aberto { padding: 0 4px 12px 46px; }
+  .aberto article { padding: 8px 0; border: 0; }
+  .aberto a.titulo { font-size: 17px; }
+  .nota-rodape { font: 12px/1.6 var(--sans); color: var(--tinta-suave); margin-top: 14px; }
+
+  /* Estante */
+  .autor { margin-top: 30px; }
+  .autor > h2 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+  .livros { list-style: none; margin: 0; padding: 0; }
+  .livros li { border-bottom: 1px dotted var(--linha); }
+  .livros button.linha { grid-template-columns: 48px 1fr auto; padding: 9px 4px; }
+  .livros .ano { font: 500 13px var(--sans); color: var(--tinta-suave); }
+  .livros .t { font-size: 18px; line-height: 1.25; }
+  .livros .t small { display: block; font: 12px/1.4 var(--sans); color: var(--tinta-suave); margin-top: 2px; }
+  .livros .aberto { padding-left: 62px; }
+  .alerta { border-left: 3px solid var(--rosa); padding: 8px 0 8px 14px; margin: 10px 0; }
+  .alerta a { color: var(--tinta); }
+
+  /* A semana */
+  .numeros { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-top: 18px; }
+  .numero { background: var(--cartao); border: 1px solid var(--linha); border-radius: 12px; padding: 12px 14px; }
+  .numero b { display: block; font-size: 30px; font-weight: 600; line-height: 1.1; }
+  .numero span { font: 12px var(--sans); color: var(--tinta-suave); }
+  .barras { list-style: none; padding: 0; margin: 8px 0 0; }
+  .barras li { display: grid; grid-template-columns: minmax(120px, 210px) 1fr 34px; gap: 10px; align-items: center; padding: 5px 0; font-size: 16px; }
+  .barras .trilho { height: 12px; }
+  .barras .cheio { height: 12px; background: var(--barra); border-radius: 0 4px 4px 0; min-width: 3px; }
+  .barras .v { font: 12px var(--sans); color: var(--tinta-suave); text-align: right; }
+
+  .aprendo { margin-top: 30px; }
+  .aprendo .sug { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; padding: 6px 0; font-size: 16px; }
 
   .vazio, .erro { text-align: center; color: var(--tinta-suave); font-style: italic; margin: 48px 0; }
   footer { margin-top: 48px; padding-top: 16px; border-top: 3px double var(--linha);
-    font: 13px/1.7 Inter, sans-serif; color: var(--tinta-suave); text-align: center; }
+    font: 13px/1.7 var(--sans); color: var(--tinta-suave); text-align: center; }
   footer a { color: var(--link); }
   footer code { background: var(--cartao); border: 1px solid var(--linha); padding: 1px 6px; border-radius: 6px; }
+
+  /* ---------- Edição antiga: jornal de 1900 com janelas de Windows 98, em pastel ---------- */
+  body[data-estilo="antigo"] {
+    --papel: #efe9dc; --cartao: #f7f3ea; --tinta: #2f2a24; --tinta-suave: #6a6155; --linha: #cfc5b2;
+    --serifa: "Old Standard TT", Georgia, serif; --sans: "Old Standard TT", Georgia, serif;
+    --bisel-claro: #fbf8f1; --bisel-escuro: #b7ab94; --faixa: #d9d0e8; --faixa-t: #4a4060;
+    background-image: radial-gradient(rgba(120,100,70,.05) 1px, transparent 1px); background-size: 3px 3px;
+  }
+  body[data-estilo="antigo"] h1 { font-family: "UnifrakturMaguntia", serif; font-weight: 400; letter-spacing: 0; }
+  body[data-estilo="antigo"] header { border-bottom: 4px double var(--tinta); }
+  body[data-estilo="antigo"] .sobre { letter-spacing: .3em; }
+  body[data-estilo="antigo"] h2 { text-transform: uppercase; letter-spacing: .08em; font-size: 18px; border-bottom: 2px solid var(--tinta); }
+  body[data-estilo="antigo"] nav button, body[data-estilo="antigo"] .estilo, body[data-estilo="antigo"] .busca {
+    border-radius: 0; border: 0; background: var(--cartao); font-size: 14px;
+    box-shadow: inset -2px -2px 0 var(--bisel-escuro), inset 2px 2px 0 var(--bisel-claro), 0 0 0 1px var(--tinta-suave);
+  }
+  body[data-estilo="antigo"] nav button[aria-pressed="true"] {
+    background: var(--faixa); color: var(--faixa-t);
+    box-shadow: inset 2px 2px 0 var(--bisel-escuro), inset -2px -2px 0 var(--bisel-claro), 0 0 0 1px var(--tinta-suave);
+  }
+  body[data-estilo="antigo"] .intro, body[data-estilo="antigo"] .numero {
+    border-radius: 0; border: 0; padding-top: 34px; position: relative;
+    box-shadow: inset -2px -2px 0 var(--bisel-escuro), inset 2px 2px 0 var(--bisel-claro), 0 0 0 1px var(--tinta-suave);
+  }
+  body[data-estilo="antigo"] .intro::before, body[data-estilo="antigo"] .numero::before {
+    content: "Radar.exe"; position: absolute; left: 3px; right: 3px; top: 3px; height: 22px; padding: 3px 8px;
+    background: linear-gradient(90deg, var(--faixa), #e9e2d2); color: var(--faixa-t); font: 700 13px/16px "Old Standard TT", serif;
+  }
+  body[data-estilo="antigo"] .numero::before { content: "▣"; }
+  body[data-estilo="antigo"] .selo { border-radius: 0; border: 1px solid var(--linha); }
+  body[data-estilo="antigo"] article a.titulo { font-weight: 700; }
+  body[data-estilo="antigo"] .faisca span, body[data-estilo="antigo"] .barras .cheio { border-radius: 0; }
+
   @media (max-width: 520px) {
-    .alta button.linha { grid-template-columns: 22px 1fr; }
+    button.linha { grid-template-columns: 22px 1fr; }
     .alta .faisca { grid-row: auto; grid-column: 2; }
-    .alta .noticias { padding-left: 26px; }
+    .aberto { padding-left: 26px; }
+    .livros button.linha { grid-template-columns: 40px 1fr; }
+    .livros .conta { grid-column: 2; }
+    .livros .aberto { padding-left: 44px; }
+    .estilo { position: static; margin-bottom: 12px; }
+    .barras li { grid-template-columns: 1fr 34px; }
+    .barras .trilho { grid-column: 1 / -1; grid-row: 2; }
   }
 </style>
 </head>
 <body>
 <div class="folha">
   <header>
+    <button class="estilo" id="estilo" type="button" aria-pressed="false">Edição antiga</button>
     <div class="sobre">Edição diária · atualizada automaticamente</div>
     <h1>Radar Literário</h1>
     <div class="data" id="data">Carregando…</div>
@@ -129,11 +198,13 @@
 
   <footer>
     API (JSON, livre para usar em qualquer lugar):
-    <a href="api/hoje.json"><code>hoje.json</code></a> ·
-    <a href="api/semana.json"><code>semana.json</code></a> ·
-    <a href="api/em-alta.json"><code>em-alta.json</code></a> ·
-    <a href="api/indice.json"><code>indice.json</code></a> ·
-    <a href="api/fontes.json"><code>fontes.json</code></a>
+    <a href="api/hoje.json"><code>hoje</code></a> ·
+    <a href="api/semana.json"><code>semana</code></a> ·
+    <a href="api/em-alta.json"><code>em-alta</code></a> ·
+    <a href="api/estante.json"><code>estante</code></a> ·
+    <a href="api/resumo-semana.json"><code>resumo-semana</code></a> ·
+    <a href="api/alertas.json"><code>alertas</code></a> ·
+    <a href="api/fontes.json"><code>fontes</code></a>
     <br><span id="rodape"></span>
   </footer>
 </div>
@@ -142,6 +213,8 @@
 const SECOES = [
   { id: "para-voce", nome: "Para você" },
   { id: "em-alta", nome: "Em alta" },
+  { id: "estante", nome: "Estante" },
+  { id: "semana", nome: "A semana" },
   { id: "tudo", nome: "Tudo" },
   { id: "premios-lancamentos", nome: "Prêmios e lançamentos" },
   { id: "brasil-portugal", nome: "Brasil e Portugal" },
@@ -150,49 +223,120 @@ const SECOES = [
 const fmtDia = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 const fmtCurto = new Intl.DateTimeFormat("pt-BR", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
 const fmtHora = new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
-let dados = null, alta = null, porId = new Map(), secao = "para-voce";
+let dados = null, alta = null, estante = null, resumo = null, alertas = [], perfil = null;
+let porId = new Map(), secao = "para-voce";
 
-function lerSecao() { try { return localStorage.getItem("radar-secao"); } catch { return null; } }
-function gravarSecao(s) { try { localStorage.setItem("radar-secao", s); } catch {} }
-const semAcento = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+// ---------- preferências do leitor (só neste navegador) ----------
+function ler(chave, padrao) { try { const v = localStorage.getItem(chave); return v == null ? padrao : JSON.parse(v); } catch { return padrao; } }
+function gravar(chave, valor) { try { localStorage.setItem(chave, JSON.stringify(valor)); } catch {} }
+
+const semAcento = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const el = (tag, attrs = {}, ...filhos) => {
   const e = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs)) k === "class" ? e.className = v : e.setAttribute(k, v);
-  for (const f of filhos) if (f != null) e.append(f);
+  for (const f of filhos) if (f != null && f !== false) e.append(f);
   return e;
 };
 const data = d => new Date(d + "T12:00:00Z");
 const diaExtenso = d => { const t = fmtDia.format(data(d)); return t[0].toUpperCase() + t.slice(1); };
 const plural = (n, um, varios) => `${n} ${n === 1 ? um : varios}`;
 const periodo = n => n === 1 ? "hoje" : `nos últimos ${n} dias`;
+const nomeTema = t => dados.temas?.[t] || t;
 
 function contagem(id) {
   if (id === "tudo") return dados.itens.length;
   if (id === "em-alta") return alta ? alta.termos.length : 0;
+  if (id === "estante") return estante ? estante.autores.length : 0;
+  if (id === "semana") return null;
   return (dados.secoes[id] || []).length;
 }
 
 function desenharAbas() {
   document.getElementById("abas").replaceChildren(...SECOES.map(s => {
-    const b = el("button", { type: "button", "aria-pressed": String(s.id === secao) }, s.nome, el("span", { class: "n" }, String(contagem(s.id))));
-    b.onclick = () => { secao = s.id; gravarSecao(s.id); desenharAbas(); desenhar(); };
+    const n = contagem(s.id);
+    const b = el("button", { type: "button", "aria-pressed": String(s.id === secao) }, s.nome, n == null ? null : el("span", { class: "n" }, String(n)));
+    b.onclick = () => { secao = s.id; gravar("radar-secao", s.id); desenharAbas(); desenhar(); };
     return b;
   }));
 }
 
+// ---------- aprender pelos cliques ----------
+function registrarClique(i) {
+  const cliques = ler("radar-cliques", []).filter(c => c.id !== i.id);
+  cliques.unshift({ id: i.id, titulo: i.titulo, resumo: i.resumo || "", temas: i.para_voce?.temas || [], fonte: i.fonte, quando: Date.now() });
+  gravar("radar-cliques", cliques.slice(0, 300));
+}
+
+const VAZIAS = new Set("a o as os um uma e de da do das dos em no na por para com sobre the an and of in on at to for with by from new how why what who".split(" "));
+function nomesProprios(texto) {
+  const nomes = [];
+  for (const frase of texto.split(/[.:;!?“”"()|–—]|\s-\s/)) {
+    let atual = [];
+    const fecha = () => {
+      while (atual.length && VAZIAS.has(atual[0].toLowerCase())) atual.shift();
+      if (atual.length >= 2 && atual.length <= 4) nomes.push(atual.join(" "));
+      atual = [];
+    };
+    for (let p of frase.match(/[\p{L}][\p{L}.'’-]*/gu) || []) {
+      p = p.replace(/['’]s$/, "").replace(/['’.-]+$/, "");
+      if (/^\p{Lu}/u.test(p)) atual.push(p);
+      else if (atual.length && /^(de|da|do|dos|das)$/.test(p)) atual.push(p);
+      else fecha();
+    }
+    fecha();
+  }
+  return nomes;
+}
+
+function painelAprendizado() {
+  const cliques = ler("radar-cliques", []);
+  const caixa = el("div", { class: "intro aprendo" }, el("strong", {}, "Aprendendo com você. "));
+  if (cliques.length < 3) {
+    caixa.append("Conforme você abre notícias, eu noto os nomes que se repetem e sugiro autores para o seu perfil. (Fica só neste navegador.)");
+    return caixa;
+  }
+  const conhecidos = (perfil?.conhecidos || []).map(semAcento);
+  const fontes = new Set(cliques.map(c => semAcento(c.fonte.replace(/ \(via Google\)$/, ""))));
+  const contagem = new Map(), temas = new Map();
+  for (const c of cliques) {
+    for (const t of c.temas) temas.set(t, (temas.get(t) || 0) + 1);
+    for (const n of new Set(nomesProprios(`${c.titulo}. ${c.resumo}`))) {
+      const k = semAcento(n);
+      if (fontes.has(k) || conhecidos.some(x => x.includes(k) || k.includes(x))) continue;
+      const atual = contagem.get(k) || { nome: n, vezes: 0 };
+      atual.vezes++;
+      contagem.set(k, atual);
+    }
+  }
+  const sugestoes = [...contagem.values()].filter(s => s.vezes >= 2).sort((a, b) => b.vezes - a.vezes).slice(0, 6);
+  caixa.append(`Você abriu ${plural(cliques.length, "notícia", "notícias")} por aqui.`);
+  if (temas.size) {
+    const chips = el("div", { class: "chips" });
+    [...temas].sort((a, b) => b[1] - a[1]).forEach(([t, n]) => chips.append(el("span", { class: "selo s-voce" }, `${nomeTema(t)} · ${n}`)));
+    caixa.append(chips);
+  }
+  if (sugestoes.length) {
+    caixa.append(el("div", { style: "margin-top:10px" }, "Nomes que aparecem no que você abre e ainda não estão no perfil:"));
+    for (const s of sugestoes) caixa.append(el("div", { class: "sug" }, el("span", {}, s.nome), el("span", { class: "selo s-cinza" }, plural(s.vezes, "vez", "vezes")),
+      perfil?.editar ? el("a", { class: "selo s-voce", href: perfil.editar, target: "_blank", rel: "noopener", title: "Abre o perfil.json no GitHub para você acrescentar" }, "pôr no perfil") : null));
+  }
+  return caixa;
+}
+
+// ---------- cartões e listas ----------
 function cartao(i) {
   const meta = el("div", { class: "meta" }, el("span", {}, i.fonte));
   if (i.publicado_em) meta.append(el("span", {}, fmtHora.format(new Date(i.publicado_em))));
   const pv = i.para_voce || { autores: [], temas: [] };
   for (const a of pv.autores) meta.append(el("span", { class: "selo s-voce", title: "Da sua estante" }, a));
-  for (const t of pv.temas) meta.append(el("span", { class: "selo s-voce" }, dados.temas?.[t] || t));
+  for (const t of pv.temas) meta.append(el("span", { class: "selo s-voce" }, nomeTema(t)));
   if (i.tags.includes("premios")) meta.append(el("span", { class: "selo s-premios" }, "prêmios"));
   if (i.tags.includes("lancamentos")) meta.append(el("span", { class: "selo s-lancamentos" }, "lançamento"));
   if (i.idioma === "en") meta.append(el("span", { class: "selo s-en" }, "em inglês"));
-  return el("article", {},
-    el("a", { class: "titulo", href: i.link, target: "_blank", rel: "noopener" }, i.titulo),
-    i.resumo ? el("p", {}, i.resumo) : null,
-    meta);
+  const a = el("a", { class: "titulo", href: i.link, target: "_blank", rel: "noopener" }, i.titulo);
+  a.addEventListener("click", () => registrarClique(i));
+  a.addEventListener("auxclick", () => registrarClique(i));
+  return el("article", {}, a, i.resumo ? el("p", {}, i.resumo) : null, meta);
 }
 
 function introParaVoce(itens) {
@@ -203,33 +347,46 @@ function introParaVoce(itens) {
   }
   const chips = el("div", { class: "chips" });
   [...autores].sort((a, b) => b[1] - a[1]).forEach(([a, n]) => chips.append(el("span", { class: "selo s-voce" }, `${a} · ${n}`)));
-  [...temas].sort((a, b) => b[1] - a[1]).forEach(([t, n]) => chips.append(el("span", { class: "selo s-voce" }, `${dados.temas?.[t] || t} · ${n}`)));
+  [...temas].sort((a, b) => b[1] - a[1]).forEach(([t, n]) => chips.append(el("span", { class: "selo s-voce" }, `${nomeTema(t)} · ${n}`)));
   return el("div", { class: "intro" },
     el("strong", {}, "Escolhidas pela sua estante. "),
-    "Tolkien, Dan Brown, Augusto Cury, C. S. Lewis, os russos, Sagan e Kaku, Sócrates — e os temas que aparecem nos seus textos: física, fé, filosofia. Nesta semana:",
+    "Tolkien, Dan Brown, Augusto Cury, Stephen King, Rebecca Yarros, Raphael Montes, C. S. Lewis, os russos, Sagan e Kaku — e os temas dos seus textos: física, fé, filosofia. Nesta semana:",
     chips);
 }
 
-function desenharLista(itens, intro) {
+function desenharLista(itens, antes = [], depois = []) {
   const main = document.getElementById("conteudo");
-  if (!itens.length) { main.replaceChildren(intro || "", el("p", { class: "vazio" }, "Nada por aqui com esse filtro.")); return; }
+  if (!itens.length) { main.replaceChildren(...antes, el("p", { class: "vazio" }, "Nada por aqui com esse filtro."), ...depois); return; }
   const porDia = new Map();
   for (const i of itens) { if (!porDia.has(i.dia)) porDia.set(i.dia, []); porDia.get(i.dia).push(i); }
-  const blocos = intro ? [intro] : [];
+  const blocos = [...antes];
   for (const [dia, lista] of porDia) {
     blocos.push(el("h2", {}, diaExtenso(dia), el("small", {}, plural(lista.length, "notícia", "notícias"))));
     lista.forEach(i => blocos.push(cartao(i)));
   }
-  main.replaceChildren(...blocos);
+  main.replaceChildren(...blocos, ...depois);
 }
 
+// abre/fecha a lista de notícias debaixo de uma linha
+function expansivel(linha, ids) {
+  const caixa = el("div", { class: "aberto", hidden: "" });
+  linha.setAttribute("aria-expanded", "false");
+  linha.onclick = () => {
+    const abrir = caixa.hidden;
+    if (abrir && !caixa.childElementCount) ids.map(id => porId.get(id)).filter(Boolean).forEach(i => caixa.append(cartao(i)));
+    caixa.hidden = !abrir;
+    linha.setAttribute("aria-expanded", String(abrir));
+  };
+  return caixa;
+}
+
+// ---------- Em alta ----------
 function faisca(t) {
   const max = Math.max(...t.por_dia, 1);
   const f = el("div", { class: "faisca", role: "img",
     "aria-label": `Menções por dia: ${t.por_dia.map((n, k) => `${fmtCurto.format(data(alta.dias[k]))}: ${n}`).join("; ")}` });
   t.por_dia.forEach((n, k) => {
-    const b = el("span", { class: n ? "" : "zero", tabindex: "-1",
-      "data-dica": `${fmtCurto.format(data(alta.dias[k]))}: ${plural(n, "menção", "menções")}` });
+    const b = el("span", { class: n ? "" : "zero", "data-dica": `${fmtCurto.format(data(alta.dias[k]))}: ${plural(n, "menção", "menções")}` });
     if (n) b.style.height = `${Math.max(4, Math.round(34 * n / max))}px`;
     f.append(b);
   });
@@ -247,41 +404,143 @@ function desenharEmAlta(termo) {
   lista.forEach((t, k) => {
     const conta = el("span", { class: "conta" }, `${plural(t.fontes, "fonte", "fontes")} · ${plural(t.mencoes, "menção", "menções")}`);
     if (t.novo_hoje && alta.dias.length > 1) conta.append(el("span", { class: "selo s-novo" }, "novo hoje"));
-    const botao = el("button", { class: "linha", type: "button", "aria-expanded": "false" },
-      el("span", { class: "pos" }, String(k + 1)), el("span", { class: "nome" }, t.termo), faisca(t), conta);
-    const noticias = el("div", { class: "noticias", hidden: "" });
-    botao.onclick = () => {
-      const abrir = noticias.hidden;
-      if (abrir && !noticias.childElementCount) t.itens.map(id => porId.get(id)).filter(Boolean).forEach(i => noticias.append(cartao(i)));
-      noticias.hidden = !abrir;
-      botao.setAttribute("aria-expanded", String(abrir));
-    };
-    ol.append(el("li", {}, botao, noticias));
+    const linha = el("button", { class: "linha", type: "button" }, el("span", { class: "pos" }, String(k + 1)), el("span", { class: "nome" }, t.termo), faisca(t), conta);
+    ol.append(el("li", {}, linha, expansivel(linha, t.itens)));
   });
   main.replaceChildren(intro, ol, el("p", { class: "nota-rodape" },
     "Contam nomes de duas a quatro palavras com inicial maiúscula (pessoas, prêmios, obras) citados por pelo menos 3 fontes diferentes."));
 }
 
+// ---------- Estante ----------
+function desenharEstante(termo) {
+  const main = document.getElementById("conteudo");
+  const blocos = [el("div", { class: "intro" }, el("strong", {}, "Obras completas de quem você acompanha. "),
+    "Cada livro mostra quantas notícias o citaram nesta semana — clique para ver. Quando sai notícia de livro novo, ele aparece em Lançamentos e você recebe um aviso.")];
+  const ano = new Date().getFullYear();
+  const recentes = alertas.slice(0, 8);
+  if (recentes.length) {
+    blocos.push(el("h2", {}, "Lançamentos", el("small", {}, "últimos 30 dias")));
+    for (const a of recentes) {
+      const link = el("a", { href: a.link, target: "_blank", rel: "noopener" }, a.titulo);
+      const linha = el("div", { class: "alerta" }, el("div", { class: "meta", style: "margin:0 0 4px" }, el("span", { class: "selo s-voce" }, a.autores.join(", ")), el("span", {}, `${a.fonte} · ${fmtCurto.format(data(a.dia))}`)), link);
+      for (const t of a.titulos_fora_da_estante || []) linha.append(el("div", { class: "meta" }, el("span", { class: "selo s-novo" }, `título novo: ${t}`)));
+      blocos.push(linha);
+    }
+  }
+  for (const autor of estante.autores) {
+    const livros = autor.livros.filter(l => !termo || semAcento(`${l.titulo} ${l.pt || ""} ${autor.nome}`).includes(termo));
+    if (!livros.length) continue;
+    const citados = autor.livros.filter(l => l.noticias.length).length;
+    const sec = el("section", { class: "autor" }, el("h2", {}, autor.nome,
+      el("small", {}, `${plural(autor.livros.filter(l => !l.anunciado).length, "livro", "livros")} · ${plural(autor.noticias.length, "notícia", "notícias")} na semana${citados ? ` · ${plural(citados, "livro citado", "livros citados")}` : ""}`)));
+    const ul = el("ul", { class: "livros" });
+    for (const l of livros) {
+      const conta = el("span", { class: "conta" });
+      if (l.noticias.length) conta.append(el("span", { class: "selo s-voce" }, `no radar · ${l.noticias.length}`));
+      if (l.anunciado) conta.append(el("span", { class: "selo s-lancamentos" }, "anunciado"));
+      else if (l.ano >= ano) conta.append(el("span", { class: "selo s-novo" }, "novo"));
+      const titulo = el("span", { class: "t" }, l.pt || l.titulo,
+        (l.pt && l.pt !== l.titulo) || l.serie ? el("small", {}, [l.pt && l.pt !== l.titulo ? l.titulo : null, l.serie].filter(Boolean).join(" · ")) : null);
+      const linha = el("button", { class: "linha", type: "button" }, el("span", { class: "ano" }, l.ano ? String(l.ano) : "—"), titulo, conta);
+      if (!l.noticias.length) { linha.disabled = true; linha.style.cursor = "default"; }
+      ul.append(el("li", {}, linha, l.noticias.length ? expansivel(linha, l.noticias) : null));
+    }
+    sec.append(ul);
+    if (autor.noticias.length) {
+      const todas = el("button", { class: "linha", type: "button" }, el("span", {}), el("span", { class: "conta", style: "grid-column:2" }, el("span", { class: "selo s-voce" }, autor.noticias.length === 1 ? `a notícia sobre ${autor.nome} na semana` : `todas as ${autor.noticias.length} notícias sobre ${autor.nome} na semana`)));
+      sec.append(todas, expansivel(todas, autor.noticias));
+    }
+    blocos.push(sec);
+  }
+  blocos.push(el("p", { class: "nota-rodape" }, "A lista mora em estante.json no repositório; livro que faltar pode ser acrescentado lá."));
+  main.replaceChildren(...blocos);
+}
+
+// ---------- A semana ----------
+function barras(lista) {
+  const max = Math.max(...lista.map(x => x.n), 1);
+  return el("ul", { class: "barras" }, ...lista.map(x => el("li", {}, el("span", {}, x.nome),
+    el("span", { class: "trilho" }, el("span", { class: "cheio", style: `display:block;width:${Math.round(100 * x.n / max)}%` })),
+    el("span", { class: "v" }, String(x.n)))));
+}
+
+function desenharSemana() {
+  const main = document.getElementById("conteudo");
+  const r = resumo;
+  const dias = r.dias.length;
+  const blocos = [el("div", { class: "intro" }, el("strong", {}, "Edição de domingo, todo dia. "),
+    `O resumo ${periodo(dias)}: o que subiu, quem mais apareceu e o que da sua estante virou notícia. Aos domingos ele também chega no Telegram.`)];
+  const grupos = r.por_grupo || {};
+  blocos.push(el("div", { class: "numeros" },
+    el("div", { class: "numero" }, el("b", {}, String(r.total)), el("span", {}, "notícias")),
+    el("div", { class: "numero" }, el("b", {}, String(grupos["brasil-portugal"] || 0)), el("span", {}, "Brasil e Portugal")),
+    el("div", { class: "numero" }, el("b", {}, String(grupos["internacional"] || 0)), el("span", {}, "internacionais")),
+    el("div", { class: "numero" }, el("b", {}, String((dados.secoes["para-voce"] || []).length)), el("span", {}, "para você"))));
+  if (r.subindo.length) {
+    blocos.push(el("h2", {}, "Subindo", el("small", {}, "mais menções nos últimos 3 dias do que antes")));
+    blocos.push(barras(r.subindo.map(s => ({ nome: s.termo, n: s.ultimos_3_dias }))));
+  }
+  if (r.em_alta.length) {
+    blocos.push(el("h2", {}, "Mais citados"));
+    const chips = el("div", { class: "chips" });
+    r.em_alta.forEach(t => chips.append(el("span", { class: "selo s-cinza" }, t)));
+    blocos.push(chips);
+  }
+  if (r.autores.length) {
+    blocos.push(el("h2", {}, "Sua estante na semana", el("small", {}, "notícias por autor")));
+    blocos.push(barras(r.autores.map(a => ({ nome: a.nome, n: a.noticias }))));
+  }
+  if (r.temas.length) {
+    blocos.push(el("h2", {}, "Seus temas na semana", el("small", {}, "notícias por tema")));
+    blocos.push(barras(r.temas.map(t => ({ nome: t.nome, n: t.noticias }))));
+  }
+  if (r.destaques.length) {
+    blocos.push(el("h2", {}, "Destaques", el("small", {}, "um por autor")));
+    r.destaques.map(id => porId.get(id)).filter(Boolean).forEach(i => blocos.push(cartao(i)));
+  }
+  main.replaceChildren(...blocos);
+}
+
 function desenhar() {
   const termo = semAcento(document.getElementById("busca").value.trim());
-  if (secao === "em-alta") { if (alta) desenharEmAlta(termo); return; }
+  const main = document.getElementById("conteudo");
+  if (secao === "em-alta") return alta ? desenharEmAlta(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
+  if (secao === "estante") return estante ? desenharEstante(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
+  if (secao === "semana") return resumo ? desenharSemana() : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   const filtra = i => !termo || semAcento(`${i.titulo} ${i.resumo} ${i.fonte}`).includes(termo);
   if (secao === "tudo") return desenharLista(dados.itens.filter(filtra));
   const itens = (dados.secoes[secao] || []).map(id => porId.get(id)).filter(i => i && filtra(i));
-  desenharLista(itens, secao === "para-voce" ? introParaVoce(itens) : null);
+  if (secao === "para-voce") return desenharLista(itens, [introParaVoce(itens)], [painelAprendizado()]);
+  desenharLista(itens);
 }
 
-Promise.all([
-  fetch("api/semana.json", { cache: "no-store" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
-  fetch("api/em-alta.json", { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
-]).then(([j, a]) => {
-  dados = j; alta = a;
+// ---------- Edição antiga ----------
+function aplicarEstilo(antigo) {
+  document.body.dataset.estilo = antigo ? "antigo" : "";
+  const b = document.getElementById("estilo");
+  b.setAttribute("aria-pressed", String(antigo));
+  b.textContent = antigo ? "Edição moderna" : "Edição antiga";
+}
+aplicarEstilo(new URLSearchParams(location.search).get("estilo") === "antigo" || ler("radar-antigo", false));
+document.getElementById("estilo").onclick = () => {
+  const antigo = document.body.dataset.estilo !== "antigo";
+  gravar("radar-antigo", antigo);
+  aplicarEstilo(antigo);
+};
+
+const pegar = (nome, obrigatorio) => fetch(`api/${nome}.json`, { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .catch(e => { if (obrigatorio) throw e; return null; });
+
+Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("resumo-semana"), pegar("alertas"), pegar("perfil")])
+.then(([j, a, e, r, al, p]) => {
+  dados = j; alta = a; estante = e; resumo = r; alertas = al?.alertas || []; perfil = p;
   j.secoes["para-voce"] ||= [];
   porId = new Map(j.itens.map(i => [i.id, i]));
   document.getElementById("data").textContent = j.dias.length ? diaExtenso(j.dias[0]) : "Sem edições ainda";
   document.getElementById("rodape").textContent =
     `Última atualização: ${fmtHora.format(new Date(j.gerado_em))} · ${j.total} notícias ${periodo(j.dias.length)}`;
-  const salva = new URLSearchParams(location.search).get("secao") || lerSecao();
+  const salva = new URLSearchParams(location.search).get("secao") || ler("radar-secao", null);
   secao = SECOES.some(s => s.id === salva) ? salva : "para-voce";
   desenharAbas();
   desenhar();

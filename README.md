@@ -52,6 +52,32 @@ Com 2 pontos ou mais, a notícia entra em "Para você", com no máximo 3 por aut
 
 Nomes de duas a quatro palavras com inicial maiúscula (pessoas, prêmios, obras) citados por **3 fontes diferentes ou mais** nos últimos 7 dias, com as menções de cada dia. Serve para perceber o padrão antes que vire manchete.
 
+## Estante
+
+`estante.json` guarda as obras completas de Rebecca Yarros, Raphael Montes, Stephen King e C. S. Lewis, com o título original, o brasileiro, o ano e a série. Os títulos inconfundíveis ("Quarta Asa", "Pet Sematary", "Cartas de um Diabo a seu Aprendiz") contam como se o nome do autor estivesse na notícia. Os comuns ("It", "Holly") só contam entre aspas. A aba Estante mostra quantas notícias citaram cada livro na semana.
+
+## Alerta de lançamento
+
+Quando chega notícia de livro novo de um autor acompanhado, o Radar abre uma issue no repositório, e o GitHub manda e-mail. Se a notícia cita entre aspas um título que não está na estante, o alerta aponta: "título fora da estante".
+
+## A semana
+
+`resumo-semana.json` e a aba "A semana" trazem o que subiu nos últimos 3 dias, os mais citados, a estante e os temas da semana e um destaque por autor. Aos domingos, o resumo vai também para o Telegram.
+
+## Telegram
+
+`coletor/telegram.py` manda, às 6h, as 5 melhores do "Para você", os alertas e o que está em alta. Precisa dos segredos `TELEGRAM_TOKEN` e `TELEGRAM_CHAT_ID` no repositório (*Settings → Secrets and variables → Actions*); sem eles, o passo é pulado. Para ver a mensagem sem enviar: `python coletor/telegram.py --mostrar --semana`.
+
+## Obsidian
+
+Todo dia sai também `api/obsidian/AAAA-MM-DD.md`, um trecho em Markdown com as 5 do dia. O modelo do Diário do caderno busca esse trecho pela data da nota.
+
+## Na página
+
+- **Edição antiga**: botão no topo; o visual é de jornal antigo com janelas de Windows 98, em pastel (`?estilo=antigo`).
+- **Aprendendo com você**: a página guarda neste navegador as notícias que você abre, nota os nomes que se repetem e sugere pôr no perfil.
+- Link direto para qualquer aba: `?secao=para-voce|em-alta|estante|semana|tudo`.
+
 ## Alarme
 
 Se metade das fontes ou mais falhar, a execução falha de propósito e o GitHub manda um e-mail.

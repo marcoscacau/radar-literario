@@ -58,8 +58,16 @@ PREMIOS = [
 LANCAMENTOS = [
     "lancamento", "lancamentos", "lanca", "lancam", "novo livro", "novo romance",
     "chega as livrarias", "pre-venda", "new book", "new novel", "debut novel", "out now",
-    "forthcoming", "new releases", "most anticipated",
+    "forthcoming", "new releases", "most anticipated", "novo thriller", "novo suspense",
+    "capa revelada", "cover reveal", "pre-order", "pre-orders", "release date", "announces new",
+    "anuncia novo", "next book", "proximo livro", "is here", "arrives",
 ]
+# Para o alerta: notícia de autor acompanhado que fala de livro novo.
+RE_NOVIDADE = re.compile(r"(?<![\w-])(novo livro|novo romance|novo thriller|novo suspense|lanca|lancamento|"
+                         r"pre-venda|capa revelada|anuncia novo|new book|new novel|announces new|pre-order|"
+                         r"cover reveal|release date|next book|proximo livro|out now|chega as livrarias|"
+                         r"finale|conclusion|desfecho)(?![\w-])")
+ASPAS = re.compile(r"[‘'“\"]([^‘'“\"’”]{3,60})[’'”\"]")
 
 # Palavras que não começam nem terminam um nome próprio (início de frase, artigos).
 VAZIAS = set("""
@@ -72,6 +80,7 @@ CONECTORES = {"de", "da", "do", "das", "dos", "del", "van", "von", "e"}
 
 
 def sem_acento(texto):
+    texto = texto.replace("’", "'").replace("‘", "'")
     nfkd = unicodedata.normalize("NFKD", texto.lower())
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
@@ -85,8 +94,39 @@ RE_PREMIOS = compilar(PREMIOS)
 RE_LANCAMENTOS = compilar(LANCAMENTOS)
 
 
+def titulo_inconfundivel(titulo, livro):
+    """Título que, sozinho, identifica o livro (sem risco de ser expressão comum)."""
+    if livro.get("ambiguo"):
+        return False
+    if livro.get("unico"):
+        return True
+    t = sem_acento(titulo)
+    palavras = [p for p in re.findall(r"[\w/]+", t) if p not in VAZIAS]
+    return len(palavras) >= 2 and len(t) >= 9
+
+
+def titulos(livro):
+    return [t for t in (livro["titulo"], livro.get("pt")) if t]
+
+
 def carregar_perfil():
     perfil = json.loads((RAIZ / "perfil.json").read_text(encoding="utf-8"))
+    estante = json.loads((RAIZ / "estante.json").read_text(encoding="utf-8"))["autores"]
+    por_nome = {a["nome"]: a for a in perfil["autores"]}
+    for autor in estante:   # obras completas: o autor e seus títulos inconfundíveis contam como autor da estante
+        termos = list(autor["termos"])
+        for livro in autor["livros"]:
+            termos += [sem_acento(t) for t in titulos(livro) if titulo_inconfundivel(t, livro)]
+            if titulo_inconfundivel(livro["titulo"], livro):
+                livro["re"] = compilar(titulos(livro))
+            else:   # título comum ("It", "Holly"): só conta entre aspas
+                livro["re"] = re.compile(r"['\"“‘](" + "|".join(re.escape(sem_acento(t)) for t in titulos(livro)) + r")['\"”’]")
+        if autor["nome"] in por_nome:
+            por_nome[autor["nome"]]["termos"] += termos
+        else:
+            perfil["autores"].append({"nome": autor["nome"], "termos": termos})
+        autor["re"] = compilar(autor["termos"])
+    perfil["estante"] = estante
     for grupo in ("autores", "vizinhos", "temas"):
         for p in perfil[grupo]:
             p["re"] = compilar(p["termos"])
@@ -329,6 +369,104 @@ def em_alta(itens, dias, ignorar):
     return {"dias": dias_cresc, "termos": resultado}
 
 
+# ---------- Estante, alertas, resumo da semana e nota do Obsidian ----------
+
+def texto_de(i):
+    return sem_acento(f"{i['titulo']} {i['resumo']}").replace("”", '"').replace("“", '"')
+
+
+def estante_semana(estante, semana):
+    """Obras completas com o que saiu de cada livro na semana."""
+    autores = []
+    for autor in estante:
+        do_autor = [i for i in semana if autor["re"].search(texto_de(i))]
+        livros = []
+        for livro in autor["livros"]:
+            # título comum só conta se o autor também aparece na notícia
+            base = semana if titulo_inconfundivel(livro["titulo"], livro) else do_autor
+            ids = [i["id"] for i in base if livro["re"].search(texto_de(i))]
+            livros.append({k: v for k, v in livro.items() if k != "re"} | {"noticias": ids})
+        autores.append({"nome": autor["nome"], "noticias": [i["id"] for i in do_autor], "livros": livros})
+    return autores
+
+
+def alertas_do_dia(novos, perfil):
+    """Notícias novas de autor acompanhado falando de livro novo; aponta título fora da estante."""
+    conhecidos = {}
+    for autor in perfil["estante"]:
+        conhecidos[autor["nome"]] = {sem_acento(t) for l in autor["livros"] for t in titulos(l)}
+    alertas = []
+    for i in novos:
+        autores = i["para_voce"]["autores"]
+        texto = texto_de(i)
+        if not autores or not RE_NOVIDADE.search(texto) or not RE_LITERARIO.search(texto):
+            continue   # precisa falar de livro E de novidade ("anuncia apoio a..." não é lançamento)
+        desconhecidos = []
+        for nome in autores:
+            if nome not in conhecidos:
+                continue
+            for t in ASPAS.findall(i["titulo"]):
+                t = t.strip(" .,")
+                if len(t.split()) <= 6 and t[:1].isupper() and sem_acento(t) not in conhecidos[nome] \
+                        and sem_acento(t) not in {sem_acento(a) for a in autores}:
+                    desconhecidos.append(t)
+        alertas.append({"id": i["id"], "dia": i.get("dia"), "autores": autores, "titulo": i["titulo"],
+                        "link": i["link"], "fonte": i["fonte"], "titulos_fora_da_estante": desconhecidos})
+    return alertas
+
+
+def resumo_semana(semana, padroes, perfil):
+    temas, autores = Counter(), Counter()
+    for i in semana:
+        temas.update(i["para_voce"]["temas"])
+        autores.update(i["para_voce"]["autores"])
+    nomes_temas = {t["id"]: t["nome"] for t in perfil["temas"]}
+    subindo = []
+    for t in padroes["termos"]:
+        recente, antes = sum(t["por_dia"][-3:]), sum(t["por_dia"][:-3])
+        if len(t["por_dia"]) > 3 and recente > antes:
+            subindo.append({"termo": t["termo"], "ultimos_3_dias": recente, "antes": antes})
+    destaques = sorted(semana, key=lambda i: (i["para_voce"]["pontos"], i["publicado_em"] or ""), reverse=True)
+    vistos, top = set(), []
+    for i in destaques:   # um destaque por autor, para a lista ter variedade
+        chave = (i["para_voce"]["autores"] or [i["id"]])[0]
+        if i["para_voce"]["pontos"] < perfil["pontos"]["minimo"] or chave in vistos:
+            continue
+        vistos.add(chave)
+        top.append(i["id"])
+        if len(top) == 8:
+            break
+    return {
+        "total": len(semana),
+        "por_grupo": dict(Counter(i["grupo"] for i in semana)),
+        "temas": [{"id": k, "nome": nomes_temas.get(k, k), "noticias": n} for k, n in temas.most_common()],
+        "autores": [{"nome": k, "noticias": n} for k, n in autores.most_common(10)],
+        "em_alta": [t["termo"] for t in padroes["termos"][:5]],
+        "subindo": sorted(subindo, key=lambda s: s["ultimos_3_dias"] - s["antes"], reverse=True)[:5],
+        "destaques": top,
+    }
+
+
+def obsidian_md(pacote, padroes, por_id_semana):
+    """Trecho em Markdown que o modelo do Diário do Obsidian puxa (sem links internos)."""
+    ids = pacote["secoes"]["para-voce"][:5]
+    linhas = []
+    for k in ids:
+        i = por_id_semana.get(k) or next(x for x in pacote["itens"] if x["id"] == k)
+        motivo = ", ".join(i["para_voce"]["autores"] + i["para_voce"]["temas"])
+        titulo = i["titulo"].replace("[", "(").replace("]", ")")
+        linhas.append(f"- [{titulo}]({i['link']}) — {i['fonte']}" + (f" · *{motivo}*" if motivo else ""))
+    if not linhas:
+        linhas.append("- Nada da sua estante hoje.")
+    if padroes["termos"]:
+        linhas.append("")
+        linhas.append("**Em alta:** " + ", ".join(t["termo"] for t in padroes["termos"][:5]))
+    linhas.append("")
+    linhas.append(f"[Edição completa](https://marcoscacau.github.io/radar-literario/) · "
+                  f"{pacote['total']} notícias")
+    return "\n".join(linhas) + "\n"
+
+
 # ---------- gravação ----------
 
 def ler_json(caminho, padrao):
@@ -388,7 +526,7 @@ def main():
     do_dia = {i["link"]: i for i in dia["itens"]}
     limite = agora - timedelta(days=JANELA_NOVIDADE)
 
-    status = []
+    status, novos_agora = [], []
     for fonte, itens, erro in resultados:
         maximo = fonte.get("max_por_dia")
         ja_no_dia = sum(1 for i in do_dia.values() if i["fonte_id"] == fonte["id"])
@@ -401,6 +539,7 @@ def main():
             if i["publicado_em"] and datetime.fromisoformat(i["publicado_em"]) < limite:
                 continue
             do_dia[i["link"]] = i
+            novos_agora.append(i)
             novos += 1
         status.append({
             "id": fonte["id"], "nome": fonte["nome"], "grupo": fonte["grupo"],
@@ -445,9 +584,49 @@ def main():
     gravar_json(API / "indice.json", {"gerado_em": gerado_em, "dias": datas})
     gravar_json(API / "fontes.json", {"gerado_em": gerado_em, "fontes": status})
 
+    # Estante (obras completas + o que saiu de cada livro) e resumo da semana.
+    gravar_json(API / "estante.json", {"gerado_em": gerado_em, "autores": estante_semana(perfil["estante"], semana)})
+    gravar_json(API / "resumo-semana.json", {"gerado_em": gerado_em, "dias": datas[:DIAS_SEMANA],
+                                             **resumo_semana(semana, padroes, perfil)})
+    # O que a página usa para sugerir autores novos a partir dos cliques.
+    gravar_json(API / "perfil.json", {
+        "gerado_em": gerado_em,
+        "conhecidos": sorted({a["nome"] for a in perfil["autores"] + perfil["vizinhos"]}),
+        "temas": perfil_temas,
+        "editar": "https://github.com/marcoscacau/radar-literario/edit/main/perfil.json",
+    })
+
+    # Alertas de lançamento: guardados por 30 dias; os desta execução vão para alerta.md (vira issue no GitHub).
+    for i in novos_agora:
+        i["dia"] = hoje
+    alertas_novos = alertas_do_dia(novos_agora, perfil)
+    corte_alertas = (agora.date() - timedelta(days=30)).isoformat()
+    historico = [a for a in ler_json(API / "alertas.json", {}).get("alertas", []) if (a.get("dia") or "") >= corte_alertas]
+    gravar_json(API / "alertas.json", {"gerado_em": gerado_em, "alertas": alertas_novos + historico})
+    aviso = RAIZ / "alerta.md"
+    if alertas_novos:
+        linhas = [f"@marcoscacau, notícias novas sobre livros dos autores que você acompanha ({hoje}):", ""]
+        for a in alertas_novos:
+            linhas.append(f"- **{', '.join(a['autores'])}** — [{a['titulo']}]({a['link']}) ({a['fonte']})")
+            for t in a["titulos_fora_da_estante"]:
+                linhas.append(f"  - título fora da estante: **{t}** — vale pôr em `estante.json`?")
+        linhas += ["", "[Abrir o Radar](https://marcoscacau.github.io/radar-literario/?secao=estante)"]
+        aviso.write_text("\n".join(linhas) + "\n", encoding="utf-8")
+    elif aviso.exists():
+        aviso.unlink()
+
+    # Trecho para o Diário do Obsidian, um por dia (o modelo busca pela data da nota).
+    obsidian = API / "obsidian"
+    obsidian.mkdir(parents=True, exist_ok=True)
+    por_id_semana = {i["id"]: i for i in semana}
+    (obsidian / f"{hoje}.md").write_text(obsidian_md(pacote_hoje, padroes, por_id_semana), encoding="utf-8")
+    for arq in obsidian.glob("*.md"):
+        if arq.stem < corte:
+            arq.unlink()
+
     n_pv = len(pacote_hoje["secoes"]["para-voce"])
     print(f"\n{len(itens_hoje)} novidades em {hoje} ({n_pv} para você); {len(semana)} na semana; "
-          f"{len(padroes['termos'])} nomes em alta.")
+          f"{len(padroes['termos'])} nomes em alta; {len(alertas_novos)} alertas de lançamento.")
 
     # Alarme: com metade das fontes fora, a execução falha e o GitHub avisa por e-mail.
     falhas = [s["nome"] for s in status if not s["ok"]]

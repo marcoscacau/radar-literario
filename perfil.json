@@ -1,14 +1,15 @@
 {
   "_leia": "Perfil de leitura do Cacau, montado a partir da estante e dos textos de marcoscacau.github.io. Cada notícia ganha pontos: autor da estante = 3, autor vizinho = 2, tema = 1 (até 2 temas), +1 se um tema vier junto com livro/romance/book. Notícia de filme/série/jogo perde 2. 'Para você' = 2 pontos ou mais, no máximo 3 por autor por dia. Comparação sem acento e sem maiúsculas.",
+  "_estante": "Rebecca Yarros, Raphael Montes, Stephen King e C. S. Lewis vêm de estante.json, com as obras completas; os termos deles aqui se somam aos de lá.",
   "pontos": { "autor": 3, "vizinho": 2, "tema": 1, "max_temas": 2, "tema_com_livro": 1, "tela": -2, "minimo": 2, "max_por_autor_dia": 3 },
 
-  "tela": ["filme", "filmes", "film", "films", "movie", "movies", "serie de tv", "series de tv", "tv series", "temporada", "season", "episodio", "episode", "trailer", "streaming", "netflix", "prime video", "hbo", "game", "videogame", "jogo", "d&d", "rings of power", "aneis de poder", "bilheteria", "box office", "cinemas", "ator", "atriz", "actor", "actress", "screenrant", "comicbook"],
+  "tela": ["filme", "filmes", "film", "films", "movie", "movies", "serie de tv", "series de tv", "tv series", "temporada", "season", "episodio", "episode", "trailer", "streaming", "netflix", "prime video", "hbo", "game", "videogame", "jogo", "d&d", "rings of power", "aneis de poder", "bilheteria", "box office", "cinemas", "ator", "atriz", "actor", "actress", "screenrant", "comicbook", "casting", "elenco", "showrunner", "miniseries", "minisserie", "tv show", "tv series"],
 
   "autores": [
     { "nome": "Augusto Cury",        "termos": ["augusto cury"] },
     { "nome": "Dan Brown",           "termos": ["dan brown", "robert langdon"] },
     { "nome": "J. R. R. Tolkien",    "termos": ["tolkien", "hobbit", "senhor dos aneis", "lord of the rings", "terra-media", "middle-earth"] },
-    { "nome": "C. S. Lewis",         "termos": ["c. s. lewis", "c.s. lewis", "cs lewis", "narnia"] },
+    { "nome": "C. S. Lewis",         "termos": ["narnia"] },
     { "nome": "Franz Kafka",         "termos": ["kafka", "kafkiano", "kafkaesque"] },
     { "nome": "Nikolai Gógol",       "termos": ["gogol"] },
     { "nome": "Aleksandr Púchkin",   "termos": ["puchkin", "pushkin"] },
@@ -16,7 +17,6 @@
     { "nome": "Michio Kaku",         "termos": ["michio kaku", "kaku"] },
     { "nome": "Svetlana Aleksiévitch", "termos": ["aleksievitch", "alexievich"] },
     { "nome": "Daniel Keyes",        "termos": ["daniel keyes", "algernon"] },
-    { "nome": "Raphael Montes",      "termos": ["raphael montes"] },
     { "nome": "SenLinYu",            "termos": ["senlinyu", "alchemised"] },
     { "nome": "Platão e Sócrates",   "termos": ["platao", "plato", "socrates"] }
   ],
