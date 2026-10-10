@@ -1,0 +1,57 @@
+{
+  "_leia": "Perfil de leitura do Cacau, montado a partir da estante e dos textos de marcoscacau.github.io. Cada notícia ganha pontos: autor da estante = 3, autor vizinho = 2, tema = 1 (até 2 temas), +1 se um tema vier junto com livro/romance/book. Notícia de filme/série/jogo perde 2. 'Para você' = 2 pontos ou mais, no máximo 3 por autor por dia. Comparação sem acento e sem maiúsculas.",
+  "pontos": { "autor": 3, "vizinho": 2, "tema": 1, "max_temas": 2, "tema_com_livro": 1, "tela": -2, "minimo": 2, "max_por_autor_dia": 3 },
+
+  "tela": ["filme", "filmes", "film", "films", "movie", "movies", "serie de tv", "series de tv", "tv series", "temporada", "season", "episodio", "episode", "trailer", "streaming", "netflix", "prime video", "hbo", "game", "videogame", "jogo", "d&d", "rings of power", "aneis de poder", "bilheteria", "box office", "cinemas", "ator", "atriz", "actor", "actress", "screenrant", "comicbook"],
+
+  "autores": [
+    { "nome": "Augusto Cury",        "termos": ["augusto cury"] },
+    { "nome": "Dan Brown",           "termos": ["dan brown", "robert langdon"] },
+    { "nome": "J. R. R. Tolkien",    "termos": ["tolkien", "hobbit", "senhor dos aneis", "lord of the rings", "terra-media", "middle-earth"] },
+    { "nome": "C. S. Lewis",         "termos": ["c. s. lewis", "c.s. lewis", "cs lewis", "narnia"] },
+    { "nome": "Franz Kafka",         "termos": ["kafka", "kafkiano", "kafkaesque"] },
+    { "nome": "Nikolai Gógol",       "termos": ["gogol"] },
+    { "nome": "Aleksandr Púchkin",   "termos": ["puchkin", "pushkin"] },
+    { "nome": "Carl Sagan",          "termos": ["carl sagan", "sagan"] },
+    { "nome": "Michio Kaku",         "termos": ["michio kaku", "kaku"] },
+    { "nome": "Svetlana Aleksiévitch", "termos": ["aleksievitch", "alexievich"] },
+    { "nome": "Daniel Keyes",        "termos": ["daniel keyes", "algernon"] },
+    { "nome": "Raphael Montes",      "termos": ["raphael montes"] },
+    { "nome": "SenLinYu",            "termos": ["senlinyu", "alchemised"] },
+    { "nome": "Platão e Sócrates",   "termos": ["platao", "plato", "socrates"] }
+  ],
+
+  "vizinhos": [
+    { "nome": "Dostoiévski",         "termos": ["dostoievski", "dostoevsky", "dostoyevsky"] },
+    { "nome": "Tolstói",             "termos": ["tolstoi", "tolstoy"] },
+    { "nome": "Tchekhov",            "termos": ["tchekhov", "chekhov"] },
+    { "nome": "Bulgákov",            "termos": ["bulgakov"] },
+    { "nome": "G. K. Chesterton",    "termos": ["chesterton"] },
+    { "nome": "Timothy Keller",      "termos": ["timothy keller", "tim keller"] },
+    { "nome": "Umberto Eco",         "termos": ["umberto eco"] },
+    { "nome": "Isaac Asimov",        "termos": ["asimov"] },
+    { "nome": "Stephen Hawking",     "termos": ["hawking"] },
+    { "nome": "Carlo Rovelli",       "termos": ["rovelli"] },
+    { "nome": "Brian Greene",        "termos": ["brian greene"] },
+    { "nome": "Neil deGrasse Tyson", "termos": ["degrasse tyson", "neil tyson"] },
+    { "nome": "Ursula K. Le Guin",   "termos": ["le guin"] },
+    { "nome": "Yuval Harari",        "termos": ["harari"] }
+  ],
+
+  "temas": [
+    { "id": "fisica",    "nome": "física e ciência",
+      "termos": ["fisica", "fisico", "quantica", "quantico", "quantum", "physics", "physicist", "cosmologia", "cosmology", "universo", "universe", "einstein", "gravidade", "gravity", "termodinamica", "entropia", "entropy", "astronomia", "astronomy", "cientista", "scientist", "divulgacao cientifica", "popular science", "buraco negro", "black hole"] },
+    { "id": "fe",        "nome": "fé e teologia",
+      "termos": ["teologia", "teologo", "theology", "theologian", "biblia", "biblico", "bible", "biblical", "cristao", "crista", "christian", "cristianismo", "christianity", "evangelho", "gospel", "igreja", "church", "apostolo", "apostle", "salmos", "psalms", "devocional", "devotional", "espiritualidade", "spirituality"] },
+    { "id": "filosofia", "nome": "filosofia",
+      "termos": ["filosofia", "filosofo", "filosofa", "philosophy", "philosopher", "etica", "ethics", "estoicismo", "stoicism", "existencialismo", "existentialism", "consciencia", "consciousness"] },
+    { "id": "russos",    "nome": "literatura russa",
+      "termos": ["literatura russa", "russian literature", "escritor russo", "russian writer", "russian novel", "romance russo", "nabokov", "solzhenitsyn", "soljenitsin"] },
+    { "id": "fantasia",  "nome": "fantasia e ficção científica",
+      "termos": ["fantasia", "fantasy", "ficcao cientifica", "science fiction", "sci-fi", "distopia", "distopico", "dystopia", "dystopian", "epic fantasy"] },
+    { "id": "suspense",  "nome": "suspense e mistério",
+      "termos": ["thriller", "suspense", "misterio", "mystery", "conspiracao", "conspiracy", "simbologia", "romance policial", "detective novel"] },
+    { "id": "mente",     "nome": "mente e emoções",
+      "termos": ["psicologia", "psychology", "emocoes", "emocional", "emotional", "ansiedade", "anxiety", "saude mental", "mental health", "inteligencia emocional", "autoconhecimento"] }
+  ]
+}
