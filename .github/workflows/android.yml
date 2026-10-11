@@ -33,7 +33,7 @@ jobs:
         env:
           CHAVE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
         run: |
-          echo "$CHAVE_B64" | base64 -d > "$RUNNER_TEMP/radar.p12"
+          printf '%s' "$CHAVE_B64" | tr -d '\r\n ' | base64 -d > "$RUNNER_TEMP/radar.p12"
           echo "ANDROID_KEYSTORE=$RUNNER_TEMP/radar.p12" >> "$GITHUB_ENV"
 
       - name: Compilar o APK
