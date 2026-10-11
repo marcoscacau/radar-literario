@@ -1,11 +1,11 @@
 {
- "gerado_em": "2026-10-11T19:35:32-03:00",
+ "gerado_em": "2026-10-11T19:36:09-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
-   "ok": true,
-   "erro": null,
-   "ofertas": 6
+   "ok": false,
+   "erro": "HTTPError: HTTP Error 403: Forbidden",
+   "ofertas": 0
   },
   {
    "fonte": "Gatry",
@@ -99,7 +99,7 @@
    "nota": "Ainda rola enviar os epubs nesse...",
    "postado_em": "2026-10-05T09:19-03:00",
    "visto_em": "2026-10-11T19:35-03:00",
-   "ultima_vez": "2026-10-11T19:35-03:00",
+   "ultima_vez": "2026-10-11T19:36-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
