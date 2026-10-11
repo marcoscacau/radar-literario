@@ -1,7 +1,37 @@
 {
- "gerado_em": "2026-10-10T21:22:24-03:00",
- "total": 10,
+ "gerado_em": "2026-10-10T22:23:38-03:00",
+ "total": 11,
  "eventos": [
+  {
+   "id": "25f0b47ef362",
+   "titulo": "Bienal do Livro Sergipe",
+   "link": "https://www.sympla.com.br/evento/bienal-do-livro-sergipe/3551292",
+   "resumo": "05/11 a 09/11 · Centro Cultural Palácio-Museu Luiz Antônio Barreto, Aracaju (ingressos no Sympla)",
+   "fonte": "Sympla (eventos em Sergipe)",
+   "fonte_id": "sympla-se",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T22:23-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "evento": {
+    "inicio": "2026-11-05",
+    "fim": "2026-11-09",
+    "local": "Centro Cultural Palácio-Museu Luiz Antônio Barreto, Aracaju"
+   },
+   "quando": {
+    "inicio": "2026-11-05",
+    "fim": "2026-11-09",
+    "origem": "sympla"
+   },
+   "dia": "2026-10-10"
+  },
   {
    "id": "80605e0c4b84",
    "titulo": "Itamar Vieira Junior é confirmado no Salão de Literatura do FASC 2026",
@@ -20,6 +50,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   },
   {
@@ -39,6 +70,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-20",
+    "fim": "2026-11-22",
+    "origem": "texto"
    },
    "dia": "2026-10-10"
   },
@@ -60,6 +96,11 @@
     "autores": [],
     "temas": []
    },
+   "quando": {
+    "inicio": "2026-10-09",
+    "fim": "2026-10-15",
+    "origem": "texto"
+   },
    "dia": "2026-10-10"
   },
   {
@@ -80,6 +121,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   },
   {
@@ -99,6 +141,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-02",
+    "fim": "2026-10-08",
+    "origem": "texto"
    },
    "dia": "2026-10-10"
   },
@@ -120,6 +167,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   },
   {
@@ -140,6 +188,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   },
   {
@@ -159,6 +208,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-09-26",
+    "fim": "2026-09-27",
+    "origem": "texto"
    },
    "dia": "2026-10-10"
   },
@@ -181,6 +235,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   },
   {
@@ -202,6 +257,7 @@
     "autores": [],
     "temas": []
    },
+   "quando": null,
    "dia": "2026-10-10"
   }
  ]

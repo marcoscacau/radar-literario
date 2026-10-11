@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T21:22:24-03:00",
+ "gerado_em": "2026-10-10T22:23:38-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -98,7 +98,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 43,
-   "novos_hoje": 4
+   "novos_hoje": 0
   },
   {
    "id": "gn-sergipe-instituicoes",
@@ -107,7 +107,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 44,
-   "novos_hoje": 3
+   "novos_hoje": 0
   },
   {
    "id": "mangue",
@@ -116,7 +116,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 2,
-   "novos_hoje": 2
+   "novos_hoje": 0
   },
   {
    "id": "infonet",
@@ -125,15 +125,6 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 1,
-   "novos_hoje": 1
-  },
-  {
-   "id": "faxaju",
-   "nome": "FaxAju",
-   "grupo": "brasil-portugal",
-   "ok": false,
-   "erro": "HTTPError: HTTP Error 403: Forbidden",
-   "itens_no_feed": 0,
    "novos_hoje": 0
   },
   {
@@ -146,12 +137,21 @@
    "novos_hoje": 0
   },
   {
+   "id": "sympla-se",
+   "nome": "Sympla (eventos em Sergipe)",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 1,
+   "novos_hoje": 1
+  },
+  {
    "id": "mundocristao",
    "nome": "Mundo Cristão (editora)",
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 10,
+   "itens_no_feed": 2,
    "novos_hoje": 0
   },
   {
@@ -268,7 +268,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 26,
+   "itens_no_feed": 28,
    "novos_hoje": 0
   },
   {

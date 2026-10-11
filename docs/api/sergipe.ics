@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Literario//Sergipe//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Radar Literário – Sergipe
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:Eventos literários em Sergipe encontrados pelo Radar Literár
+ io
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:25f0b47ef362@radar-literario
+DTSTAMP:20261011T012338Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261110
+SUMMARY:Bienal do Livro Sergipe
+DESCRIPTION:05/11 a 09/11 · Centro Cultural Palácio-Museu Luiz Antônio B
+ arreto\, Aracaju (ingressos no Sympla)\n\nFonte: Sympla (eventos em Sergip
+ e)\nhttps://www.sympla.com.br/evento/bienal-do-livro-sergipe/3551292
+URL:https://www.sympla.com.br/evento/bienal-do-livro-sergipe/3551292
+TRANSP:TRANSPARENT
+LOCATION:Centro Cultural Palácio-Museu Luiz Antônio Barreto\, Aracaju
+END:VEVENT
+BEGIN:VEVENT
+UID:4340d50a2d8f@radar-literario
+DTSTAMP:20261011T012338Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Programação completa do FASC 2026 será lançada no dia 15 de out
+ ubro
+DESCRIPTION:Festival será realizado de 20 a 22 de novembro e já tem algum
+ as atrações musicais e literárias confirmadas O post Programação comp
+ leta do FASC 2026 será lançada no dia 15 de outubro apareceu primeiro em
+  O que é notícia em Sergipe .\n\nFonte: Infonet\nhttps://infonet.com.br/
+ noticias/cultura/programacao-completa-do-fasc-2026-sera-lancada-no-dia-15-
+ de-outubro/\n\nData lida automaticamente do texto da notícia: confira no 
+ link.
+URL:https://infonet.com.br/noticias/cultura/programacao-completa-do-fasc-20
+ 26-sera-lancada-no-dia-15-de-outubro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a9716d9c5e@radar-literario
+DTSTAMP:20261011T012338Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261016
+SUMMARY:AGENDA MANGUE CULTURAL DE 9 a 15 de Outubro: “Dia das Crianças\,
+  Ensaio da Marujada\, Mini Ball e muito mais em Sergipe”
+DESCRIPTION:(CAPELA) Praça da Rua da Palmeira Eventos de 12 a 15/10 Semana
+  da Criança no Museu da Gente Sergipana Programação especial de celebra
+ ção da infância reunindo mediação temática\, jogo educativo\, sala d
+ e atividades e jogos\, oficina de iniciação à flauta de pífano e tarde
+  de contação de histórias.\n\nFonte: Mangue Jornalismo (agenda cultural
+ )\nhttps://manguejornalismo.org/agenda-mangue-cultural-de-9-a-15-de-outubr
+ o-dia-das-criancas-ensaio-da-marujada-mini-ball-e-muito-mais-em-sergipe/\n
+ \nData lida automaticamente do texto da notícia: confira no link.
+URL:https://manguejornalismo.org/agenda-mangue-cultural-de-9-a-15-de-outubr
+ o-dia-das-criancas-ensaio-da-marujada-mini-ball-e-muito-mais-em-sergipe/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5445f83399c2@radar-literario
+DTSTAMP:20261011T012338Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261009
+SUMMARY:AGENDA MANGUE CULTURAL DE 2 a 8 de Outubro: “PEIAS Sonoras\, Noch
+ e Buena\, Encontro Cultural\, monólogo e muito mais em Sergipe ”
+DESCRIPTION:(ARACAJU) Esquina da Rua Rafael de Aguiar com a Rua Ribeirópol
+ is\, Bairro Pereira Lobo 11º Encontro Cultural da Casa Curiar Sarau promo
+ vido pela Casa Curiar e a Academia dos Saberes de Aracaju e da Sustentabil
+ idade (ASAS)\, reunindo apresentações de música\, canto\, dança\, poes
+ ia\, literatura e outras…\n\nFonte: Mangue Jornalismo (agenda cultural)\
+ nhttps://manguejornalismo.org/agenda-mangue-cultural-de-2-a-8-de-outubro-p
+ eias-sonoras-noche-buena-encontro-cultural-monologo-e-muito-mais-em-sergip
+ e/\n\nData lida automaticamente do texto da notícia: confira no link.
+URL:https://manguejornalismo.org/agenda-mangue-cultural-de-2-a-8-de-outubro
+ -peias-sonoras-noche-buena-encontro-cultural-monologo-e-muito-mais-em-serg
+ ipe/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd11b963523b@radar-literario
+DTSTAMP:20261011T012338Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Shows\, feira de livros\, circo e mais: veja o que fazer em Sergipe
+  neste fim de semana
+DESCRIPTION:Fonte: G1 (via Google)\nhttps://news.google.com/rss/articles/CB
+ Mi1wFBVV95cUxNWkczcFRpSl9nVWhVa1BQUEdlUTVVZFJNMlJMYlk0NnZzU2M3U3lack9BMGZZ
+ b2gxRU9lZU9EYURwckc4Y3RBQjh5d0h1bGc2UGU5VGIxY1A2V3BfYUxfWG9UbjIxV1Z6RFRaMn
+ duNnpvdlBYeGtDaTE4QlZOQlB4WDRUai0yazNCT3l3dDVNeWl0QXN3T1B6cF95SlV3UG9WOUls
+ dmd4UHEzanZkSFZTYjJ5UlR4c1hFamkzb0RRejA2SVhDS3Z3TE9mb1llYWtlUkQ4TTVuc9IB5g
+ FBVV95cUxOdUNES3JFeGtDTEpHaUM2azhwbUY0VENnbmY3ZWlLSlpPM1E1NWtBS2Z3WjU5SUlR
+ dk14NGwxN1I2WEZMbEo4UDBUdEFWT0p3M21EdDJ0YTNGRlI3M3pKTmpjbXMxZDZXbzREUnY5RE
+ 04bUlqOTJZR09faGFTUUlHZjNROHVnVmhBUmcyd19kOE1qMUQ5V1pWVHdwSi1oSUJwSGlGT0V5
+ Nl9tN3hXZHo3QnYzTVVsOVF0TTZvN0VXNkNGQ0pYYWpEUGRCQ3lXbHdLdEJZUmRzUndKeElOYX
+ lab0daRDZiUQ?oc=5\n\nData lida automaticamente do texto da notícia: confi
+ ra no link.
+URL:https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWkczcFRpSl9nVWhVa1
+ BQUEdlUTVVZFJNMlJMYlk0NnZzU2M3U3lack9BMGZZb2gxRU9lZU9EYURwckc4Y3RBQjh5d0h1
+ bGc2UGU5VGIxY1A2V3BfYUxfWG9UbjIxV1Z6RFRaMnduNnpvdlBYeGtDaTE4QlZOQlB4WDRUai
+ 0yazNCT3l3dDVNeWl0QXN3T1B6cF95SlV3UG9WOUlsdmd4UHEzanZkSFZTYjJ5UlR4c1hFamkz
+ b0RRejA2SVhDS3Z3TE9mb1llYWtlUkQ4TTVuc9IB5gFBVV95cUxOdUNES3JFeGtDTEpHaUM2az
+ hwbUY0VENnbmY3ZWlLSlpPM1E1NWtBS2Z3WjU5SUlRdk14NGwxN1I2WEZMbEo4UDBUdEFWT0p3
+ M21EdDJ0YTNGRlI3M3pKTmpjbXMxZDZXbzREUnY5RE04bUlqOTJZR09faGFTUUlHZjNROHVnVm
+ hBUmcyd19kOE1qMUQ5V1pWVHdwSi1oSUJwSGlGT0V5Nl9tN3hXZHo3QnYzTVVsOVF0TTZvN0VX
+ NkNGQ0pYYWpEUGRCQ3lXbHdLdEJZUmRzUndKeElOYXlab0daRDZiUQ?oc=5
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

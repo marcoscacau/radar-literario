@@ -1,7 +1,7 @@
 {
  "data": "2026-10-10",
- "gerado_em": "2026-10-10T21:22:24-03:00",
- "total": 168,
+ "gerado_em": "2026-10-10T22:23:38-03:00",
+ "total": 169,
  "secoes": {
   "para-voce": [
    "a9e05283f232",
@@ -26,6 +26,7 @@
    "9d8e883cbab6"
   ],
   "sergipe": [
+   "25f0b47ef362",
    "80605e0c4b84",
    "4340d50a2d8f",
    "a4a9716d9c5e",
@@ -96,6 +97,7 @@
    "25653298b588"
   ],
   "brasil-portugal": [
+   "25f0b47ef362",
    "fdf739480202",
    "d650d2f9b9bc",
    "de151bb72ac5",
@@ -269,6 +271,35 @@
   ]
  },
  "itens": [
+  {
+   "id": "25f0b47ef362",
+   "titulo": "Bienal do Livro Sergipe",
+   "link": "https://www.sympla.com.br/evento/bienal-do-livro-sergipe/3551292",
+   "resumo": "05/11 a 09/11 · Centro Cultural Palácio-Museu Luiz Antônio Barreto, Aracaju (ingressos no Sympla)",
+   "fonte": "Sympla (eventos em Sergipe)",
+   "fonte_id": "sympla-se",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T22:23-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "evento": {
+    "inicio": "2026-11-05",
+    "fim": "2026-11-09",
+    "local": "Centro Cultural Palácio-Museu Luiz Antônio Barreto, Aracaju"
+   },
+   "quando": {
+    "inicio": "2026-11-05",
+    "fim": "2026-11-09",
+    "origem": "sympla"
+   }
+  },
   {
    "id": "fdf739480202",
    "titulo": "Carrie e o Kingverso: entenda como as obras de Stephen King se conectam",
@@ -595,7 +626,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   },
   {
    "id": "057c5e9937e4",
@@ -722,6 +754,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-20",
+    "fim": "2026-11-22",
+    "origem": "texto"
    }
   },
   {
@@ -1903,6 +1940,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-09",
+    "fim": "2026-10-15",
+    "origem": "texto"
    }
   },
   {
@@ -3230,7 +3272,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   },
   {
    "id": "5445f83399c2",
@@ -3249,6 +3292,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-02",
+    "fim": "2026-10-08",
+    "origem": "texto"
    }
   },
   {
@@ -3268,7 +3316,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   },
   {
    "id": "953157b9168c",
@@ -3287,7 +3336,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   },
   {
    "id": "dd11b963523b",
@@ -3306,6 +3356,11 @@
     "pontos": 0,
     "autores": [],
     "temas": []
+   },
+   "quando": {
+    "inicio": "2026-09-26",
+    "fim": "2026-09-27",
+    "origem": "texto"
    }
   },
   {
@@ -3326,7 +3381,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   },
   {
    "id": "25653298b588",
@@ -3346,7 +3402,8 @@
     "pontos": 0,
     "autores": [],
     "temas": []
-   }
+   },
+   "quando": null
   }
  ]
 }
