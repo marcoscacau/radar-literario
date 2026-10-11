@@ -546,7 +546,7 @@ function haQuanto(iso) {
 
 function cartaoOferta(o) {
   const meta = el("div", { class: "meta" },
-    el("span", { class: "selo " + (o.preco === 0 ? "s-novo" : "s-cinza") }, reais(o.preco)),
+    el("span", { class: "selo " + (o.preco === 0 ? "s-novo" : "s-cinza") }, o.tipo === "imprensa" ? "matéria" : reais(o.preco)),
     el("span", {}, o.fonte + (o.loja ? ` · ${o.loja}` : "")),
     el("span", {}, "postado " + haQuanto(o.postado_em)));
   for (const a of o.para_voce.autores) meta.append(el("span", { class: "selo s-voce", title: "Da sua estante" }, a));
@@ -564,10 +564,11 @@ function desenharKindle(termo) {
     ["eBooks", "ebook", "grátis primeiro"],
     ["Kindle Unlimited e campanhas", null, "assinatura grátis, Encha seu Kindle, Kindle Week"],
     ["Aparelhos", "aparelho", "Kindle, Paperwhite, capas"],
+    ["Na imprensa", "imprensa", "matérias sobre eBooks grátis e campanhas da Amazon"],
   ];
   const blocos = [el("div", { class: "intro" },
     el("strong", {}, "Promoções do Kindle. "),
-    "A Amazon não deixa ler as ofertas dela automaticamente, então elas vêm das comunidades onde as pessoas postam promoções (Pelando e Gatry), conferidas a cada 3 horas. O que bate com a sua estante aparece primeiro; eBook grátis, Kindle Unlimited e campanhas também chegam no celular. Preço de promoção muda rápido: confira no link antes de comprar.")];
+    "A Amazon não deixa ler as ofertas dela automaticamente, então elas vêm das comunidades onde as pessoas postam promoções (Gatry e Pelando) e das matérias sobre eBooks grátis, conferidas a cada 3 horas. O que bate com a sua estante aparece primeiro; eBook grátis, Kindle Unlimited e campanhas também chegam no celular. Preço de promoção muda rápido: confira no link antes de comprar.")];
   if (paraVoce.length) {
     blocos.push(el("h2", {}, "Para você", el("small", {}, "da sua estante e dos seus temas")));
     blocos.push(...paraVoce.map(cartaoOferta));

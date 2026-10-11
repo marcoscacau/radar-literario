@@ -19,7 +19,8 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from coletar import API, BRASILIA, RAIZ, carregar_perfil, gravar_json, ler_json, pontuar, sem_acento  # noqa: E402
+from coletar import API, BRASILIA, RAIZ, carregar_perfil, gravar_json, ler_data, ler_feed, ler_json, pontuar, sem_acento  # noqa: E402
+from coletar import baixar as baixar_feed  # noqa: E402
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
@@ -117,17 +118,35 @@ def gatry(termo, agora):
                "nota": html.unescape(nota[1]).strip() if nota else ""}
 
 
+NOTICIAS = ("https://news.google.com/rss/search?q=(kindle+OR+ebook+OR+e-book)+(gr%C3%A1tis+OR+promo%C3%A7%C3%A3o+OR+desconto+OR+"
+            "%22Kindle+Unlimited%22+OR+%22Encha+seu+Kindle%22)+when:3d&hl=pt-BR&gl=BR&ceid=BR:pt-419")
+
+
+def imprensa(_termo, agora):
+    """Matérias sobre eBooks grátis e campanhas da Amazon (o Google Notícias responde também no GitHub,
+    o que não acontece com o Pelando, que recusa os servidores do GitHub)."""
+    for b in ler_feed(baixar_feed(NOTICIAS)):
+        titulo, veiculo = (b["titulo"] or "").strip(), (b.get("veiculo") or "").strip()
+        if veiculo and titulo.endswith(" - " + veiculo):
+            titulo = titulo[: -len(veiculo) - 3].rstrip()
+        t = sem_acento(titulo)
+        if not re.search(r"kindle|(?<![a-z])e-?books?(?![a-z])", t) or not re.search(r"gratis|promo|descont|unlimited|encha|oferta|r\$", t):
+            continue
+        yield {"fonte": veiculo or "Google Notícias", "id_fonte": b["link"], "titulo": titulo, "link": b["link"], "loja": "",
+               "preco": None, "postado": ler_data(b["data"]), "nota": "", "tipo": "imprensa"}
+
+
 def main():
     agora = datetime.now(BRASILIA)
     perfil = carregar_perfil()
     pontos_min = perfil["pontos"]["minimo"]
     status, achadas = [], {}
-    for nome, buscar, termos in (("Pelando", pelando, BUSCAS_PELANDO), ("Gatry", gatry, BUSCAS_GATRY)):
+    for nome, buscar, termos in (("Pelando", pelando, BUSCAS_PELANDO), ("Gatry", gatry, BUSCAS_GATRY), ("Imprensa", imprensa, [None])):
         n, erro = 0, None
         for termo in termos:
             try:
                 for o in buscar(termo, agora):
-                    tipo = tipo_de(o["titulo"])
+                    tipo = o.get("tipo") or tipo_de(o["titulo"])
                     if not tipo or not o["postado"] or o["postado"] < agora - timedelta(days=DIAS_RECENTE):
                         continue
                     o["id"] = hashlib.sha1(f"{o['fonte']}:{o['id_fonte']}".encode()).hexdigest()[:12]
@@ -161,7 +180,8 @@ def main():
 
     # Avisos no celular: o que bate com o perfil, eBook grátis e campanhas (o resto fica só na aba).
     importantes = [o for o in novas if o["para_voce"]["pontos"] >= pontos_min or o["tipo"] in ("campanha", "unlimited")
-                   or (o["tipo"] == "ebook" and o["preco"] == 0)]
+                   or (o["tipo"] == "ebook" and o["preco"] == 0)
+                   or (o["tipo"] == "imprensa" and re.search(r"gratis|encha seu kindle", sem_acento(o["titulo"])))]
     if importantes:
         avisos = ler_json(RAIZ / "avisos.json", {})
         avisos["kindle"] = [{"titulo": o["titulo"], "link": o["link"], "preco": o["preco"], "fonte": o["fonte"],
