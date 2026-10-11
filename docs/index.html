@@ -368,11 +368,102 @@ function cartao(i) {
   return el("article", {}, a, i.resumo ? el("p", {}, i.resumo) : null, meta);
 }
 
-// ---------- Vou publicar: notícias e ideias que viram texto seu (guardadas neste aparelho) ----------
+// ---------- Vou publicar: notícias e ideias que viram texto seu ----------
+// Guardadas neste aparelho e, se houver chave do GitHub, também no repositório privado radar-pautas:
+// cada pauta é uma issue (aberta = pretendo; fechada com "publicado" = publicado; fechada com "removido" = fora).
+const REPO_PAUTAS = "marcoscacau/radar-pautas";
 const pautas = () => ler("radar-pautas", []);
 const gravarPautas = lista => { gravar("radar-pautas", lista); desenharAbas(); };
 const hojeISO = () => new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
 const dataBR = iso => iso.split("-").reverse().join("/");
+const chaveGH = () => ler("radar-gh-chave", "");
+let nuvem = { estado: chaveGH() ? "conectando" : "local", erro: "" };
+
+function gh(caminho, opcoes = {}) {
+  return fetch(`https://api.github.com/repos/${REPO_PAUTAS}${caminho}`, {
+    ...opcoes, cache: "no-store",
+    headers: { Authorization: `Bearer ${chaveGH()}`, Accept: "application/vnd.github+json", "Content-Type": "application/json" },
+  }).then(r => {
+    if (!r.ok) throw new Error(r.status === 401 ? "chave inválida ou vencida" : r.status === 404 ? "a chave não dá acesso ao radar-pautas" : `GitHub respondeu ${r.status}`);
+    return r.json();
+  });
+}
+const corpoIssue = p => `${p.nota || ""}\n\n<!-- radar ${JSON.stringify({ id: p.id, link: p.link, fonte: p.fonte, resumo: p.resumo,
+  criado: p.criado, publicado: p.publicado || null, onde: p.onde || "" })} -->`;
+const issueDe = p => ({ title: p.titulo, body: corpoIssue(p), state: p.estado === "pretendo" ? "open" : "closed",
+  labels: ["pauta", ...(p.estado === "publicado" ? ["publicado"] : [])] });
+function pautaDe(issue) {
+  const m = (issue.body || "").match(/<!-- radar (\{[\s\S]*\}) -->/);
+  let meta = {};
+  try { meta = m ? JSON.parse(m[1]) : {}; } catch {}
+  const labels = issue.labels.map(l => l.name);
+  return { id: meta.id || `gh-${issue.number}`, numero: issue.number, titulo: issue.title, link: meta.link || "", fonte: meta.fonte || "",
+    resumo: meta.resumo || "", nota: (issue.body || "").replace(/\s*<!-- radar [\s\S]*-->\s*$/, "").trim(),
+    estado: labels.includes("publicado") ? "publicado" : issue.state === "open" ? "pretendo" : "removido",
+    criado: meta.criado || issue.created_at.slice(0, 10),
+    publicado: meta.publicado || (labels.includes("publicado") && issue.closed_at ? issue.closed_at.slice(0, 10) : null), onde: meta.onde || "" };
+}
+
+function mostrarNuvem() { if (secao === "publicar") desenhar(); }
+function falhaNuvem(e) { nuvem = { estado: "erro", erro: e.message }; mostrarNuvem(); }
+
+// Envia uma pauta (cria a issue ou atualiza a que já existe).
+const criando = new Map();   // pauta cuja issue ainda está sendo criada: o que mudar nela espera a criação terminar
+function enviarPauta(p) {
+  if (!chaveGH()) return Promise.resolve();
+  if (!p.numero && criando.has(p.id))
+    return criando.get(p.id).then(() => { const atual = pautas().find(x => x.id === p.id); return atual && enviarPauta(atual); });
+  let pedido;
+  if (p.numero) pedido = gh(`/issues/${p.numero}`, { method: "PATCH", body: JSON.stringify(issueDe(p)) });
+  else {
+    const { title, body, labels } = issueDe(p);
+    pedido = gh("/issues", { method: "POST", body: JSON.stringify({ title, body, labels }) }).then(issue => {
+      gravarPautas(pautas().map(x => x.id === p.id ? { ...x, numero: issue.number } : x));
+      return p.estado !== "pretendo" ? gh(`/issues/${issue.number}`, { method: "PATCH", body: JSON.stringify({ state: "closed" }) }) : issue;
+    }).finally(() => criando.delete(p.id));
+    criando.set(p.id, pedido.catch(() => {}));
+  }
+  return pedido.then(() => { if (nuvem.estado !== "ok") { nuvem = { estado: "ok", erro: "" }; mostrarNuvem(); } }, falhaNuvem);
+}
+
+// Lê a lista do GitHub; o que só existia neste aparelho sobe junto.
+function sincronizar() {
+  if (!chaveGH()) { nuvem = { estado: "local", erro: "" }; return Promise.resolve(); }
+  nuvem = { estado: "conectando", erro: "" };
+  const paginas = [];
+  const pagina = n => gh(`/issues?state=all&labels=pauta&per_page=100&page=${n}`).then(lista => {
+    paginas.push(...lista.filter(i => !i.pull_request));
+    return lista.length === 100 && n < 5 ? pagina(n + 1) : paginas;
+  });
+  return pagina(1).then(issues => {
+    const daNuvem = issues.map(pautaDe);
+    const ids = new Set(daNuvem.map(p => p.id));
+    const soAqui = pautas().filter(p => !p.numero && !ids.has(p.id));
+    gravarPautas([...soAqui, ...daNuvem.filter(p => p.estado !== "removido")]);
+    nuvem = { estado: "ok", erro: "" };
+    return Promise.all(soAqui.map(enviarPauta));
+  }).then(() => { desenharAbas(); mostrarNuvem(); }, falhaNuvem);
+}
+
+function novaPauta(p) {
+  gravarPautas([p, ...pautas()]);
+  enviarPauta(p);
+}
+
+function mudarPauta(id, mudanca, redesenhar = true) {
+  gravarPautas(pautas().map(p => p.id === id ? { ...p, ...mudanca } : p));
+  const p = pautas().find(x => x.id === id);
+  if (p) enviarPauta(p);
+  if (redesenhar) desenhar();
+}
+
+function removerPauta(id) {
+  const p = pautas().find(x => x.id === id);
+  gravarPautas(pautas().filter(x => x.id !== id));
+  if (p?.numero && chaveGH())
+    gh(`/issues/${p.numero}`, { method: "PATCH", body: JSON.stringify({ state: "closed", labels: ["pauta", "removido"] }) }).catch(falhaNuvem);
+  desenhar();
+}
 
 function botaoPauta(i) {
   const achada = pautas().find(p => p.id === i.id);
@@ -381,16 +472,34 @@ function botaoPauta(i) {
   b.title = achada ? "Está na aba Vou publicar" : "Guardar na aba Vou publicar";
   b.onclick = () => {
     if (pautas().some(p => p.id === i.id)) { secao = "publicar"; gravar("radar-secao", secao); desenharAbas(); desenhar(); scrollTo(0, 0); return; }
-    gravarPautas([{ id: i.id, titulo: i.titulo, link: i.link, fonte: i.fonte, resumo: i.resumo || "", nota: "",
-                    estado: "pretendo", criado: hojeISO() }, ...pautas()]);
+    novaPauta({ id: i.id, titulo: i.titulo, link: i.link, fonte: i.fonte, resumo: i.resumo || "", nota: "", estado: "pretendo", criado: hojeISO() });
     b.className = "acao na-lista"; b.textContent = "✎ Vou publicar"; b.title = "Está na aba Vou publicar";
   };
   return b;
 }
 
-function mudarPauta(id, mudanca) {
-  gravarPautas(pautas().map(p => p.id === id ? { ...p, ...mudanca } : p));
-  desenhar();
+function painelNuvem() {
+  const caixa = el("div", { class: "nova-ideia" });
+  if (chaveGH()) {
+    const texto = { ok: "☁ Sincronizada com o GitHub: a mesma lista no celular e no computador.", conectando: "☁ Sincronizando…",
+      erro: `☁ Não consegui sincronizar: ${nuvem.erro}. A lista continua guardada neste aparelho.` }[nuvem.estado] || "";
+    const de_novo = el("button", { type: "button", class: "acao" }, "Sincronizar agora");
+    de_novo.onclick = () => { sincronizar(); desenhar(); };
+    const sair = el("button", { type: "button", class: "acao" }, "Desligar neste aparelho");
+    sair.onclick = () => { gravar("radar-gh-chave", ""); nuvem = { estado: "local", erro: "" }; desenhar(); };
+    caixa.append(el("div", { class: "meta" }, el("span", {}, texto)), el("div", { class: "botoes" }, de_novo, sair));
+    return caixa;
+  }
+  const campo = el("input", { type: "password", placeholder: "Chave do GitHub (começa com github_pat_)", "aria-label": "Chave do GitHub", autocomplete: "off" });
+  const ligar = el("button", { type: "button", class: "acao na-lista" }, "☁ Ligar sincronização");
+  ligar.onclick = () => {
+    if (!campo.value.trim()) { campo.focus(); return; }
+    gravar("radar-gh-chave", campo.value.trim());
+    sincronizar(); desenhar();
+  };
+  caixa.append(el("div", { class: "meta" }, el("span", {}, "Esta lista está só neste aparelho. Para ter a mesma no celular e no computador, cole a chave do GitHub (uma vez em cada aparelho):")),
+    campo, el("div", { class: "botoes" }, ligar));
+  return caixa;
 }
 
 function cartaoPauta(p) {
@@ -398,7 +507,7 @@ function cartaoPauta(p) {
   const quando = p.estado === "publicado" ? `publicado em ${dataBR(p.publicado)}` : `guardado em ${dataBR(p.criado)}`;
   const nota = el("textarea", { rows: "2", placeholder: "Anotações: o ângulo do texto, onde publicar…", "aria-label": "Anotações" });
   nota.value = p.nota || "";
-  nota.addEventListener("change", () => gravarPautas(pautas().map(x => x.id === p.id ? { ...x, nota: nota.value } : x)));
+  nota.addEventListener("change", () => mudarPauta(p.id, { nota: nota.value }, false));
   const botoes = el("div", { class: "botoes" });
   let ondeCampo = null;
   if (p.estado === "pretendo") {
@@ -408,14 +517,14 @@ function cartaoPauta(p) {
   } else {
     ondeCampo = el("input", { type: "url", placeholder: "Link do que você publicou (opcional)", "aria-label": "Link da publicação" });
     ondeCampo.value = p.onde || "";
-    ondeCampo.addEventListener("change", () => gravarPautas(pautas().map(x => x.id === p.id ? { ...x, onde: ondeCampo.value.trim() } : x)));
+    ondeCampo.addEventListener("change", () => mudarPauta(p.id, { onde: ondeCampo.value.trim() }));
     const voltar = el("button", { type: "button", class: "acao" }, "↩ Voltar para pretendo");
     voltar.onclick = () => mudarPauta(p.id, { estado: "pretendo", publicado: null });
     botoes.append(voltar);
   }
   const tirar = el("button", { type: "button", class: "acao" }, "Remover");
   tirar.onclick = () => {
-    if (tirar.dataset.certeza) { gravarPautas(pautas().filter(x => x.id !== p.id)); desenhar(); return; }
+    if (tirar.dataset.certeza) { removerPauta(p.id); return; }
     tirar.dataset.certeza = "1"; tirar.textContent = "Remover mesmo?";
     setTimeout(() => { if (tirar.isConnected) { delete tirar.dataset.certeza; tirar.textContent = "Remover"; } }, 4000);
   };
@@ -485,8 +594,8 @@ function desenharPublicar(termo) {
   const guardar = el("button", { type: "button", class: "acao na-lista" }, "+ Guardar ideia");
   const nova = () => {
     if (!titulo.value.trim()) { titulo.focus(); return; }
-    gravarPautas([{ id: "ideia-" + Date.now(), titulo: titulo.value.trim(), link: link.value.trim(), fonte: "", resumo: "", nota: "",
-                    estado: "pretendo", criado: hojeISO() }, ...pautas()]);
+    novaPauta({ id: "ideia-" + Date.now(), titulo: titulo.value.trim(), link: link.value.trim(), fonte: "", resumo: "", nota: "",
+                estado: "pretendo", criado: hojeISO() });
     desenhar();
   };
   guardar.onclick = nova;
@@ -494,8 +603,8 @@ function desenharPublicar(termo) {
 
   const blocos = [el("div", { class: "intro" },
     el("strong", {}, "O que você pretende publicar. "),
-    "Toque em “+ Pretendo publicar” em qualquer notícia do Radar, ou guarde uma ideia sua aqui. Quando publicar, marque como publicado. A lista fica guardada neste aparelho.",
-    el("div", { class: "nova-ideia" }, titulo, link, el("div", { class: "botoes" }, guardar)))];
+    "Toque em “+ Pretendo publicar” em qualquer notícia do Radar, ou guarde uma ideia sua aqui. Quando publicar, marque como publicado.",
+    el("div", { class: "nova-ideia" }, titulo, link, el("div", { class: "botoes" }, guardar)), painelNuvem())];
   blocos.push(el("h2", {}, "Pretendo publicar", el("small", {}, String(pretendo.length))));
   blocos.push(...(pretendo.length ? pretendo.map(cartaoPauta) : [el("p", { class: "vazio" }, termo ? "Nada encontrado." : "Nada por enquanto.")]));
   if (publicados.length) {
@@ -721,6 +830,9 @@ Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("r
   desenharAbas();
   desenhar();
   document.getElementById("busca").addEventListener("input", desenhar);
+  // Pautas: puxa a lista do GitHub ao abrir e ao voltar para a página (pode ter mudado no outro aparelho).
+  sincronizar();
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && chaveGH()) sincronizar(); });
 }).catch(() => {
   document.getElementById("data").textContent = "";
   document.getElementById("conteudo").replaceChildren(el("p", { class: "erro" }, "Não consegui carregar as notícias agora. Tente de novo mais tarde."));
