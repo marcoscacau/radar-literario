@@ -1,68 +1,150 @@
 {
- "gerado_em": "2026-10-10T22:23:38-03:00",
+ "gerado_em": "2026-10-11T12:21:39-03:00",
  "dias": [
-  "2026-10-10"
+  "2026-10-10",
+  "2026-10-11"
  ],
  "termos": [
   {
    "termo": "Anne Carson",
-   "fontes": 6,
-   "mencoes": 19,
+   "fontes": 15,
+   "mencoes": 29,
    "por_dia": [
-    19
+    19,
+    10
    ],
-   "novo_hoje": true,
+   "novo_hoje": false,
    "itens": [
+    "e8907f101205",
+    "72c506c432af",
+    "c710996aad76",
+    "dbe1b48d66f9",
+    "5e341789edd4",
+    "441d1f712788",
+    "6c6ffd36eba5",
+    "f1adeee3f35a",
+    "29d9b512daf6",
+    "1de171d151ca",
     "3e5a36badab7",
-    "e06619c324c6",
-    "cd00db54469b",
-    "a690d09ebd85",
-    "39a40c5b7676",
-    "925701688a13",
-    "eff76e1f299e",
-    "8b1b84d8688d",
-    "88906431d72c",
-    "e1e07796c7f2",
-    "05bfe1704c0c",
-    "232b047ad706"
+    "e06619c324c6"
    ]
   },
   {
    "termo": "Nobel de Literatura",
-   "fontes": 5,
-   "mencoes": 17,
+   "fontes": 12,
+   "mencoes": 24,
    "por_dia": [
-    17
+    17,
+    7
    ],
-   "novo_hoje": true,
+   "novo_hoje": false,
    "itens": [
+    "e8907f101205",
+    "72c506c432af",
+    "dbe1b48d66f9",
+    "441d1f712788",
+    "6c6ffd36eba5",
+    "f1adeee3f35a",
+    "1de171d151ca",
     "3e5a36badab7",
     "b7dbabac041b",
     "e06619c324c6",
     "ed018dc03165",
-    "eff76e1f299e",
-    "8b1b84d8688d",
-    "88906431d72c",
-    "e1e07796c7f2",
-    "05bfe1704c0c",
-    "232b047ad706",
-    "7dd3d3d4dc61",
-    "994c3f49db9d"
+    "eff76e1f299e"
    ]
   },
   {
    "termo": "Augusto Cury",
-   "fontes": 4,
-   "mencoes": 4,
+   "fontes": 12,
+   "mencoes": 12,
    "por_dia": [
-    4
+    4,
+    8
    ],
-   "novo_hoje": true,
+   "novo_hoje": false,
    "itens": [
+    "13ed05eaafc8",
+    "a0e9e9758ada",
+    "5452c72e79b5",
+    "f62f03249731",
+    "b0f3eb2b0ede",
+    "646f766350d5",
+    "730cdbee0ac6",
+    "08680a67d6ef",
     "05f363d18e15",
     "617fa0882220",
     "ae5ab3f11b52",
     "8f5d6c37c1db"
+   ]
+  },
+  {
+   "termo": "Flávio Bolsonaro",
+   "fontes": 9,
+   "mencoes": 9,
+   "por_dia": [
+    2,
+    7
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "13ed05eaafc8",
+    "a0e9e9758ada",
+    "f62f03249731",
+    "b0f3eb2b0ede",
+    "646f766350d5",
+    "730cdbee0ac6",
+    "08680a67d6ef",
+    "617fa0882220",
+    "8f5d6c37c1db"
+   ]
+  },
+  {
+   "termo": "Prime Video",
+   "fontes": 6,
+   "mencoes": 6,
+   "por_dia": [
+    2,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "21cf9613b70c",
+    "9c84d299e674",
+    "1e17e9c0595e",
+    "a3251fbbb923",
+    "4e78f813fafc",
+    "4db54dfb3234"
+   ]
+  },
+  {
+   "termo": "Threshing Day",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    4
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "0627db843005",
+    "6ed93856025f",
+    "5d4f20939414",
+    "20a4688ea199"
+   ]
+  },
+  {
+   "termo": "Mike Flanagan",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    2,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "1e17e9c0595e",
+    "6dfc8ff258b5",
+    "19fc1baa2137"
    ]
   }
  ]

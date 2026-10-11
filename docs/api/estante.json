@@ -1,9 +1,12 @@
 {
- "gerado_em": "2026-10-10T22:23:38-03:00",
+ "gerado_em": "2026-10-11T12:21:39-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
-   "noticias": [],
+   "noticias": [
+    "6ed93856025f",
+    "25662cdd01b6"
+   ],
    "livros": [
     {
      "titulo": "Full Measures",
@@ -113,6 +116,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "6ed93856025f",
       "cd10715bda68",
       "cf22b0140171"
      ]
@@ -149,7 +153,13 @@
      "ano": 2026,
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
-     "noticias": []
+     "noticias": [
+      "0627db843005",
+      "6ed93856025f",
+      "5d4f20939414",
+      "20a4688ea199",
+      "b771afe40cd8"
+     ]
     },
     {
      "titulo": "Peculiar Stars",
@@ -217,6 +227,12 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "ef2ce41a6f09",
+    "2b8a83fea493",
+    "49e61fdfff20",
+    "8163e333cd0e",
+    "09a98ec51af2",
+    "1e17e9c0595e",
     "fdf739480202",
     "de151bb72ac5",
     "6a249882c2f9",
@@ -241,6 +257,11 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "bdcad1517b27",
+      "49e61fdfff20",
+      "09a98ec51af2",
+      "1e17e9c0595e",
+      "a3251fbbb923",
       "fdf739480202",
       "de151bb72ac5",
       "077b137297af",
@@ -406,7 +427,9 @@
      "titulo": "Misery",
      "pt": "Misery: Louca Obsessão",
      "ano": 1987,
-     "noticias": []
+     "noticias": [
+      "8163e333cd0e"
+     ]
     },
     {
      "titulo": "The Tommyknockers",
@@ -765,6 +788,8 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "551acba049fc",
+    "444c8a547fa0",
     "a9e05283f232"
    ],
    "livros": [

@@ -1,57 +1,68 @@
 {
- "gerado_em": "2026-10-10T22:23:38-03:00",
+ "gerado_em": "2026-10-11T12:21:39-03:00",
  "dias": [
+  "2026-10-11",
   "2026-10-10"
  ],
- "total": 169,
+ "total": 234,
  "por_grupo": {
-  "brasil-portugal": 86,
-  "internacional": 83
+  "internacional": 109,
+  "brasil-portugal": 125
  },
  "temas": [
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 6
+   "noticias": 8
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 4
+   "noticias": 6
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 3
+   "noticias": 4
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 2
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 16
-  },
-  {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 8
+   "noticias": 24
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 4
+   "noticias": 12
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 11
   },
   {
    "nome": "Rebecca Yarros",
+   "noticias": 8
+  },
+  {
+   "nome": "C. S. Lewis",
+   "noticias": 4
+  },
+  {
+   "nome": "Franz Kafka",
    "noticias": 2
   },
   {
    "nome": "Dan Brown",
-   "noticias": 1
-  },
-  {
-   "nome": "C. S. Lewis",
-   "noticias": 1
-  },
-  {
-   "nome": "Franz Kafka",
    "noticias": 1
   },
   {
@@ -62,17 +73,19 @@
  "em_alta": [
   "Anne Carson",
   "Nobel de Literatura",
-  "Augusto Cury"
+  "Augusto Cury",
+  "Flávio Bolsonaro",
+  "Prime Video"
  ],
  "subindo": [],
  "destaques": [
   "a9e05283f232",
+  "6ed93856025f",
   "432b561be225",
-  "fdf739480202",
-  "cd10715bda68",
+  "bdcad1517b27",
+  "551acba049fc",
+  "b52a3b2bcd1f",
   "bdf735729197",
-  "05f363d18e15",
-  "2b6d501d1050",
-  "e9bf3c66c547"
+  "05f363d18e15"
  ]
 }

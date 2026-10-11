@@ -1,7 +1,53 @@
 {
- "gerado_em": "2026-10-10T22:23:38-03:00",
- "total": 11,
+ "gerado_em": "2026-10-11T12:21:39-03:00",
+ "total": 13,
  "eventos": [
+  {
+   "id": "b486ce5b9bf1",
+   "titulo": "Vila da Criança segue até novembro com brinquedos, teatro e outra atrações",
+   "link": "https://infonet.com.br/noticias/cultura/vila-da-crianca-segue-ate-novembro-com-brinquedos-teatro-e-outra-atracoes/",
+   "resumo": "Evento funciona diariamente, das 17h às 22h, na Orla da Atalaia, com atividades para crianças e espaços de inclusão",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-11T07:05-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-11"
+  },
+  {
+   "id": "b52a3b2bcd1f",
+   "titulo": "Fábio Dantas fala sobre trajetória e o novo livro “Bússola da Alma”",
+   "link": "https://infonet.com.br/noticias/cultura/fabio-dantas-fala-sobre-trajetoria-e-o-novo-livro-bussola-da-alma/",
+   "resumo": "Em entrevista ao Portal Infonet, escritor sergipano apresenta sua 21ª obra, que aborda autoconhecimento, espiritualidade e busca por propósito",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-11T06:00-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [],
+    "temas": [
+     "fe",
+     "mente"
+    ]
+   },
+   "quando": null,
+   "dia": "2026-10-11"
+  },
   {
    "id": "25f0b47ef362",
    "titulo": "Bienal do Livro Sergipe",
