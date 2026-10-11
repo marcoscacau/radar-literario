@@ -525,7 +525,9 @@ function desenhar() {
     el("strong", {}, "Eventos literários em Sergipe. "),
     "Feiras, bienais, saraus, lançamentos e sessões de autógrafos em Aracaju e no interior, garimpados nas notícias, na agenda cultural da semana e no Sympla. Cada evento novo também chega por e-mail e no celular.",
     el("div", { class: "meta", style: "margin-top:10px" },
-      el("a", { class: "selo s-voce", href: "api/sergipe.ics", title: "Copie este link e assine no Google Agenda: Outras agendas → + → Do URL" }, "📅 agenda para assinar (.ics)"),
+      el("a", { class: "selo s-voce", target: "_blank", rel: "noopener", title: "Abre o Google Agenda já com a assinatura; é só confirmar",
+        href: "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent("webcal://marcoscacau.github.io/radar-literario/api/sergipe.ics") }, "📅 assinar no Google Agenda"),
+      el("a", { class: "selo s-voce", href: "webcal://marcoscacau.github.io/radar-literario/api/sergipe.ics", title: "Agenda do celular ou do Outlook" }, "outra agenda"),
       el("a", { class: "selo s-voce", href: "api/sergipe.json" }, "histórico de 90 dias (JSON)")))]);
   desenharLista(itens);
 }
