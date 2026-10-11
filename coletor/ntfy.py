@@ -34,6 +34,12 @@ def quando(q):
     return "📅 " + (br(q["inicio"]) if q["inicio"] == q["fim"] else f"{br(q['inicio'])} a {br(q['fim'])}") + "\n"
 
 
+def valor(preco):
+    if preco is None:
+        return "promoção"
+    return "grátis" if preco == 0 else "R$ " + f"{preco:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+
 def main():
     topico = os.environ.get("NTFY_TOPICO", "").strip()
     if not topico:
@@ -49,9 +55,10 @@ def main():
     except FileNotFoundError:
         print("Sem avisos.json; nada enviado.")
         return
-    eventos, lancamentos = avisos.get("eventos", []), avisos.get("lancamentos", [])
-    if len(eventos) + len(lancamentos) > MAX_SEPARADAS:
-        linhas = [f"📍 {e['titulo']}" for e in eventos] + [f"📚 {a['titulo']}" for a in lancamentos]
+    eventos, lancamentos, kindle = avisos.get("eventos", []), avisos.get("lancamentos", []), avisos.get("kindle", [])
+    if len(eventos) + len(lancamentos) + len(kindle) > MAX_SEPARADAS:
+        linhas = ([f"📍 {e['titulo']}" for e in eventos] + [f"📚 {a['titulo']}" for a in lancamentos]
+                  + [f"🏷️ {k['titulo']} ({valor(k['preco'])})" for k in kindle])
         enviar(topico, f"Radar Literário: {len(linhas)} novidades", "\n".join(linhas), link=SITE + "?secao=sergipe")
         print(f"1 resumo com {len(linhas)} novidades enviado.")
         return
@@ -61,7 +68,11 @@ def main():
     for a in lancamentos:
         enviar(topico, f"Lançamento: {', '.join(a['autores'])}", f"{a['titulo']}\n{a['fonte']}",
                link=a["link"], tags=("books",), prioridade=4)
-    print(f"{len(eventos)} eventos e {len(lancamentos)} lançamentos enviados.")
+    for k in kindle:
+        para = f"Da sua estante: {', '.join(k['para_voce'])}\n" if k.get("para_voce") else ""
+        enviar(topico, f"Kindle: {valor(k['preco'])}", f"{k['titulo']}\n{para}via {k['fonte']}",
+               link=k["link"], tags=("label",), prioridade=4 if k.get("para_voce") else 3)
+    print(f"{len(eventos)} eventos, {len(lancamentos)} lançamentos e {len(kindle)} ofertas de Kindle enviados.")
 
 
 if __name__ == "__main__":

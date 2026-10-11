@@ -27,6 +27,10 @@ jobs:
       - name: Coletar notícias
         run: python coletor/coletar.py
 
+      - name: Promoções do Kindle
+        continue-on-error: true    # se o Pelando ou o Gatry mudarem a página, a edição sai mesmo assim
+        run: python coletor/kindle.py
+
       - name: Publicar
         run: |
           git config user.name  "radar-literario[bot]"

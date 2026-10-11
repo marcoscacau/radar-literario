@@ -233,6 +233,7 @@ const SECOES = [
   { id: "para-voce", nome: "Para você" },
   { id: "publicar", nome: "Vou publicar" },
   { id: "sergipe", nome: "Sergipe" },
+  { id: "kindle", nome: "Kindle" },
   { id: "em-alta", nome: "Em alta" },
   { id: "estante", nome: "Estante" },
   { id: "semana", nome: "A semana" },
@@ -244,7 +245,7 @@ const SECOES = [
 const fmtDia = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 const fmtCurto = new Intl.DateTimeFormat("pt-BR", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
 const fmtHora = new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
-let dados = null, alta = null, estante = null, resumo = null, alertas = [], perfil = null;
+let dados = null, alta = null, estante = null, resumo = null, alertas = [], perfil = null, kindle = null;
 let porId = new Map(), secao = "para-voce";
 
 // ---------- preferências do leitor (só neste navegador) ----------
@@ -270,6 +271,7 @@ function contagem(id) {
   if (id === "estante") return estante ? estante.autores.length : 0;
   if (id === "semana") return null;
   if (id === "publicar") return pautas().filter(p => p.estado === "pretendo").length;
+  if (id === "kindle") return kindle ? kindle.ofertas.filter(ofertaRecente).length : 0;
   return (dados.secoes[id] || []).length;
 }
 
@@ -422,6 +424,54 @@ function cartaoPauta(p) {
     el("span", { class: "quando" }, quando),
     p.onde ? el("a", { class: "selo s-novo", href: p.onde, target: "_blank", rel: "noopener" }, "ver publicação") : null);
   return el("article", { class: "pauta" }, titulo, p.resumo ? el("p", {}, p.resumo) : null, meta, nota, ondeCampo, botoes);
+}
+
+// ---------- Kindle: promoções postadas no Pelando e no Gatry ----------
+const ofertaRecente = o => Date.now() - new Date(o.postado_em) < 14 * 864e5;
+const ofertaAtiva = o => kindle && new Date(kindle.gerado_em) - new Date(o.ultima_vez || o.visto_em) < 6 * 36e5;
+const reais = p => p == null ? "promoção" : p === 0 ? "grátis" : p.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+function haQuanto(iso) {
+  const h = (Date.now() - new Date(iso)) / 36e5;
+  return h < 1 ? "agora há pouco" : h < 24 ? `há ${Math.floor(h)} h` : `há ${plural(Math.floor(h / 24), "dia", "dias")}`;
+}
+
+function cartaoOferta(o) {
+  const meta = el("div", { class: "meta" },
+    el("span", { class: "selo " + (o.preco === 0 ? "s-novo" : "s-cinza") }, reais(o.preco)),
+    el("span", {}, o.fonte + (o.loja ? ` · ${o.loja}` : "")),
+    el("span", {}, "postado " + haQuanto(o.postado_em)));
+  for (const a of o.para_voce.autores) meta.append(el("span", { class: "selo s-voce", title: "Da sua estante" }, a));
+  for (const t of o.para_voce.temas) meta.append(el("span", { class: "selo s-voce" }, nomeTema(t)));
+  if (!ofertaAtiva(o)) meta.append(el("span", { class: "selo s-premios", title: "Sumiu das buscas: pode ter expirado" }, "pode ter acabado"));
+  const a = el("a", { class: "titulo", href: o.link, target: "_blank", rel: "noopener" }, o.titulo);
+  return el("article", {}, a, o.nota ? el("p", {}, o.nota) : null, meta);
+}
+
+function desenharKindle(termo) {
+  const ofertas = kindle.ofertas.filter(o => ofertaRecente(o) && (!termo || semAcento(`${o.titulo} ${o.nota}`).includes(termo)));
+  const ordem = (a, b) => (ofertaAtiva(b) - ofertaAtiva(a)) || b.postado_em.localeCompare(a.postado_em);
+  const paraVoce = ofertas.filter(o => o.para_voce.autores.length || o.para_voce.pontos >= 2).sort(ordem);
+  const grupos = [
+    ["eBooks", "ebook", "grátis primeiro"],
+    ["Kindle Unlimited e campanhas", null, "assinatura grátis, Encha seu Kindle, Kindle Week"],
+    ["Aparelhos", "aparelho", "Kindle, Paperwhite, capas"],
+  ];
+  const blocos = [el("div", { class: "intro" },
+    el("strong", {}, "Promoções do Kindle. "),
+    "A Amazon não deixa ler as ofertas dela automaticamente, então elas vêm das comunidades onde as pessoas postam promoções (Pelando e Gatry), conferidas a cada 3 horas. O que bate com a sua estante aparece primeiro; eBook grátis, Kindle Unlimited e campanhas também chegam no celular. Preço de promoção muda rápido: confira no link antes de comprar.")];
+  if (paraVoce.length) {
+    blocos.push(el("h2", {}, "Para você", el("small", {}, "da sua estante e dos seus temas")));
+    blocos.push(...paraVoce.map(cartaoOferta));
+  }
+  for (const [nome, tipo, dica] of grupos) {
+    let lista = ofertas.filter(o => tipo ? o.tipo === tipo : (o.tipo === "unlimited" || o.tipo === "campanha"));
+    lista = tipo === "ebook" ? lista.sort((a, b) => ((a.preco === 0) ? 0 : 1) - ((b.preco === 0) ? 0 : 1) || ordem(a, b)) : lista.sort(ordem);
+    blocos.push(el("h2", {}, nome, el("small", {}, `${lista.length} · ${dica}`)));
+    blocos.push(...(lista.length ? lista.map(cartaoOferta) : [el("p", { class: "vazio" }, "Nada nos últimos 14 dias.")]));
+  }
+  blocos.push(el("p", { class: "nota-rodape" }, "Atualizado " + haQuanto(kindle.gerado_em) + ". ",
+    el("a", { href: "api/kindle.json" }, "kindle.json")));
+  document.getElementById("conteudo").replaceChildren(...blocos);
 }
 
 function desenharPublicar(termo) {
@@ -623,6 +673,7 @@ function desenhar() {
   if (secao === "em-alta") return alta ? desenharEmAlta(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "estante") return estante ? desenharEstante(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "publicar") return desenharPublicar(termo);
+  if (secao === "kindle") return kindle ? desenharKindle(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "semana") return resumo ? desenharSemana() : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   const filtra = i => !termo || semAcento(`${i.titulo} ${i.resumo} ${i.fonte}`).includes(termo);
   if (secao === "tudo") return desenharLista(dados.itens.filter(filtra));
@@ -657,9 +708,9 @@ const pegar = (nome, obrigatorio) => fetch(`api/${nome}.json`, { cache: "no-stor
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .catch(e => { if (obrigatorio) throw e; return null; });
 
-Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("resumo-semana"), pegar("alertas"), pegar("perfil")])
-.then(([j, a, e, r, al, p]) => {
-  dados = j; alta = a; estante = e; resumo = r; alertas = al?.alertas || []; perfil = p;
+Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("resumo-semana"), pegar("alertas"), pegar("perfil"), pegar("kindle")])
+.then(([j, a, e, r, al, p, k]) => {
+  dados = j; alta = a; estante = e; resumo = r; alertas = al?.alertas || []; perfil = p; kindle = k;
   j.secoes["para-voce"] ||= [];
   porId = new Map(j.itens.map(i => [i.id, i]));
   document.getElementById("data").textContent = j.dias.length ? diaExtenso(j.dias[0]) : "Sem edições ainda";

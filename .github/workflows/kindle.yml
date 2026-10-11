@@ -1,0 +1,46 @@
+name: Promoções do Kindle
+
+on:
+  schedule:
+    - cron: "30 */3 * * *"   # a cada 3 horas: eBook grátis costuma durar só um ou dois dias
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar               # o mesmo grupo da edição diária, para os dois não gravarem ao mesmo tempo
+  cancel-in-progress: false
+
+jobs:
+  kindle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar promoções
+        run: python coletor/kindle.py
+
+      - name: Publicar
+        run: |
+          git config user.name  "radar-literario[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/api/kindle.json
+          if git diff --cached --quiet; then
+            echo "Nada novo."
+          else
+            git commit -m "Kindle: promoções de $(TZ=America/Sao_Paulo date '+%d/%m %Hh')"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Celular (ntfy)
+        continue-on-error: true
+        env:
+          NTFY_TOPICO: ${{ secrets.NTFY_TOPICO }}
+        run: python coletor/ntfy.py
