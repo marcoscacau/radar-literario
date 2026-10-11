@@ -21,7 +21,6 @@
       "url": "https://news.google.com/rss/search?q=%22Academia+Sergipana+de+Letras%22+OR+%22Associa%C3%A7%C3%A3o+Sergipana+de+Escritores%22+OR+%22Biblioteca+Epif%C3%A2nio+D%C3%B3ria%22+OR+%22Bienal+do+Livro+de+Itabaiana%22+OR+%22Bienal+do+Livro+de+Lagarto%22+OR+%22Sal%C3%A3o+de+Literatura%22+Sergipe+OR+%22escritor+sergipano%22+OR+%22escritora+sergipana%22+when:21d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
     { "id": "mangue",        "nome": "Mangue Jornalismo (agenda cultural)", "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "trecho": true, "so_titulos_com": "agenda", "janela_dias": 10, "url": "https://manguejornalismo.org/feed/" },
     { "id": "infonet",       "nome": "Infonet",               "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "url": "https://infonet.com.br/feed/" },
-    { "id": "faxaju",        "nome": "FaxAju",                "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "url": "https://faxaju.com.br/feed/" },
     { "id": "g1-se",         "nome": "g1 Sergipe",            "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "url": "https://g1.globo.com/rss/g1/se/sergipe/" },
     { "id": "mundocristao",  "nome": "Mundo Cristão (editora)", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://www.mundocristao.com.br/blog/feed/" },
     { "id": "fapesp",        "nome": "Revista Pesquisa FAPESP", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://revistapesquisa.fapesp.br/feed/" },
