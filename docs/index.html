@@ -212,6 +212,7 @@
 <script>
 const SECOES = [
   { id: "para-voce", nome: "Para você" },
+  { id: "sergipe", nome: "Sergipe" },
   { id: "em-alta", nome: "Em alta" },
   { id: "estante", nome: "Estante" },
   { id: "semana", nome: "A semana" },
@@ -330,6 +331,7 @@ function cartao(i) {
   const pv = i.para_voce || { autores: [], temas: [] };
   for (const a of pv.autores) meta.append(el("span", { class: "selo s-voce", title: "Da sua estante" }, a));
   for (const t of pv.temas) meta.append(el("span", { class: "selo s-voce" }, nomeTema(t)));
+  if (i.tags.includes("sergipe")) meta.append(el("span", { class: "selo s-novo" }, "Sergipe"));
   if (i.tags.includes("premios")) meta.append(el("span", { class: "selo s-premios" }, "prêmios"));
   if (i.tags.includes("lancamentos")) meta.append(el("span", { class: "selo s-lancamentos" }, "lançamento"));
   if (i.idioma === "en") meta.append(el("span", { class: "selo s-en" }, "em inglês"));
@@ -511,6 +513,10 @@ function desenhar() {
   if (secao === "tudo") return desenharLista(dados.itens.filter(filtra));
   const itens = (dados.secoes[secao] || []).map(id => porId.get(id)).filter(i => i && filtra(i));
   if (secao === "para-voce") return desenharLista(itens, [introParaVoce(itens)], [painelAprendizado()]);
+  if (secao === "sergipe") return desenharLista(itens, [el("div", { class: "intro" },
+    el("strong", {}, "Eventos literários em Sergipe. "),
+    "Feiras, bienais, saraus, lançamentos e sessões de autógrafos em Aracaju e no interior, garimpados nas notícias e na agenda cultural da semana. Cada evento novo também chega por e-mail e no Telegram.",
+    el("div", { class: "meta", style: "margin-top:10px" }, el("a", { class: "selo s-voce", href: "api/sergipe.json" }, "histórico de 90 dias (JSON)")))]);
   desenharLista(itens);
 }
 

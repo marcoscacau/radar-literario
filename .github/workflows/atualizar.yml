@@ -40,13 +40,13 @@ jobs:
             git push
           fi
 
-      - name: Alerta de lançamento
+      - name: Avisos (lançamentos e eventos em Sergipe)
         if: hashFiles('alerta.md') != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh label create lancamento --color F3DCDC --description "Livro novo de autor acompanhado" 2>/dev/null || true
-          gh issue create --title "Lançamentos — $(TZ=America/Sao_Paulo date +%d/%m/%Y)" --label lancamento --body-file alerta.md
+          gh label create aviso --color F3DCDC --description "Lançamento de autor acompanhado ou evento literário em Sergipe" 2>/dev/null || true
+          gh issue create --title "Avisos do Radar — $(TZ=America/Sao_Paulo date +%d/%m/%Y)" --label aviso --body-file alerta.md
 
       - name: Telegram
         continue-on-error: true    # falha no Telegram não derruba a edição

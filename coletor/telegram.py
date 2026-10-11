@@ -31,6 +31,13 @@ def mensagem_do_dia():
     hoje = ler("hoje.json")
     por_id = {i["id"]: i for i in hoje["itens"]}
     linhas = [f"📚 <b>Radar Literário</b> · {date.fromisoformat(hoje['data']).strftime('%d/%m')}", ""]
+    sergipe = hoje["secoes"].get("sergipe", [])
+    if sergipe:
+        linhas.append("📍 <b>Em Sergipe</b>")
+        for k in sergipe[:8]:
+            i = por_id[k]
+            linhas.append(f"• <a href=\"{e(i['link'])}\">{e(i['titulo'])}</a>")
+        linhas.append("")
     ids = hoje["secoes"].get("para-voce", [])[:5]
     if ids:
         linhas.append("<b>Para você</b>")
@@ -74,6 +81,19 @@ def mensagem_da_semana():
     return "\n".join(linhas)
 
 
+def caber(texto, limite=4000):
+    """O Telegram aceita até 4096 caracteres: tira itens do fim das listas até caber, avisando quantos ficaram de fora."""
+    linhas = texto.split("\n")
+    tirados = 0
+    while len("\n".join(linhas)) > limite:
+        k = max(i for i, l in enumerate(linhas) if l.startswith("• "))
+        del linhas[k]
+        tirados += 1
+    if tirados:
+        linhas.insert(len(linhas) - 1, f"<i>(+{tirados} no site)</i>")
+    return "\n".join(linhas)
+
+
 def enviar(token, chat_id, texto):
     dados = urllib.parse.urlencode({"chat_id": chat_id, "text": texto, "parse_mode": "HTML",
                                     "disable_web_page_preview": "true"}).encode()
@@ -87,6 +107,7 @@ def main():
     mensagens = [mensagem_do_dia()]
     if date.fromisoformat(ler("hoje.json")["data"]).weekday() == 6 or "--semana" in sys.argv:
         mensagens.append(mensagem_da_semana())
+    mensagens = [caber(m) for m in mensagens]
     if "--mostrar" in sys.argv:   # só mostra, não envia
         print("\n\n".join(mensagens))
         return

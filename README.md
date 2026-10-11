@@ -52,6 +52,14 @@ Com 2 pontos ou mais, a notícia entra em "Para você", com no máximo 3 por aut
 
 Nomes de duas a quatro palavras com inicial maiúscula (pessoas, prêmios, obras) citados por **3 fontes diferentes ou mais** nos últimos 7 dias, com as menções de cada dia. Serve para perceber o padrão antes que vire manchete.
 
+## Sergipe
+
+A aba "Sergipe" e o `api/sergipe.json` (histórico de 90 dias) trazem os eventos literários do estado: feiras, bienais (Itabaiana, Lagarto, Socorro), o Salão de Literatura do FASC, saraus, lançamentos e sessões de autógrafos.
+
+- **Fontes:** a agenda cultural semanal da Mangue Jornalismo (da agenda, fica só o trecho literário), o Infonet, o FaxAju, o g1 Sergipe e duas buscas do Google Notícias.
+- **Filtro:** a notícia só entra se citar um lugar ou instituição de Sergipe **e** um termo de evento literário.
+- **Avisos:** cada evento novo vai para o e-mail (issue no GitHub) e abre a mensagem do Telegram.
+
 ## Estante
 
 `estante.json` guarda as obras completas de Rebecca Yarros, Raphael Montes, Stephen King e C. S. Lewis, com o título original, o brasileiro, o ano e a série. Os títulos inconfundíveis ("Quarta Asa", "Pet Sematary", "Cartas de um Diabo a seu Aprendiz") contam como se o nome do autor estivesse na notícia. Os comuns ("It", "Holly") só contam entre aspas. A aba Estante mostra quantas notícias citaram cada livro na semana.

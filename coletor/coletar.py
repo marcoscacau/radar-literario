@@ -35,6 +35,22 @@ MAX_EM_ALTA = 15
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
 RSS1 = "{http://purl.org/rss/1.0/}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+
+# Sergipe: a notícia precisa citar um lugar ou instituição de Sergipe E um evento literário.
+RE_SERGIPE = re.compile(r"(?<![\w-])(sergipe|sergipan[oa]s?|aracaju|aracajuano|sao cristovao|itabaiana|itabaianinha|lagarto|"
+                        r"estancia|nossa senhora do socorro|bienal do livro de socorro|propria|laranjeiras|barra dos coqueiros|"
+                        r"tobias barreto|simao dias|caninde de sao francisco|nossa senhora da gloria|ufs|"
+                        r"academia sergipana|ases|riomar aracaju|shopping jardins|fasc|epifanio doria|epiphanio dorea)(?![\w-])")
+RE_EVENTO_LIT = re.compile(r"(?<![\w-])(livro|livros|literatura|literari[oa]s?|sarau|saraus|poesia|poemas?|poetas?|slam|"
+                           r"autografos|lancamento do livro|lanca livro|lancam livro|bienal|feira de livros|feira do livro|"
+                           r"festa literaria|festival literario|salao de literatura|clube de leitura|roda de leitura|"
+                           r"contacao de historias|escritor|escritora|escritores|escritoras|cordel|academia sergipana de letras|"
+                           r"biblioteca)(?![\w-])")
+# Para recortar o trecho de uma agenda: só termos que não deixam dúvida ("poesia" de um show não conta).
+RE_EVENTO_FORTE = re.compile(r"(?<![\w-])(livro|livros|literatura|literari[oa]s?|sarau|saraus|autografos|feira de livros|"
+                             r"feira do livro|festa literaria|festival literario|salao de literatura|clube de leitura|"
+                             r"roda de leitura|contacao de historias|slam|cordel|escritor|escritora|escritores|escritoras)(?![\w-])")
 
 # Fontes de cultura geral só passam se falarem disso (comparação sem acento).
 LITERARIO = [
@@ -208,6 +224,7 @@ def ler_feed(dados):
             "data": it.findtext("pubDate") or it.findtext(DC + "date"),
             "resumo": it.findtext("description"),
             "veiculo": it.findtext("source"),
+            "conteudo": it.findtext(CONTENT + "encoded"),
         })
     for it in raiz.iter(RSS1 + "item"):              # RSS 1.0 / RDF
         itens.append({
@@ -216,6 +233,7 @@ def ler_feed(dados):
             "data": it.findtext(DC + "date"),
             "resumo": it.findtext(RSS1 + "description"),
             "veiculo": None,
+            "conteudo": None,
         })
     for it in raiz.iter(ATOM + "entry"):             # Atom
         link = ""
@@ -229,6 +247,7 @@ def ler_feed(dados):
             "data": it.findtext(ATOM + "published") or it.findtext(ATOM + "updated"),
             "resumo": it.findtext(ATOM + "summary") or it.findtext(ATOM + "content"),
             "veiculo": None,
+            "conteudo": it.findtext(ATOM + "content"),
         })
     return itens
 
@@ -262,6 +281,20 @@ def coletar_fonte(fonte, perfil):
             tags.append("premios")
         if RE_LANCAMENTOS.search(texto):
             tags.append("lancamentos")
+        if fonte.get("local") == "sergipe":
+            completo = limpar(b.get("conteudo"), limite=0)
+            tudo = sem_acento(f"{titulo} {resumo} {completo} {nome_fonte}")   # "Prefeitura de Aracaju" às vezes só aparece como veículo
+            if not (RE_SERGIPE.search(tudo) and RE_EVENTO_LIT.search(tudo)):
+                continue
+            if fonte.get("so_titulos_com") and fonte["so_titulos_com"] not in sem_acento(titulo):
+                continue                            # da Mangue, só as agendas culturais
+            if fonte.get("trecho") and completo:   # agenda da semana: fica só o trecho do evento literário
+                frases = re.split(r"(?<=[.!?])\s+|\s+[•●▪]\s+", completo)
+                literarias = [f for f in frases if RE_EVENTO_FORTE.search(sem_acento(f))]
+                if not literarias:
+                    continue
+                resumo = limpar(" ".join(literarias[:3]))
+            tags.append("sergipe")
         pontos, motivos, temas = pontuar(texto, perfil)
         data = ler_data(b["data"])
         itens.append({
@@ -500,7 +533,8 @@ def secoes(itens, pontos):
         para_voce.append(i)
     return {
         "para-voce": [i["id"] for i in para_voce],
-        "premios-lancamentos": [i["id"] for i in itens if i["tags"]],
+        "sergipe": [i["id"] for i in itens if "sergipe" in i["tags"]],
+        "premios-lancamentos": [i["id"] for i in itens if set(i["tags"]) & {"premios", "lancamentos"}],
         "brasil-portugal": [i["id"] for i in itens if i["grupo"] == "brasil-portugal"],
         "internacional": [i["id"] for i in itens if i["grupo"] == "internacional"],
     }
@@ -536,7 +570,8 @@ def main():
                 break
             if i["link"] in vistos or i["link"] in do_dia:
                 continue
-            if i["publicado_em"] and datetime.fromisoformat(i["publicado_em"]) < limite:
+            limite_fonte = agora - timedelta(days=fonte["janela_dias"]) if fonte.get("janela_dias") else limite
+            if i["publicado_em"] and datetime.fromisoformat(i["publicado_em"]) < limite_fonte:
                 continue
             do_dia[i["link"]] = i
             novos_agora.append(i)
@@ -603,14 +638,31 @@ def main():
     corte_alertas = (agora.date() - timedelta(days=30)).isoformat()
     historico = [a for a in ler_json(API / "alertas.json", {}).get("alertas", []) if (a.get("dia") or "") >= corte_alertas]
     gravar_json(API / "alertas.json", {"gerado_em": gerado_em, "alertas": alertas_novos + historico})
+    # Eventos literários em Sergipe: todo evento novo também vira aviso, e o histórico de 90 dias fica em sergipe.json.
+    eventos_novos = [i for i in novos_agora if "sergipe" in i["tags"]]
+    eventos = []
+    for d in datas:
+        for i in ler_json(DIAS / f"{d}.json", {}).get("itens", []):
+            if "sergipe" in i.get("tags", []):
+                eventos.append({**i, "dia": d})
+    gravar_json(API / "sergipe.json", {"gerado_em": gerado_em, "total": len(eventos), "eventos": eventos})
+
     aviso = RAIZ / "alerta.md"
-    if alertas_novos:
-        linhas = [f"@marcoscacau, notícias novas sobre livros dos autores que você acompanha ({hoje}):", ""]
-        for a in alertas_novos:
-            linhas.append(f"- **{', '.join(a['autores'])}** — [{a['titulo']}]({a['link']}) ({a['fonte']})")
-            for t in a["titulos_fora_da_estante"]:
-                linhas.append(f"  - título fora da estante: **{t}** — vale pôr em `estante.json`?")
-        linhas += ["", "[Abrir o Radar](https://marcoscacau.github.io/radar-literario/?secao=estante)"]
+    if alertas_novos or eventos_novos:
+        linhas = [f"@marcoscacau, novidades do Radar Literário ({hoje}):", ""]
+        if eventos_novos:
+            linhas += ["### Eventos literários em Sergipe", ""]
+            for i in eventos_novos:
+                linhas.append(f"- [{i['titulo']}]({i['link']}) ({i['fonte']})" + (f"\n  > {i['resumo']}" if i["resumo"] else ""))
+            linhas.append("")
+        if alertas_novos:
+            linhas += ["### Livros novos dos autores que você acompanha", ""]
+            for a in alertas_novos:
+                linhas.append(f"- **{', '.join(a['autores'])}** — [{a['titulo']}]({a['link']}) ({a['fonte']})")
+                for t in a["titulos_fora_da_estante"]:
+                    linhas.append(f"  - título fora da estante: **{t}** — vale pôr em `estante.json`?")
+            linhas.append("")
+        linhas += ["[Abrir o Radar](https://marcoscacau.github.io/radar-literario/)"]
         aviso.write_text("\n".join(linhas) + "\n", encoding="utf-8")
     elif aviso.exists():
         aviso.unlink()
