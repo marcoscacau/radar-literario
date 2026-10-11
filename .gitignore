@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 alerta.md
+avisos.json
 # Android: compilação e chave de assinatura nunca vão para o repositório
 android/.gradle/
 android/build/

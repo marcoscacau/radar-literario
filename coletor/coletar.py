@@ -199,6 +199,135 @@ def ler_data(texto):
     return d
 
 
+# ---------- Data do evento (para a agenda .ics) ----------
+
+MESES = ["janeiro", "fevereiro", "marco", "abril", "maio", "junho", "julho", "agosto",
+         "setembro", "outubro", "novembro", "dezembro"]
+MES = "(" + "|".join(MESES) + ")"
+ANO = r"(?: de (20\d\d))?"
+RE_FAIXA_MESES = re.compile(rf"\b(\d{{1,2}}) de {MES} (?:a|ate) (\d{{1,2}}) de {MES}{ANO}")
+RE_FAIXA = re.compile(rf"\b(\d{{1,2}}) (?:a|e|ate) (\d{{1,2}}) de {MES}{ANO}")
+RE_FAIXA_NUM = re.compile(r"(?<![\d/])(\d{1,2})(?:/(\d{1,2}))? (?:a|ate) (\d{1,2})/(\d{1,2})(?:/(20\d\d))?(?![\d/])")
+RE_DIA = re.compile(rf"\b(\d{{1,2}})(?:º|o)? de {MES}{ANO}")
+RE_DIA_NUM = re.compile(r"(?<![\d/,.])(\d{1,2})/(\d{1,2})(?:/(20\d\d))?(?![\d/%]|[.,]\d)")
+SEMANA = ["segunda", "terca", "quarta", "quinta", "sexta", "sabado", "domingo"]
+RE_DIA_SEMANA = re.compile(r"\b(?:neste|nesta|no proximo|na proxima|proximo|proxima) (fim de semana|"
+                           + "|".join(SEMANA) + r")\b")
+
+
+def data_br(iso):
+    return f"{iso[8:10]}/{iso[5:7]}" + ("" if iso[:4] == str(datetime.now(BRASILIA).year) else f"/{iso[:4]}")
+
+
+def datas_do_evento(texto, base):
+    """Primeira data de evento citada no texto (sem acento), relativa à data da notícia.
+    Faixa ("20 a 22 de novembro") vale mais que dia solto, porque o dia solto costuma ser outra coisa
+    ("a programação sai no dia 15"). Devolve (início, fim) ou None."""
+    def dia(d, m, ano=None):
+        try:
+            x = datetime(int(ano) if ano else base.year, int(m), int(d)).date()
+        except ValueError:
+            return None
+        if not ano and x < base - timedelta(days=45):     # "5 de janeiro" lido em dezembro é do ano que vem;
+            seguinte = x.replace(year=x.year + 1)         # "12 de março" lido em outubro já passou
+            return seguinte if seguinte <= base + timedelta(days=120) else None
+        return x
+
+    def valida(ini, fim):
+        return (ini and fim and ini <= fim <= ini + timedelta(days=31)
+                and fim >= base - timedelta(days=1) and ini <= base + timedelta(days=240))
+
+    candidatos = []
+    for m in RE_FAIXA_MESES.finditer(texto):
+        candidatos.append((m.start(), dia(m[1], MESES.index(m[2]) + 1, m[5]), dia(m[3], MESES.index(m[4]) + 1, m[5])))
+    for m in RE_FAIXA.finditer(texto):
+        mes = MESES.index(m[3]) + 1
+        candidatos.append((m.start(), dia(m[1], mes, m[4]), dia(m[2], mes, m[4])))
+    for m in RE_FAIXA_NUM.finditer(texto):
+        candidatos.append((m.start(), dia(m[1], m[2] or m[4], m[5]), dia(m[3], m[4], m[5])))
+    for _, ini, fim in sorted(candidatos, key=lambda c: c[0]):
+        if valida(ini, fim):
+            return ini, fim
+
+    soltos = [(m.start(), dia(m[1], MESES.index(m[2]) + 1, m[3])) for m in RE_DIA.finditer(texto)]
+    soltos += [(m.start(), dia(m[1], m[2], m[3])) for m in RE_DIA_NUM.finditer(texto)]
+    for _, d in sorted(soltos, key=lambda c: c[0]):
+        if valida(d, d):
+            return d, d
+
+    m = RE_DIA_SEMANA.search(texto)
+    if m:
+        if m[1] == "fim de semana":
+            sab = base + timedelta(days=(5 - base.weekday()) % 7)
+            return sab, sab + timedelta(days=1)
+        d = base + timedelta(days=(SEMANA.index(m[1]) - base.weekday()) % 7)
+        return d, d
+    return None
+
+
+def quando_do_evento(i):
+    if i.get("evento"):
+        return {"inicio": i["evento"]["inicio"], "fim": i["evento"]["fim"], "origem": "sympla"}
+    base = datetime.fromisoformat(i["publicado_em"]).date() if i.get("publicado_em") else \
+        datetime.fromisoformat(i.get("dia") or datetime.now(BRASILIA).date().isoformat()).date()
+    achou = datas_do_evento(sem_acento(f"{i['titulo']} {i['resumo']}"), base)
+    if not achou:
+        return None
+    return {"inicio": achou[0].isoformat(), "fim": achou[1].isoformat(), "origem": "texto"}
+
+
+def texto_quando(q, antes=""):
+    if not q:
+        return ""
+    return antes + "📅 " + (data_br(q["inicio"]) if q["inicio"] == q["fim"] else f"{data_br(q['inicio'])} a {data_br(q['fim'])}")
+
+
+def ics_texto(s):
+    return s.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def ics_linha(linha):
+    """Linhas de no máximo 75 bytes, como a norma pede (a continuação começa com espaço)."""
+    partes, atual = [], ""
+    for c in linha:
+        if len((atual + c).encode("utf-8")) > (75 if not partes else 74):
+            partes.append(atual)
+            atual = ""
+        atual += c
+    partes.append(atual)
+    return "\r\n ".join(partes)
+
+
+def agenda_ics(eventos, agora):
+    carimbo = agora.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    linhas = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Radar Literario//Sergipe//PT", "CALSCALE:GREGORIAN",
+              "METHOD:PUBLISH", "X-WR-CALNAME:Radar Literário – Sergipe", "X-WR-TIMEZONE:America/Sao_Paulo",
+              "X-WR-CALDESC:Eventos literários em Sergipe encontrados pelo Radar Literário",
+              "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H"]
+    ja = set()
+    for i in eventos:
+        q = i.get("quando")
+        if not q:
+            continue
+        chave = (q["inicio"], q["fim"], sem_acento(i["titulo"])[:40])
+        if chave in ja:
+            continue
+        ja.add(chave)
+        fim = (datetime.fromisoformat(q["fim"]) + timedelta(days=1)).strftime("%Y%m%d")   # no .ics o fim é exclusivo
+        nota = ("" if q["origem"] == "sympla" else
+                "\n\nData lida automaticamente do texto da notícia: confira no link.")
+        linhas += ["BEGIN:VEVENT", f"UID:{i['id']}@radar-literario", f"DTSTAMP:{carimbo}",
+                   f"DTSTART;VALUE=DATE:{q['inicio'].replace('-', '')}", f"DTEND;VALUE=DATE:{fim}",
+                   f"SUMMARY:{ics_texto(i['titulo'])}",
+                   f"DESCRIPTION:{ics_texto((i['resumo'] + chr(10) + chr(10) if i['resumo'] else '') + 'Fonte: ' + i['fonte'] + chr(10) + i['link'] + nota)}",
+                   f"URL:{i['link']}", "TRANSP:TRANSPARENT"]
+        if i.get("evento", {}).get("local"):
+            linhas.append(f"LOCATION:{ics_texto(i['evento']['local'])}")
+        linhas.append("END:VEVENT")
+    linhas.append("END:VCALENDAR")
+    return "\r\n".join(ics_linha(l) for l in linhas) + "\r\n"
+
+
 def baixar(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; RadarLiterario/1.0)",
@@ -252,9 +381,44 @@ def ler_feed(dados):
     return itens
 
 
+SYMPLA = "https://www.sympla.com.br/api/discovery-bff/search/category-type"
+
+
+def ler_sympla(fonte):
+    """Eventos à venda no Sympla perto de Aracaju (a mesma busca da página de eventos do site deles).
+    A busca não filtra por estado: o que não for de Sergipe, for online ou já tiver acabado fica de fora."""
+    hoje = datetime.now(BRASILIA).date().isoformat()
+    vistos, itens = set(), []
+    for termo in fonte["termos"]:
+        corpo = {"q": termo, "location": fonte["coordenadas"], "limit": 50, "page": 1, "type": "normal",
+                 "sort": "location-score", "need_pay": "1", "has_banner": "0", "service": "/v4/search",
+                 "only": "name,start_date,end_date,location,id,url,type"}
+        req = urllib.request.Request(SYMPLA, data=json.dumps(corpo).encode(), method="POST", headers={
+            "User-Agent": "Mozilla/5.0 (compatible; RadarLiterario/1.0)", "Content-Type": "application/json",
+            "Accept": "application/json", "Origin": "https://www.sympla.com.br"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            dados = json.loads(r.read())
+        for e in dados.get("data", []):
+            local = e.get("location") or {}
+            inicio, fim = (e.get("start_date") or "")[:10], (e.get("end_date") or e.get("start_date") or "")[:10]
+            if (e.get("id") in vistos or local.get("state") != "SE" or "online" in sem_acento(local.get("name") or "")
+                    or not inicio or fim < hoje):
+                continue
+            vistos.add(e["id"])
+            onde = ", ".join(x for x in (local.get("name"), local.get("city")) if x)
+            quando = data_br(inicio) if fim == inicio else f"{data_br(inicio)} a {data_br(fim)}"
+            itens.append({
+                "titulo": e["name"], "link": e["url"], "data": datetime.now(BRASILIA).isoformat(),
+                "resumo": f"{quando} · {onde} (ingressos no Sympla)", "veiculo": None,
+                "conteudo": f"{e['name']}. {onde}, Sergipe.",
+                "evento": {"inicio": inicio, "fim": fim, "local": onde},
+            })
+    return itens
+
+
 def coletar_fonte(fonte, perfil):
     try:
-        brutos = ler_feed(baixar(fonte["url"]))
+        brutos = ler_sympla(fonte) if fonte.get("tipo") == "sympla" else ler_feed(baixar(fonte["url"]))
     except Exception as e:
         return fonte, [], f"{type(e).__name__}: {e}"[:200]
 
@@ -270,7 +434,7 @@ def coletar_fonte(fonte, perfil):
         if veiculo and titulo.endswith(" - " + veiculo):
             titulo = titulo[: -len(veiculo) - 3].rstrip()
             nome_fonte = f"{veiculo} (via Google)"
-        resumo = limpar(b["resumo"])
+        resumo = re.sub(r"\s*O post .+? apareceu primeiro em .+$", "", limpar(b["resumo"]))   # rodapé do WordPress
         if sem_acento(resumo).startswith(sem_acento(titulo[:40])):  # Google Notícias repete o título
             resumo = ""
         texto = sem_acento(f"{titulo} {resumo}")
@@ -297,6 +461,7 @@ def coletar_fonte(fonte, perfil):
             tags.append("sergipe")
         pontos, motivos, temas = pontuar(texto, perfil)
         data = ler_data(b["data"])
+        extra = {"evento": b["evento"]} if b.get("evento") else {}
         itens.append({
             "id": hashlib.sha1(link.encode()).hexdigest()[:12],
             "titulo": titulo,
@@ -309,6 +474,7 @@ def coletar_fonte(fonte, perfil):
             "publicado_em": data.astimezone(BRASILIA).isoformat(timespec="minutes") if data else None,
             "tags": tags,
             "para_voce": {"pontos": pontos, "autores": motivos, "temas": temas},
+            **extra,
         })
     return fonte, ordenar(itens), None
 
@@ -587,6 +753,8 @@ def main():
     for i in do_dia.values():
         nota, motivos, temas = pontuar(sem_acento(f"{i['titulo']} {i['resumo']}"), perfil)
         i["para_voce"] = {"pontos": nota, "autores": motivos, "temas": temas}
+        if "sergipe" in i["tags"]:
+            i["quando"] = quando_do_evento(i)
 
     gerado_em = agora.isoformat(timespec="seconds")
     itens_hoje = ordenar(do_dia.values())
@@ -645,7 +813,19 @@ def main():
         for i in ler_json(DIAS / f"{d}.json", {}).get("itens", []):
             if "sergipe" in i.get("tags", []):
                 eventos.append({**i, "dia": d})
+    for e in eventos:
+        e["quando"] = quando_do_evento(e)
     gravar_json(API / "sergipe.json", {"gerado_em": gerado_em, "total": len(eventos), "eventos": eventos})
+    # Agenda para assinar no Google Agenda / celular: só o que tem data reconhecível.
+    (API / "sergipe.ics").write_bytes(agenda_ics(eventos, agora).encode("utf-8"))
+    por_id = {e["id"]: e for e in eventos}
+    # O que é novo nesta execução, para os avisos no celular (ntfy.py); não vai para o repositório.
+    gravar_json(RAIZ / "avisos.json", {
+        "eventos": [{"titulo": i["titulo"], "link": i["link"], "resumo": i["resumo"], "fonte": i["fonte"],
+                     "quando": por_id.get(i["id"], {}).get("quando")} for i in eventos_novos],
+        "lancamentos": [{"titulo": a["titulo"], "link": a["link"], "autores": a["autores"], "fonte": a["fonte"]}
+                        for a in alertas_novos],
+    })
 
     aviso = RAIZ / "alerta.md"
     if alertas_novos or eventos_novos:
@@ -653,7 +833,8 @@ def main():
         if eventos_novos:
             linhas += ["### Eventos literários em Sergipe", ""]
             for i in eventos_novos:
-                linhas.append(f"- [{i['titulo']}]({i['link']}) ({i['fonte']})" + (f"\n  > {i['resumo']}" if i["resumo"] else ""))
+                linhas.append(f"- [{i['titulo']}]({i['link']}) ({i['fonte']})" + texto_quando(por_id.get(i["id"], {}).get("quando"), " — ")
+                              + (f"\n  > {i['resumo']}" if i["resumo"] else ""))
             linhas.append("")
         if alertas_novos:
             linhas += ["### Livros novos dos autores que você acompanha", ""]

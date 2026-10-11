@@ -22,6 +22,9 @@
     { "id": "mangue",        "nome": "Mangue Jornalismo (agenda cultural)", "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "trecho": true, "so_titulos_com": "agenda", "janela_dias": 10, "url": "https://manguejornalismo.org/feed/" },
     { "id": "infonet",       "nome": "Infonet",               "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "url": "https://infonet.com.br/feed/" },
     { "id": "g1-se",         "nome": "g1 Sergipe",            "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "url": "https://g1.globo.com/rss/g1/se/sergipe/" },
+    { "id": "sympla-se",     "nome": "Sympla (eventos em Sergipe)", "grupo": "brasil-portugal", "idioma": "pt", "local": "sergipe", "tipo": "sympla",
+      "coordenadas": "-10.9072158,-37.04821264", "url": "https://www.sympla.com.br/eventos/aracaju-se",
+      "termos": ["livro", "literatura", "literario", "sarau", "poesia", "leitura", "escritor", "bienal", "cordel", "slam", "autografos", "clube do livro"] },
     { "id": "mundocristao",  "nome": "Mundo Cristão (editora)", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://www.mundocristao.com.br/blog/feed/" },
     { "id": "fapesp",        "nome": "Revista Pesquisa FAPESP", "grupo": "brasil-portugal", "idioma": "pt", "filtrar": true, "url": "https://revistapesquisa.fapesp.br/feed/" },
 

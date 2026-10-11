@@ -56,9 +56,15 @@ Nomes de duas a quatro palavras com inicial maiúscula (pessoas, prêmios, obras
 
 A aba "Sergipe" e o `api/sergipe.json` (histórico de 90 dias) trazem os eventos literários do estado: feiras, bienais (Itabaiana, Lagarto, Socorro), o Salão de Literatura do FASC, saraus, lançamentos e sessões de autógrafos.
 
-- **Fontes:** a agenda cultural semanal da Mangue Jornalismo (da agenda, fica só o trecho literário), o Infonet, o FaxAju, o g1 Sergipe e duas buscas do Google Notícias.
+- **Fontes:** a agenda cultural semanal da Mangue Jornalismo (da agenda, fica só o trecho literário), o Infonet, o g1 Sergipe, duas buscas do Google Notícias e o **Sympla** (a mesma busca da página de eventos deles, perto de Aracaju; fica só o que é de SE, presencial e ainda não acabou).
 - **Filtro:** a notícia só entra se citar um lugar ou instituição de Sergipe **e** um termo de evento literário.
-- **Avisos:** cada evento novo vai para o e-mail (issue no GitHub) e abre a mensagem do Telegram.
+- **Data do evento (`quando`):** a do Sympla, ou a lida do texto ("20 a 22 de novembro", "12 a 15/10", "neste sábado"). Faixa de datas vale mais que dia solto; notícia sem data não ganha data inventada.
+- **Agenda:** `api/sergipe.ics`, para assinar no Google Agenda (*Outras agendas → + → Do URL*: `https://marcoscacau.github.io/radar-literario/api/sergipe.ics`).
+- **Avisos:** cada evento novo vai para o e-mail (issue no GitHub), o Telegram e o celular (ntfy).
+
+## Celular (ntfy)
+
+`coletor/ntfy.py` manda uma notificação por evento novo em Sergipe e por lançamento (mais de 5 de uma vez viram uma só) para o tópico guardado no segredo `NTFY_TOPICO`. No celular: app ntfy → *+* → o nome do tópico. Teste: `NTFY_TOPICO=... python coletor/ntfy.py --teste`.
 
 ## Estante
 

@@ -330,6 +330,7 @@ function painelAprendizado() {
 }
 
 // ---------- cartões e listas ----------
+const dataCurta = iso => `${iso.slice(8, 10)}/${iso.slice(5, 7)}`;
 function cartao(i) {
   const meta = el("div", { class: "meta" }, el("span", {}, i.fonte));
   if (i.publicado_em) meta.append(el("span", {}, fmtHora.format(new Date(i.publicado_em))));
@@ -337,6 +338,8 @@ function cartao(i) {
   for (const a of pv.autores) meta.append(el("span", { class: "selo s-voce", title: "Da sua estante" }, a));
   for (const t of pv.temas) meta.append(el("span", { class: "selo s-voce" }, nomeTema(t)));
   if (i.tags.includes("sergipe")) meta.append(el("span", { class: "selo s-novo" }, "Sergipe"));
+  if (i.quando) meta.append(el("span", { class: "selo s-novo", title: i.quando.origem === "sympla" ? "Data do Sympla" : "Data lida do texto da notícia" },
+    "📅 " + (i.quando.inicio === i.quando.fim ? dataCurta(i.quando.inicio) : `${dataCurta(i.quando.inicio)} a ${dataCurta(i.quando.fim)}`)));
   if (i.tags.includes("premios")) meta.append(el("span", { class: "selo s-premios" }, "prêmios"));
   if (i.tags.includes("lancamentos")) meta.append(el("span", { class: "selo s-lancamentos" }, "lançamento"));
   if (i.idioma === "en") meta.append(el("span", { class: "selo s-en" }, "em inglês"));
@@ -520,8 +523,10 @@ function desenhar() {
   if (secao === "para-voce") return desenharLista(itens, [introParaVoce(itens)], [painelAprendizado()]);
   if (secao === "sergipe") return desenharLista(itens, [el("div", { class: "intro" },
     el("strong", {}, "Eventos literários em Sergipe. "),
-    "Feiras, bienais, saraus, lançamentos e sessões de autógrafos em Aracaju e no interior, garimpados nas notícias e na agenda cultural da semana. Cada evento novo também chega por e-mail e no Telegram.",
-    el("div", { class: "meta", style: "margin-top:10px" }, el("a", { class: "selo s-voce", href: "api/sergipe.json" }, "histórico de 90 dias (JSON)")))]);
+    "Feiras, bienais, saraus, lançamentos e sessões de autógrafos em Aracaju e no interior, garimpados nas notícias, na agenda cultural da semana e no Sympla. Cada evento novo também chega por e-mail e no celular.",
+    el("div", { class: "meta", style: "margin-top:10px" },
+      el("a", { class: "selo s-voce", href: "api/sergipe.ics", title: "Copie este link e assine no Google Agenda: Outras agendas → + → Do URL" }, "📅 agenda para assinar (.ics)"),
+      el("a", { class: "selo s-voce", href: "api/sergipe.json" }, "histórico de 90 dias (JSON)")))]);
   desenharLista(itens);
 }
 
