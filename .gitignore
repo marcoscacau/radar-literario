@@ -2,3 +2,12 @@ __pycache__/
 *.pyc
 .venv/
 alerta.md
+# Android: compilação e chave de assinatura nunca vão para o repositório
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.p12
+*.jks
+*.keystore
+radar-literario.apk

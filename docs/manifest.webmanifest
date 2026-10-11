@@ -1,0 +1,15 @@
+{
+  "name": "Radar Literário",
+  "short_name": "Radar",
+  "description": "O que está acontecendo no mundo literário, atualizado todo dia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#F1E7D3",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

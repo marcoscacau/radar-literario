@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores pastel do Radar: papel e areia. -->
+    <color name="papel">#FAF6EE</color>
+    <color name="areia">#F1E7D3</color>
+    <color name="lilas">#B9AED0</color>
+    <color name="tinta">#3A3530</color>
+
+    <style name="Tema" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/areia</item>
+        <item name="android:navigationBarColor">@color/papel</item>
+        <item name="android:windowBackground">@color/papel</item>
+        <item name="android:colorAccent">@color/lilas</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,48 @@
+plugins {
+    id "com.android.application"
+}
+
+// Versão vem do número da execução no GitHub, para cada APK novo instalar por cima do anterior.
+def numero = (System.getenv("GITHUB_RUN_NUMBER") ?: "1") as Integer
+
+android {
+    namespace "br.cacau.radar"
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "br.cacau.radar"
+        minSdk 24
+        targetSdk 34
+        versionCode numero
+        versionName "1.${numero}"
+    }
+
+    signingConfigs {
+        release {
+            // A chave fica nos segredos do repositório (ANDROID_KEYSTORE_B64 e ANDROID_KEYSTORE_SENHA).
+            storeFile file(System.getenv("ANDROID_KEYSTORE") ?: "chave-ausente.p12")
+            storeType "pkcs12"
+            storePassword System.getenv("ANDROID_KEYSTORE_SENHA")
+            keyAlias "radar"
+            keyPassword System.getenv("ANDROID_KEYSTORE_SENHA")
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation "androidx.work:work-runtime:2.9.1"
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+    implementation "androidx.core:core:1.13.1"
+}

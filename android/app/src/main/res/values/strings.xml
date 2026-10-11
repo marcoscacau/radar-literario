@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radar Literário</string>
+    <string name="canal_nome">Avisos do Radar</string>
+    <string name="canal_descricao">Eventos literários em Sergipe e lançamentos dos autores que você acompanha</string>
+    <string name="sem_internet">Sem internet agora. Puxe para baixo para tentar de novo.</string>
+</resources>

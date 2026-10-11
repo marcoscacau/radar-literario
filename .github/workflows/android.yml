@@ -1,0 +1,54 @@
+name: App Android
+
+on:
+  push:
+    branches: [main]
+    paths: ["android/**", ".github/workflows/android.yml"]
+  workflow_dispatch:         # botão "Run workflow" para gerar um APK na hora
+
+permissions:
+  contents: write            # publicar o APK em Releases
+
+concurrency:
+  group: android
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Chave de assinatura (dos segredos)
+        env:
+          CHAVE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+        run: |
+          echo "$CHAVE_B64" | base64 -d > "$RUNNER_TEMP/radar.p12"
+          echo "ANDROID_KEYSTORE=$RUNNER_TEMP/radar.p12" >> "$GITHUB_ENV"
+
+      - name: Compilar o APK
+        env:
+          ANDROID_KEYSTORE_SENHA: ${{ secrets.ANDROID_KEYSTORE_SENHA }}
+        run: |
+          gradle -p android assembleRelease --no-daemon --stacktrace
+          cp android/app/build/outputs/apk/release/app-release.apk radar-literario.apk
+          ls -l radar-literario.apk
+
+      - name: Publicar em Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "app-v1.${{ github.run_number }}" radar-literario.apk \
+            --title "Radar Literário para Android 1.${{ github.run_number }}" \
+            --notes "Baixe radar-literario.apk no celular e abra para instalar. Link fixo da versão mais nova: https://github.com/${{ github.repository }}/releases/latest/download/radar-literario.apk" \
+            --latest
