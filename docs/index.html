@@ -135,6 +135,20 @@
   .aprendo { margin-top: 30px; }
   .aprendo .sug { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; padding: 6px 0; font-size: 16px; }
 
+  /* Vou publicar */
+  button.acao { font: 500 12px/1 var(--sans); border: 1px solid var(--linha); background: var(--cartao); color: var(--tinta-suave);
+    padding: 5px 10px; border-radius: 999px; cursor: pointer; }
+  button.acao:hover { color: var(--tinta); }
+  button.acao.na-lista { background: var(--lilas); color: var(--lilas-t); border-color: transparent; }
+  button.acao.feito { background: var(--verde); color: var(--verde-t); border-color: transparent; }
+  .pauta .botoes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .pauta textarea, .pauta input, .nova-ideia input, .nova-ideia textarea {
+    width: 100%; margin-top: 8px; padding: 8px 10px; font: 14px/1.4 var(--sans); color: var(--tinta);
+    background: var(--cartao); border: 1px solid var(--linha); border-radius: 8px; resize: vertical; }
+  .nova-ideia { margin-top: 18px; }
+  .nova-ideia .botoes { margin-top: 8px; }
+  .pauta .quando { font: 12px var(--sans); color: var(--tinta-suave); }
+
   .vazio, .erro { text-align: center; color: var(--tinta-suave); font-style: italic; margin: 48px 0; }
   footer { margin-top: 48px; padding-top: 16px; border-top: 3px double var(--linha);
     font: 13px/1.7 var(--sans); color: var(--tinta-suave); text-align: center; }
@@ -217,6 +231,7 @@
 <script>
 const SECOES = [
   { id: "para-voce", nome: "Para você" },
+  { id: "publicar", nome: "Vou publicar" },
   { id: "sergipe", nome: "Sergipe" },
   { id: "em-alta", nome: "Em alta" },
   { id: "estante", nome: "Estante" },
@@ -254,6 +269,7 @@ function contagem(id) {
   if (id === "em-alta") return alta ? alta.termos.length : 0;
   if (id === "estante") return estante ? estante.autores.length : 0;
   if (id === "semana") return null;
+  if (id === "publicar") return pautas().filter(p => p.estado === "pretendo").length;
   return (dados.secoes[id] || []).length;
 }
 
@@ -343,10 +359,100 @@ function cartao(i) {
   if (i.tags.includes("premios")) meta.append(el("span", { class: "selo s-premios" }, "prêmios"));
   if (i.tags.includes("lancamentos")) meta.append(el("span", { class: "selo s-lancamentos" }, "lançamento"));
   if (i.idioma === "en") meta.append(el("span", { class: "selo s-en" }, "em inglês"));
+  meta.append(botaoPauta(i));
   const a = el("a", { class: "titulo", href: i.link, target: "_blank", rel: "noopener" }, i.titulo);
   a.addEventListener("click", () => registrarClique(i));
   a.addEventListener("auxclick", () => registrarClique(i));
   return el("article", {}, a, i.resumo ? el("p", {}, i.resumo) : null, meta);
+}
+
+// ---------- Vou publicar: notícias e ideias que viram texto seu (guardadas neste aparelho) ----------
+const pautas = () => ler("radar-pautas", []);
+const gravarPautas = lista => { gravar("radar-pautas", lista); desenharAbas(); };
+const hojeISO = () => new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+const dataBR = iso => iso.split("-").reverse().join("/");
+
+function botaoPauta(i) {
+  const achada = pautas().find(p => p.id === i.id);
+  const b = el("button", { type: "button", class: "acao" + (achada ? (achada.estado === "publicado" ? " feito" : " na-lista") : "") },
+    achada ? (achada.estado === "publicado" ? "✓ Publicado" : "✎ Vou publicar") : "+ Pretendo publicar");
+  b.title = achada ? "Está na aba Vou publicar" : "Guardar na aba Vou publicar";
+  b.onclick = () => {
+    if (pautas().some(p => p.id === i.id)) { secao = "publicar"; gravar("radar-secao", secao); desenharAbas(); desenhar(); scrollTo(0, 0); return; }
+    gravarPautas([{ id: i.id, titulo: i.titulo, link: i.link, fonte: i.fonte, resumo: i.resumo || "", nota: "",
+                    estado: "pretendo", criado: hojeISO() }, ...pautas()]);
+    b.className = "acao na-lista"; b.textContent = "✎ Vou publicar"; b.title = "Está na aba Vou publicar";
+  };
+  return b;
+}
+
+function mudarPauta(id, mudanca) {
+  gravarPautas(pautas().map(p => p.id === id ? { ...p, ...mudanca } : p));
+  desenhar();
+}
+
+function cartaoPauta(p) {
+  const titulo = p.link ? el("a", { class: "titulo", href: p.link, target: "_blank", rel: "noopener" }, p.titulo) : el("span", { class: "titulo", style: "font-size:20px" }, p.titulo);
+  const quando = p.estado === "publicado" ? `publicado em ${dataBR(p.publicado)}` : `guardado em ${dataBR(p.criado)}`;
+  const nota = el("textarea", { rows: "2", placeholder: "Anotações: o ângulo do texto, onde publicar…", "aria-label": "Anotações" });
+  nota.value = p.nota || "";
+  nota.addEventListener("change", () => gravarPautas(pautas().map(x => x.id === p.id ? { ...x, nota: nota.value } : x)));
+  const botoes = el("div", { class: "botoes" });
+  let ondeCampo = null;
+  if (p.estado === "pretendo") {
+    const publicado = el("button", { type: "button", class: "acao feito" }, "✓ Marcar como publicado");
+    publicado.onclick = () => mudarPauta(p.id, { estado: "publicado", publicado: hojeISO() });
+    botoes.append(publicado);
+  } else {
+    ondeCampo = el("input", { type: "url", placeholder: "Link do que você publicou (opcional)", "aria-label": "Link da publicação" });
+    ondeCampo.value = p.onde || "";
+    ondeCampo.addEventListener("change", () => gravarPautas(pautas().map(x => x.id === p.id ? { ...x, onde: ondeCampo.value.trim() } : x)));
+    const voltar = el("button", { type: "button", class: "acao" }, "↩ Voltar para pretendo");
+    voltar.onclick = () => mudarPauta(p.id, { estado: "pretendo", publicado: null });
+    botoes.append(voltar);
+  }
+  const tirar = el("button", { type: "button", class: "acao" }, "Remover");
+  tirar.onclick = () => {
+    if (tirar.dataset.certeza) { gravarPautas(pautas().filter(x => x.id !== p.id)); desenhar(); return; }
+    tirar.dataset.certeza = "1"; tirar.textContent = "Remover mesmo?";
+    setTimeout(() => { if (tirar.isConnected) { delete tirar.dataset.certeza; tirar.textContent = "Remover"; } }, 4000);
+  };
+  botoes.append(tirar);
+  const meta = el("div", { class: "meta" }, p.fonte ? el("span", {}, p.fonte) : el("span", { class: "selo s-voce" }, "ideia sua"),
+    el("span", { class: "quando" }, quando),
+    p.onde ? el("a", { class: "selo s-novo", href: p.onde, target: "_blank", rel: "noopener" }, "ver publicação") : null);
+  return el("article", { class: "pauta" }, titulo, p.resumo ? el("p", {}, p.resumo) : null, meta, nota, ondeCampo, botoes);
+}
+
+function desenharPublicar(termo) {
+  const filtra = p => !termo || semAcento(`${p.titulo} ${p.resumo} ${p.nota} ${p.fonte}`).includes(termo);
+  const todas = pautas().filter(filtra);
+  const pretendo = todas.filter(p => p.estado === "pretendo");
+  const publicados = todas.filter(p => p.estado === "publicado").sort((a, b) => (b.publicado || "").localeCompare(a.publicado || ""));
+
+  const titulo = el("input", { type: "text", placeholder: "Nova ideia de texto", "aria-label": "Nova ideia de texto" });
+  const link = el("input", { type: "url", placeholder: "Link de referência (opcional)", "aria-label": "Link de referência" });
+  const guardar = el("button", { type: "button", class: "acao na-lista" }, "+ Guardar ideia");
+  const nova = () => {
+    if (!titulo.value.trim()) { titulo.focus(); return; }
+    gravarPautas([{ id: "ideia-" + Date.now(), titulo: titulo.value.trim(), link: link.value.trim(), fonte: "", resumo: "", nota: "",
+                    estado: "pretendo", criado: hojeISO() }, ...pautas()]);
+    desenhar();
+  };
+  guardar.onclick = nova;
+  titulo.addEventListener("keydown", ev => { if (ev.key === "Enter") nova(); });
+
+  const blocos = [el("div", { class: "intro" },
+    el("strong", {}, "O que você pretende publicar. "),
+    "Toque em “+ Pretendo publicar” em qualquer notícia do Radar, ou guarde uma ideia sua aqui. Quando publicar, marque como publicado. A lista fica guardada neste aparelho.",
+    el("div", { class: "nova-ideia" }, titulo, link, el("div", { class: "botoes" }, guardar)))];
+  blocos.push(el("h2", {}, "Pretendo publicar", el("small", {}, String(pretendo.length))));
+  blocos.push(...(pretendo.length ? pretendo.map(cartaoPauta) : [el("p", { class: "vazio" }, termo ? "Nada encontrado." : "Nada por enquanto.")]));
+  if (publicados.length) {
+    blocos.push(el("h2", {}, "Publicados", el("small", {}, String(publicados.length))));
+    blocos.push(...publicados.map(cartaoPauta));
+  }
+  document.getElementById("conteudo").replaceChildren(...blocos);
 }
 
 function introParaVoce(itens) {
@@ -516,6 +622,7 @@ function desenhar() {
   const main = document.getElementById("conteudo");
   if (secao === "em-alta") return alta ? desenharEmAlta(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "estante") return estante ? desenharEstante(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
+  if (secao === "publicar") return desenharPublicar(termo);
   if (secao === "semana") return resumo ? desenharSemana() : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   const filtra = i => !termo || semAcento(`${i.titulo} ${i.resumo} ${i.fonte}`).includes(termo);
   if (secao === "tudo") return desenharLista(dados.itens.filter(filtra));
