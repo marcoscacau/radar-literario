@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-10T20:08:28-03:00",
+ "gerado_em": "2026-10-10T21:22:24-03:00",
  "dias": [
   "2026-10-10"
  ],
- "total": 158,
+ "total": 168,
  "secoes": {
   "para-voce": [
    "a9e05283f232",
@@ -26,6 +26,18 @@
    "42631d16f77e",
    "39b2c622ac5f",
    "9d8e883cbab6"
+  ],
+  "sergipe": [
+   "80605e0c4b84",
+   "4340d50a2d8f",
+   "a4a9716d9c5e",
+   "7d6bcaa9b94e",
+   "5445f83399c2",
+   "841fb2a2196b",
+   "953157b9168c",
+   "dd11b963523b",
+   "a3f800fb9db0",
+   "25653298b588"
   ],
   "premios-lancamentos": [
    "98518d71f95f",
@@ -81,7 +93,9 @@
    "b7b0c6174329",
    "ac68fc4b5a0f",
    "9849bf03f96a",
-   "bc6cbf21f9ba"
+   "bc6cbf21f9ba",
+   "a3f800fb9db0",
+   "25653298b588"
   ],
   "brasil-portugal": [
    "fdf739480202",
@@ -92,9 +106,11 @@
    "03ddacfbcc33",
    "28ee87d18584",
    "40914c00e6b3",
+   "80605e0c4b84",
    "fb33a9fe7ee9",
    "bdf735729197",
    "4e78f813fafc",
+   "4340d50a2d8f",
    "266e33b8bd36",
    "59a2da3eaf3f",
    "05f363d18e15",
@@ -133,6 +149,7 @@
    "e6a4be714e8b",
    "4a9e221d31dd",
    "bac283b62b2a",
+   "a4a9716d9c5e",
    "4a86232a0977",
    "ed018dc03165",
    "adf463e26d51",
@@ -158,7 +175,14 @@
    "ac68fc4b5a0f",
    "9849bf03f96a",
    "bc6cbf21f9ba",
-   "562ef1f9a6f9"
+   "562ef1f9a6f9",
+   "7d6bcaa9b94e",
+   "5445f83399c2",
+   "841fb2a2196b",
+   "953157b9168c",
+   "dd11b963523b",
+   "a3f800fb9db0",
+   "25653298b588"
   ],
   "internacional": [
    "cd10715bda68",
@@ -583,6 +607,26 @@
    "dia": "2026-10-10"
   },
   {
+   "id": "80605e0c4b84",
+   "titulo": "Itamar Vieira Junior é confirmado no Salão de Literatura do FASC 2026",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVFjMVFUd0JDOGlyVUp2endiaVUwa1E1dkRocmoyTlQ1bkdKa0Q3WE9uTTVfbDhSZVB6ZkU5aEFJdE9fRXQ0X1BnWlFQNnA3YmU5anpEcGxzUE5PSFZ5aGhFOVdQZ2d6cmk0R0RzVDlfaHhaOHMtOXQxUnFJNXVLek9DZjhYelB3YWJNcW5xYl9fMmZ3bU1JMzJaZ0RLZXhh?oc=5",
+   "resumo": "",
+   "fonte": "Jornal do Dia (via Google)",
+   "fonte_id": "gn-sergipe-instituicoes",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T11:05-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
    "id": "057c5e9937e4",
    "titulo": "New library books: Charles Spencer's 'Swan Song: Diana, My Sister' added to collection",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3pHaXVGWUkzWkpPenJLVXVnTUg2c192NHFHZkczakRXTEJVQXdVUXF0ajRXb2loTjd6aVYxMjF3U1hRSnBONHJLeTVZUXA3QTkwVThHc3g5c3FuMGVVWXc3Z19UaHg4anNvM0UwaEwyckU4QjJPcTluU1JtY2Q0bExqOXN4U202bWhGR0RUU1ROdkpWZ0pwVlZpTjVHZk5YcjMyZ1N0bjZ1RjgzUk1YZmprZnRHblVTVmxyX1I3bw?oc=5",
@@ -692,6 +736,26 @@
     "autores": [
      "Stephen King"
     ],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "4340d50a2d8f",
+   "titulo": "Programação completa do FASC 2026 será lançada no dia 15 de outubro",
+   "link": "https://infonet.com.br/noticias/cultura/programacao-completa-do-fasc-2026-sera-lancada-no-dia-15-de-outubro/",
+   "resumo": "Festival será realizado de 20 a 22 de novembro e já tem algumas atrações musicais e literárias confirmadas O post Programação completa do FASC 2026 será lançada no dia 15 de outubro apareceu primeiro em O que é notícia em Sergipe .",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-10T08:15-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
     "temas": []
    },
    "dia": "2026-10-10"
@@ -1914,6 +1978,26 @@
    "idioma": "en",
    "publicado_em": "2026-10-09T07:00-03:00",
    "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "a4a9716d9c5e",
+   "titulo": "AGENDA MANGUE CULTURAL DE 9 a 15 de Outubro: “Dia das Crianças, Ensaio da Marujada, Mini Ball e muito mais em Sergipe”",
+   "link": "https://manguejornalismo.org/agenda-mangue-cultural-de-9-a-15-de-outubro-dia-das-criancas-ensaio-da-marujada-mini-ball-e-muito-mais-em-sergipe/",
+   "resumo": "(CAPELA) Praça da Rua da Palmeira Eventos de 12 a 15/10 Semana da Criança no Museu da Gente Sergipana Programação especial de celebração da infância reunindo mediação temática, jogo educativo, sala de atividades e jogos, oficina de iniciação à flauta de pífano e tarde de contação de histórias.",
+   "fonte": "Mangue Jornalismo (agenda cultural)",
+   "fonte_id": "mangue",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-09T07:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -3298,6 +3382,148 @@
     "temas": [
      "fe"
     ]
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "7d6bcaa9b94e",
+   "titulo": "Biblioteca Epiphanio Dória prepara festa literária gratuita para crianças em Aracaju",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0lNcDNzSXcwWmdCaWRQLUJDcm9YdmVWSmtWRElDbldDb1B2VUtpbzF4eWF1elhuMlEtY3hMTmR4NERYVll0UjVMUjdrLUdIa2hSSm81Q0JpZ2xoMFBZQ0tINm5kM3R6dzJlMWRfcHlhZ2Z5cXlJd01IbndFMFNSRXRtOFd4aUU?oc=5",
+   "resumo": "",
+   "fonte": "Imprensa 24h (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-05T11:08-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "5445f83399c2",
+   "titulo": "AGENDA MANGUE CULTURAL DE 2 a 8 de Outubro: “PEIAS Sonoras, Noche Buena, Encontro Cultural, monólogo e muito mais em Sergipe ”",
+   "link": "https://manguejornalismo.org/agenda-mangue-cultural-de-2-a-8-de-outubro-peias-sonoras-noche-buena-encontro-cultural-monologo-e-muito-mais-em-sergipe/",
+   "resumo": "(ARACAJU) Esquina da Rua Rafael de Aguiar com a Rua Ribeirópolis, Bairro Pereira Lobo 11º Encontro Cultural da Casa Curiar Sarau promovido pela Casa Curiar e a Academia dos Saberes de Aracaju e da Sustentabilidade (ASAS), reunindo apresentações de música, canto, dança, poesia, literatura e outras…",
+   "fonte": "Mangue Jornalismo (agenda cultural)",
+   "fonte_id": "mangue",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-02T07:40-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "841fb2a2196b",
+   "titulo": "Jeferson Tenório é confirmado no Salão de Literatura do FASC 2026",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLUFsc0F2a0MtQVRaQXdFUE95Q04tYTlkZ2R3MFJGbC05WkZxd29VX2Q5bzk2ci1SeDdFU2JHeHAxamZJZU0xZG1scUlDUGk4V2FiaXVkRVNTVEhWYVZ4b3pGa2NIQlRNMkZ3Wk1ySl9TZGcySmtUbjRWMlNhZlY4MFplRWJvSkFXVmRoXzREUTVabUhkVC1ZWjF0OEVFMWc3SGRRMEdNRU9fcmt4UlFMTGVzWFBTekhicHloZDVkazRpRFI4TkpFeHFEOWw?oc=5",
+   "resumo": "",
+   "fonte": "Click Sergipe (via Google)",
+   "fonte_id": "gn-sergipe-instituicoes",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-01T07:58-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "953157b9168c",
+   "titulo": "FASC 2026 terá a escritora Aline Bei no Salão de Literatura Manoel Ferreira",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa1F0SUVHbGllU2ZCRVBIUzRGa2RTaFBfRlQzcEtFRV9aNUM4OUc5emZ4R2l4X2dxVXVBM1prdmxzWk0zYmRRb2ZrNFFta21uMUpNUXBQeFRVU1RoRjcxMnJBNU52VG5NeXBUZTROSktzTHp1YzFIN3RtNThIanZMY0pZWXByQ3NJZ2plSTV5bEZUMTVwTV9laTJOVDQ2TG1SeFJBN21RM0MzNDM5cHB6UExFZ1p2b0pjZVlyTk0yREFrTDZvVnV3TXJyX3hoeklXU1Vn?oc=5",
+   "resumo": "",
+   "fonte": "Click Sergipe (via Google)",
+   "fonte_id": "gn-sergipe-instituicoes",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-09-30T04:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "dd11b963523b",
+   "titulo": "Shows, feira de livros, circo e mais: veja o que fazer em Sergipe neste fim de semana",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWkczcFRpSl9nVWhVa1BQUEdlUTVVZFJNMlJMYlk0NnZzU2M3U3lack9BMGZZb2gxRU9lZU9EYURwckc4Y3RBQjh5d0h1bGc2UGU5VGIxY1A2V3BfYUxfWG9UbjIxV1Z6RFRaMnduNnpvdlBYeGtDaTE4QlZOQlB4WDRUai0yazNCT3l3dDVNeWl0QXN3T1B6cF95SlV3UG9WOUlsdmd4UHEzanZkSFZTYjJ5UlR4c1hFamkzb0RRejA2SVhDS3Z3TE9mb1llYWtlUkQ4TTVuc9IB5gFBVV95cUxOdUNES3JFeGtDTEpHaUM2azhwbUY0VENnbmY3ZWlLSlpPM1E1NWtBS2Z3WjU5SUlRdk14NGwxN1I2WEZMbEo4UDBUdEFWT0p3M21EdDJ0YTNGRlI3M3pKTmpjbXMxZDZXbzREUnY5RE04bUlqOTJZR09faGFTUUlHZjNROHVnVmhBUmcyd19kOE1qMUQ5V1pWVHdwSi1oSUJwSGlGT0V5Nl9tN3hXZHo3QnYzTVVsOVF0TTZvN0VXNkNGQ0pYYWpEUGRCQ3lXbHdLdEJZUmRzUndKeElOYXlab0daRDZiUQ?oc=5",
+   "resumo": "",
+   "fonte": "G1 (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-09-25T04:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "a3f800fb9db0",
+   "titulo": "Sede da Ases recebe lançamento do livro ‘Aracaju Sangrenta de Ontem’",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmVrTmdjMUxsNkZabWdyNFloRl8tN2Q4UU54b1FYelFQOC1qMzdWUVZJZTVqYXpScWotckN0SHpaeWFoV1V1VmZBbEhjUWRxdUo0OGNPTm5lNjFRYklwR2d1cmtGWXBQWjU3YTBUZThfQkVoU3BMMENTUlM4ekx1Vk5KMVM5c3MweWJUVjlVTkpLNGtmYkM5QVlGOFdLWHBoWGFkakFlV292UFB1?oc=5",
+   "resumo": "",
+   "fonte": "Infonet (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-09-24T04:00-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-10"
+  },
+  {
+   "id": "25653298b588",
+   "titulo": "Iandê Albuquerque lança livro com sessão de autógrafos na Livraria Leitura localizada no RioMar Aracaju",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd2RhNUNKcjh0bXNUcEM2RnZsU2hjS3FLVGgwWDVyNEZjNjl1SC03UE9XVzB3VjE5RXlaRWhVdFVDd0Vpczg1YjE0c3pQU1JPbEFxaHhseUFPTWJ0QUdLaXZXSjV3T2RFTzNaY0xOQkhkbTF0TVlyX25IVEZodTNsSjhlTXFkbDhuQkt4bTRGa1ZwdThuR0JfU0RTWU1JVjFReXZZcG5lUV9MR0FhazJJMDVtbGJmVmJNbTRMZklEdC1Fa2pjRWh1bHh5MXFyOFk3ZmpkUldPXzI3RjBXeVhrR3V1RmkyWmVVYmxUSmxjY3ZTcFM3dkhQZg?oc=5",
+   "resumo": "",
+   "fonte": "Click Sergipe (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-09-21T04:00-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
    },
    "dia": "2026-10-10"
   }

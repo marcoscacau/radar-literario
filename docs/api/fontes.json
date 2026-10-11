@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T20:08:28-03:00",
+ "gerado_em": "2026-10-10T21:22:24-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -52,7 +52,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
+   "itens_no_feed": 0,
    "novos_hoje": 0
   },
   {
@@ -89,7 +89,61 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 48,
-   "novos_hoje": 10
+   "novos_hoje": 0
+  },
+  {
+   "id": "gn-sergipe-eventos",
+   "nome": "Google Notícias – eventos em Sergipe",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 43,
+   "novos_hoje": 4
+  },
+  {
+   "id": "gn-sergipe-instituicoes",
+   "nome": "Google Notícias – letras em Sergipe",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 44,
+   "novos_hoje": 3
+  },
+  {
+   "id": "mangue",
+   "nome": "Mangue Jornalismo (agenda cultural)",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 2,
+   "novos_hoje": 2
+  },
+  {
+   "id": "infonet",
+   "nome": "Infonet",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 1,
+   "novos_hoje": 1
+  },
+  {
+   "id": "faxaju",
+   "nome": "FaxAju",
+   "grupo": "brasil-portugal",
+   "ok": false,
+   "erro": "HTTPError: HTTP Error 403: Forbidden",
+   "itens_no_feed": 0,
+   "novos_hoje": 0
+  },
+  {
+   "id": "g1-se",
+   "nome": "g1 Sergipe",
+   "grupo": "brasil-portugal",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 0,
+   "novos_hoje": 0
   },
   {
    "id": "mundocristao",
@@ -205,8 +259,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 43,
-   "novos_hoje": 6
+   "itens_no_feed": 42,
+   "novos_hoje": 0
   },
   {
    "id": "gn-king-en",
@@ -215,7 +269,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 26,
-   "novos_hoje": 6
+   "novos_hoje": 0
   },
   {
    "id": "parisreview",
@@ -232,7 +286,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 40,
+   "itens_no_feed": 41,
    "novos_hoje": 0
   }
  ]

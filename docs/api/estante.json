@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T20:08:28-03:00",
+ "gerado_em": "2026-10-10T21:22:24-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -66,6 +66,7 @@
      "ano": 2018,
      "serie": "Legacy #1",
      "ambiguo": true,
+     "pt": "Uma Razão para Acreditar",
      "noticias": []
     },
     {
@@ -78,6 +79,7 @@
     {
      "titulo": "Great and Precious Things",
      "ano": 2020,
+     "pt": "As Coisas Belas e Preciosas",
      "noticias": []
     },
     {
@@ -95,6 +97,7 @@
     {
      "titulo": "The Things We Leave Unfinished",
      "ano": 2021,
+     "pt": "Tudo que Deixamos Inacabado",
      "noticias": []
     },
     {
@@ -125,11 +128,13 @@
      "titulo": "In the Likely Event",
      "ano": 2023,
      "ambiguo": true,
+     "pt": "No Evento Provável",
      "noticias": []
     },
     {
      "titulo": "Variation",
      "ano": 2024,
+     "pt": "Profundezas",
      "noticias": []
     },
     {
@@ -143,6 +148,7 @@
      "titulo": "Threshing Day",
      "ano": 2026,
      "serie": "O Empyriano",
+     "pt": "Dia da Ceifa",
      "noticias": []
     },
     {
@@ -189,6 +195,16 @@
     {
      "titulo": "Uma Mulher no Escuro",
      "ano": 2019,
+     "noticias": []
+    },
+    {
+     "titulo": "A Mágica Mortal",
+     "ano": 2023,
+     "noticias": []
+    },
+    {
+     "titulo": "Uma Família Feliz",
+     "ano": 2024,
      "noticias": []
     },
     {
@@ -293,6 +309,7 @@
      "titulo": "Roadwork",
      "ano": 1981,
      "serie": "como Richard Bachman",
+     "pt": "A Autoestrada",
      "noticias": []
     },
     {
@@ -407,6 +424,7 @@
     {
      "titulo": "Four Past Midnight",
      "ano": 1990,
+     "pt": "Depois da Meia-Noite",
      "noticias": []
     },
     {
@@ -431,6 +449,7 @@
     {
      "titulo": "Dolores Claiborne",
      "ano": 1992,
+     "pt": "Dolores Claiborne",
      "noticias": []
     },
     {
@@ -552,6 +571,7 @@
     {
      "titulo": "The Colorado Kid",
      "ano": 2005,
+     "pt": "O Garoto do Colorado",
      "noticias": []
     },
     {
@@ -655,7 +675,7 @@
     },
     {
      "titulo": "Gwendy's Button Box",
-     "pt": "A Caixa de Botões de Gwendy",
+     "pt": "A Pequena Caixa de Gwendy",
      "ano": 2017,
      "serie": "com Richard Chizmar",
      "noticias": []
@@ -706,6 +726,7 @@
      "titulo": "Gwendy's Final Task",
      "ano": 2022,
      "serie": "com Richard Chizmar",
+     "pt": "A Última Missão de Gwendy",
      "noticias": []
     },
     {
@@ -723,6 +744,7 @@
     {
      "titulo": "You Like It Darker",
      "ano": 2024,
+     "pt": "Mais Sombrio",
      "noticias": []
     },
     {
@@ -784,7 +806,7 @@
     },
     {
      "titulo": "The Problem of Pain",
-     "pt": "O Problema do Sofrimento",
+     "pt": "O Problema da Dor",
      "ano": 1940,
      "noticias": []
     },
@@ -796,7 +818,7 @@
     },
     {
      "titulo": "A Preface to Paradise Lost",
-     "pt": "Um Prefácio a Paraíso Perdido",
+     "pt": "Prefácio ao Paraíso Perdido",
      "ano": 1942,
      "noticias": []
     },
@@ -815,14 +837,14 @@
     },
     {
      "titulo": "That Hideous Strength",
-     "pt": "Uma Força Medonha",
+     "pt": "Aquela Fortaleza Medonha",
      "ano": 1945,
      "serie": "Trilogia Cósmica #3",
      "noticias": []
     },
     {
      "titulo": "The Great Divorce",
-     "pt": "O Grande Abismo",
+     "pt": "O Grande Divórcio",
      "ano": 1945,
      "ambiguo": true,
      "noticias": []
@@ -914,7 +936,7 @@
     },
     {
      "titulo": "Reflections on the Psalms",
-     "pt": "Reflexões sobre os Salmos",
+     "pt": "Reflexões sobre Salmos",
      "ano": 1958,
      "noticias": []
     },
@@ -930,14 +952,20 @@
      "noticias": []
     },
     {
+     "titulo": "The World's Last Night",
+     "pt": "A Última Noite do Mundo",
+     "ano": 1960,
+     "noticias": []
+    },
+    {
      "titulo": "A Grief Observed",
-     "pt": "A Anatomia de uma Dor",
+     "pt": "A Anatomia de um Luto",
      "ano": 1961,
      "noticias": []
     },
     {
      "titulo": "An Experiment in Criticism",
-     "pt": "Um Experimento na Crítica Literária",
+     "pt": "Um Experimento em Crítica Literária",
      "ano": 1961,
      "noticias": []
     },
@@ -976,6 +1004,17 @@
      "pt": "Deus no Banco dos Réus",
      "ano": 1970,
      "serie": "póstumo",
+     "noticias": []
+    },
+    {
+     "titulo": "On Stories",
+     "pt": "Sobre Histórias",
+     "ano": 1982,
+     "noticias": []
+    },
+    {
+     "titulo": "Boxen",
+     "ano": 1985,
      "noticias": []
     }
    ]
