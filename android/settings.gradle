@@ -2,6 +2,8 @@ pluginManagement {
     repositories {
         google()
         mavenCentral()
+        // espelho do Maven Central mantido pelo Google, caso o principal falhe
+        maven { url "https://maven-central.storage-download.googleapis.com/maven2/" }
         gradlePluginPortal()
     }
 }
@@ -10,6 +12,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://maven-central.storage-download.googleapis.com/maven2/" }
     }
 }
 rootProject.name = "RadarLiterario"
