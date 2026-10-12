@@ -1,8 +1,9 @@
 {
- "gerado_em": "2026-10-11T12:21:39-03:00",
+ "gerado_em": "2026-10-12T15:40:30-03:00",
  "dias": [
   "2026-10-10",
-  "2026-10-11"
+  "2026-10-11",
+  "2026-10-12"
  ],
  "termos": [
   {
@@ -11,7 +12,8 @@
    "mencoes": 29,
    "por_dia": [
     19,
-    10
+    10,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -35,7 +37,8 @@
    "mencoes": 24,
    "por_dia": [
     17,
-    7
+    7,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -59,7 +62,8 @@
    "mencoes": 12,
    "por_dia": [
     4,
-    8
+    8,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -83,7 +87,8 @@
    "mencoes": 9,
    "por_dia": [
     2,
-    7
+    7,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -101,13 +106,15 @@
   {
    "termo": "Prime Video",
    "fontes": 6,
-   "mencoes": 6,
+   "mencoes": 7,
    "por_dia": [
     2,
-    4
+    4,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "7ae9084f2a50",
     "21cf9613b70c",
     "9c84d299e674",
     "1e17e9c0595e",
@@ -122,9 +129,10 @@
    "mencoes": 4,
    "por_dia": [
     0,
-    4
+    4,
+    0
    ],
-   "novo_hoje": true,
+   "novo_hoje": false,
    "itens": [
     "0627db843005",
     "6ed93856025f",
@@ -138,7 +146,8 @@
    "mencoes": 3,
    "por_dia": [
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [

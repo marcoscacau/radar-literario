@@ -1,24 +1,25 @@
 {
- "gerado_em": "2026-10-11T12:21:39-03:00",
+ "gerado_em": "2026-10-12T15:40:30-03:00",
  "dias": [
+  "2026-10-12",
   "2026-10-11",
   "2026-10-10"
  ],
- "total": 234,
+ "total": 292,
  "por_grupo": {
-  "internacional": 109,
-  "brasil-portugal": 125
+  "brasil-portugal": 150,
+  "internacional": 142
  },
  "temas": [
   {
-   "id": "fe",
-   "nome": "fé e teologia",
-   "noticias": 8
-  },
-  {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 6
+   "noticias": 11
+  },
+  {
+   "id": "fe",
+   "nome": "fé e teologia",
+   "noticias": 9
   },
   {
    "id": "suspense",
@@ -31,6 +32,16 @@
    "noticias": 2
   },
   {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 1
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
+   "noticias": 1
+  },
+  {
    "id": "mente",
    "nome": "mente e emoções",
    "noticias": 1
@@ -39,23 +50,27 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 24
+   "noticias": 33
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 13
   },
   {
    "nome": "Augusto Cury",
    "noticias": 12
   },
   {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 11
-  },
-  {
    "nome": "Rebecca Yarros",
-   "noticias": 8
+   "noticias": 10
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 4
+   "noticias": 7
+  },
+  {
+   "nome": "Dostoiévski",
+   "noticias": 2
   },
   {
    "nome": "Franz Kafka",
@@ -83,9 +98,9 @@
   "6ed93856025f",
   "432b561be225",
   "bdcad1517b27",
+  "f0de08498a67",
   "551acba049fc",
   "b52a3b2bcd1f",
-  "bdf735729197",
-  "05f363d18e15"
+  "bdf735729197"
  ]
 }

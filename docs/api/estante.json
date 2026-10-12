@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T12:21:39-03:00",
+ "gerado_em": "2026-10-12T15:40:30-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -116,6 +116,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "2fc936efdb8d",
       "6ed93856025f",
       "cd10715bda68",
       "cf22b0140171"
@@ -154,6 +155,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "14e2d2829da9",
       "0627db843005",
       "6ed93856025f",
       "5d4f20939414",
@@ -227,6 +229,13 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "3314e4eab018",
+    "7f9a552968a8",
+    "8e8de726cd62",
+    "28d2bb184cc7",
+    "6ae9b8deebf0",
+    "5bc4fd103ddb",
+    "f9306cd9373a",
     "ef2ce41a6f09",
     "2b8a83fea493",
     "49e61fdfff20",
@@ -257,6 +266,9 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "c5d626d826b1",
+      "6ae9b8deebf0",
+      "e63a981a0e2f",
       "bdcad1517b27",
       "49e61fdfff20",
       "09a98ec51af2",

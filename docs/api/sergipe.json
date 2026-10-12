@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-10-11T12:21:39-03:00",
- "total": 13,
+ "gerado_em": "2026-10-12T15:40:30-03:00",
+ "total": 14,
  "eventos": [
+  {
+   "id": "4416f700ae8f",
+   "titulo": "Dia das Crianças: confira a programação para curtir com a família",
+   "link": "https://infonet.com.br/noticias/cultura/dia-das-criancas-confira-a-programacao-para-curtir-com-a-familia/",
+   "resumo": "Teatro, circo, oficinas, exposições de dinossauros e parques temáticos estão entre as opções para aproveitar a segunda-feira, 12 de outubro",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-12T07:40-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-12",
+    "fim": "2026-10-12",
+    "origem": "texto"
+   },
+   "dia": "2026-10-12"
+  },
   {
    "id": "b486ce5b9bf1",
    "titulo": "Vila da Criança segue até novembro com brinquedos, teatro e outra atrações",

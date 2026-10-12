@@ -10,8 +10,24 @@ X-WR-CALDESC:Eventos literários em Sergipe encontrados pelo Radar Literár
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:4416f700ae8f@radar-literario
+DTSTAMP:20261012T184030Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Dia das Crianças: confira a programação para curtir com a famíl
+ ia
+DESCRIPTION:Teatro\, circo\, oficinas\, exposições de dinossauros e parqu
+ es temáticos estão entre as opções para aproveitar a segunda-feira\, 1
+ 2 de outubro\n\nFonte: Infonet\nhttps://infonet.com.br/noticias/cultura/di
+ a-das-criancas-confira-a-programacao-para-curtir-com-a-familia/\n\nData li
+ da automaticamente do texto da notícia: confira no link.
+URL:https://infonet.com.br/noticias/cultura/dia-das-criancas-confira-a-prog
+ ramacao-para-curtir-com-a-familia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:25f0b47ef362@radar-literario
-DTSTAMP:20261011T152139Z
+DTSTAMP:20261012T184030Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
 SUMMARY:Bienal do Livro Sergipe
@@ -24,7 +40,7 @@ LOCATION:Centro Cultural Palácio-Museu Luiz Antônio Barreto\, Aracaju
 END:VEVENT
 BEGIN:VEVENT
 UID:4340d50a2d8f@radar-literario
-DTSTAMP:20261011T152139Z
+DTSTAMP:20261012T184030Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Programação completa do FASC 2026 será lançada no dia 15 de out
@@ -42,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a9716d9c5e@radar-literario
-DTSTAMP:20261011T152139Z
+DTSTAMP:20261012T184030Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261016
 SUMMARY:AGENDA MANGUE CULTURAL DE 9 a 15 de Outubro: “Dia das Crianças\,
@@ -61,7 +77,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5445f83399c2@radar-literario
-DTSTAMP:20261011T152139Z
+DTSTAMP:20261012T184030Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261009
 SUMMARY:AGENDA MANGUE CULTURAL DE 2 a 8 de Outubro: “PEIAS Sonoras\, Noch
@@ -81,7 +97,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dd11b963523b@radar-literario
-DTSTAMP:20261011T152139Z
+DTSTAMP:20261012T184030Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Shows\, feira de livros\, circo e mais: veja o que fazer em Sergipe
