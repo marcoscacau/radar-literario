@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-12T15:40:30-03:00",
+ "gerado_em": "2026-10-13T13:45:15-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -116,6 +116,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "fa6f7bb20988",
       "2fc936efdb8d",
       "6ed93856025f",
       "cd10715bda68",
@@ -155,6 +156,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "945685b63cf0",
       "14e2d2829da9",
       "0627db843005",
       "6ed93856025f",
@@ -229,6 +231,10 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "6a158fa5057c",
+    "7fff89186820",
+    "990ad04cf8b0",
+    "712793837bbd",
     "3314e4eab018",
     "7f9a552968a8",
     "8e8de726cd62",
@@ -266,6 +272,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "31da4c0d624b",
+      "990ad04cf8b0",
       "c5d626d826b1",
       "6ae9b8deebf0",
       "e63a981a0e2f",
@@ -800,6 +808,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "d04109d2c7ea",
     "551acba049fc",
     "444c8a547fa0",
     "a9e05283f232"
@@ -949,7 +958,15 @@
      "pt": "O Sobrinho do Mago",
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
-     "noticias": []
+     "noticias": [
+      "bdc175ac9205",
+      "d96ed23d4ac5",
+      "d04109d2c7ea",
+      "0f915f041667",
+      "0e90d64ec522",
+      "9d9752ad3903",
+      "d0730a98d6af"
+     ]
     },
     {
      "titulo": "Surprised by Joy",

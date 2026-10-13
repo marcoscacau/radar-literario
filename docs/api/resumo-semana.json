@@ -1,20 +1,21 @@
 {
- "gerado_em": "2026-10-12T15:40:30-03:00",
+ "gerado_em": "2026-10-13T13:45:15-03:00",
  "dias": [
+  "2026-10-13",
   "2026-10-12",
   "2026-10-11",
   "2026-10-10"
  ],
- "total": 292,
+ "total": 357,
  "por_grupo": {
-  "brasil-portugal": 150,
-  "internacional": 142
+  "brasil-portugal": 169,
+  "internacional": 188
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 11
+   "noticias": 13
   },
   {
    "id": "fe",
@@ -24,7 +25,7 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 4
+   "noticias": 5
   },
   {
    "id": "fisica",
@@ -50,31 +51,35 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 33
+   "noticias": 38
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 13
+   "noticias": 15
+  },
+  {
+   "nome": "C. S. Lewis",
+   "noticias": 14
+  },
+  {
+   "nome": "Rebecca Yarros",
+   "noticias": 12
   },
   {
    "nome": "Augusto Cury",
    "noticias": 12
   },
   {
-   "nome": "Rebecca Yarros",
-   "noticias": 10
-  },
-  {
-   "nome": "C. S. Lewis",
-   "noticias": 7
-  },
-  {
    "nome": "Dostoiévski",
-   "noticias": 2
+   "noticias": 3
   },
   {
    "nome": "Franz Kafka",
    "noticias": 2
+  },
+  {
+   "nome": "Platão e Sócrates",
+   "noticias": 1
   },
   {
    "nome": "Dan Brown",
@@ -92,15 +97,41 @@
   "Flávio Bolsonaro",
   "Prime Video"
  ],
- "subindo": [],
+ "subindo": [
+  {
+   "termo": "Flávio Bolsonaro",
+   "ultimos_3_dias": 7,
+   "antes": 2
+  },
+  {
+   "termo": "Augusto Cury",
+   "ultimos_3_dias": 8,
+   "antes": 4
+  },
+  {
+   "termo": "Prime Video",
+   "ultimos_3_dias": 6,
+   "antes": 2
+  },
+  {
+   "termo": "Threshing Day",
+   "ultimos_3_dias": 4,
+   "antes": 0
+  },
+  {
+   "termo": "Sobrinho do Mago",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  }
+ ],
  "destaques": [
   "a9e05283f232",
+  "5acc6bf35018",
   "6ed93856025f",
   "432b561be225",
   "bdcad1517b27",
+  "d04109d2c7ea",
   "f0de08498a67",
-  "551acba049fc",
-  "b52a3b2bcd1f",
-  "bdf735729197"
+  "b52a3b2bcd1f"
  ]
 }

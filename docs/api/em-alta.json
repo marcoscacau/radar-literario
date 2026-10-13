@@ -1,22 +1,25 @@
 {
- "gerado_em": "2026-10-12T15:40:30-03:00",
+ "gerado_em": "2026-10-13T13:45:15-03:00",
  "dias": [
   "2026-10-10",
   "2026-10-11",
-  "2026-10-12"
+  "2026-10-12",
+  "2026-10-13"
  ],
  "termos": [
   {
    "termo": "Anne Carson",
    "fontes": 15,
-   "mencoes": 29,
+   "mencoes": 30,
    "por_dia": [
     19,
     10,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "be719bef44a9",
     "e8907f101205",
     "72c506c432af",
     "c710996aad76",
@@ -27,21 +30,22 @@
     "f1adeee3f35a",
     "29d9b512daf6",
     "1de171d151ca",
-    "3e5a36badab7",
-    "e06619c324c6"
+    "3e5a36badab7"
    ]
   },
   {
    "termo": "Nobel de Literatura",
    "fontes": 12,
-   "mencoes": 24,
+   "mencoes": 25,
    "por_dia": [
     17,
     7,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "b1ef0bfd0d30",
     "e8907f101205",
     "72c506c432af",
     "dbe1b48d66f9",
@@ -52,8 +56,7 @@
     "3e5a36badab7",
     "b7dbabac041b",
     "e06619c324c6",
-    "ed018dc03165",
-    "eff76e1f299e"
+    "ed018dc03165"
    ]
   },
   {
@@ -63,6 +66,7 @@
    "por_dia": [
     4,
     8,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -88,6 +92,7 @@
    "por_dia": [
     2,
     7,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -105,15 +110,17 @@
   },
   {
    "termo": "Prime Video",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 7,
+   "mencoes": 8,
    "por_dia": [
     2,
     4,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "990ad04cf8b0",
     "7ae9084f2a50",
     "21cf9613b70c",
     "9c84d299e674",
@@ -130,6 +137,7 @@
    "por_dia": [
     0,
     4,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -141,12 +149,30 @@
    ]
   },
   {
+   "termo": "Sobrinho do Mago",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    3
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "bdc175ac9205",
+    "d96ed23d4ac5",
+    "d0730a98d6af"
+   ]
+  },
+  {
    "termo": "Mike Flanagan",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     2,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
