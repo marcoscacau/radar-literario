@@ -1,10 +1,11 @@
 {
- "gerado_em": "2026-10-13T13:45:15-03:00",
+ "gerado_em": "2026-10-14T11:22:00-03:00",
  "dias": [
   "2026-10-10",
   "2026-10-11",
   "2026-10-12",
-  "2026-10-13"
+  "2026-10-13",
+  "2026-10-14"
  ],
  "termos": [
   {
@@ -15,7 +16,8 @@
     19,
     10,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -35,16 +37,19 @@
   },
   {
    "termo": "Nobel de Literatura",
-   "fontes": 12,
-   "mencoes": 25,
+   "fontes": 13,
+   "mencoes": 27,
    "por_dia": [
     17,
     7,
     0,
-    1
+    1,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "0f6d2377355f",
+    "684e0a6d05bd",
     "b1ef0bfd0d30",
     "e8907f101205",
     "72c506c432af",
@@ -54,9 +59,7 @@
     "f1adeee3f35a",
     "1de171d151ca",
     "3e5a36badab7",
-    "b7dbabac041b",
-    "e06619c324c6",
-    "ed018dc03165"
+    "b7dbabac041b"
    ]
   },
   {
@@ -66,6 +69,7 @@
    "por_dia": [
     4,
     8,
+    0,
     0,
     0
    ],
@@ -86,17 +90,46 @@
    ]
   },
   {
+   "termo": "Sobrinho do Mago",
+   "fontes": 11,
+   "mencoes": 12,
+   "por_dia": [
+    0,
+    0,
+    0,
+    3,
+    9
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "5695721c7c70",
+    "5713e08fe0ac",
+    "004ea9f64b02",
+    "d6aae3696921",
+    "a04b406401d5",
+    "41e89a9e7035",
+    "dd59fe975755",
+    "789c309b4ea9",
+    "0db979c03e37",
+    "bdc175ac9205",
+    "d96ed23d4ac5",
+    "d0730a98d6af"
+   ]
+  },
+  {
    "termo": "Flávio Bolsonaro",
-   "fontes": 9,
-   "mencoes": 9,
+   "fontes": 10,
+   "mencoes": 10,
    "por_dia": [
     2,
     7,
     0,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "2e52a4b795cf",
     "13ed05eaafc8",
     "a0e9e9758ada",
     "f62f03249731",
@@ -109,6 +142,31 @@
    ]
   },
   {
+   "termo": "Greta Gerwig",
+   "fontes": 9,
+   "mencoes": 10,
+   "por_dia": [
+    0,
+    0,
+    1,
+    1,
+    8
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "8edf0d3685c6",
+    "6c3355fa8846",
+    "a0cf647e7489",
+    "5695721c7c70",
+    "a04b406401d5",
+    "dd59fe975755",
+    "0db979c03e37",
+    "57dff2cfa2c2",
+    "9d9752ad3903",
+    "a3051e5625c8"
+   ]
+  },
+  {
    "termo": "Prime Video",
    "fontes": 7,
    "mencoes": 8,
@@ -116,7 +174,8 @@
     2,
     4,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -131,12 +190,53 @@
    ]
   },
   {
+   "termo": "Magician Nephew",
+   "fontes": 5,
+   "mencoes": 6,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "8edf0d3685c6",
+    "d72d465a4371",
+    "a0cf647e7489",
+    "57dff2cfa2c2",
+    "0f915f041667",
+    "9d9752ad3903"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    1,
+    0,
+    0,
+    1,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "71ecebe02333",
+    "e9d8aefbabde",
+    "03594972ab84",
+    "91406b3b1159"
+   ]
+  },
+  {
    "termo": "Threshing Day",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
     4,
+    0,
     0,
     0
    ],
@@ -149,20 +249,39 @@
    ]
   },
   {
-   "termo": "Sobrinho do Mago",
+   "termo": "Crônicas de Nárnia",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
     0,
     0,
-    3
+    1,
+    2
    ],
-   "novo_hoje": true,
+   "novo_hoje": false,
    "itens": [
-    "bdc175ac9205",
-    "d96ed23d4ac5",
-    "d0730a98d6af"
+    "d6aae3696921",
+    "0db979c03e37",
+    "bdc175ac9205"
+   ]
+  },
+  {
+   "termo": "Booker Prize",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "b41a58b99343",
+    "7a0a86641a7b",
+    "865c8625e251"
    ]
   },
   {
@@ -172,6 +291,7 @@
    "por_dia": [
     2,
     1,
+    0,
     0,
     0
    ],

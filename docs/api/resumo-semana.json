@@ -1,26 +1,27 @@
 {
- "gerado_em": "2026-10-13T13:45:15-03:00",
+ "gerado_em": "2026-10-14T11:22:00-03:00",
  "dias": [
+  "2026-10-14",
   "2026-10-13",
   "2026-10-12",
   "2026-10-11",
   "2026-10-10"
  ],
- "total": 357,
+ "total": 443,
  "por_grupo": {
-  "brasil-portugal": 169,
-  "internacional": 188
+  "brasil-portugal": 210,
+  "internacional": 233
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 13
+   "noticias": 16
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 9
+   "noticias": 11
   },
   {
    "id": "suspense",
@@ -30,16 +31,16 @@
   {
    "id": "fisica",
    "nome": "física e ciência",
+   "noticias": 4
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
    "noticias": 2
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 1
-  },
-  {
-   "id": "russos",
-   "nome": "literatura russa",
    "noticias": 1
   },
   {
@@ -51,19 +52,19 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 38
-  },
-  {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 15
+   "noticias": 42
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 14
+   "noticias": 36
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 19
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 12
+   "noticias": 14
   },
   {
    "nome": "Augusto Cury",
@@ -71,7 +72,7 @@
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "nome": "Franz Kafka",
@@ -94,32 +95,32 @@
   "Anne Carson",
   "Nobel de Literatura",
   "Augusto Cury",
-  "Flávio Bolsonaro",
-  "Prime Video"
+  "Sobrinho do Mago",
+  "Flávio Bolsonaro"
  ],
  "subindo": [
   {
-   "termo": "Flávio Bolsonaro",
-   "ultimos_3_dias": 7,
-   "antes": 2
-  },
-  {
-   "termo": "Augusto Cury",
-   "ultimos_3_dias": 8,
-   "antes": 4
-  },
-  {
-   "termo": "Prime Video",
-   "ultimos_3_dias": 6,
-   "antes": 2
-  },
-  {
-   "termo": "Threshing Day",
-   "ultimos_3_dias": 4,
+   "termo": "Sobrinho do Mago",
+   "ultimos_3_dias": 12,
    "antes": 0
   },
   {
-   "termo": "Sobrinho do Mago",
+   "termo": "Greta Gerwig",
+   "ultimos_3_dias": 10,
+   "antes": 0
+  },
+  {
+   "termo": "Magician Nephew",
+   "ultimos_3_dias": 6,
+   "antes": 0
+  },
+  {
+   "termo": "Crônicas de Nárnia",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Booker Prize",
    "ultimos_3_dias": 3,
    "antes": 0
   }
@@ -129,9 +130,9 @@
   "5acc6bf35018",
   "6ed93856025f",
   "432b561be225",
+  "2d1fec062dbf",
+  "22b011bc6633",
   "bdcad1517b27",
-  "d04109d2c7ea",
-  "f0de08498a67",
-  "b52a3b2bcd1f"
+  "f0de08498a67"
  ]
 }
