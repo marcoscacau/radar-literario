@@ -1,37 +1,38 @@
 {
- "gerado_em": "2026-10-14T11:22:00-03:00",
+ "gerado_em": "2026-10-15T10:59:53-03:00",
  "dias": [
+  "2026-10-15",
   "2026-10-14",
   "2026-10-13",
   "2026-10-12",
   "2026-10-11",
   "2026-10-10"
  ],
- "total": 443,
+ "total": 541,
  "por_grupo": {
-  "brasil-portugal": 210,
-  "internacional": 233
+  "brasil-portugal": 261,
+  "internacional": 280
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 16
+   "noticias": 21
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 11
+   "noticias": 12
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 5
+   "noticias": 8
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 4
+   "noticias": 5
   },
   {
    "id": "russos",
@@ -51,63 +52,68 @@
  ],
  "autores": [
   {
-   "nome": "Stephen King",
-   "noticias": 42
+   "nome": "C. S. Lewis",
+   "noticias": 51
   },
   {
-   "nome": "C. S. Lewis",
-   "noticias": 36
+   "nome": "Stephen King",
+   "noticias": 47
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 19
+   "noticias": 21
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 14
+   "noticias": 17
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 12
+   "noticias": 13
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 4
+   "noticias": 6
+  },
+  {
+   "nome": "Raphael Montes",
+   "noticias": 2
   },
   {
    "nome": "Franz Kafka",
    "noticias": 2
   },
   {
+   "nome": "G. K. Chesterton",
+   "noticias": 1
+  },
+  {
    "nome": "Platão e Sócrates",
-   "noticias": 1
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 1
-  },
-  {
-   "nome": "Raphael Montes",
    "noticias": 1
   }
  ],
  "em_alta": [
+  "Prêmio Jabuti",
+  "Sobrinho do Mago",
   "Anne Carson",
   "Nobel de Literatura",
-  "Augusto Cury",
-  "Sobrinho do Mago",
-  "Flávio Bolsonaro"
+  "Augusto Cury"
  ],
  "subindo": [
   {
    "termo": "Sobrinho do Mago",
-   "ultimos_3_dias": 12,
+   "ultimos_3_dias": 18,
    "antes": 0
   },
   {
+   "termo": "Prêmio Jabuti",
+   "ultimos_3_dias": 17,
+   "antes": 1
+  },
+  {
    "termo": "Greta Gerwig",
-   "ultimos_3_dias": 10,
-   "antes": 0
+   "ultimos_3_dias": 11,
+   "antes": 1
   },
   {
    "termo": "Magician Nephew",
@@ -115,24 +121,19 @@
    "antes": 0
   },
   {
-   "termo": "Crônicas de Nárnia",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Booker Prize",
-   "ultimos_3_dias": 3,
+   "termo": "Palestine Action",
+   "ultimos_3_dias": 4,
    "antes": 0
   }
  ],
  "destaques": [
   "a9e05283f232",
+  "80c5506ec8e5",
   "5acc6bf35018",
   "6ed93856025f",
-  "432b561be225",
+  "7b903b3433a3",
   "2d1fec062dbf",
   "22b011bc6633",
-  "bdcad1517b27",
-  "f0de08498a67"
+  "bdcad1517b27"
  ]
 }

@@ -1,9 +1,10 @@
 {
- "gerado_em": "2026-10-14T11:22:00-03:00",
+ "gerado_em": "2026-10-15T10:59:53-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "7314a257ed54",
     "f9cfdd705ede",
     "6ed93856025f",
     "25662cdd01b6"
@@ -117,6 +118,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "57f958c362c6",
+      "13a74e42ef10",
       "f9cfdd705ede",
       "fa6f7bb20988",
       "2fc936efdb8d",
@@ -179,6 +182,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "80c5506ec8e5",
     "432b561be225"
    ],
    "livros": [
@@ -234,6 +238,11 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "d8a8cc6aaee3",
+    "d772ab71ed90",
+    "c8d64b228699",
+    "21ea115d7663",
+    "800bf4bef2cf",
     "3b47cdd1f447",
     "e8b27688730d",
     "79347766d3db",
@@ -279,6 +288,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "21ea115d7663",
       "31da4c0d624b",
       "990ad04cf8b0",
       "c5d626d826b1",
@@ -816,6 +826,9 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "f5e125fed4e9",
+    "1cea0e245c3e",
+    "e64da5b88290",
     "105188bea259",
     "8edf0d3685c6",
     "6c3355fa8846",
@@ -973,6 +986,14 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "94df07d9b4c5",
+      "dff87b1892c0",
+      "9b4461b27fbc",
+      "c2e500acb35e",
+      "93b74b56e605",
+      "be9d0bb7b8ab",
+      "96199c1a9a52",
+      "d063837a7918",
       "105188bea259",
       "8edf0d3685c6",
       "d72d465a4371",
