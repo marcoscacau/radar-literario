@@ -1,56 +1,61 @@
 {
- "gerado_em": "2026-10-15T10:59:53-03:00",
+ "gerado_em": "2026-10-16T10:46:44-03:00",
  "dias": [
   "2026-10-10",
   "2026-10-11",
   "2026-10-12",
   "2026-10-13",
   "2026-10-14",
-  "2026-10-15"
+  "2026-10-15",
+  "2026-10-16"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 17,
-   "mencoes": 18,
+   "fontes": 27,
+   "mencoes": 32,
    "por_dia": [
     1,
     0,
     0,
     1,
     2,
+    14,
     14
    ],
    "novo_hoje": false,
    "itens": [
-    "1a15f5f4d73d",
-    "0eb0011cbfac",
-    "958e3120cc62",
-    "01ee2fca712f",
-    "a3b684fc203f",
-    "b844f79ab1cc",
-    "116a33cd8650",
-    "a5e37c825bac",
-    "c26105872ea6",
-    "6fc71786b343",
-    "5488035888d2",
-    "8ddc34636020"
+    "ea86e70eb990",
+    "2ded346a47fb",
+    "eaf668bd7ea9",
+    "c1a09c3a4335",
+    "24c7012b0167",
+    "238494752e74",
+    "aae69ac4e172",
+    "c8d30e38e788",
+    "75331e18569e",
+    "690e03b1f5bd",
+    "1a3cdac37074",
+    "5803beb185d1"
    ]
   },
   {
    "termo": "Sobrinho do Mago",
-   "fontes": 17,
-   "mencoes": 18,
+   "fontes": 19,
+   "mencoes": 20,
    "por_dia": [
     0,
     0,
     0,
     3,
     9,
-    6
+    6,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "7035e062a902",
+    "c1dc6978c333",
     "dff87b1892c0",
     "9b4461b27fbc",
     "c2e500acb35e",
@@ -60,9 +65,7 @@
     "5695721c7c70",
     "5713e08fe0ac",
     "004ea9f64b02",
-    "d6aae3696921",
-    "a04b406401d5",
-    "41e89a9e7035"
+    "d6aae3696921"
    ]
   },
   {
@@ -74,6 +77,7 @@
     10,
     0,
     1,
+    0,
     0,
     0
    ],
@@ -103,6 +107,7 @@
     0,
     1,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -122,6 +127,35 @@
    ]
   },
   {
+   "termo": "Greta Gerwig",
+   "fontes": 13,
+   "mencoes": 14,
+   "por_dia": [
+    0,
+    0,
+    1,
+    1,
+    8,
+    2,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "7035e062a902",
+    "c1dc6978c333",
+    "96199c1a9a52",
+    "f83e1bc79687",
+    "8edf0d3685c6",
+    "6c3355fa8846",
+    "a0cf647e7489",
+    "5695721c7c70",
+    "a04b406401d5",
+    "dd59fe975755",
+    "0db979c03e37",
+    "57dff2cfa2c2"
+   ]
+  },
+  {
    "termo": "Augusto Cury",
    "fontes": 13,
    "mencoes": 13,
@@ -131,7 +165,8 @@
     0,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -150,31 +185,32 @@
    ]
   },
   {
-   "termo": "Greta Gerwig",
+   "termo": "Prime Video",
    "fontes": 11,
-   "mencoes": 12,
+   "mencoes": 13,
    "por_dia": [
-    0,
-    0,
+    2,
+    4,
     1,
     1,
-    8,
-    2
+    0,
+    0,
+    5
    ],
    "novo_hoje": false,
    "itens": [
-    "96199c1a9a52",
-    "f83e1bc79687",
-    "8edf0d3685c6",
-    "6c3355fa8846",
-    "a0cf647e7489",
-    "5695721c7c70",
-    "a04b406401d5",
-    "dd59fe975755",
-    "0db979c03e37",
-    "57dff2cfa2c2",
-    "9d9752ad3903",
-    "a3051e5625c8"
+    "a7a72c444bee",
+    "b40f6b0e7b83",
+    "120d2373ae7a",
+    "35dd10b2aea9",
+    "b6986a567100",
+    "990ad04cf8b0",
+    "7ae9084f2a50",
+    "21cf9613b70c",
+    "9c84d299e674",
+    "1e17e9c0595e",
+    "a3251fbbb923",
+    "4e78f813fafc"
    ]
   },
   {
@@ -187,6 +223,7 @@
     0,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -204,49 +241,135 @@
    ]
   },
   {
-   "termo": "Prime Video",
-   "fontes": 7,
-   "mencoes": 8,
-   "por_dia": [
-    2,
-    4,
-    1,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "990ad04cf8b0",
-    "7ae9084f2a50",
-    "21cf9613b70c",
-    "9c84d299e674",
-    "1e17e9c0595e",
-    "a3251fbbb923",
-    "4e78f813fafc",
-    "4db54dfb3234"
-   ]
-  },
-  {
    "termo": "Magician Nephew",
-   "fontes": 5,
-   "mencoes": 6,
+   "fontes": 6,
+   "mencoes": 7,
    "por_dia": [
     0,
     0,
     0,
     2,
     4,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "8a76f18da535",
     "8edf0d3685c6",
     "d72d465a4371",
     "a0cf647e7489",
     "57dff2cfa2c2",
     "0f915f041667",
     "9d9752ad3903"
+   ]
+  },
+  {
+   "termo": "Quarta Asa",
+   "fontes": 5,
+   "mencoes": 6,
+   "por_dia": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a7a72c444bee",
+    "f902246e5214",
+    "35dd10b2aea9",
+    "4417aae28679",
+    "2fc936efdb8d",
+    "6ed93856025f"
+   ]
+  },
+  {
+   "termo": "Sally Rooney",
+   "fontes": 4,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    3,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "74441b3041c2",
+    "f11ce64c16fb",
+    "862c5326b71b",
+    "ad26695207f9",
+    "adab0e1c4175"
+   ]
+  },
+  {
+   "termo": "Booker Prize",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "302c8374bd98",
+    "b41a58b99343",
+    "7a0a86641a7b",
+    "865c8625e251"
+   ]
+  },
+  {
+   "termo": "Mike Flanagan",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fda31c7d84b5",
+    "1e17e9c0595e",
+    "6dfc8ff258b5",
+    "19fc1baa2137"
+   ]
+  },
+  {
+   "termo": "Reino Unido",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "74441b3041c2",
+    "4552e1c48705",
+    "862c5326b71b",
+    "ad26695207f9"
    ]
   },
   {
@@ -259,6 +382,7 @@
     0,
     0,
     0,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -267,103 +391,6 @@
     "6ed93856025f",
     "5d4f20939414",
     "20a4688ea199"
-   ]
-  },
-  {
-   "termo": "Palestine Action",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    3
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f11ce64c16fb",
-    "4552e1c48705",
-    "ad26695207f9",
-    "adab0e1c4175"
-   ]
-  },
-  {
-   "termo": "Sally Rooney",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    3
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f11ce64c16fb",
-    "862c5326b71b",
-    "ad26695207f9",
-    "adab0e1c4175"
-   ]
-  },
-  {
-   "termo": "Reino Unido",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3
-   ],
-   "novo_hoje": true,
-   "itens": [
-    "4552e1c48705",
-    "862c5326b71b",
-    "ad26695207f9"
-   ]
-  },
-  {
-   "termo": "Led Zeppelin",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "d54cbc1e41a0",
-    "f83e1bc79687",
-    "96cf5031aa65"
-   ]
-  },
-  {
-   "termo": "Crônicas de Nárnia",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    1,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "d6aae3696921",
-    "0db979c03e37",
-    "bdc175ac9205"
    ]
   }
  ]
