@@ -10,8 +10,57 @@ X-WR-CALDESC:Eventos literários em Sergipe encontrados pelo Radar Literár
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:aa4c2970dffd@radar-literario
+DTSTAMP:20261017T124359Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:Museu da Gente realizará a Semana da Sergipanidade de 20 a 23 de o
+ utubro
+DESCRIPTION:Com o tema “Que Sergipanidade é essa?”\, programação aco
+ ntece de 20 a 23 de outubro e reúne profissionais da cultura sergipana.\n
+ \nFonte: Infonet\nhttps://infonet.com.br/noticias/cultura/museu-da-gente-r
+ ealizara-a-semana-da-sergipanidade-de-20-a-23-de-outubro/\n\nData lida aut
+ omaticamente do texto da notícia: confira no link.
+URL:https://infonet.com.br/noticias/cultura/museu-da-gente-realizara-a-sema
+ na-da-sergipanidade-de-20-a-23-de-outubro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e9ffce7fbf@radar-literario
+DTSTAMP:20261017T124359Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:TTB recebe os Melhores do Mundo e a peça “Hermanoteu na Terra de
+  Godah”
+DESCRIPTION:Espetáculo acontece neste sábado e domingo\, 17 e 18 de outub
+ ro\, no Teatro Tobias Barreto\n\nFonte: Infonet\nhttps://infonet.com.br/en
+ tretenimento-infonet/agenda/ttb-recebe-os-melhores-do-mundo-e-a-peca-herma
+ noteu-na-terra-de-godah/\n\nData lida automaticamente do texto da notícia
+ : confira no link.
+URL:https://infonet.com.br/entretenimento-infonet/agenda/ttb-recebe-os-melh
+ ores-do-mundo-e-a-peca-hermanoteu-na-terra-de-godah/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac750ba954d@radar-literario
+DTSTAMP:20261017T124359Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Melhores do Mundo em Aracaju: “Não temos plateia\, temos torcida
+ ”
+DESCRIPTION:Em entrevista ao Portal Infonet\, o ator Victor Leal fala sobre
+  os 30 anos da companhia e a relação com o público na apresentação de
+  “Hermanoteu na Terra de Godah”\, neste fim de semana\, em Aracaju\n\n
+ Fonte: Infonet\nhttps://infonet.com.br/noticias/cultura/melhores-do-mundo-
+ em-aracaju-nao-temos-plateia-temos-torcida/\n\nData lida automaticamente d
+ o texto da notícia: confira no link.
+URL:https://infonet.com.br/noticias/cultura/melhores-do-mundo-em-aracaju-na
+ o-temos-plateia-temos-torcida/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:1fcaaa964a8f@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261023
 SUMMARY:AGENDA MANGUE CULTURAL DE 16 a 22 de Outubro: “Sambalá\, Hip Hop
@@ -30,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4416f700ae8f@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Dia das Crianças: confira a programação para curtir com a famíl
@@ -46,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:25f0b47ef362@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
 SUMMARY:Bienal do Livro Sergipe
@@ -59,7 +108,7 @@ LOCATION:Centro Cultural Palácio-Museu Luiz Antônio Barreto\, Aracaju
 END:VEVENT
 BEGIN:VEVENT
 UID:4340d50a2d8f@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Programação completa do FASC 2026 será lançada no dia 15 de out
@@ -77,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a9716d9c5e@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261016
 SUMMARY:AGENDA MANGUE CULTURAL DE 9 a 15 de Outubro: “Dia das Crianças\,
@@ -96,7 +145,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5445f83399c2@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261009
 SUMMARY:AGENDA MANGUE CULTURAL DE 2 a 8 de Outubro: “PEIAS Sonoras\, Noch
@@ -116,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dd11b963523b@radar-literario
-DTSTAMP:20261016T134644Z
+DTSTAMP:20261017T124359Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Shows\, feira de livros\, circo e mais: veja o que fazer em Sergipe

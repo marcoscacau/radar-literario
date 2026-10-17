@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-10-16T10:46:44-03:00",
+ "gerado_em": "2026-10-17T09:43:59-03:00",
  "dias": [
+  "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
   "2026-10-13",
   "2026-10-12",
-  "2026-10-11",
-  "2026-10-10"
+  "2026-10-11"
  ],
- "total": 662,
+ "total": 582,
  "por_grupo": {
-  "internacional": 337,
-  "brasil-portugal": 325
+  "internacional": 291,
+  "brasil-portugal": 291
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 24
+   "noticias": 22
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 16
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 8
+   "noticias": 10
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
+   "noticias": 7
+  },
+  {
+   "id": "suspense",
+   "nome": "suspense e mistério",
    "noticias": 6
   },
   {
@@ -54,26 +54,26 @@
  "autores": [
   {
    "nome": "C. S. Lewis",
-   "noticias": 59
+   "noticias": 63
   },
   {
    "nome": "Stephen King",
-   "noticias": 54
+   "noticias": 44
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 29
+   "noticias": 38
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 26
-  },
-  {
-   "nome": "Augusto Cury",
-   "noticias": 13
+   "noticias": 24
   },
   {
    "nome": "Dostoiévski",
+   "noticias": 9
+  },
+  {
+   "nome": "Augusto Cury",
    "noticias": 9
   },
   {
@@ -81,11 +81,11 @@
    "noticias": 3
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 2
+   "nome": "Tolstói",
+   "noticias": 1
   },
   {
-   "nome": "Tolstói",
+   "nome": "Raphael Montes",
    "noticias": 1
   },
   {
@@ -96,45 +96,45 @@
  "em_alta": [
   "Prêmio Jabuti",
   "Sobrinho do Mago",
-  "Anne Carson",
-  "Nobel de Literatura",
-  "Greta Gerwig"
+  "Greta Gerwig",
+  "Prime Video",
+  "Quarta Asa"
  ],
  "subindo": [
   {
    "termo": "Prêmio Jabuti",
-   "ultimos_3_dias": 30,
-   "antes": 2
-  },
-  {
-   "termo": "Sobrinho do Mago",
-   "ultimos_3_dias": 17,
+   "ultimos_3_dias": 39,
    "antes": 3
   },
   {
-   "termo": "Greta Gerwig",
-   "ultimos_3_dias": 12,
+   "termo": "Quarta Asa",
+   "ultimos_3_dias": 9,
    "antes": 2
-  },
-  {
-   "termo": "Sally Rooney",
-   "ultimos_3_dias": 5,
-   "antes": 0
   },
   {
    "termo": "Reino Unido",
    "ultimos_3_dias": 4,
    "antes": 0
+  },
+  {
+   "termo": "Sally Rooney",
+   "ultimos_3_dias": 4,
+   "antes": 1
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "ultimos_3_dias": 3,
+   "antes": 1
   }
  ],
  "destaques": [
   "b689e05cad11",
+  "3ccabee8bc3b",
   "80c5506ec8e5",
   "5acc6bf35018",
   "6ed93856025f",
   "9c7fa70f31b1",
   "7b903b3433a3",
-  "2d1fec062dbf",
   "bdcad1517b27"
  ]
 }

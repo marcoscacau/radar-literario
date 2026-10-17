@@ -1,9 +1,10 @@
 {
- "gerado_em": "2026-10-16T10:46:44-03:00",
+ "gerado_em": "2026-10-17T09:43:59-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "f8479f2a81b8",
     "7314a257ed54",
     "f9cfdd705ede",
     "6ed93856025f",
@@ -118,6 +119,17 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "4948b80e207c",
+      "d4b273fd426e",
+      "570235955165",
+      "c891e9b92f9a",
+      "f8479f2a81b8",
+      "1138bf36aade",
+      "b1c09ed9b79d",
+      "4e758b246c93",
+      "37d551dd8822",
+      "8c9a5a2623bb",
+      "12c0b8843f0c",
       "8dd0af263968",
       "2d26b634551d",
       "a7a72c444bee",
@@ -135,9 +147,7 @@
       "f9cfdd705ede",
       "fa6f7bb20988",
       "2fc936efdb8d",
-      "6ed93856025f",
-      "cd10715bda68",
-      "cf22b0140171"
+      "6ed93856025f"
      ]
     },
     {
@@ -194,8 +204,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
-    "80c5506ec8e5",
-    "432b561be225"
+    "80c5506ec8e5"
    ],
    "livros": [
     {
@@ -250,6 +259,12 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "9be8888a7cd9",
+    "bf9d206a86a9",
+    "bfa2486b6d51",
+    "75e27f45cf22",
+    "ce2a98ba53fd",
+    "0c246b8a2aff",
     "0f880df0c063",
     "59c714b8a552",
     "47c420c578e1",
@@ -280,23 +295,7 @@
     "49e61fdfff20",
     "8163e333cd0e",
     "09a98ec51af2",
-    "1e17e9c0595e",
-    "fdf739480202",
-    "de151bb72ac5",
-    "6a249882c2f9",
-    "eb3a1c117d6f",
-    "077b137297af",
-    "8f52c9bf4db6",
-    "4e78f813fafc",
-    "2595e857a772",
-    "6dfc8ff258b5",
-    "4db54dfb3234",
-    "19fc1baa2137",
-    "12ff5e49328d",
-    "299e9a555adc",
-    "926143ab90ea",
-    "4d1604e431eb",
-    "d76038f95597"
+    "1e17e9c0595e"
    ],
    "livros": [
     {
@@ -305,6 +304,9 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "bf9d206a86a9",
+      "bfa2486b6d51",
+      "75e27f45cf22",
       "0f880df0c063",
       "b6986a567100",
       "fda31c7d84b5",
@@ -319,15 +321,7 @@
       "49e61fdfff20",
       "09a98ec51af2",
       "1e17e9c0595e",
-      "a3251fbbb923",
-      "fdf739480202",
-      "de151bb72ac5",
-      "077b137297af",
-      "4e78f813fafc",
-      "2595e857a772",
-      "4db54dfb3234",
-      "12ff5e49328d",
-      "4d1604e431eb"
+      "a3251fbbb923"
      ]
     },
     {
@@ -847,6 +841,9 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "e6e00e860812",
+    "3ccabee8bc3b",
+    "cfa1fac0b971",
     "0d442e970ce6",
     "eed01d824526",
     "c1dc6978c333",
@@ -861,8 +858,7 @@
     "57dff2cfa2c2",
     "d04109d2c7ea",
     "551acba049fc",
-    "444c8a547fa0",
-    "a9e05283f232"
+    "444c8a547fa0"
    ],
    "livros": [
     {
@@ -1010,6 +1006,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "a49c173d3f4b",
       "7035e062a902",
       "8a76f18da535",
       "628a72723a88",

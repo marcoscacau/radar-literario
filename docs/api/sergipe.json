@@ -1,7 +1,104 @@
 {
- "gerado_em": "2026-10-16T10:46:44-03:00",
- "total": 19,
+ "gerado_em": "2026-10-17T09:43:59-03:00",
+ "total": 23,
  "eventos": [
+  {
+   "id": "aa4c2970dffd",
+   "titulo": "Museu da Gente realizará a Semana da Sergipanidade de 20 a 23 de outubro",
+   "link": "https://infonet.com.br/noticias/cultura/museu-da-gente-realizara-a-semana-da-sergipanidade-de-20-a-23-de-outubro/",
+   "resumo": "Com o tema “Que Sergipanidade é essa?”, programação acontece de 20 a 23 de outubro e reúne profissionais da cultura sergipana.",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-17T08:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-20",
+    "fim": "2026-10-23",
+    "origem": "texto"
+   },
+   "dia": "2026-10-17"
+  },
+  {
+   "id": "e4e9ffce7fbf",
+   "titulo": "TTB recebe os Melhores do Mundo e a peça “Hermanoteu na Terra de Godah”",
+   "link": "https://infonet.com.br/entretenimento-infonet/agenda/ttb-recebe-os-melhores-do-mundo-e-a-peca-hermanoteu-na-terra-de-godah/",
+   "resumo": "Espetáculo acontece neste sábado e domingo, 17 e 18 de outubro, no Teatro Tobias Barreto",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-16T19:20-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-17",
+    "fim": "2026-10-18",
+    "origem": "texto"
+   },
+   "dia": "2026-10-17"
+  },
+  {
+   "id": "2ac750ba954d",
+   "titulo": "Melhores do Mundo em Aracaju: “Não temos plateia, temos torcida”",
+   "link": "https://infonet.com.br/noticias/cultura/melhores-do-mundo-em-aracaju-nao-temos-plateia-temos-torcida/",
+   "resumo": "Em entrevista ao Portal Infonet, o ator Victor Leal fala sobre os 30 anos da companhia e a relação com o público na apresentação de “Hermanoteu na Terra de Godah”, neste fim de semana, em Aracaju",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-16T17:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-17",
+    "fim": "2026-10-18",
+    "origem": "texto"
+   },
+   "dia": "2026-10-17"
+  },
+  {
+   "id": "2af84695b3af",
+   "titulo": "Arquivo Público de Sergipe celebra 103 anos de existência e realiza lançamento do livro da instituição",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUhGdzVrZUNLX3VBUFFGeGZvd1hzLTl2Nk8zRnlIYVc5dlZRR2h4Z2kzMGI4ei1sMzl4SXhseDJVUm5SSDFrVkR4d3lLSUZPeV96RkREcG9tYUF6VVhmdTE4TlFnRThnUXZRTU5iRnpnYVBtNDhMcW53TF9lLUNOLXZuM0Z2Rk9pcjNpRXM1UURJSVBlZllrVldfNDlBcWRFa1paZW9SSVhtemFDQ0ZzYktyRklIRzlXWm5qRnVNaDAycnRoU2c?oc=5",
+   "resumo": "",
+   "fonte": "Secretaria de Estado da Educação de Sergipe (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-16T08:38-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-17"
+  },
   {
    "id": "d154af350a3b",
    "titulo": "Pastores transformaram igrejas em palanques eleitorais",
