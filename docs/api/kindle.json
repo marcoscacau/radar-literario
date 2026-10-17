@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-17T09:44:06-03:00",
+ "gerado_em": "2026-10-17T12:49:37-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,9 +9,9 @@
   },
   {
    "fonte": "Gatry",
-   "ok": false,
-   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
-   "ofertas": 0
+   "ok": true,
+   "erro": null,
+   "ofertas": 1
   },
   {
    "fonte": "Imprensa",
@@ -213,7 +213,7 @@
    "nota": "Ainda rola enviar os epubs nesse...",
    "postado_em": "2026-10-05T09:19-03:00",
    "visto_em": "2026-10-11T19:35-03:00",
-   "ultima_vez": "2026-10-16T18:33-03:00",
+   "ultima_vez": "2026-10-17T12:49-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
