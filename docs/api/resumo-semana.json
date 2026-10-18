@@ -1,18 +1,18 @@
 {
- "gerado_em": "2026-10-17T09:43:59-03:00",
+ "gerado_em": "2026-10-18T10:00:59-03:00",
  "dias": [
+  "2026-10-18",
   "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
   "2026-10-13",
-  "2026-10-12",
-  "2026-10-11"
+  "2026-10-12"
  ],
- "total": 582,
+ "total": 573,
  "por_grupo": {
-  "internacional": 291,
-  "brasil-portugal": 291
+  "internacional": 292,
+  "brasil-portugal": 281
  },
  "temas": [
   {
@@ -23,17 +23,17 @@
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 10
+   "noticias": 8
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 7
+   "noticias": 6
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 6
+   "noticias": 5
   },
   {
    "id": "russos",
@@ -44,21 +44,16 @@
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 1
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "C. S. Lewis",
-   "noticias": 63
+   "noticias": 66
   },
   {
    "nome": "Stephen King",
-   "noticias": 44
+   "noticias": 41
   },
   {
    "nome": "Rebecca Yarros",
@@ -66,19 +61,15 @@
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 24
+   "noticias": 25
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 9
-  },
-  {
-   "nome": "Augusto Cury",
-   "noticias": 9
+   "noticias": 10
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 3
+   "noticias": 2
   },
   {
    "nome": "Tolstói",
@@ -91,50 +82,54 @@
   {
    "nome": "G. K. Chesterton",
    "noticias": 1
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Sobrinho do Mago",
   "Greta Gerwig",
-  "Prime Video",
-  "Quarta Asa"
+  "Quarta Asa",
+  "Prime Video"
  ],
  "subindo": [
   {
    "termo": "Prêmio Jabuti",
-   "ultimos_3_dias": 39,
-   "antes": 3
+   "ultimos_3_dias": 33,
+   "antes": 17
   },
   {
    "termo": "Quarta Asa",
-   "ultimos_3_dias": 9,
+   "ultimos_3_dias": 10,
+   "antes": 1
+  },
+  {
+   "termo": "Prime Video",
+   "ultimos_3_dias": 7,
    "antes": 2
   },
   {
-   "termo": "Reino Unido",
-   "ultimos_3_dias": 4,
-   "antes": 0
-  },
-  {
-   "termo": "Sally Rooney",
-   "ultimos_3_dias": 4,
-   "antes": 1
-  },
-  {
    "termo": "Senhor dos Anéis",
-   "ultimos_3_dias": 3,
+   "ultimos_3_dias": 4,
    "antes": 1
+  },
+  {
+   "termo": "York Times",
+   "ultimos_3_dias": 3,
+   "antes": 0
   }
  ],
  "destaques": [
   "b689e05cad11",
   "3ccabee8bc3b",
+  "8e0c6c7ec201",
   "80c5506ec8e5",
   "5acc6bf35018",
-  "6ed93856025f",
   "9c7fa70f31b1",
   "7b903b3433a3",
-  "bdcad1517b27"
+  "f8479f2a81b8"
  ]
 }

@@ -1,59 +1,61 @@
 {
- "gerado_em": "2026-10-17T09:43:59-03:00",
+ "gerado_em": "2026-10-18T10:00:59-03:00",
  "dias": [
-  "2026-10-11",
   "2026-10-12",
   "2026-10-13",
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
-  "2026-10-17"
+  "2026-10-17",
+  "2026-10-18"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 36,
-   "mencoes": 42,
+   "fontes": 44,
+   "mencoes": 50,
    "por_dia": [
-    0,
     0,
     1,
     2,
     14,
     14,
-    11
+    11,
+    8
    ],
    "novo_hoje": false,
    "itens": [
+    "957366455617",
+    "cce278df026e",
+    "3f890fbd545f",
+    "6ce951a3c0e9",
+    "16ff857a423d",
+    "1a6e0b42fbfe",
+    "d610ab965320",
+    "e36eff1a895e",
     "4bead5e88df0",
     "8e17867fedc2",
     "206bfcd01548",
-    "7d87a00974e4",
-    "893131c7b52a",
-    "a55eb82d0dbc",
-    "c0d23c9fdc27",
-    "7bc50c348017",
-    "c23b977ccb76",
-    "48eff2911b8f",
-    "99fadedff0f0",
-    "ea86e70eb990"
+    "7d87a00974e4"
    ]
   },
   {
    "termo": "Sobrinho do Mago",
    "fontes": 19,
-   "mencoes": 20,
+   "mencoes": 22,
    "por_dia": [
-    0,
     0,
     3,
     9,
     6,
     2,
-    0
+    0,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "9d9cd8ca95e8",
+    "8dfb5b7c86ef",
     "7035e062a902",
     "c1dc6978c333",
     "dff87b1892c0",
@@ -63,26 +65,26 @@
     "96199c1a9a52",
     "d063837a7918",
     "5695721c7c70",
-    "5713e08fe0ac",
-    "004ea9f64b02",
-    "d6aae3696921"
+    "5713e08fe0ac"
    ]
   },
   {
    "termo": "Greta Gerwig",
-   "fontes": 13,
-   "mencoes": 14,
+   "fontes": 15,
+   "mencoes": 16,
    "por_dia": [
-    0,
     1,
     1,
     8,
     2,
     2,
-    0
+    0,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "9d9cd8ca95e8",
+    "b1d512553d6e",
     "7035e062a902",
     "c1dc6978c333",
     "96199c1a9a52",
@@ -92,23 +94,49 @@
     "a0cf647e7489",
     "5695721c7c70",
     "a04b406401d5",
-    "dd59fe975755",
-    "0db979c03e37",
-    "57dff2cfa2c2"
+    "dd59fe975755"
+   ]
+  },
+  {
+   "termo": "Quarta Asa",
+   "fontes": 11,
+   "mencoes": 11,
+   "por_dia": [
+    1,
+    0,
+    0,
+    0,
+    4,
+    5,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "8f7be7752a2d",
+    "4948b80e207c",
+    "4e758b246c93",
+    "37d551dd8822",
+    "8c9a5a2623bb",
+    "12c0b8843f0c",
+    "a7a72c444bee",
+    "f902246e5214",
+    "35dd10b2aea9",
+    "4417aae28679",
+    "2fc936efdb8d"
    ]
   },
   {
    "termo": "Prime Video",
-   "fontes": 11,
-   "mencoes": 13,
+   "fontes": 8,
+   "mencoes": 9,
    "por_dia": [
-    4,
     1,
     1,
     0,
     0,
     5,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -120,144 +148,7 @@
     "35dd10b2aea9",
     "b6986a567100",
     "990ad04cf8b0",
-    "7ae9084f2a50",
-    "21cf9613b70c",
-    "9c84d299e674",
-    "1e17e9c0595e"
-   ]
-  },
-  {
-   "termo": "Quarta Asa",
-   "fontes": 10,
-   "mencoes": 11,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    0,
-    4,
-    5
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4948b80e207c",
-    "4e758b246c93",
-    "37d551dd8822",
-    "8c9a5a2623bb",
-    "12c0b8843f0c",
-    "a7a72c444bee",
-    "f902246e5214",
-    "35dd10b2aea9",
-    "4417aae28679",
-    "2fc936efdb8d",
-    "6ed93856025f"
-   ]
-  },
-  {
-   "termo": "Anne Carson",
-   "fontes": 9,
-   "mencoes": 11,
-   "por_dia": [
-    10,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "be719bef44a9",
-    "e8907f101205",
-    "72c506c432af",
-    "c710996aad76",
-    "dbe1b48d66f9",
-    "5e341789edd4",
-    "441d1f712788",
-    "6c6ffd36eba5",
-    "f1adeee3f35a",
-    "29d9b512daf6",
-    "1de171d151ca"
-   ]
-  },
-  {
-   "termo": "Augusto Cury",
-   "fontes": 9,
-   "mencoes": 9,
-   "por_dia": [
-    8,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "140b1a16fc3b",
-    "13ed05eaafc8",
-    "a0e9e9758ada",
-    "5452c72e79b5",
-    "f62f03249731",
-    "b0f3eb2b0ede",
-    "646f766350d5",
-    "730cdbee0ac6",
-    "08680a67d6ef"
-   ]
-  },
-  {
-   "termo": "Nobel de Literatura",
-   "fontes": 8,
-   "mencoes": 10,
-   "por_dia": [
-    7,
-    0,
-    1,
-    2,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "0f6d2377355f",
-    "684e0a6d05bd",
-    "b1ef0bfd0d30",
-    "e8907f101205",
-    "72c506c432af",
-    "dbe1b48d66f9",
-    "441d1f712788",
-    "6c6ffd36eba5",
-    "f1adeee3f35a",
-    "1de171d151ca"
-   ]
-  },
-  {
-   "termo": "Flávio Bolsonaro",
-   "fontes": 8,
-   "mencoes": 8,
-   "por_dia": [
-    7,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2e52a4b795cf",
-    "13ed05eaafc8",
-    "a0e9e9758ada",
-    "f62f03249731",
-    "b0f3eb2b0ede",
-    "646f766350d5",
-    "730cdbee0ac6",
-    "08680a67d6ef"
+    "7ae9084f2a50"
    ]
   },
   {
@@ -266,11 +157,11 @@
    "mencoes": 7,
    "por_dia": [
     0,
-    0,
     2,
     4,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -285,16 +176,60 @@
    ]
   },
   {
+   "termo": "Booker Prize",
+   "fontes": 5,
+   "mencoes": 5,
+   "por_dia": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4d5b34bfb13a",
+    "302c8374bd98",
+    "b41a58b99343",
+    "7a0a86641a7b",
+    "865c8625e251"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 5,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    1,
+    0,
+    2,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f009313c459a",
+    "cab96835a184",
+    "b689e05cad11",
+    "f8904fcc7505",
+    "2cbdd3a2f599"
+   ]
+  },
+  {
    "termo": "Sally Rooney",
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
     0,
     0,
-    0,
     1,
     3,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -307,45 +242,24 @@
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
+   "termo": "Crônicas de Nárnia",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
-    0,
     1,
-    0,
     2,
+    0,
+    0,
+    0,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "cab96835a184",
-    "b689e05cad11",
-    "f8904fcc7505",
-    "2cbdd3a2f599"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    0,
-    1,
-    1,
-    1,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "302c8374bd98",
-    "b41a58b99343",
-    "7a0a86641a7b",
-    "865c8625e251"
+    "15b919297552",
+    "d6aae3696921",
+    "0db979c03e37",
+    "bdc175ac9205"
    ]
   },
   {
@@ -356,9 +270,9 @@
     0,
     0,
     0,
-    0,
     3,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -370,24 +284,86 @@
    ]
   },
   {
-   "termo": "Threshing Day",
-   "fontes": 4,
+   "termo": "Nobel de Literatura",
+   "fontes": 3,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    1,
+    2,
+    0,
+    0,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4c3418220acc",
+    "0aed35e9a6b9",
+    "0f6d2377355f",
+    "684e0a6d05bd",
+    "b1ef0bfd0d30"
+   ]
+  },
+  {
+   "termo": "Palestine Action",
+   "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    4,
     0,
     0,
-    0,
+    1,
+    3,
     0,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "0627db843005",
-    "6ed93856025f",
-    "5d4f20939414",
-    "20a4688ea199"
+    "f11ce64c16fb",
+    "4552e1c48705",
+    "ad26695207f9",
+    "adab0e1c4175"
+   ]
+  },
+  {
+   "termo": "York Times",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "89ee551ec1d3",
+    "fc370c7bce60",
+    "6f5960d26874"
+   ]
+  },
+  {
+   "termo": "Professor do Ifba",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "6ce951a3c0e9",
+    "c8d30e38e788",
+    "0eb0011cbfac"
    ]
   }
  ]
