@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T10:48:38-03:00",
+ "gerado_em": "2026-10-19T13:15:05-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 0
+   "ofertas": 1
   }
  ],
- "total": 11,
+ "total": 12,
  "ofertas": [
+  {
+   "id": "5112bdd8e5f7",
+   "titulo": "Kindle Unlimited deve superar US$ 5 bilhões em pagamentos a autores independentes",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFR2VUtBajdUN0JzZ2F4dnBLUGlhMlFnVXVtd09xSmRTTERvTU13OFBYZ0hCNmZEYTZGSkNxS3pGZXRpMks5T19USDdwb3hKYUoxWFQwX2gwemZjaFN0a2JWQVktQTJjVi1JNHZYRUFKV1YwVzRaV2FlM3FCSHpoejdmQ1hVSmVwM0k0MVRHa2ZWbjJ2aG8xREJza1FMc1dNYzFFdnJTN0E4Zkl4T2hKaDR5VmJfeXdwX0VVaGdQVVkxbElBVUVjZmtiOA?oc=5",
+   "fonte": "PublishNews",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-19T13:27+00:00",
+   "visto_em": "2026-10-19T13:15-03:00",
+   "ultima_vez": "2026-10-19T13:15-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "417242fa8fb1",
    "titulo": "Kindle Paperwhite Signature Edition de 32 GB entra em oferta com descontão",

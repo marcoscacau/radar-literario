@@ -1,75 +1,78 @@
 {
- "gerado_em": "2026-10-18T10:00:59-03:00",
+ "gerado_em": "2026-10-19T13:14:57-03:00",
  "dias": [
+  "2026-10-19",
   "2026-10-18",
   "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
-  "2026-10-13",
-  "2026-10-12"
+  "2026-10-13"
  ],
- "total": 573,
+ "total": 583,
  "por_grupo": {
-  "internacional": 292,
-  "brasil-portugal": 281
+  "internacional": 306,
+  "brasil-portugal": 277
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 22
+   "noticias": 19
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 8
+   "noticias": 10
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 6
+   "noticias": 8
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 5
+   "noticias": 6
   },
   {
    "id": "russos",
    "nome": "literatura russa",
-   "noticias": 3
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 1
+   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "C. S. Lewis",
-   "noticias": 66
-  },
-  {
-   "nome": "Stephen King",
-   "noticias": 41
+   "noticias": 70
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 38
+   "noticias": 42
+  },
+  {
+   "nome": "Stephen King",
+   "noticias": 36
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 25
+   "noticias": 26
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 10
+   "noticias": 9
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 2
   },
   {
    "nome": "Franz Kafka",
    "noticias": 2
+  },
+  {
+   "nome": "Dan Brown",
+   "noticias": 1
   },
   {
    "nome": "Tolstói",
@@ -77,14 +80,6 @@
   },
   {
    "nome": "Raphael Montes",
-   "noticias": 1
-  },
-  {
-   "nome": "G. K. Chesterton",
-   "noticias": 1
-  },
-  {
-   "nome": "Augusto Cury",
    "noticias": 1
   }
  ],
@@ -97,29 +92,9 @@
  ],
  "subindo": [
   {
-   "termo": "Prêmio Jabuti",
-   "ultimos_3_dias": 33,
-   "antes": 17
-  },
-  {
    "termo": "Quarta Asa",
-   "ultimos_3_dias": 10,
-   "antes": 1
-  },
-  {
-   "termo": "Prime Video",
-   "ultimos_3_dias": 7,
-   "antes": 2
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "ultimos_3_dias": 4,
-   "antes": 1
-  },
-  {
-   "termo": "York Times",
-   "ultimos_3_dias": 3,
-   "antes": 0
+   "ultimos_3_dias": 6,
+   "antes": 4
   }
  ],
  "destaques": [
@@ -130,6 +105,6 @@
   "5acc6bf35018",
   "9c7fa70f31b1",
   "7b903b3433a3",
-  "f8479f2a81b8"
+  "1c6a87540fc0"
  ]
 }
