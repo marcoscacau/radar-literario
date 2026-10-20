@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T13:14:57-03:00",
+ "gerado_em": "2026-10-20T11:08:48-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -25,8 +25,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 11,
-   "novos_hoje": 2
+   "itens_no_feed": 10,
+   "novos_hoje": 0
   },
   {
    "id": "estadao",
@@ -34,8 +34,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
-   "novos_hoje": 0
+   "itens_no_feed": 2,
+   "novos_hoje": 2
   },
   {
    "id": "publico",
@@ -43,8 +43,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
-   "novos_hoje": 2
+   "itens_no_feed": 1,
+   "novos_hoje": 0
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
-   "novos_hoje": 1
+   "itens_no_feed": 2,
+   "novos_hoje": 2
   },
   {
    "id": "gn-premios-br",
@@ -62,7 +62,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 3
+   "novos_hoje": 5
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 39,
-   "novos_hoje": 3
+   "itens_no_feed": 43,
+   "novos_hoje": 8
   },
   {
    "id": "gn-estante-br",
@@ -79,8 +79,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 53,
-   "novos_hoje": 5
+   "itens_no_feed": 54,
+   "novos_hoje": 4
   },
   {
    "id": "gn-acompanhados-br",
@@ -88,8 +88,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 83,
-   "novos_hoje": 4
+   "itens_no_feed": 86,
+   "novos_hoje": 5
   },
   {
    "id": "gn-sergipe-eventos",
@@ -124,8 +124,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "g1-se",
@@ -178,7 +178,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 28,
+   "itens_no_feed": 29,
    "novos_hoje": 3
   },
   {
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 38,
-   "novos_hoje": 3
+   "itens_no_feed": 35,
+   "novos_hoje": 2
   },
   {
    "id": "guardian-ciencia",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 2
+   "novos_hoje": 3
   },
   {
    "id": "ct",
@@ -233,7 +233,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 5,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "reactor",
@@ -250,7 +250,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 55,
+   "itens_no_feed": 58,
    "novos_hoje": 8
   },
   {
@@ -268,8 +268,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 40,
-   "novos_hoje": 6
+   "itens_no_feed": 34,
+   "novos_hoje": 5
   },
   {
    "id": "parisreview",
@@ -278,7 +278,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 0
+   "novos_hoje": 1
   },
   {
    "id": "gn-prizes",
@@ -286,8 +286,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 39,
-   "novos_hoje": 8
+   "itens_no_feed": 40,
+   "novos_hoje": 5
   }
  ]
 }

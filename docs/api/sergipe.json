@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-10-19T13:14:57-03:00",
- "total": 23,
+ "gerado_em": "2026-10-20T11:08:48-03:00",
+ "total": 24,
  "eventos": [
+  {
+   "id": "d7c66625e55e",
+   "titulo": "Seed realiza ‘Tardezinha do Pré-Uni’ 2026 nesta quarta-feira",
+   "link": "https://infonet.com.br/noticias/educacao/seed-realiza-tardezinha-do-pre-uni-2026-nesta-quarta-feira-21/",
+   "resumo": "Iniciativa busca reunir alunos em um momento leve para a revisão e fortalecimento de conteúdos importantes para o Enem",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-20T10:57-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-21",
+    "fim": "2026-10-21",
+    "origem": "texto"
+   },
+   "dia": "2026-10-20"
+  },
   {
    "id": "aa4c2970dffd",
    "titulo": "Museu da Gente realizará a Semana da Sergipanidade de 20 a 23 de outubro",

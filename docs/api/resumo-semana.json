@@ -1,24 +1,24 @@
 {
- "gerado_em": "2026-10-19T13:14:57-03:00",
+ "gerado_em": "2026-10-20T11:08:48-03:00",
  "dias": [
+  "2026-10-20",
   "2026-10-19",
   "2026-10-18",
   "2026-10-17",
   "2026-10-16",
   "2026-10-15",
-  "2026-10-14",
-  "2026-10-13"
+  "2026-10-14"
  ],
- "total": 583,
+ "total": 589,
  "por_grupo": {
-  "internacional": 306,
-  "brasil-portugal": 277
+  "brasil-portugal": 286,
+  "internacional": 303
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 19
+   "noticias": 18
   },
   {
    "id": "fe",
@@ -28,7 +28,7 @@
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 8
+   "noticias": 9
   },
   {
    "id": "suspense",
@@ -39,24 +39,34 @@
    "id": "russos",
    "nome": "literatura russa",
    "noticias": 2
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 1
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "C. S. Lewis",
-   "noticias": 70
+   "noticias": 67
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 42
+   "noticias": 46
   },
   {
    "nome": "Stephen King",
-   "noticias": 36
+   "noticias": 38
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 26
+   "noticias": 28
   },
   {
    "nome": "Dostoiévski",
@@ -92,19 +102,19 @@
  ],
  "subindo": [
   {
-   "termo": "Quarta Asa",
-   "ultimos_3_dias": 6,
-   "antes": 4
+   "termo": "Crônicas de Nárnia",
+   "ultimos_3_dias": 3,
+   "antes": 2
   }
  ],
  "destaques": [
   "b689e05cad11",
+  "da5dd0acca6a",
   "3ccabee8bc3b",
   "8e0c6c7ec201",
   "80c5506ec8e5",
-  "5acc6bf35018",
   "9c7fa70f31b1",
   "7b903b3433a3",
-  "1c6a87540fc0"
+  "0a8e9a8eb470"
  ]
 }

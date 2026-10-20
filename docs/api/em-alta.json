@@ -1,30 +1,33 @@
 {
- "gerado_em": "2026-10-19T13:14:57-03:00",
+ "gerado_em": "2026-10-20T11:08:48-03:00",
  "dias": [
-  "2026-10-13",
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
   "2026-10-17",
   "2026-10-18",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 45,
-   "mencoes": 51,
+   "fontes": 46,
+   "mencoes": 53,
    "por_dia": [
-    1,
     2,
     14,
     14,
     11,
     8,
-    1
+    1,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "4e4fbbc7d201",
+    "f0afa12d21a3",
+    "ac907321d52c",
     "f73c488d3528",
     "957366455617",
     "cce278df026e",
@@ -33,24 +36,21 @@
     "16ff857a423d",
     "1a6e0b42fbfe",
     "d610ab965320",
-    "e36eff1a895e",
-    "4bead5e88df0",
-    "8e17867fedc2",
-    "206bfcd01548"
+    "e36eff1a895e"
    ]
   },
   {
    "termo": "Sobrinho do Mago",
-   "fontes": 19,
-   "mencoes": 23,
+   "fontes": 18,
+   "mencoes": 20,
    "por_dia": [
-    3,
     9,
     6,
     2,
     0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -71,15 +71,15 @@
   {
    "termo": "Greta Gerwig",
    "fontes": 15,
-   "mencoes": 16,
+   "mencoes": 15,
    "por_dia": [
-    1,
     8,
     2,
     2,
     0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -104,10 +104,10 @@
    "por_dia": [
     0,
     0,
-    0,
     4,
     5,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -126,14 +126,14 @@
   },
   {
    "termo": "Prime Video",
-   "fontes": 8,
-   "mencoes": 8,
+   "fontes": 7,
+   "mencoes": 7,
    "por_dia": [
-    1,
     0,
     0,
     5,
     2,
+    0,
     0,
     0
    ],
@@ -145,49 +145,48 @@
     "b40f6b0e7b83",
     "120d2373ae7a",
     "35dd10b2aea9",
-    "b6986a567100",
-    "990ad04cf8b0"
+    "b6986a567100"
    ]
   },
   {
    "termo": "Magician Nephew",
    "fontes": 6,
-   "mencoes": 7,
+   "mencoes": 6,
    "por_dia": [
-    2,
     4,
     0,
     1,
     0,
     0,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "5757137f9b5b",
     "8a76f18da535",
     "8edf0d3685c6",
     "d72d465a4371",
     "a0cf647e7489",
-    "57dff2cfa2c2",
-    "0f915f041667",
-    "9d9752ad3903"
+    "57dff2cfa2c2"
    ]
   },
   {
    "termo": "Fourth Wing",
    "fontes": 5,
-   "mencoes": 5,
+   "mencoes": 6,
    "por_dia": [
-    0,
     0,
     0,
     3,
     0,
     0,
-    2
+    2,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "da5dd0acca6a",
     "f4f329c877e8",
     "cdf2eb196dee",
     "6b49cc807879",
@@ -196,47 +195,25 @@
    ]
   },
   {
-   "termo": "Booker Prize",
-   "fontes": 5,
-   "mencoes": 5,
-   "por_dia": [
-    1,
-    1,
-    0,
-    1,
-    0,
-    1,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "dc79a3384fe2",
-    "4d5b34bfb13a",
-    "302c8374bd98",
-    "b41a58b99343",
-    "7a0a86641a7b"
-   ]
-  },
-  {
    "termo": "Crônicas de Nárnia",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
-    1,
     2,
     0,
     0,
     0,
     1,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "3e74edf4e854",
     "c44bb97f6355",
     "15b919297552",
     "d6aae3696921",
-    "0db979c03e37",
-    "bdc175ac9205"
+    "0db979c03e37"
    ]
   },
   {
@@ -244,12 +221,12 @@
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
-    0,
     1,
     0,
     2,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -266,10 +243,10 @@
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
-    0,
     1,
     3,
     1,
+    0,
     0,
     0,
     0
@@ -284,14 +261,35 @@
    ]
   },
   {
+   "termo": "Booker Prize",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "dc79a3384fe2",
+    "4d5b34bfb13a",
+    "302c8374bd98",
+    "b41a58b99343"
+   ]
+  },
+  {
    "termo": "Reino Unido",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     3,
     1,
+    0,
     0,
     0,
     0
@@ -307,14 +305,14 @@
   {
    "termo": "Nobel de Literatura",
    "fontes": 3,
-   "mencoes": 5,
+   "mencoes": 4,
    "por_dia": [
-    1,
     2,
     0,
     0,
     0,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -322,8 +320,7 @@
     "4c3418220acc",
     "0aed35e9a6b9",
     "0f6d2377355f",
-    "684e0a6d05bd",
-    "b1ef0bfd0d30"
+    "684e0a6d05bd"
    ]
   },
   {
@@ -331,9 +328,9 @@
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    0,
     1,
     3,
+    0,
     0,
     0,
     0,
@@ -348,23 +345,23 @@
    ]
   },
   {
-   "termo": "Gustavo Scarpa",
+   "termo": "Marlon James",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    1,
     0,
     0,
     1,
+    1,
     0,
-    0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
-    "6db876b6ee0a",
-    "391c71985756",
-    "a53b1d7c7801"
+    "f64a1fe3f2c4",
+    "fc370c7bce60",
+    "302c8374bd98"
    ]
   }
  ]
