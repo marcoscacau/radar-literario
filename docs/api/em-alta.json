@@ -1,30 +1,34 @@
 {
- "gerado_em": "2026-10-20T11:08:48-03:00",
+ "gerado_em": "2026-10-21T11:22:25-03:00",
  "dias": [
-  "2026-10-14",
   "2026-10-15",
   "2026-10-16",
   "2026-10-17",
   "2026-10-18",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 46,
-   "mencoes": 53,
+   "fontes": 48,
+   "mencoes": 55,
    "por_dia": [
-    2,
     14,
     14,
     11,
     8,
     1,
-    3
+    3,
+    4
    ],
    "novo_hoje": false,
    "itens": [
+    "99cf0382a579",
+    "4697a621b5b9",
+    "bb641c25cdf2",
+    "7d80b905227c",
     "4e4fbbc7d201",
     "f0afa12d21a3",
     "ac907321d52c",
@@ -32,28 +36,25 @@
     "957366455617",
     "cce278df026e",
     "3f890fbd545f",
-    "6ce951a3c0e9",
-    "16ff857a423d",
-    "1a6e0b42fbfe",
-    "d610ab965320",
-    "e36eff1a895e"
+    "6ce951a3c0e9"
    ]
   },
   {
    "termo": "Sobrinho do Mago",
-   "fontes": 18,
-   "mencoes": 20,
+   "fontes": 12,
+   "mencoes": 12,
    "por_dia": [
-    9,
     6,
     2,
     0,
     2,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "f6fc9a4bcef8",
     "41675a2fbee0",
     "9d9cd8ca95e8",
     "8dfb5b7c86ef",
@@ -64,37 +65,7 @@
     "c2e500acb35e",
     "93b74b56e605",
     "96199c1a9a52",
-    "d063837a7918",
-    "5695721c7c70"
-   ]
-  },
-  {
-   "termo": "Greta Gerwig",
-   "fontes": 15,
-   "mencoes": 15,
-   "por_dia": [
-    8,
-    2,
-    2,
-    0,
-    2,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2b0a20cfe5fa",
-    "9d9cd8ca95e8",
-    "b1d512553d6e",
-    "7035e062a902",
-    "c1dc6978c333",
-    "96199c1a9a52",
-    "f83e1bc79687",
-    "8edf0d3685c6",
-    "6c3355fa8846",
-    "a0cf647e7489",
-    "5695721c7c70",
-    "a04b406401d5"
+    "d063837a7918"
    ]
   },
   {
@@ -103,10 +74,10 @@
    "mencoes": 10,
    "por_dia": [
     0,
-    0,
     4,
     5,
     1,
+    0,
     0,
     0
    ],
@@ -125,14 +96,38 @@
    ]
   },
   {
+   "termo": "Greta Gerwig",
+   "fontes": 7,
+   "mencoes": 7,
+   "por_dia": [
+    2,
+    2,
+    0,
+    2,
+    1,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "2b0a20cfe5fa",
+    "9d9cd8ca95e8",
+    "b1d512553d6e",
+    "7035e062a902",
+    "c1dc6978c333",
+    "96199c1a9a52",
+    "f83e1bc79687"
+   ]
+  },
+  {
    "termo": "Prime Video",
    "fontes": 7,
    "mencoes": 7,
    "por_dia": [
     0,
-    0,
     5,
     2,
+    0,
     0,
     0,
     0
@@ -149,43 +144,44 @@
    ]
   },
   {
-   "termo": "Magician Nephew",
+   "termo": "Senhor dos Anéis",
    "fontes": 6,
    "mencoes": 6,
    "por_dia": [
-    4,
     0,
+    2,
+    1,
     1,
     0,
     0,
-    0,
-    1
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "5757137f9b5b",
-    "8a76f18da535",
-    "8edf0d3685c6",
-    "d72d465a4371",
-    "a0cf647e7489",
-    "57dff2cfa2c2"
+    "9e7399f924c5",
+    "48b5af64d974",
+    "f009313c459a",
+    "cab96835a184",
+    "b689e05cad11",
+    "f8904fcc7505"
    ]
   },
   {
    "termo": "Fourth Wing",
    "fontes": 5,
-   "mencoes": 6,
+   "mencoes": 7,
    "por_dia": [
-    0,
     0,
     3,
     0,
     0,
     2,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "4a906b821f0d",
     "da5dd0acca6a",
     "f4f329c877e8",
     "cdf2eb196dee",
@@ -195,57 +191,56 @@
    ]
   },
   {
-   "termo": "Crônicas de Nárnia",
+   "termo": "Biblioteca Nacional",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
-    2,
     0,
     0,
     0,
-    1,
-    1,
-    1
+    0,
+    0,
+    0,
+    5
    ],
-   "novo_hoje": false,
+   "novo_hoje": true,
    "itens": [
-    "3e74edf4e854",
-    "c44bb97f6355",
-    "15b919297552",
-    "d6aae3696921",
-    "0db979c03e37"
+    "b95acc085393",
+    "08f09922789d",
+    "77560827a0cf",
+    "195a0e4bfa50",
+    "aa9a8be1a0fb"
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
-   "fontes": 5,
-   "mencoes": 5,
+   "termo": "Adélia Prado",
+   "fontes": 4,
+   "mencoes": 4,
    "por_dia": [
-    1,
+    0,
     0,
     2,
-    1,
-    1,
     0,
-    0
+    0,
+    0,
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "f009313c459a",
-    "cab96835a184",
-    "b689e05cad11",
-    "f8904fcc7505",
-    "2cbdd3a2f599"
+    "b95acc085393",
+    "08f09922789d",
+    "8e17867fedc2",
+    "7bc50c348017"
    ]
   },
   {
    "termo": "Sally Rooney",
    "fontes": 4,
-   "mencoes": 5,
+   "mencoes": 4,
    "por_dia": [
-    1,
     3,
     1,
+    0,
     0,
     0,
     0,
@@ -256,29 +251,7 @@
     "74441b3041c2",
     "f11ce64c16fb",
     "862c5326b71b",
-    "ad26695207f9",
-    "adab0e1c4175"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    0,
-    1,
-    0,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "dc79a3384fe2",
-    "4d5b34bfb13a",
-    "302c8374bd98",
-    "b41a58b99343"
+    "ad26695207f9"
    ]
   },
   {
@@ -286,9 +259,9 @@
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
-    0,
     3,
     1,
+    0,
     0,
     0,
     0,
@@ -303,45 +276,64 @@
    ]
   },
   {
-   "termo": "Nobel de Literatura",
+   "termo": "York Times",
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    2,
+    0,
+    1,
+    1,
+    1,
     0,
     0,
-    0,
-    2,
-    0,
-    0
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "4c3418220acc",
-    "0aed35e9a6b9",
-    "0f6d2377355f",
-    "684e0a6d05bd"
+    "a6e289581a17",
+    "89ee551ec1d3",
+    "fc370c7bce60",
+    "6f5960d26874"
    ]
   },
   {
-   "termo": "Palestine Action",
+   "termo": "Magician Nephew",
    "fontes": 3,
-   "mencoes": 4,
+   "mencoes": 3,
    "por_dia": [
+    0,
     1,
-    3,
     0,
     0,
     0,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "5f9c34347ff4",
+    "5757137f9b5b",
+    "8a76f18da535"
+   ]
+  },
+  {
+   "termo": "Crônicas de Nárnia",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
     0,
+    0,
+    0,
+    1,
+    1,
+    1,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "f11ce64c16fb",
-    "4552e1c48705",
-    "ad26695207f9",
-    "adab0e1c4175"
+    "3e74edf4e854",
+    "c44bb97f6355",
+    "15b919297552"
    ]
   },
   {
@@ -350,11 +342,11 @@
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
     1,
     1,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,

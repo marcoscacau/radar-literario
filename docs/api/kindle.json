@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T09:12:24-03:00",
+ "gerado_em": "2026-10-21T11:22:31-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-10-19T13:27+00:00",
    "visto_em": "2026-10-19T13:15-03:00",
-   "ultima_vez": "2026-10-21T09:12-03:00",
+   "ultima_vez": "2026-10-21T11:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

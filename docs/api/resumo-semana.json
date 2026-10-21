@@ -1,18 +1,18 @@
 {
- "gerado_em": "2026-10-20T11:08:48-03:00",
+ "gerado_em": "2026-10-21T11:22:25-03:00",
  "dias": [
+  "2026-10-21",
   "2026-10-20",
   "2026-10-19",
   "2026-10-18",
   "2026-10-17",
   "2026-10-16",
-  "2026-10-15",
-  "2026-10-14"
+  "2026-10-15"
  ],
- "total": 589,
+ "total": 586,
  "por_grupo": {
-  "brasil-portugal": 286,
-  "internacional": 303
+  "brasil-portugal": 288,
+  "internacional": 298
  },
  "temas": [
   {
@@ -21,56 +21,60 @@
    "noticias": 18
   },
   {
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 9
+  },
+  {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 10
+   "noticias": 9
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 9
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 6
+   "noticias": 7
   },
   {
    "id": "russos",
    "nome": "literatura russa",
+   "noticias": 3
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
    "noticias": 2
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
    "noticias": 1
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "C. S. Lewis",
-   "noticias": 67
+   "noticias": 48
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 46
+   "noticias": 48
   },
   {
    "nome": "Stephen King",
-   "noticias": 38
+   "noticias": 43
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 28
+   "noticias": 33
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 9
+   "noticias": 8
+  },
+  {
+   "nome": "Raphael Montes",
+   "noticias": 3
   },
   {
    "nome": "Augusto Cury",
@@ -81,40 +85,51 @@
    "noticias": 2
   },
   {
+   "nome": "Ursula K. Le Guin",
+   "noticias": 1
+  },
+  {
    "nome": "Dan Brown",
-   "noticias": 1
-  },
-  {
-   "nome": "Tolstói",
-   "noticias": 1
-  },
-  {
-   "nome": "Raphael Montes",
    "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Sobrinho do Mago",
-  "Greta Gerwig",
   "Quarta Asa",
+  "Greta Gerwig",
   "Prime Video"
  ],
  "subindo": [
   {
+   "termo": "Biblioteca Nacional",
+   "ultimos_3_dias": 5,
+   "antes": 0
+  },
+  {
+   "termo": "Fourth Wing",
+   "ultimos_3_dias": 4,
+   "antes": 3
+  },
+  {
+   "termo": "Magician Nephew",
+   "ultimos_3_dias": 2,
+   "antes": 1
+  },
+  {
    "termo": "Crônicas de Nárnia",
-   "ultimos_3_dias": 3,
-   "antes": 2
+   "ultimos_3_dias": 2,
+   "antes": 1
   }
  ],
  "destaques": [
   "b689e05cad11",
-  "da5dd0acca6a",
+  "63fc8994d359",
+  "4a906b821f0d",
   "3ccabee8bc3b",
-  "8e0c6c7ec201",
   "80c5506ec8e5",
+  "50b86974bc0e",
   "9c7fa70f31b1",
-  "7b903b3433a3",
-  "0a8e9a8eb470"
+  "7b903b3433a3"
  ]
 }

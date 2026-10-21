@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T11:08:48-03:00",
+ "gerado_em": "2026-10-21T11:22:25-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 0
+   "novos_hoje": 2
   },
   {
    "id": "quatrocincoum",
@@ -17,7 +17,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 4
   },
   {
    "id": "folha",
@@ -25,8 +25,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 10,
-   "novos_hoje": 0
+   "itens_no_feed": 9,
+   "novos_hoje": 2
   },
   {
    "id": "estadao",
@@ -34,8 +34,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
-   "novos_hoje": 2
+   "itens_no_feed": 4,
+   "novos_hoje": 4
   },
   {
    "id": "publico",
@@ -44,7 +44,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 1,
-   "novos_hoje": 0
+   "novos_hoje": 1
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
-   "novos_hoje": 2
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "gn-premios-br",
@@ -62,7 +62,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 5
+   "novos_hoje": 6
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 43,
-   "novos_hoje": 8
+   "itens_no_feed": 39,
+   "novos_hoje": 9
   },
   {
    "id": "gn-estante-br",
@@ -79,8 +79,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 54,
-   "novos_hoje": 4
+   "itens_no_feed": 56,
+   "novos_hoje": 9
   },
   {
    "id": "gn-acompanhados-br",
@@ -88,7 +88,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 86,
+   "itens_no_feed": 51,
    "novos_hoje": 5
   },
   {
@@ -97,7 +97,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 39,
+   "itens_no_feed": 12,
    "novos_hoje": 0
   },
   {
@@ -106,7 +106,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 44,
+   "itens_no_feed": 43,
    "novos_hoje": 0
   },
   {
@@ -124,8 +124,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
-   "novos_hoje": 1
+   "itens_no_feed": 0,
+   "novos_hoje": 0
   },
   {
    "id": "g1-se",
@@ -170,7 +170,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 9
+   "novos_hoje": 10
   },
   {
    "id": "guardian",
@@ -179,7 +179,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 29,
-   "novos_hoje": 3
+   "novos_hoje": 2
   },
   {
    "id": "nyt",
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
-   "novos_hoje": 2
+   "itens_no_feed": 31,
+   "novos_hoje": 3
   },
   {
    "id": "guardian-ciencia",
@@ -206,7 +206,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 20,
-   "novos_hoje": 0
+   "novos_hoje": 1
   },
   {
    "id": "guardian-religiao",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 3
+   "novos_hoje": 2
   },
   {
    "id": "ct",
@@ -232,7 +232,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 5,
+   "itens_no_feed": 3,
    "novos_hoje": 0
   },
   {
@@ -241,8 +241,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 6,
-   "novos_hoje": 1
+   "itens_no_feed": 8,
+   "novos_hoje": 2
   },
   {
    "id": "gn-estante-en",
@@ -250,7 +250,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 58,
+   "itens_no_feed": 45,
    "novos_hoje": 8
   },
   {
@@ -260,7 +260,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 6
+   "novos_hoje": 4
   },
   {
    "id": "gn-king-en",
@@ -268,7 +268,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 34,
+   "itens_no_feed": 16,
    "novos_hoje": 5
   },
   {
@@ -286,8 +286,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 40,
-   "novos_hoje": 5
+   "itens_no_feed": 37,
+   "novos_hoje": 2
   }
  ]
 }

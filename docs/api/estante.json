@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T11:08:48-03:00",
+ "gerado_em": "2026-10-21T11:22:25-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -8,8 +8,7 @@
     "486f043c29d8",
     "0a30e3d3024c",
     "f8479f2a81b8",
-    "7314a257ed54",
-    "f9cfdd705ede"
+    "7314a257ed54"
    ],
    "livros": [
     {
@@ -120,6 +119,10 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "2c423ff8b5b5",
+      "4a906b821f0d",
+      "5528926564b8",
+      "29ca7161d12c",
       "da5dd0acca6a",
       "a672cd2c6789",
       "8bd551e5b9b3",
@@ -159,8 +162,7 @@
       "7b4f29e1fcd9",
       "4417aae28679",
       "57f958c362c6",
-      "13a74e42ef10",
-      "f9cfdd705ede"
+      "13a74e42ef10"
      ]
     },
     {
@@ -197,8 +199,7 @@
      "pt": "Dia da Ceifa",
      "noticias": [
       "93614f54068c",
-      "21e5c335daf5",
-      "d287d54453f5"
+      "21e5c335daf5"
      ]
     },
     {
@@ -240,12 +241,16 @@
      "titulo": "Bom Dia, Verônica",
      "ano": 2016,
      "serie": "com Ilana Casoy, como Andrea Killmore",
-     "noticias": []
+     "noticias": [
+      "1ce8df9d50e7"
+     ]
     },
     {
      "titulo": "Uma Mulher no Escuro",
      "ano": 2019,
-     "noticias": []
+     "noticias": [
+      "f2d26aa2bb01"
+     ]
     },
     {
      "titulo": "A Mágica Mortal",
@@ -267,6 +272,15 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "2a16c35a0f99",
+    "bb7aeb8a0ca6",
+    "5f658003b94b",
+    "31acc7060174",
+    "63fc8994d359",
+    "94fa16c01eac",
+    "237d119425b6",
+    "050ce17aec1b",
+    "973e5ad068f8",
     "ea164ddbc1a9",
     "6999ea69ec5f",
     "61a7ee77d4ef",
@@ -296,11 +310,7 @@
     "d772ab71ed90",
     "c8d64b228699",
     "21ea115d7663",
-    "800bf4bef2cf",
-    "3b47cdd1f447",
-    "e8b27688730d",
-    "79347766d3db",
-    "f4fbfd522cc2"
+    "800bf4bef2cf"
    ],
    "livros": [
     {
@@ -309,6 +319,10 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "5f658003b94b",
+      "31acc7060174",
+      "237d119425b6",
+      "050ce17aec1b",
       "6999ea69ec5f",
       "61a7ee77d4ef",
       "a030a24badd3",
@@ -480,7 +494,7 @@
      "pt": "Misery: Louca Obsessão",
      "ano": 1987,
      "noticias": [
-      "f4fbfd522cc2"
+      "2a16c35a0f99"
      ]
     },
     {
@@ -856,13 +870,7 @@
     "c1dc6978c333",
     "f5e125fed4e9",
     "1cea0e245c3e",
-    "e64da5b88290",
-    "105188bea259",
-    "8edf0d3685c6",
-    "6c3355fa8846",
-    "0861af7d339a",
-    "0db979c03e37",
-    "57dff2cfa2c2"
+    "e64da5b88290"
    ],
    "livros": [
     {
@@ -1010,6 +1018,8 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "f6fc9a4bcef8",
+      "5f9c34347ff4",
       "b2e8edf8fc3c",
       "5757137f9b5b",
       "41675a2fbee0",
@@ -1029,23 +1039,7 @@
       "93b74b56e605",
       "be9d0bb7b8ab",
       "96199c1a9a52",
-      "d063837a7918",
-      "105188bea259",
-      "8edf0d3685c6",
-      "d72d465a4371",
-      "6c3355fa8846",
-      "a0cf647e7489",
-      "0861af7d339a",
-      "5695721c7c70",
-      "5713e08fe0ac",
-      "004ea9f64b02",
-      "d6aae3696921",
-      "a04b406401d5",
-      "41e89a9e7035",
-      "dd59fe975755",
-      "789c309b4ea9",
-      "0db979c03e37",
-      "57dff2cfa2c2"
+      "d063837a7918"
      ]
     },
     {
