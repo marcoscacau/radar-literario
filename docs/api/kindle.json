@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T11:23:17-03:00",
+ "gerado_em": "2026-10-22T14:29:36-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,37 @@
   },
   {
    "fonte": "Gatry",
-   "ok": false,
-   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+   "ok": true,
+   "erro": null,
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 0
+   "ofertas": 1
   }
  ],
- "total": 12,
+ "total": 13,
  "ofertas": [
+  {
+   "id": "4be541626511",
+   "titulo": "Kindle Unlimited passa a ser Kindle+; confira as mudanças",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZ1ptZTNNX3FrYXc5c1o5YkloYlA2cm9scnFGS0kxY3FVd3BGV00tMlV5Zmx5MzVscTUzTTQtZlk0cXhOVFZhUjgzLWVhOGRjVWNUZzJsM0FsZURXR2Vn?oc=5",
+   "fonte": "Remessa Online",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T14:44+00:00",
+   "visto_em": "2026-10-22T14:29-03:00",
+   "ultima_vez": "2026-10-22T14:29-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "5112bdd8e5f7",
    "titulo": "Kindle Unlimited deve superar US$ 5 bilhões em pagamentos a autores independentes",
