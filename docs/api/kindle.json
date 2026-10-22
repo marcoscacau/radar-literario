@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T14:29:36-03:00",
+ "gerado_em": "2026-10-22T18:51:01-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,91 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 1
+   "ofertas": 6
   }
  ],
- "total": 13,
+ "total": 18,
  "ofertas": [
+  {
+   "id": "c7dacfc62407",
+   "titulo": "Amazon muda nome do Kindle Unlimited e traz melhoria muito pedida pelos leitores",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTJHTFNKeHFDTS1QSXN5blhodVdSNGxLcEhEQlM5eEpiMWRsSkpsc2xuWGZxQ0FiMzFRODBUMVdwaGFNWGhRVW9RV0xWN0hsQ1EtalZYbHRiTElhTXNiWEtzLU1kVXJLa2lmbU1vRzNBTVozZzlPQTVRcmprcWN4M3pvYjlNcjNiZ0FBV3NsTFBiNWxoWWliNEE3TWpDYnV4a0dHbQ?oc=5",
+   "fonte": "TudoCelular.com",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T19:49+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "18c87e48e402",
+   "titulo": "Kindle Unlimited passa a se chamar Kindle+",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rN3lVd2k4eVlaSU1GNEZQYlZYc3NnYjhSZ3poMzRHbWdONXhFc0NudXhUaEpWVUdKaEstVTRaejVKVWs0bE83N1BtSkhzWVg3c2x2NkYtV1ZXdWcxYmd5Y0VxREVBbG0zSmdsc3k2LWMzM180VHRRc0Fzaw?oc=5",
+   "fonte": "SpaceMoney",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T18:44+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "ec9c300acdb2",
+   "titulo": "Amazon renomeia Kindle Unlimited para Kindle Plus",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VERFlTR1RUSy0xWkpWc25YbzRYLTY4c1duTmtCUlZDY0hlV0QtS0p4S09aZTIzVEROMWNSaWVWYVJoREN6b0ROOU9lcm1tczllcWdEZmdtVWE4bWo3d3BpdGxEdzdaRTh6OThiNkVNcTQyMnNiTGtNN1BvSXdpVw?oc=5",
+   "fonte": "culpadolag.com.br",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T18:33+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "fe1e49e5bc5e",
+   "titulo": "Kindle Unlimited: Amazon muda nome do serviço de livros para Kindle+",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkxtQ2MzajBMSXJYWFN0SnVjMS15cTNjNnpqYnlXTmhkUmp0cm9KY25JR0V0cWRJYUhDV0kwZDBKYzZQMlgtaW05b3FMS1ZRV0lhUkplbHlfU0syMG0yMWx0Qlo2aGVZckd4YzhGQkVrWUsxMlllTHNXcVdKTVhLNDdYTHFtNkZGWk16VnBjS3JOc1o0ckxfcUhVc2RlaW1GVEV5OGxtNzBpclNyWXFLdllFS19VT3c1aTdFYnl3?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T18:26+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "4be541626511",
    "titulo": "Kindle Unlimited passa a ser Kindle+; confira as mudanças",
@@ -33,7 +105,25 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-22T14:29-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "0b4e2a846ce3",
+   "titulo": "Amazon muda nome do Kindle Unlimited para Kindle+ e reposiciona assinatura de leitura",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejhWNVZMU1F6eFMzZ2pabDBMLTNWWU9jcHpma2ZzUWROODhVTS0xQlpJZkR2LXYxNHV3YkRwZG52SEdtMEVHUjJnRDdwVVdXLUt0RWlUY2twS1RlUUlDTGd6bVlkODFDcXRNZzFYWmJHY082NWpPSm9pcjZ0LWxpSUFmd2t3VVMwUHFFeVJpWVEwQ05xejdFenhDV3d4bjcwMXE0ZDZzVmhXbHRpNDFDU2tCaVNPdEU?oc=5",
+   "fonte": "Mundo do Marketing",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T00:00+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-22T18:51-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
