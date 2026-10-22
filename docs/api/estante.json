@@ -1,14 +1,15 @@
 {
- "gerado_em": "2026-10-21T11:22:25-03:00",
+ "gerado_em": "2026-10-22T11:23:12-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "d8d9154f5ef5",
+    "49dcaf24b20f",
     "93614f54068c",
     "486f043c29d8",
     "0a30e3d3024c",
-    "f8479f2a81b8",
-    "7314a257ed54"
+    "f8479f2a81b8"
    ],
    "livros": [
     {
@@ -119,6 +120,12 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "1166727b9c9d",
+      "d8d9154f5ef5",
+      "49dcaf24b20f",
+      "55e14b8193c8",
+      "fad71955c579",
+      "d9dca2614fca",
       "2c423ff8b5b5",
       "4a906b821f0d",
       "5528926564b8",
@@ -160,9 +167,7 @@
       "f902246e5214",
       "35dd10b2aea9",
       "7b4f29e1fcd9",
-      "4417aae28679",
-      "57f958c362c6",
-      "13a74e42ef10"
+      "4417aae28679"
      ]
     },
     {
@@ -198,6 +203,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "1166727b9c9d",
       "93614f54068c",
       "21e5c335daf5"
      ]
@@ -212,9 +218,7 @@
   },
   {
    "nome": "Raphael Montes",
-   "noticias": [
-    "80c5506ec8e5"
-   ],
+   "noticias": [],
    "livros": [
     {
      "titulo": "Suicidas",
@@ -272,6 +276,11 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "5ceea9f07791",
+    "65ad8fc148bf",
+    "1d71fa153cbf",
+    "f235e651875a",
+    "76a1004aaa81",
     "2a16c35a0f99",
     "bb7aeb8a0ca6",
     "5f658003b94b",
@@ -305,12 +314,7 @@
     "59c714b8a552",
     "47c420c578e1",
     "b689e05cad11",
-    "b6986a567100",
-    "d8a8cc6aaee3",
-    "d772ab71ed90",
-    "c8d64b228699",
-    "21ea115d7663",
-    "800bf4bef2cf"
+    "b6986a567100"
    ],
    "livros": [
     {
@@ -319,6 +323,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "65ad8fc148bf",
+      "f235e651875a",
       "5f658003b94b",
       "31acc7060174",
       "237d119425b6",
@@ -334,8 +340,7 @@
       "0f880df0c063",
       "b6986a567100",
       "fda31c7d84b5",
-      "97807a60d123",
-      "21ea115d7663"
+      "97807a60d123"
      ]
     },
     {
@@ -494,6 +499,7 @@
      "pt": "Misery: Louca Obsessão",
      "ano": 1987,
      "noticias": [
+      "5ceea9f07791",
       "2a16c35a0f99"
      ]
     },
@@ -533,7 +539,9 @@
      "titulo": "Gerald's Game",
      "pt": "Jogo Perigoso",
      "ano": 1992,
-     "noticias": []
+     "noticias": [
+      "561ec0ce93c6"
+     ]
     },
     {
      "titulo": "Dolores Claiborne",
@@ -867,10 +875,7 @@
     "cfa1fac0b971",
     "0d442e970ce6",
     "eed01d824526",
-    "c1dc6978c333",
-    "f5e125fed4e9",
-    "1cea0e245c3e",
-    "e64da5b88290"
+    "c1dc6978c333"
    ],
    "livros": [
     {
@@ -1031,15 +1036,7 @@
       "7035e062a902",
       "8a76f18da535",
       "628a72723a88",
-      "c1dc6978c333",
-      "94df07d9b4c5",
-      "dff87b1892c0",
-      "9b4461b27fbc",
-      "c2e500acb35e",
-      "93b74b56e605",
-      "be9d0bb7b8ab",
-      "96199c1a9a52",
-      "d063837a7918"
+      "c1dc6978c333"
      ]
     },
     {
