@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T11:23:12-03:00",
+ "gerado_em": "2026-10-23T11:05:28-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "quatrocincoum",
@@ -17,7 +17,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 3
+   "novos_hoje": 2
   },
   {
    "id": "folha",
@@ -25,7 +25,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 8,
+   "itens_no_feed": 10,
    "novos_hoje": 4
   },
   {
@@ -34,8 +34,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 3,
-   "novos_hoje": 0
+   "itens_no_feed": 2,
+   "novos_hoje": 1
   },
   {
    "id": "publico",
@@ -43,8 +43,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 3,
-   "novos_hoje": 3
+   "itens_no_feed": 2,
+   "novos_hoje": 2
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 3,
-   "novos_hoje": 3
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "gn-premios-br",
@@ -61,7 +61,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 78,
+   "itens_no_feed": 62,
    "novos_hoje": 12
   },
   {
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 31,
-   "novos_hoje": 7
+   "itens_no_feed": 35,
+   "novos_hoje": 6
   },
   {
    "id": "gn-estante-br",
@@ -79,7 +79,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 45,
+   "itens_no_feed": 40,
    "novos_hoje": 10
   },
   {
@@ -88,8 +88,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 50,
-   "novos_hoje": 3
+   "itens_no_feed": 45,
+   "novos_hoje": 10
   },
   {
    "id": "gn-sergipe-eventos",
@@ -97,8 +97,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 38,
-   "novos_hoje": 1
+   "itens_no_feed": 40,
+   "novos_hoje": 0
   },
   {
    "id": "gn-sergipe-instituicoes",
@@ -106,7 +106,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 43,
+   "itens_no_feed": 28,
    "novos_hoje": 0
   },
   {
@@ -131,8 +131,8 @@
    "id": "g1-se",
    "nome": "g1 Sergipe",
    "grupo": "brasil-portugal",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "ParseError: not well-formed (invalid token): line 1, column 0",
    "itens_no_feed": 0,
    "novos_hoje": 0
   },
@@ -178,8 +178,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 28,
-   "novos_hoje": 6
+   "itens_no_feed": 27,
+   "novos_hoje": 4
   },
   {
    "id": "nyt",
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
-   "novos_hoje": 7
+   "itens_no_feed": 38,
+   "novos_hoje": 8
   },
   {
    "id": "guardian-ciencia",
@@ -206,7 +206,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 20,
-   "novos_hoje": 0
+   "novos_hoje": 1
   },
   {
    "id": "guardian-religiao",
@@ -241,8 +241,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 8,
-   "novos_hoje": 3
+   "itens_no_feed": 7,
+   "novos_hoje": 0
   },
   {
    "id": "gn-estante-en",
@@ -250,8 +250,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 48,
-   "novos_hoje": 8
+   "itens_no_feed": 49,
+   "novos_hoje": 6
   },
   {
    "id": "gn-yarros-en",
@@ -268,8 +268,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 37,
-   "novos_hoje": 6
+   "itens_no_feed": 20,
+   "novos_hoje": 5
   },
   {
    "id": "parisreview",
@@ -286,8 +286,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
-   "novos_hoje": 4
+   "itens_no_feed": 41,
+   "novos_hoje": 11
   }
  ]
 }

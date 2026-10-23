@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-10-22T11:23:12-03:00",
+ "gerado_em": "2026-10-23T11:05:28-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "1dd8a076d8fc",
+    "a7fd1dd9ea34",
     "d8d9154f5ef5",
     "49dcaf24b20f",
     "93614f54068c",
@@ -120,6 +122,11 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "760daae9118b",
+      "80d81ed2edc2",
+      "21c2f5360b0d",
+      "a7fd1dd9ea34",
+      "16e0faa1d7e9",
       "1166727b9c9d",
       "d8d9154f5ef5",
       "49dcaf24b20f",
@@ -155,19 +162,7 @@
       "4e758b246c93",
       "37d551dd8822",
       "8c9a5a2623bb",
-      "12c0b8843f0c",
-      "8dd0af263968",
-      "2d26b634551d",
-      "a7a72c444bee",
-      "b40f6b0e7b83",
-      "6b49cc807879",
-      "ca8bcfdea4e4",
-      "5786e89a91f5",
-      "120d2373ae7a",
-      "f902246e5214",
-      "35dd10b2aea9",
-      "7b4f29e1fcd9",
-      "4417aae28679"
+      "12c0b8843f0c"
      ]
     },
     {
@@ -276,6 +271,13 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "c684d87eb727",
+    "dffa044ce9ed",
+    "51dcbf2dc972",
+    "6ae65d4ab309",
+    "12525b776d8b",
+    "02fc56507e92",
+    "d457852ec0c8",
     "5ceea9f07791",
     "65ad8fc148bf",
     "1d71fa153cbf",
@@ -309,12 +311,7 @@
     "bfa2486b6d51",
     "75e27f45cf22",
     "ce2a98ba53fd",
-    "0c246b8a2aff",
-    "0f880df0c063",
-    "59c714b8a552",
-    "47c420c578e1",
-    "b689e05cad11",
-    "b6986a567100"
+    "0c246b8a2aff"
    ],
    "livros": [
     {
@@ -323,6 +320,15 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "dee70195680d",
+      "d8451c8c4f00",
+      "6ae65d4ab309",
+      "12525b776d8b",
+      "753cd5cc9c87",
+      "59e1a57f164c",
+      "02fc56507e92",
+      "371aeb1bc806",
+      "d457852ec0c8",
       "65ad8fc148bf",
       "f235e651875a",
       "5f658003b94b",
@@ -336,11 +342,7 @@
       "dd3548b8cadd",
       "bf9d206a86a9",
       "bfa2486b6d51",
-      "75e27f45cf22",
-      "0f880df0c063",
-      "b6986a567100",
-      "fda31c7d84b5",
-      "97807a60d123"
+      "75e27f45cf22"
      ]
     },
     {
@@ -855,13 +857,17 @@
      "titulo": "Other Worlds Than These",
      "ano": 2026,
      "serie": "com Peter Straub · Talismã #3",
-     "noticias": []
+     "noticias": [
+      "51dcbf2dc972"
+     ]
     }
    ]
   },
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "0389461fcfa9",
+    "66e700b93fd2",
     "b2e8edf8fc3c",
     "e61890a91db5",
     "f981bad9acf3",
@@ -872,10 +878,7 @@
     "66808611f166",
     "e6e00e860812",
     "3ccabee8bc3b",
-    "cfa1fac0b971",
-    "0d442e970ce6",
-    "eed01d824526",
-    "c1dc6978c333"
+    "cfa1fac0b971"
    ],
    "livros": [
     {
@@ -1023,6 +1026,8 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "f5b7c27abd8e",
+      "17000780bac9",
       "f6fc9a4bcef8",
       "5f9c34347ff4",
       "b2e8edf8fc3c",
@@ -1032,11 +1037,7 @@
       "12939ced8b36",
       "9d9cd8ca95e8",
       "8dfb5b7c86ef",
-      "a49c173d3f4b",
-      "7035e062a902",
-      "8a76f18da535",
-      "628a72723a88",
-      "c1dc6978c333"
+      "a49c173d3f4b"
      ]
     },
     {

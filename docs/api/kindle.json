@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T08:56:53-03:00",
+ "gerado_em": "2026-10-23T11:05:33-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 9
+   "ofertas": 10
   }
  ],
- "total": 22,
+ "total": 23,
  "ofertas": [
+  {
+   "id": "30cb9f07666d",
+   "titulo": "Kindle Unlimited acabou? Entenda mudança no serviço de assinatura",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkhuN2hyb28ySElIWTJpVDd4bnZPU3c0Ump0a0FOQVc4am1mVFBNRDBBcWdjTlNMSTRPeWVtcFVlZF92UWoyV0lZdnc4dG83SWJNMThOVzBNR09tX2g4azRuU3hBdnFOcVNMOW1QdHgxUjFlVFNvcmdyUGhKaFZvRmZrTzlxdEF0dTExYU9kTFk4cUJHWThXcXZyX01KU2FhNVI3eVg3X1dBZ1ZyMmJOVmFVdVlvWFpKck1razRUdU1VUFBzWmxySWE2bFlaRk5Q0gHQAUFVX3lxTFBaSG43aHJvbzJISUhZMmlUN3hudk9TdzRSanRrQU5BVzhqbWZUUE1EMEFxZ2NOU0xJNE95ZW1wVWVkX3ZRajJXSVl2dzh0bzdJYk0xOE5XME1HT21faDhrNG5TeEF2cU5xU0w5bVB0eDFSMWVUU29yZ3JQaEpoVm9GZmtPOXF0QXR1MTFhT2RMWThxQkdZOFdxdnJfTUpTYWE1Ujd5WDdfV0FnVnIyYk5WYVV1WW9YWkpyTWtrNFR1TVVQUHNabHJJYTZsWVpGTlA?oc=5",
+   "fonte": "TechTudo",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T11:31+00:00",
+   "visto_em": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "e0c515d765b0",
    "titulo": "Kindle Unlimited muda de nome e agora se chama Kindle+; audiobooks são principal novidade",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-23T02:36+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:45+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:01+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:33+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:26+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T08:56-03:00",
+   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

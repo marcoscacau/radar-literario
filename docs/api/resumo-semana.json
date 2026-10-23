@@ -1,34 +1,24 @@
 {
- "gerado_em": "2026-10-22T11:23:12-03:00",
+ "gerado_em": "2026-10-23T11:05:28-03:00",
  "dias": [
+  "2026-10-23",
   "2026-10-22",
   "2026-10-21",
   "2026-10-20",
   "2026-10-19",
   "2026-10-18",
-  "2026-10-17",
-  "2026-10-16"
+  "2026-10-17"
  ],
- "total": 588,
+ "total": 569,
  "por_grupo": {
-  "brasil-portugal": 284,
-  "internacional": 304
+  "brasil-portugal": 268,
+  "internacional": 301
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 16
-  },
-  {
-   "id": "fe",
-   "nome": "fé e teologia",
-   "noticias": 8
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 6
+   "noticias": 14
   },
   {
    "id": "fisica",
@@ -36,8 +26,18 @@
    "noticias": 6
   },
   {
-   "id": "russos",
-   "nome": "literatura russa",
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 6
+  },
+  {
+   "id": "fe",
+   "nome": "fé e teologia",
+   "noticias": 4
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
    "noticias": 3
   },
   {
@@ -46,39 +46,39 @@
    "noticias": 2
   },
   {
-   "id": "filosofia",
-   "nome": "filosofia",
+   "id": "russos",
+   "nome": "literatura russa",
    "noticias": 2
   }
  ],
  "autores": [
   {
-   "nome": "Rebecca Yarros",
-   "noticias": 51
+   "nome": "Stephen King",
+   "noticias": 49
   },
   {
-   "nome": "Stephen King",
-   "noticias": 44
+   "nome": "Rebecca Yarros",
+   "noticias": 45
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 38
+   "noticias": 37
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 36
-  },
-  {
-   "nome": "Dostoiévski",
-   "noticias": 7
+   "noticias": 33
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 4
+   "noticias": 5
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 3
+   "noticias": 5
+  },
+  {
+   "nome": "Dostoiévski",
+   "noticias": 5
   },
   {
    "nome": "Ursula K. Le Guin",
@@ -89,21 +89,21 @@
    "noticias": 2
   },
   {
-   "nome": "Dan Brown",
+   "nome": "Aleksandr Púchkin",
    "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Quarta Asa",
-  "Prime Video",
   "Adélia Prado",
-  "Fourth Wing"
+  "Fourth Wing",
+  "Biblioteca Nacional",
+  "Prime Video"
  ],
  "subindo": [
   {
    "termo": "Biblioteca Nacional",
-   "ultimos_3_dias": 6,
+   "ultimos_3_dias": 7,
    "antes": 0
   },
   {
@@ -112,29 +112,29 @@
    "antes": 2
   },
   {
-   "termo": "Sally Rooney",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Fourth Wing",
+   "ultimos_3_dias": 6,
+   "antes": 3
   },
   {
-   "termo": "Augusto Cury",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Ryu Murakami",
+   "ultimos_3_dias": 3,
+   "antes": 0
   },
   {
-   "termo": "Prêmio Nobel de Literatura",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Barnes Noble",
+   "ultimos_3_dias": 3,
+   "antes": 0
   }
  ],
  "destaques": [
-  "b689e05cad11",
-  "63fc8994d359",
+  "51dcbf2dc972",
+  "3eff6a65431c",
   "4a906b821f0d",
   "3ccabee8bc3b",
   "50b86974bc0e",
   "f2d26aa2bb01",
-  "9c7fa70f31b1",
-  "f81b6f17e968"
+  "cc828781c256",
+  "4b9418eb3f02"
  ]
 }
