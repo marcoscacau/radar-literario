@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T11:05:33-03:00",
+ "gerado_em": "2026-10-23T14:22:05-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,91 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 10
+   "ofertas": 12
   }
  ],
- "total": 23,
+ "total": 27,
  "ofertas": [
+  {
+   "id": "24c64b8882c9",
+   "titulo": "Amazon substitui Kindle Unlimited pelo serviço Kindle+ no mundo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDlDczNfTGNPRWhKdmZDT0xMUWtCa1dwR3NPZ0NTV0hiWldOTl84Y29jREk4Qjh0RzlsMUE4V3RuWXgyOWxHWkkwMFhFZFNjcE9lTm11VXZ2MDhEaWNOQm1PQmVLYTl3ZXZKdm1qRnFoUDdyUjV6d1d5aWxoVzBvdEJlQVJGZVI0VkdTTDRSdldJYUpvV0lUUTB4VlNFcVVsUDNF?oc=5",
+   "fonte": "Mix Vale",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T14:56+00:00",
+   "visto_em": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "fb90b7b7b752",
+   "titulo": "Kindle Unlimited vira Kindle+: o que muda no serviço de leitura da Amazon?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnBLY1lHaWpzWkk4WXdpcFdyUXpDQ2lDMzk1dzVReG5yT2ZEM3lwR3I4RTJYaDM0ZDAtMGh4dGlyVVotNXM5MEFwVmZoWFFjOHg4WWZBbzVQVGVsaXV3SDFPNXdncVhyUVhtN3JNNnMyVlJtaTg1S21pazFYX19IUkhveDNlSVVBSUNEZU8ydmpVMlgyNXJz?oc=5",
+   "fonte": "Fast Company Brasil",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T14:51+00:00",
+   "visto_em": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "1c1f15760c37",
+   "titulo": "Kindle Unlimited vira Kindle+: entenda o que muda na assinatura da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclh5NjVtUWVERXBWZE1MNklWdlRiWEtfMTBoQml4S2ZKclRSUG9FWDA0dGFGWE1tN3o2bUUzZHFnUG84MFJ2aHVHcTBvbGI0S1V4SEZ0eWRPckc5b1c0R2NGVzg2cmgxV0tDd3ctcG9Ta2c2NVB3WDg5TW5hcTBldVIyLW1qNWpqU0VsNzR6Z01DMEVvQUl5cUJZSQ?oc=5",
+   "fonte": "BPMoney",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T14:25+00:00",
+   "visto_em": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "7b58bdeea51a",
+   "titulo": "Kindle Unlimited acabou? Entenda mudança no serviço de assinatura",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmdybzYtaFRDTEo5a2hwVTFPZGpsam8tc2t3Z3NOZDhXX3NDNEZtcVRNMTd2cnZJSzZmRHFIRHFzMXFkLXRrbzktb0szMjZ1Y1pwdU55amgxVWdMNkljNGRsRGwydEVoSllsZDdaU3c0Z3ZvbEMwNjNtNlhXY3RpenJJSUVHWlhCN29iWklZRmpkU3lEcXBFQVA3UlhydVB0bm55SmhNOVRRS0c4ZElOaW5yVU5JSW9XdGtDNjFUSUN5d9IB0AFBVV95cUxQWkhuN2hyb28ySElIWTJpVDd4bnZPU3c0Ump0a0FOQVc4am1mVFBNRDBBcWdjTlNMSTRPeWVtcFVlZF92UWoyV0lZdnc4dG83SWJNMThOVzBNR09tX2g4azRuU3hBdnFOcVNMOW1QdHgxUjFlVFNvcmdyUGhKaFZvRmZrTzlxdEF0dTExYU9kTFk4cUJHWThXcXZyX01KU2FhNVI3eVg3X1dBZ1ZyMmJOVmFVdVlvWFpKck1razRUdU1VUFBzWmxySWE2bFlaRk5Q?oc=5",
+   "fonte": "TechTudo",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T11:31+00:00",
+   "visto_em": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "30cb9f07666d",
    "titulo": "Kindle Unlimited acabou? Entenda mudança no serviço de assinatura",
@@ -51,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-10-23T02:36+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:45+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:01+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:33+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +231,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:26+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -213,7 +285,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T14:22-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
