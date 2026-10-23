@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T02:12:41-03:00",
+ "gerado_em": "2026-10-23T08:56:53-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,7 +17,7 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 10
+   "ofertas": 9
   }
  ],
  "total": 22,
@@ -33,25 +33,7 @@
    "nota": "",
    "postado_em": "2026-10-23T02:36+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "ec9c300acdb2",
-   "titulo": "Amazon renomeia Kindle Unlimited para Kindle Plus",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VERFlTR1RUSy0xWkpWc25YbzRYLTY4c1duTmtCUlZDY0hlV0QtS0p4S09aZTIzVEROMWNSaWVWYVJoREN6b0ROOU9lcm1tczllcWdEZmdtVWE4bWo3d3BpdGxEdzdaRTh6OThiNkVNcTQyMnNiTGtNN1BvSXdpVw?oc=5",
-   "fonte": "culpadolag.com.br",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T00:08+00:00",
-   "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:45+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:01+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +105,25 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "ec9c300acdb2",
+   "titulo": "Amazon renomeia Kindle Unlimited para Kindle Plus",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VERFlTR1RUSy0xWkpWc25YbzRYLTY4c1duTmtCUlZDY0hlV0QtS0p4S09aZTIzVEROMWNSaWVWYVJoREN6b0ROOU9lcm1tczllcWdEZmdtVWE4bWo3d3BpdGxEdzdaRTh6OThiNkVNcTQyMnNiTGtNN1BvSXdpVw?oc=5",
+   "fonte": "culpadolag.com.br",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T18:33+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -139,9 +139,9 @@
    "preco": null,
    "tipo": "imprensa",
    "nota": "",
-   "postado_em": "2026-10-22T18:34+00:00",
+   "postado_em": "2026-10-22T18:26+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T08:56-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
