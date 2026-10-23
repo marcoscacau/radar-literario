@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T18:51:01-03:00",
+ "gerado_em": "2026-10-23T02:12:41-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,91 @@
   },
   {
    "fonte": "Gatry",
-   "ok": false,
-   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+   "ok": true,
+   "erro": null,
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 6
+   "ofertas": 10
   }
  ],
- "total": 18,
+ "total": 22,
  "ofertas": [
+  {
+   "id": "e0c515d765b0",
+   "titulo": "Kindle Unlimited muda de nome e agora se chama Kindle+; audiobooks são principal novidade",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcEx1akFLOERmSGRrdXduWDdJYkNiNHNoVTFNcV9jSFlISUVTWmlkQS1tWWx6ekJlMndPNXp3VUllQkJqREJRa21DZ1g3Mktsc0ZFV21QdzhRZExER2xSbUYxUmFIc0t0VW9iSHR1ZVZJVnlzOGJnRUtQMWZtR1prektJbVRVTjhmZzlLYUh5ODRJaGJHSk8zcFFWRUEyU3QzR05yS0Y4a1Rmbl9HTFVZUVV1RUlPQWwxT083ZmtlemJiV2JLZDRIRlNZOA?oc=5",
+   "fonte": "Mundo Conectado",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T02:36+00:00",
+   "visto_em": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "ec9c300acdb2",
+   "titulo": "Amazon renomeia Kindle Unlimited para Kindle Plus",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VERFlTR1RUSy0xWkpWc25YbzRYLTY4c1duTmtCUlZDY0hlV0QtS0p4S09aZTIzVEROMWNSaWVWYVJoREN6b0ROOU9lcm1tczllcWdEZmdtVWE4bWo3d3BpdGxEdzdaRTh6OThiNkVNcTQyMnNiTGtNN1BvSXdpVw?oc=5",
+   "fonte": "culpadolag.com.br",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T00:08+00:00",
+   "visto_em": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b066efe9cf36",
+   "titulo": "Amazon troca Kindle Unlimited por Kindle+ com audiobooks",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YVk5SM2lINEtBT3pqanpvbndqWC1vUFRjWXk5ZUhwcWg1dFVHU29MeG90RHJPaWo3dTBmaTF0amZaTDJEQW1lczA5eklxU1Z1OEpoRkNXMF9FekpXUW0zZ0pHeXBrelBNZUtuQ1V1TFdYWGlrbUd0UXZCYw?oc=5",
+   "fonte": "SpaceMoney",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T22:45+00:00",
+   "visto_em": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "244c5036521d",
+   "titulo": "Kindle Unlimited acabou: Amazon muda serviço para Kindle+ em ofensiva de audiobooks",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVG9Pd2lMNDFEcVlLQTk3TDBnOFk5cGN6VjZid0oxRGsxSXFSdWQwajJVdnZZdG0tcUFyaGhxeHpmT2d5V3dNLVE3WGp5TnBHQU8zUm1BYm5pbjhwdVByUmcwNXQ4dW9uR3lwVlVGbzFFazEzVFpLbXFaRGhwcU42RHBGNUZibHFnby1CNTMxTEVpZU9ZSVJzc05BMUlBcXJiUjVZV2xUeVY3ekFteHRXU0dR?oc=5",
+   "fonte": "Canaltech",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T22:01+00:00",
+   "visto_em": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "c7dacfc62407",
    "titulo": "Amazon muda nome do Kindle Unlimited e traz melhoria muito pedida pelos leitores",
@@ -33,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,25 +123,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "ec9c300acdb2",
-   "titulo": "Amazon renomeia Kindle Unlimited para Kindle Plus",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VERFlTR1RUSy0xWkpWc25YbzRYLTY4c1duTmtCUlZDY0hlV0QtS0p4S09aZTIzVEROMWNSaWVWYVJoREN6b0ROOU9lcm1tczllcWdEZmdtVWE4bWo3d3BpdGxEdzdaRTh6OThiNkVNcTQyMnNiTGtNN1BvSXdpVw?oc=5",
-   "fonte": "culpadolag.com.br",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-22T18:33+00:00",
-   "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -85,9 +139,27 @@
    "preco": null,
    "tipo": "imprensa",
    "nota": "",
-   "postado_em": "2026-10-22T18:26+00:00",
+   "postado_em": "2026-10-22T18:34+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "c6173aefb6d4",
+   "titulo": "Kindle Unlimited: Amazon muda nome do serviço de livros para Kindle+",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWVtRXk5T2NPdFZTbkJEa1ZJOGUtd1FEUDRyREljTHRwRWFBN21wdkVfTzRGQXljcjJlRlc2V1FiX2JSWlk0THBaOElqSVFreWVPTGQ5S0VBSmNPbW9XT1JpV09IdFBKd0pEdHRJWURQNGNsT3UwbUxqU3VVNmo0RjlyYy0yUDQwOEU5WTRobnlNR2JsbzFVbGlVT1I2aFVBZEpRd3JOMC0yeS1mdGVYTi1Md9IBuAFBVV95cUxPSkVGOEhvUnlmdW9oZGItWnFuNTZ6cUhpdHVsbVlYb3ZmZlVXVEh1M1hNWmIxQXRIY0dlNm0wZm5mZTk1LWZIWGVJVkp6ZlRuN2lScWswQkRDa0xxamNoUUxtcWp3emlfWU1mUFFIb1BfMHoxLTB1ZFlISk42UFJKdWNGcVJnaEQ0alQ4eUNHbzdqc2JBdkhWT191XzhwZVhKcWxIQnJvWFpqOXpsNUhzUXJoUEFKM05S?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-22T18:07+00:00",
+   "visto_em": "2026-10-23T02:12-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-22T18:51-03:00",
+   "ultima_vez": "2026-10-23T02:12-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
