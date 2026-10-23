@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T14:22:05-03:00",
+ "gerado_em": "2026-10-23T18:34:42-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -10,18 +10,54 @@
   {
    "fonte": "Gatry",
    "ok": false,
-   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+   "erro": "URLError: <urlopen error [Errno -2] Name or service not known>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 12
+   "ofertas": 15
   }
  ],
- "total": 27,
+ "total": 29,
  "ofertas": [
+  {
+   "id": "eb174d887ac3",
+   "titulo": "Kindle+ substitui Kindle Unlimited: assinatura continua por R$ 24,90",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGhxUHpYV0RRMkY0UHF4ckVQcTBpQWlRV0dnLUhjTEdYSUZDVmcwdEU4VDk0YTBnSTFsUmhxSzA4c01aX3Uzc0o0ZVNBZlJZeGtfYl9WM3BfeEw5NVFrRk1nUzZIZkF4R1owMFlFOC16ZE1FY3VKM2RzeHVBeHFadU85WTdzZWFtRm5oeVdPYnVJbEs0WEQwVUNDLVJJTmhmekszYXc0Rk5mc2kwNDNEWUtwVEV2OGZDLUJz0gHAAUFVX3lxTE85T0tHaGxCeEtJajlObkktbU5BRmtWWVhESFdHeXNBNU5SbmVSSVNlSTY3ekI1eUhqOTBrV3dVZVMtcXRqX1JVVWxqUGFSX1Yyek1Pa3NhOFZJVlZfY0Z4ZVFBVXJvcXFISWhjVF9JckVYY1pBbjJXWkFfbWxPUWxPR0Z4R1Vvb2ttaWg4MFRVNlRxMGt5ck1zT0dfUHFxSDJlcXlMTDFDVjJ0X2t2V3N1SjNUZHFOWUJKUGRsRUJZYw?oc=5",
+   "fonte": "Bem Paraná",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T19:59+00:00",
+   "visto_em": "2026-10-23T18:34-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "9363bb81474b",
+   "titulo": "Kindle+ substitui Kindle Unlimited na Amazon com novos audiolivros nos EUA e preço mantido no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVlMcGc4VnJSVk0xYzFxUlY0N25QQjQtdDFsMzNVdmVaSUJrVnVxaTlRUWNUWEJ2VGZ5XzVkQUxEVndjclpFckZlLUlVQXFrODBOUUJTRmtNeS1KRTgwdUZfTTh1U29uczFnNHhlRldCeVVpZy1nRG1iMlVKMkVOZjY5VmUzdjJOM2JnSm1LTlNwTEMyTHZDUkVvbTV3dnd0ZkItYjVkYTBOMjBkSWo5MXA3Q2p6VDlocnZ0ODF2Sk9XY1Y2R1FVZzI3UVdfMjFrdDJRcA?oc=5",
+   "fonte": "Mix Vale",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T18:55+00:00",
+   "visto_em": "2026-10-23T18:34-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "24c64b8882c9",
    "titulo": "Amazon substitui Kindle Unlimited pelo serviço Kindle+ no mundo",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:56+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:51+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:25+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-10-23T11:31+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-10-23T02:36+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:45+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:01+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +231,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -213,7 +249,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:33+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -231,7 +267,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:26+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -267,7 +303,7 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -285,7 +321,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-23T14:22-03:00",
+   "ultima_vez": "2026-10-23T18:34-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
