@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T10:08:19-03:00",
+ "gerado_em": "2026-10-24T13:09:44-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,10 +17,10 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 14
+   "ofertas": 15
   }
  ],
- "total": 29,
+ "total": 30,
  "ofertas": [
   {
    "id": "eb174d887ac3",
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-10-23T19:59+00:00",
    "visto_em": "2026-10-23T18:34-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +51,25 @@
    "nota": "",
    "postado_em": "2026-10-23T18:55+00:00",
    "visto_em": "2026-10-23T18:34-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "3101d42f3839",
+   "titulo": "Kindle Unlimited vira Kindle+ e mantém mensalidade no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVRjUTl5OFFMRUZ0ZDAtZHFiOS1YUDlLTTB3NXVLTUR5WHBUU0c4MGd2V0hfUzhSQzk4cDRmd0RZWmk4bVJKWDVMUFVHcU9qS2N1X3E2NmpjWm9GQ2s5OW9jUTRTOV9HZmhfb0NWT1JkNWxQUl9EbW5jLXN0dks5UXBVNmhrbjM0MWR1Zm9n?oc=5",
+   "fonte": "Mobile Bit",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-23T16:55+00:00",
+   "visto_em": "2026-10-24T13:09-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:56+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:51+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-10-23T14:25+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-10-23T11:31+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-10-23T02:36+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:45+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-10-22T22:01+00:00",
    "visto_em": "2026-10-23T02:12-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -213,7 +231,7 @@
    "nota": "",
    "postado_em": "2026-10-22T19:49+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -231,7 +249,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:44+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -267,7 +285,7 @@
    "nota": "",
    "postado_em": "2026-10-22T18:26+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -303,7 +321,7 @@
    "nota": "",
    "postado_em": "2026-10-22T14:44+00:00",
    "visto_em": "2026-10-22T14:29-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -321,7 +339,7 @@
    "nota": "",
    "postado_em": "2026-10-22T00:00+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-24T10:08-03:00",
+   "ultima_vez": "2026-10-24T13:09-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
