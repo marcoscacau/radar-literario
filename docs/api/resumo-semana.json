@@ -1,29 +1,24 @@
 {
- "gerado_em": "2026-10-23T11:05:28-03:00",
+ "gerado_em": "2026-10-24T10:08:14-03:00",
  "dias": [
+  "2026-10-24",
   "2026-10-23",
   "2026-10-22",
   "2026-10-21",
   "2026-10-20",
   "2026-10-19",
-  "2026-10-18",
-  "2026-10-17"
+  "2026-10-18"
  ],
- "total": 569,
+ "total": 560,
  "por_grupo": {
-  "brasil-portugal": 268,
-  "internacional": 301
+  "brasil-portugal": 264,
+  "internacional": 296
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 14
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 6
+   "noticias": 13
   },
   {
    "id": "suspense",
@@ -33,44 +28,49 @@
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 4
+   "noticias": 5
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 5
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 3
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
+   "noticias": 3
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 3
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 2
-  },
-  {
-   "id": "russos",
-   "nome": "literatura russa",
-   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 49
+   "noticias": 53
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 45
+   "noticias": 40
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 37
+   "noticias": 34
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 33
+   "noticias": 31
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 5
+   "noticias": 7
   },
   {
    "nome": "Augusto Cury",
@@ -95,46 +95,46 @@
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Adélia Prado",
+  "Prime Video",
   "Fourth Wing",
-  "Biblioteca Nacional",
-  "Prime Video"
+  "Gustavo Scarpa",
+  "Biblioteca Nacional"
  ],
  "subindo": [
   {
-   "termo": "Biblioteca Nacional",
-   "ultimos_3_dias": 7,
+   "termo": "Prime Video",
+   "ultimos_3_dias": 9,
    "antes": 0
   },
   {
-   "termo": "Adélia Prado",
-   "ultimos_3_dias": 5,
-   "antes": 2
+   "termo": "Prêmio Jabuti",
+   "ultimos_3_dias": 22,
+   "antes": 16
   },
   {
-   "termo": "Fourth Wing",
-   "ultimos_3_dias": 6,
-   "antes": 3
+   "termo": "Gustavo Scarpa",
+   "ultimos_3_dias": 7,
+   "antes": 1
   },
   {
    "termo": "Ryu Murakami",
-   "ultimos_3_dias": 3,
+   "ultimos_3_dias": 6,
    "antes": 0
   },
   {
-   "termo": "Barnes Noble",
-   "ultimos_3_dias": 3,
+   "termo": "Franz Kafka",
+   "ultimos_3_dias": 4,
    "antes": 0
   }
  ],
  "destaques": [
+  "1d8ee9ebfa14",
   "51dcbf2dc972",
   "3eff6a65431c",
-  "4a906b821f0d",
-  "3ccabee8bc3b",
+  "0389461fcfa9",
   "50b86974bc0e",
   "f2d26aa2bb01",
-  "cc828781c256",
-  "4b9418eb3f02"
+  "8723625011a0",
+  "cc828781c256"
  ]
 }

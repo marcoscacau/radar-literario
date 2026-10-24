@@ -1,83 +1,86 @@
 {
- "gerado_em": "2026-10-23T11:05:28-03:00",
+ "gerado_em": "2026-10-24T10:08:14-03:00",
  "dias": [
-  "2026-10-17",
   "2026-10-18",
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
-  "2026-10-23"
+  "2026-10-23",
+  "2026-10-24"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 36,
-   "mencoes": 39,
+   "fontes": 32,
+   "mencoes": 38,
    "por_dia": [
-    11,
     8,
     1,
     3,
     4,
     5,
-    7
+    7,
+    10
    ],
    "novo_hoje": false,
    "itens": [
+    "bc634d0961d1",
+    "27dded4887e2",
+    "872dace95b41",
+    "2e583e6a8ab9",
+    "bc79e5b8d9a7",
+    "c95653968723",
+    "eb0a0a0f2cb9",
+    "e6ce03839510",
+    "3d9a5481aae1",
+    "57e394e75e4e",
     "743487a7a9f0",
-    "ffb051bddeb1",
-    "b53f9d7fd23e",
-    "cba2b71147ee",
-    "98363fcc4957",
-    "5a60f96af032",
-    "65b4f0a90b8d",
-    "a5624d7527fc",
-    "992da55e521a",
-    "c1f879c0b583",
-    "b2887f25e9dc",
-    "e7fee668396c"
+    "ffb051bddeb1"
    ]
   },
   {
-   "termo": "Adélia Prado",
-   "fontes": 7,
-   "mencoes": 7,
-   "por_dia": [
-    2,
-    0,
-    0,
-    0,
-    2,
-    3,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "51b2f56e341c",
-    "f8e897f5f8e1",
-    "e7fee668396c",
-    "b95acc085393",
-    "08f09922789d",
-    "8e17867fedc2",
-    "7bc50c348017"
-   ]
-  },
-  {
-   "termo": "Fourth Wing",
-   "fontes": 6,
+   "termo": "Prime Video",
+   "fontes": 8,
    "mencoes": 9,
    "por_dia": [
     0,
     0,
+    0,
+    0,
+    1,
+    3,
+    5
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fe150cedc846",
+    "d5e546d7e3e9",
+    "aca5de974ee3",
+    "e93cb52cb6de",
+    "0db734d385e9",
+    "59e1a57f164c",
+    "02fc56507e92",
+    "16e0faa1d7e9",
+    "f235e651875a"
+   ]
+  },
+  {
+   "termo": "Fourth Wing",
+   "fontes": 7,
+   "mencoes": 10,
+   "por_dia": [
+    0,
     2,
     1,
     1,
     3,
-    2
+    2,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "fe150cedc846",
     "a7fd1dd9ea34",
     "16e0faa1d7e9",
     "1166727b9c9d",
@@ -90,6 +93,31 @@
    ]
   },
   {
+   "termo": "Gustavo Scarpa",
+   "fontes": 7,
+   "mencoes": 8,
+   "por_dia": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    3,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "27dded4887e2",
+    "872dace95b41",
+    "bc79e5b8d9a7",
+    "c95653968723",
+    "743487a7a9f0",
+    "ffb051bddeb1",
+    "b53f9d7fd23e",
+    "6db876b6ee0a"
+   ]
+  },
+  {
    "termo": "Biblioteca Nacional",
    "fontes": 6,
    "mencoes": 7,
@@ -97,10 +125,10 @@
     0,
     0,
     0,
-    0,
     5,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -114,71 +142,26 @@
    ]
   },
   {
-   "termo": "Prime Video",
+   "termo": "Ryu Murakami",
    "fontes": 6,
    "mencoes": 6,
    "por_dia": [
-    2,
     0,
     0,
     0,
     0,
-    1,
+    0,
+    3,
     3
    ],
    "novo_hoje": false,
    "itens": [
-    "59e1a57f164c",
-    "02fc56507e92",
-    "16e0faa1d7e9",
-    "f235e651875a",
-    "4948b80e207c",
-    "37d551dd8822"
-   ]
-  },
-  {
-   "termo": "Quarta Asa",
-   "fontes": 6,
-   "mencoes": 6,
-   "por_dia": [
-    5,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "8f7be7752a2d",
-    "4948b80e207c",
-    "4e758b246c93",
-    "37d551dd8822",
-    "8c9a5a2623bb",
-    "12c0b8843f0c"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 5,
-   "mencoes": 5,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    2,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "353479ebb7d5",
-    "9e7399f924c5",
-    "48b5af64d974",
-    "f009313c459a",
-    "cab96835a184"
+    "aa128f86e3f8",
+    "8723625011a0",
+    "b170fed8856e",
+    "9a7635885406",
+    "0397364ae758",
+    "e986e86d64a5"
    ]
   },
   {
@@ -186,13 +169,13 @@
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
-    0,
     2,
     1,
     0,
     1,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -204,24 +187,109 @@
    ]
   },
   {
-   "termo": "Gustavo Scarpa",
+   "termo": "Adélia Prado",
+   "fontes": 5,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    3,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "51b2f56e341c",
+    "f8e897f5f8e1",
+    "e7fee668396c",
+    "b95acc085393",
+    "08f09922789d"
+   ]
+  },
+  {
+   "termo": "Greta Gerwig",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "b60437f6d4f0",
+    "2b0a20cfe5fa",
+    "9d9cd8ca95e8",
+    "b1d512553d6e"
+   ]
+  },
+  {
+   "termo": "Crônicas de Nárnia",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4ee52ab8fc5e",
+    "3e74edf4e854",
+    "c44bb97f6355",
+    "15b919297552"
+   ]
+  },
+  {
+   "termo": "Franz Kafka",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
     0,
+    0,
+    0,
     1,
-    0,
-    0,
-    0,
-    3
+    1,
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "743487a7a9f0",
-    "ffb051bddeb1",
-    "b53f9d7fd23e",
-    "6db876b6ee0a"
+    "1c4cee92e84e",
+    "32e802786722",
+    "4b9418eb3f02",
+    "bfd63854c103"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    1,
+    0,
+    0,
+    2,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "353479ebb7d5",
+    "9e7399f924c5",
+    "48b5af64d974",
+    "f009313c459a"
    ]
   },
   {
@@ -230,12 +298,12 @@
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     1,
     0,
     0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -246,105 +314,43 @@
    ]
   },
   {
-   "termo": "York Times",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    1,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "8675e63b848a",
-    "a6e289581a17",
-    "89ee551ec1d3",
-    "fc370c7bce60"
-   ]
-  },
-  {
-   "termo": "Academia Brasileira de Letras",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    3,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "1a40f644dcfe",
-    "50ed8b67c107",
-    "0da416e2df0f",
-    "d502f87ac097"
-   ]
-  },
-  {
-   "termo": "Ryu Murakami",
+   "termo": "Marlon James",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    3
-   ],
-   "novo_hoje": true,
-   "itens": [
-    "9a7635885406",
-    "0397364ae758",
-    "e986e86d64a5"
-   ]
-  },
-  {
-   "termo": "Barnes Noble",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    3
-   ],
-   "novo_hoje": true,
-   "itens": [
-    "266273f4d1d3",
-    "fffd82ea7515",
-    "7178d9e45c00"
-   ]
-  },
-  {
-   "termo": "Mike Flanagan",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
     1,
+    0,
+    0,
+    0,
+    0,
     2
    ],
    "novo_hoje": false,
    "itens": [
-    "dee70195680d",
-    "d457852ec0c8",
-    "f235e651875a"
+    "48e887a4bf51",
+    "c6a36441fd31",
+    "f64a1fe3f2c4"
+   ]
+  },
+  {
+   "termo": "Nárnia da Netflix",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "9b1d7347c083",
+    "07ee89f0fdad",
+    "cebd81ff0055"
    ]
   }
  ]

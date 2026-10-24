@@ -1,7 +1,74 @@
 {
- "gerado_em": "2026-10-23T11:05:28-03:00",
- "total": 25,
+ "gerado_em": "2026-10-24T10:08:14-03:00",
+ "total": 28,
  "eventos": [
+  {
+   "id": "850c10663c6b",
+   "titulo": "Acompanhamento ocular infantil ajuda a identificar problemas de visão",
+   "link": "https://infonet.com.br/noticias/saude/acompanhamento-ocular-infantil-ajuda-a-identificar-problemas-de-visao/",
+   "resumo": "Oftalmopediatra do Hospital de Olhos de Sergipe alerta para sinais que podem passar despercebidos e explica quando levar as crianças ao oftalmologista",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-24T08:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-24"
+  },
+  {
+   "id": "79d198c8b230",
+   "titulo": "Escritor Antônio Camilo lançará seu 10º livro no dia 3 de dezembro",
+   "link": "https://infonet.com.br/noticias/cultura/escritor-antonio-camilo-lancara-seu-10o-livro-no-dia-3-de-dezembro/",
+   "resumo": "Obra biográfica homenageia o radialista Jairo Alves de Almeida, que possui 62 anos de dedicação ao rádio",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-23T19:07-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-12-03",
+    "fim": "2026-12-03",
+    "origem": "texto"
+   },
+   "dia": "2026-10-24"
+  },
+  {
+   "id": "db4464f336c4",
+   "titulo": "Ilha Grande, em São Cristóvão, é tema de exposição fotográfica na UFS",
+   "link": "https://infonet.com.br/noticias/cultura/ilha-grande-em-sao-cristovao-e-tema-de-exposicao-fotografica-na-ufs/",
+   "resumo": "Realizada pelo grupo de pesquisa LIMA, a mostra reúne imagens produzidas de forma coletiva por pesquisadores e integrantes externos",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-23T18:20-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-24"
+  },
   {
    "id": "91ffcbfa248a",
    "titulo": "Itamar Vieira Junior é confirmado no Salão de Literatura do FASC 2026",
