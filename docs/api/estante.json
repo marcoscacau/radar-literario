@@ -1,16 +1,16 @@
 {
- "gerado_em": "2026-10-24T10:08:14-03:00",
+ "gerado_em": "2026-10-25T10:35:40-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "bcce307c54c9",
     "1dd8a076d8fc",
     "a7fd1dd9ea34",
     "d8d9154f5ef5",
     "49dcaf24b20f",
     "93614f54068c",
-    "486f043c29d8",
-    "0a30e3d3024c"
+    "486f043c29d8"
    ],
    "livros": [
     {
@@ -121,6 +121,11 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "37189dbce17f",
+      "8b78861b296c",
+      "e9b550bc87c9",
+      "322b0e26c9cf",
+      "bf5dedc7cce3",
       "fe150cedc846",
       "3a0e9aa2c719",
       "e60662c40eae",
@@ -149,12 +154,7 @@
       "4a9306518feb",
       "f4f329c877e8",
       "924d353c56eb",
-      "cdf2eb196dee",
-      "0a30e3d3024c",
-      "58b4b4d01b27",
-      "f1d63e9b9236",
-      "33d0360eefcc",
-      "8f7be7752a2d"
+      "cdf2eb196dee"
      ]
     },
     {
@@ -190,11 +190,12 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "bcce307c54c9",
+      "3c2e00caffd3",
       "1d8ee9ebfa14",
       "281694c60937",
       "1166727b9c9d",
-      "93614f54068c",
-      "21e5c335daf5"
+      "93614f54068c"
      ]
     },
     {
@@ -265,6 +266,10 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "49a9a1ad4bd7",
+    "22512106940b",
+    "225e6c915847",
+    "526e99f27975",
     "1f879005a800",
     "3c6ccf8fd7bb",
     "d5e546d7e3e9",
@@ -299,11 +304,7 @@
     "32c9e031f281",
     "101487567254",
     "4bda85433e61",
-    "f278a82f7297",
-    "7ce3ef52e3e8",
-    "4fd64843c492",
-    "8e0c6c7ec201",
-    "dd3548b8cadd"
+    "f278a82f7297"
    ],
    "livros": [
     {
@@ -312,6 +313,13 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "afa45ea1748d",
+      "0d832a5326f3",
+      "f2c456f55b7b",
+      "49a9a1ad4bd7",
+      "8ca56107588e",
+      "75572dd7bec2",
+      "526e99f27975",
       "3c6ccf8fd7bb",
       "aca5de974ee3",
       "1b9f7d0e26f2",
@@ -336,9 +344,7 @@
       "050ce17aec1b",
       "6999ea69ec5f",
       "61a7ee77d4ef",
-      "a030a24badd3",
-      "e79e8ff10209",
-      "dd3548b8cadd"
+      "a030a24badd3"
      ]
     },
     {
@@ -866,12 +872,7 @@
     "66e700b93fd2",
     "b2e8edf8fc3c",
     "e61890a91db5",
-    "f981bad9acf3",
-    "9d9cd8ca95e8",
-    "23f4c4b70a51",
-    "8dfb5b7c86ef",
-    "b1d512553d6e",
-    "66808611f166"
+    "f981bad9acf3"
    ],
    "livros": [
     {
@@ -1027,9 +1028,7 @@
       "5757137f9b5b",
       "41675a2fbee0",
       "6baf23611b70",
-      "12939ced8b36",
-      "9d9cd8ca95e8",
-      "8dfb5b7c86ef"
+      "12939ced8b36"
      ]
     },
     {

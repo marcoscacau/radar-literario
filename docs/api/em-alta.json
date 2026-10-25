@@ -1,59 +1,61 @@
 {
- "gerado_em": "2026-10-24T10:08:14-03:00",
+ "gerado_em": "2026-10-25T10:35:40-03:00",
  "dias": [
-  "2026-10-18",
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
   "2026-10-23",
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 32,
-   "mencoes": 38,
+   "fontes": 28,
+   "mencoes": 35,
    "por_dia": [
-    8,
     1,
     3,
     4,
     5,
     7,
-    10
+    10,
+    5
    ],
    "novo_hoje": false,
    "itens": [
+    "e5549f1ec975",
+    "75419cce7dff",
+    "ff063d6bc5ee",
+    "78130e6aec85",
+    "7aa04ef247cc",
     "bc634d0961d1",
     "27dded4887e2",
     "872dace95b41",
     "2e583e6a8ab9",
     "bc79e5b8d9a7",
     "c95653968723",
-    "eb0a0a0f2cb9",
-    "e6ce03839510",
-    "3d9a5481aae1",
-    "57e394e75e4e",
-    "743487a7a9f0",
-    "ffb051bddeb1"
+    "eb0a0a0f2cb9"
    ]
   },
   {
    "termo": "Prime Video",
-   "fontes": 8,
-   "mencoes": 9,
+   "fontes": 10,
+   "mencoes": 11,
    "por_dia": [
-    0,
     0,
     0,
     0,
     1,
     3,
-    5
+    5,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "afa45ea1748d",
+    "f2c456f55b7b",
     "fe150cedc846",
     "d5e546d7e3e9",
     "aca5de974ee3",
@@ -70,13 +72,13 @@
    "fontes": 7,
    "mencoes": 10,
    "por_dia": [
-    0,
     2,
     1,
     1,
     3,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -97,13 +99,13 @@
    "fontes": 7,
    "mencoes": 8,
    "por_dia": [
-    0,
     1,
     0,
     0,
     0,
     3,
-    4
+    4,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -124,10 +126,10 @@
    "por_dia": [
     0,
     0,
-    0,
     5,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -150,9 +152,9 @@
     0,
     0,
     0,
-    0,
     3,
-    3
+    3,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -165,25 +167,25 @@
    ]
   },
   {
-   "termo": "Sobrinho do Mago",
+   "termo": "Augusto Cury",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
+    1,
+    0,
+    0,
     2,
     1,
     0,
-    1,
-    0,
-    1,
-    0
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "f5b7c27abd8e",
-    "f6fc9a4bcef8",
-    "41675a2fbee0",
-    "9d9cd8ca95e8",
-    "8dfb5b7c86ef"
+    "02fc8f2f4510",
+    "d8530263821f",
+    "f81b6f17e968",
+    "fe4c38fa6255",
+    "9cf671673bec"
    ]
   },
   {
@@ -193,9 +195,9 @@
    "por_dia": [
     0,
     0,
-    0,
     2,
     3,
+    0,
     0,
     0
    ],
@@ -209,48 +211,6 @@
    ]
   },
   {
-   "termo": "Greta Gerwig",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    2,
-    1,
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "b60437f6d4f0",
-    "2b0a20cfe5fa",
-    "9d9cd8ca95e8",
-    "b1d512553d6e"
-   ]
-  },
-  {
-   "termo": "Crônicas de Nárnia",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    1,
-    1,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4ee52ab8fc5e",
-    "3e74edf4e854",
-    "c44bb97f6355",
-    "15b919297552"
-   ]
-  },
-  {
    "termo": "Franz Kafka",
    "fontes": 4,
    "mencoes": 4,
@@ -258,10 +218,10 @@
     0,
     0,
     0,
-    0,
     1,
     1,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -272,45 +232,23 @@
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    0,
-    0,
-    2,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "353479ebb7d5",
-    "9e7399f924c5",
-    "48b5af64d974",
-    "f009313c459a"
-   ]
-  },
-  {
-   "termo": "Augusto Cury",
-   "fontes": 4,
-   "mencoes": 4,
+   "termo": "Threshing Day",
+   "fontes": 3,
+   "mencoes": 3,
    "por_dia": [
     0,
     1,
     0,
-    0,
-    2,
     1,
-    0
+    0,
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "d8530263821f",
-    "f81b6f17e968",
-    "fe4c38fa6255",
-    "9cf671673bec"
+    "bcce307c54c9",
+    "1166727b9c9d",
+    "93614f54068c"
    ]
   },
   {
@@ -318,13 +256,13 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     0,
     0,
     0,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -340,17 +278,77 @@
    "por_dia": [
     0,
     0,
-    0,
     1,
     1,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
     "9b1d7347c083",
     "07ee89f0fdad",
     "cebd81ff0055"
+   ]
+  },
+  {
+   "termo": "Crônicas de Nárnia",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4ee52ab8fc5e",
+    "3e74edf4e854",
+    "c44bb97f6355"
+   ]
+  },
+  {
+   "termo": "Thélyson Orélien",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fe7c29b8926a",
+    "d730e45e0b3f",
+    "08a1a0e24610"
+   ]
+  },
+  {
+   "termo": "Barnes Noble",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "266273f4d1d3",
+    "fffd82ea7515",
+    "7178d9e45c00"
    ]
   }
  ]

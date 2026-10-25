@@ -1,29 +1,29 @@
 {
- "gerado_em": "2026-10-24T10:08:14-03:00",
+ "gerado_em": "2026-10-25T10:35:40-03:00",
  "dias": [
+  "2026-10-25",
   "2026-10-24",
   "2026-10-23",
   "2026-10-22",
   "2026-10-21",
   "2026-10-20",
-  "2026-10-19",
-  "2026-10-18"
+  "2026-10-19"
  ],
- "total": 560,
+ "total": 556,
  "por_grupo": {
-  "brasil-portugal": 264,
-  "internacional": 296
+  "brasil-portugal": 258,
+  "internacional": 298
  },
  "temas": [
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 13
+   "noticias": 12
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 6
+   "noticias": 7
   },
   {
    "id": "fe",
@@ -31,14 +31,14 @@
    "noticias": 5
   },
   {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 5
-  },
-  {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 4
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 4
   },
   {
    "id": "russos",
@@ -54,19 +54,19 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 53
+   "noticias": 57
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 40
+   "noticias": 41
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 34
+   "noticias": 33
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 31
+   "noticias": 26
   },
   {
    "nome": "Franz Kafka",
@@ -74,11 +74,11 @@
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 5
+   "noticias": 6
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 5
+   "noticias": 4
   },
   {
    "nome": "Ursula K. Le Guin",
@@ -102,14 +102,14 @@
  ],
  "subindo": [
   {
-   "termo": "Prime Video",
-   "ultimos_3_dias": 9,
-   "antes": 0
-  },
-  {
    "termo": "Prêmio Jabuti",
    "ultimos_3_dias": 22,
-   "antes": 16
+   "antes": 13
+  },
+  {
+   "termo": "Prime Video",
+   "ultimos_3_dias": 10,
+   "antes": 1
   },
   {
    "termo": "Gustavo Scarpa",
@@ -122,19 +122,19 @@
    "antes": 0
   },
   {
-   "termo": "Franz Kafka",
-   "ultimos_3_dias": 4,
+   "termo": "Barnes Noble",
+   "ultimos_3_dias": 3,
    "antes": 0
   }
  ],
  "destaques": [
-  "1d8ee9ebfa14",
+  "3c2e00caffd3",
   "51dcbf2dc972",
   "3eff6a65431c",
   "0389461fcfa9",
   "50b86974bc0e",
   "f2d26aa2bb01",
-  "8723625011a0",
-  "cc828781c256"
+  "02fc8f2f4510",
+  "8723625011a0"
  ]
 }
