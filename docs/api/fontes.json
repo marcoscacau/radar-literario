@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T10:35:40-03:00",
+ "gerado_em": "2026-10-26T08:35:01-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -25,8 +25,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 13,
-   "novos_hoje": 1
+   "itens_no_feed": 14,
+   "novos_hoje": 2
   },
   {
    "id": "estadao",
@@ -34,7 +34,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
+   "itens_no_feed": 1,
    "novos_hoje": 0
   },
   {
@@ -44,7 +44,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 3,
-   "novos_hoje": 3
+   "novos_hoje": 1
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
-   "novos_hoje": 1
+   "itens_no_feed": 4,
+   "novos_hoje": 4
   },
   {
    "id": "gn-premios-br",
@@ -61,8 +61,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 60,
-   "novos_hoje": 7
+   "itens_no_feed": 64,
+   "novos_hoje": 9
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 33,
-   "novos_hoje": 1
+   "itens_no_feed": 25,
+   "novos_hoje": 0
   },
   {
    "id": "gn-estante-br",
@@ -80,7 +80,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 35,
-   "novos_hoje": 3
+   "novos_hoje": 5
   },
   {
    "id": "gn-acompanhados-br",
@@ -89,7 +89,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 47,
-   "novos_hoje": 6
+   "novos_hoje": 4
   },
   {
    "id": "gn-sergipe-eventos",
@@ -97,7 +97,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 41,
+   "itens_no_feed": 40,
    "novos_hoje": 0
   },
   {
@@ -106,7 +106,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 42,
+   "itens_no_feed": 44,
    "novos_hoje": 0
   },
   {
@@ -131,8 +131,8 @@
    "id": "g1-se",
    "nome": "g1 Sergipe",
    "grupo": "brasil-portugal",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "ParseError: not well-formed (invalid token): line 1, column 0",
    "itens_no_feed": 0,
    "novos_hoje": 0
   },
@@ -151,7 +151,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 3,
+   "itens_no_feed": 2,
    "novos_hoje": 0
   },
   {
@@ -170,7 +170,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 0
+   "novos_hoje": 10
   },
   {
    "id": "guardian",
@@ -178,8 +178,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 28,
-   "novos_hoje": 1
+   "itens_no_feed": 29,
+   "novos_hoje": 5
   },
   {
    "id": "nyt",
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 38,
-   "novos_hoje": 3
+   "itens_no_feed": 37,
+   "novos_hoje": 2
   },
   {
    "id": "guardian-ciencia",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 1
+   "novos_hoje": 4
   },
   {
    "id": "ct",
@@ -250,8 +250,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 52,
-   "novos_hoje": 5
+   "itens_no_feed": 49,
+   "novos_hoje": 4
   },
   {
    "id": "gn-yarros-en",
@@ -268,7 +268,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
+   "itens_no_feed": 39,
    "novos_hoje": 6
   },
   {
@@ -286,8 +286,125 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 42,
+   "itens_no_feed": 44,
    "novos_hoje": 7
+  },
+  {
+   "id": "bujo",
+   "nome": "Bullet Journal (Ryder Carroll)",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 30,
+   "novos_hoje": 0
+  },
+  {
+   "id": "vidaorganizada",
+   "nome": "Vida Organizada",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 20,
+   "novos_hoje": 0
+  },
+  {
+   "id": "penaddict",
+   "nome": "The Pen Addict",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 20,
+   "novos_hoje": 3
+  },
+  {
+   "id": "wellappointed",
+   "nome": "The Well-Appointed Desk",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 1
+  },
+  {
+   "id": "notebookstories",
+   "nome": "Notebook Stories",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 5,
+   "novos_hoje": 0
+  },
+  {
+   "id": "calnewport",
+   "nome": "Cal Newport",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 8,
+   "novos_hoje": 0
+  },
+  {
+   "id": "fortelabs",
+   "nome": "Forte Labs (segundo cérebro)",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 0
+  },
+  {
+   "id": "nesslabs",
+   "nome": "Ness Labs",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 0
+  },
+  {
+   "id": "makeuseof-prod",
+   "nome": "MakeUseOf – produtividade",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 0,
+   "novos_hoje": 0
+  },
+  {
+   "id": "gn-cadernos-pt",
+   "nome": "Google Notícias – cadernos e escrita à mão",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 6,
+   "novos_hoje": 1
+  },
+  {
+   "id": "gn-produtividade-pt",
+   "nome": "Google Notícias – produtividade e anotações",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 3,
+   "novos_hoje": 1
+  },
+  {
+   "id": "gn-cadernos-en",
+   "nome": "Google News – journaling and handwriting",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 38,
+   "novos_hoje": 6
+  },
+  {
+   "id": "gn-produtividade-en",
+   "nome": "Google News – productivity tips",
+   "grupo": "cadernos",
+   "ok": true,
+   "erro": null,
+   "itens_no_feed": 10,
+   "novos_hoje": 5
   }
  ]
 }

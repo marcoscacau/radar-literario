@@ -1,20 +1,26 @@
 {
- "gerado_em": "2026-10-26T08:33:49-03:00",
+ "gerado_em": "2026-10-26T08:35:01-03:00",
  "dias": [
+  "2026-10-26",
   "2026-10-25",
   "2026-10-24",
   "2026-10-23",
   "2026-10-22",
   "2026-10-21",
-  "2026-10-20",
-  "2026-10-19"
+  "2026-10-20"
  ],
- "total": 556,
+ "total": 575,
  "por_grupo": {
-  "brasil-portugal": 258,
-  "internacional": 298
+  "internacional": 295,
+  "cadernos": 17,
+  "brasil-portugal": 263
  },
  "temas": [
+  {
+   "id": "cadernos",
+   "nome": "cadernos e produtividade",
+   "noticias": 14
+  },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
@@ -28,16 +34,11 @@
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 5
+   "noticias": 4
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 4
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
    "noticias": 4
   },
   {
@@ -49,16 +50,21 @@
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 3
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 57
+   "noticias": 60
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 41
+   "noticias": 40
   },
   {
    "nome": "J. R. R. Tolkien",
@@ -66,26 +72,26 @@
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 26
+   "noticias": 21
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 7
+   "noticias": 9
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 6
-  },
-  {
-   "nome": "Dostoiévski",
-   "noticias": 4
-  },
-  {
-   "nome": "Ursula K. Le Guin",
-   "noticias": 2
+   "noticias": 5
   },
   {
    "nome": "Raphael Montes",
+   "noticias": 3
+  },
+  {
+   "nome": "Dostoiévski",
+   "noticias": 3
+  },
+  {
+   "nome": "Ursula K. Le Guin",
    "noticias": 2
   },
   {
@@ -102,39 +108,29 @@
  ],
  "subindo": [
   {
-   "termo": "Prêmio Jabuti",
-   "ultimos_3_dias": 22,
-   "antes": 13
-  },
-  {
    "termo": "Prime Video",
-   "ultimos_3_dias": 10,
-   "antes": 1
+   "ultimos_3_dias": 9,
+   "antes": 4
   },
   {
    "termo": "Gustavo Scarpa",
-   "ultimos_3_dias": 7,
-   "antes": 1
+   "ultimos_3_dias": 5,
+   "antes": 3
   },
   {
-   "termo": "Ryu Murakami",
-   "ultimos_3_dias": 6,
-   "antes": 0
-  },
-  {
-   "termo": "Barnes Noble",
+   "termo": "Franz Kafka",
    "ultimos_3_dias": 3,
-   "antes": 0
+   "antes": 2
   }
  ],
  "destaques": [
+  "468083ae8878",
   "3c2e00caffd3",
   "51dcbf2dc972",
-  "3eff6a65431c",
+  "25f6c10c67b9",
   "0389461fcfa9",
   "50b86974bc0e",
-  "f2d26aa2bb01",
-  "02fc8f2f4510",
-  "8723625011a0"
+  "49605e3df2ae",
+  "02fc8f2f4510"
  ]
 }

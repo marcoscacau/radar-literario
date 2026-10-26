@@ -1,30 +1,33 @@
 {
- "gerado_em": "2026-10-26T08:33:49-03:00",
+ "gerado_em": "2026-10-26T08:35:01-03:00",
  "dias": [
-  "2026-10-19",
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
   "2026-10-23",
   "2026-10-24",
-  "2026-10-25"
+  "2026-10-25",
+  "2026-10-26"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 28,
-   "mencoes": 35,
+   "fontes": 29,
+   "mencoes": 37,
    "por_dia": [
-    1,
     3,
     4,
     5,
     7,
     10,
-    5
+    5,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "d2bbfd21e16f",
+    "41072375ad57",
+    "1e244c2eaa15",
     "e5549f1ec975",
     "75419cce7dff",
     "ff063d6bc5ee",
@@ -33,27 +36,26 @@
     "bc634d0961d1",
     "27dded4887e2",
     "872dace95b41",
-    "2e583e6a8ab9",
-    "bc79e5b8d9a7",
-    "c95653968723",
-    "eb0a0a0f2cb9"
+    "2e583e6a8ab9"
    ]
   },
   {
    "termo": "Prime Video",
-   "fontes": 10,
-   "mencoes": 11,
+   "fontes": 11,
+   "mencoes": 13,
    "por_dia": [
-    0,
     0,
     0,
     1,
     3,
     5,
+    2,
     2
    ],
    "novo_hoje": false,
    "itens": [
+    "b9e75d8e257a",
+    "f873db1753a2",
     "afa45ea1748d",
     "f2c456f55b7b",
     "fe150cedc846",
@@ -63,25 +65,25 @@
     "0db734d385e9",
     "59e1a57f164c",
     "02fc56507e92",
-    "16e0faa1d7e9",
-    "f235e651875a"
+    "16e0faa1d7e9"
    ]
   },
   {
    "termo": "Fourth Wing",
-   "fontes": 7,
-   "mencoes": 10,
+   "fontes": 6,
+   "mencoes": 9,
    "por_dia": [
-    2,
     1,
     1,
     3,
     2,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "b9e75d8e257a",
     "fe150cedc846",
     "a7fd1dd9ea34",
     "16e0faa1d7e9",
@@ -89,34 +91,32 @@
     "d8d9154f5ef5",
     "49dcaf24b20f",
     "4a906b821f0d",
-    "da5dd0acca6a",
-    "f4f329c877e8",
-    "cdf2eb196dee"
+    "da5dd0acca6a"
    ]
   },
   {
    "termo": "Gustavo Scarpa",
-   "fontes": 7,
+   "fontes": 6,
    "mencoes": 8,
    "por_dia": [
-    1,
     0,
     0,
     0,
     3,
     4,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "1e244c2eaa15",
     "27dded4887e2",
     "872dace95b41",
     "bc79e5b8d9a7",
     "c95653968723",
     "743487a7a9f0",
     "ffb051bddeb1",
-    "b53f9d7fd23e",
-    "6db876b6ee0a"
+    "b53f9d7fd23e"
    ]
   },
   {
@@ -125,10 +125,10 @@
    "mencoes": 7,
    "por_dia": [
     0,
-    0,
     5,
     1,
     1,
+    0,
     0,
     0
    ],
@@ -151,9 +151,9 @@
     0,
     0,
     0,
+    3,
+    3,
     0,
-    3,
-    3,
     0
    ],
    "novo_hoje": false,
@@ -167,25 +167,25 @@
    ]
   },
   {
-   "termo": "Augusto Cury",
+   "termo": "Franz Kafka",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
+    0,
+    0,
     1,
-    0,
-    0,
+    1,
     2,
-    1,
     0,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "02fc8f2f4510",
-    "d8530263821f",
-    "f81b6f17e968",
-    "fe4c38fa6255",
-    "9cf671673bec"
+    "5e6079769c79",
+    "1c4cee92e84e",
+    "32e802786722",
+    "4b9418eb3f02",
+    "bfd63854c103"
    ]
   },
   {
@@ -194,9 +194,9 @@
    "mencoes": 5,
    "por_dia": [
     0,
-    0,
     2,
     3,
+    0,
     0,
     0,
     0
@@ -211,24 +211,45 @@
    ]
   },
   {
-   "termo": "Franz Kafka",
+   "termo": "Flávio Bolsonaro",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
     0,
-    0,
-    1,
     1,
     2,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "2ac7f4dc79ec",
+    "a3e7eb51b764",
+    "e0b433a2dca7",
+    "fe4c38fa6255"
+   ]
+  },
+  {
+   "termo": "Augusto Cury",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    2,
+    1,
+    0,
+    1,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "1c4cee92e84e",
-    "32e802786722",
-    "4b9418eb3f02",
-    "bfd63854c103"
+    "02fc8f2f4510",
+    "d8530263821f",
+    "f81b6f17e968",
+    "fe4c38fa6255"
    ]
   },
   {
@@ -236,13 +257,13 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     1,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -252,36 +273,16 @@
    ]
   },
   {
-   "termo": "Marlon James",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "48e887a4bf51",
-    "c6a36441fd31",
-    "f64a1fe3f2c4"
-   ]
-  },
-  {
    "termo": "Nárnia da Netflix",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
     1,
     1,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -292,36 +293,16 @@
    ]
   },
   {
-   "termo": "Crônicas de Nárnia",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4ee52ab8fc5e",
-    "3e74edf4e854",
-    "c44bb97f6355"
-   ]
-  },
-  {
    "termo": "Thélyson Orélien",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
     0,
-    0,
     2,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -339,8 +320,8 @@
     0,
     0,
     0,
-    0,
     3,
+    0,
     0,
     0
    ],
@@ -349,6 +330,26 @@
     "266273f4d1d3",
     "fffd82ea7515",
     "7178d9e45c00"
+   ]
+  },
+  {
+   "termo": "Mike Flanagan",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "dee70195680d",
+    "d457852ec0c8",
+    "f235e651875a"
    ]
   }
  ]
