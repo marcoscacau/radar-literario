@@ -83,6 +83,26 @@ RE_NOVIDADE = re.compile(r"(?<![\w-])(novo livro|novo romance|novo thriller|novo
                          r"pre-venda|capa revelada|anuncia novo|new book|new novel|announces new|pre-order|"
                          r"cover reveal|release date|next book|proximo livro|out now|chega as livrarias|"
                          r"finale|conclusion|desfecho)(?![\w-])")
+# Cadernos (bullet journal, anotações, produtividade, escrita à mão): as buscas amplas só passam com um destes.
+# "produtividade" sozinha não conta: no noticiário é quase sempre safra e indústria.
+CADERNOS = [
+    "bullet journal", "bujo", "journaling", "junk journal", "diario pessoal", "caderno", "cadernos",
+    "planner", "planners", "agenda de papel", "papelaria", "stationery", "anotacoes", "anotar",
+    "tomar notas", "note-taking", "note taking", "taking notes", "segundo cerebro", "second brain",
+    "zettelkasten", "caligrafia", "calligraphy", "lettering", "letra cursiva", "cursive", "escrita a mao",
+    "escrever a mao", "escrito a mao", "escritos a mao", "escritas a mao", "handwriting", "handwritten",
+    "caneta-tinteiro", "caneta tinteiro", "canetas-tinteiro", "fountain pen", "fountain pens",
+    "dicas de produtividade", "produtividade pessoal", "mais produtivo", "mais produtiva", "ser produtivo",
+    "productivity", "pomodoro", "getting things done", "gtd", "deep work", "gestao do tempo",
+    "time management", "lista de tarefas", "to-do list", "to-do lists", "habit tracker", "rotina matinal",
+    "morning routine", "procrastinacao", "procrastination", "escrita criativa", "creative writing",
+]
+# ...e caem se forem disto (batom "Calligraphy", horóscopo, jogo com timer pomodoro, festival de caligrafia oriental).
+CADERNOS_FORA = [
+    "horoscope", "horoscopo", "zodiac", "signo", "lip", "lipstick", "batom", "maquiagem", "makeup", "steam",
+    "game", "games", "jogo", "jogos", "anime", "asmr", "festival de caligrafia", "calligraphy festival",
+    "running script", "caligrafia chinesa", "caligrafia arabe", "arabic calligraphy", "chinese calligraphy",
+]
 ASPAS = re.compile(r"[‘'“\"]([^‘'“\"’”]{3,60})[’'”\"]")
 
 # Palavras que não começam nem terminam um nome próprio (início de frase, artigos).
@@ -108,6 +128,8 @@ def compilar(termos):
 RE_LITERARIO = compilar(LITERARIO)
 RE_PREMIOS = compilar(PREMIOS)
 RE_LANCAMENTOS = compilar(LANCAMENTOS)
+RE_CADERNOS = compilar(CADERNOS)
+RE_CADERNOS_FORA = compilar(CADERNOS_FORA)
 
 
 def titulo_inconfundivel(titulo, livro):
@@ -438,13 +460,18 @@ def coletar_fonte(fonte, perfil):
         if sem_acento(resumo).startswith(sem_acento(titulo[:40])):  # Google Notícias repete o título
             resumo = ""
         texto = sem_acento(f"{titulo} {resumo}")
-        if fonte.get("filtrar") and not RE_LITERARIO.search(texto):
+        if fonte.get("filtrar") and not (RE_CADERNOS if fonte["grupo"] == "cadernos" else RE_LITERARIO).search(texto):
+            continue
+        if fonte.get("filtrar") and fonte["grupo"] == "cadernos" and RE_CADERNOS_FORA.search(texto):
             continue
         tags = []
-        if RE_PREMIOS.search(texto):
-            tags.append("premios")
-        if RE_LANCAMENTOS.search(texto):
-            tags.append("lancamentos")
+        if fonte["grupo"] == "cadernos":
+            tags.append("cadernos")   # caneta "premiada" ou planner "lançado" não é prêmio nem lançamento literário
+        else:
+            if RE_PREMIOS.search(texto):
+                tags.append("premios")
+            if RE_LANCAMENTOS.search(texto):
+                tags.append("lancamentos")
         if fonte.get("local") == "sergipe":
             completo = limpar(b.get("conteudo"), limite=0)
             tudo = sem_acento(f"{titulo} {resumo} {completo} {nome_fonte}")   # "Prefeitura de Aracaju" às vezes só aparece como veículo
@@ -703,18 +730,41 @@ def secoes(itens, pontos):
         "premios-lancamentos": [i["id"] for i in itens if set(i["tags"]) & {"premios", "lancamentos"}],
         "brasil-portugal": [i["id"] for i in itens if i["grupo"] == "brasil-portugal"],
         "internacional": [i["id"] for i in itens if i["grupo"] == "internacional"],
+        "cadernos": [i["id"] for i in itens if i["grupo"] == "cadernos"],
     }
 
 
+def ler_removidos():
+    """Ids que o leitor tirou do Radar (botão Remover da página): somem da API e não voltam."""
+    return {r["id"] for r in ler_json(API / "removidos.json", {}).get("removidos", [])}
+
+
+def limpar_removidos(removidos, pontos):
+    """Tira dos arquivos diários o que foi removido depois de coletado."""
+    for arq in DIAS.glob("*.json"):
+        dia = ler_json(arq, {})
+        itens = [i for i in dia.get("itens", []) if i["id"] not in removidos]
+        if len(itens) != len(dia.get("itens", [])):
+            gravar_json(arq, {**dia, "total": len(itens), "secoes": secoes(itens, pontos), "itens": itens})
+
+
 def main():
+    # --so-remover: não busca nada, só refaz a API sem o que foi removido (roda quando removidos.json muda).
+    so_remover = "--so-remover" in sys.argv
     agora = datetime.now(BRASILIA)
     hoje = agora.date().isoformat()
     fontes = json.loads((RAIZ / "fontes.json").read_text(encoding="utf-8"))["fontes"]
     perfil = carregar_perfil()
     pontos = perfil["pontos"]
+    removidos = ler_removidos()
+    limpar_removidos(removidos, pontos)
 
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        resultados = list(pool.map(lambda f: coletar_fonte(f, perfil), fontes))
+    if so_remover:
+        resultados = []
+        hoje = max((a.stem for a in DIAS.glob("*.json")), default=hoje)   # não cria a edição de hoje antes da hora
+    else:
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            resultados = list(pool.map(lambda f: coletar_fonte(f, perfil), fontes))
 
     # O que já saiu em dias anteriores não volta como novidade.
     vistos = set()
@@ -734,7 +784,7 @@ def main():
         for i in itens:
             if maximo and ja_no_dia + novos >= maximo:
                 break
-            if i["link"] in vistos or i["link"] in do_dia:
+            if i["link"] in vistos or i["link"] in do_dia or i["id"] in removidos:
                 continue
             limite_fonte = agora - timedelta(days=fonte["janela_dias"]) if fonte.get("janela_dias") else limite
             if i["publicado_em"] and datetime.fromisoformat(i["publicado_em"]) < limite_fonte:
@@ -777,7 +827,7 @@ def main():
     # Nomes de veículos e seções não contam como "em alta".
     ignorar = {sem_acento(n) for f in fontes for n in [f["nome"]] + f["nome"].split(" – ")}
     ignorar |= {sem_acento(re.sub(r" \(via Google\)$", "", i["fonte"])) for i in semana}
-    padroes = em_alta(semana, datas[:DIAS_SEMANA], ignorar)
+    padroes = em_alta([i for i in semana if i["grupo"] != "cadernos"], datas[:DIAS_SEMANA], ignorar)   # "em alta" é do mundo literário
 
     perfil_temas = {t["id"]: t["nome"] for t in perfil["temas"]}
     gravar_json(API / "semana.json", {"gerado_em": gerado_em, "dias": datas[:DIAS_SEMANA],
@@ -785,7 +835,8 @@ def main():
                                       "temas": perfil_temas, "itens": semana})
     gravar_json(API / "em-alta.json", {"gerado_em": gerado_em, **padroes})
     gravar_json(API / "indice.json", {"gerado_em": gerado_em, "dias": datas})
-    gravar_json(API / "fontes.json", {"gerado_em": gerado_em, "fontes": status})
+    if not so_remover:
+        gravar_json(API / "fontes.json", {"gerado_em": gerado_em, "fontes": status})
 
     # Estante (obras completas + o que saiu de cada livro) e resumo da semana.
     gravar_json(API / "estante.json", {"gerado_em": gerado_em, "autores": estante_semana(perfil["estante"], semana)})
@@ -863,7 +914,7 @@ def main():
 
     # Alarme: com metade das fontes fora, a execução falha e o GitHub avisa por e-mail.
     falhas = [s["nome"] for s in status if not s["ok"]]
-    if len(falhas) * 2 >= len(status):
+    if status and len(falhas) * 2 >= len(status):
         sys.exit(f"{len(falhas)} de {len(status)} fontes falharam: {', '.join(falhas)}")
 
 

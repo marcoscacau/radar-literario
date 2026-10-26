@@ -45,6 +45,24 @@
       "url": "https://news.google.com/rss/search?q=%22Stephen+King%22+book+OR+novel+OR+novella+-series+-trailer+when:7d&hl=en-US&gl=US&ceid=US:en" },
     { "id": "parisreview", "nome": "The Paris Review",      "grupo": "internacional",   "idioma": "en", "filtrar": false, "url": "https://www.theparisreview.org/blog/feed/" },
     { "id": "gn-prizes",     "nome": "Google News – literary prizes", "grupo": "internacional", "idioma": "en", "filtrar": false, "max_por_dia": 12,
-      "url": "https://news.google.com/rss/search?q=%22Booker+Prize%22+OR+%22Pulitzer+Prize%22+fiction+OR+%22National+Book+Award%22+OR+%22Nobel+Prize+in+Literature%22+OR+%22Women%27s+Prize%22+when:7d&hl=en-US&gl=US&ceid=US:en" }
+      "url": "https://news.google.com/rss/search?q=%22Booker+Prize%22+OR+%22Pulitzer+Prize%22+fiction+OR+%22National+Book+Award%22+OR+%22Nobel+Prize+in+Literature%22+OR+%22Women%27s+Prize%22+when:7d&hl=en-US&gl=US&ceid=US:en" },
+
+    { "id": "bujo",          "nome": "Bullet Journal (Ryder Carroll)", "grupo": "cadernos", "idioma": "en", "filtrar": false, "url": "https://bulletjournal.com/blogs/bulletjournalist.atom" },
+    { "id": "vidaorganizada", "nome": "Vida Organizada",      "grupo": "cadernos",        "idioma": "pt", "filtrar": false, "url": "https://vidaorganizada.com/feed/" },
+    { "id": "penaddict",     "nome": "The Pen Addict",        "grupo": "cadernos",        "idioma": "en", "filtrar": false, "max_por_dia": 4, "url": "https://www.penaddict.com/blog?format=rss" },
+    { "id": "wellappointed", "nome": "The Well-Appointed Desk", "grupo": "cadernos",      "idioma": "en", "filtrar": false, "max_por_dia": 4, "url": "https://www.wellappointeddesk.com/feed/" },
+    { "id": "notebookstories", "nome": "Notebook Stories",    "grupo": "cadernos",        "idioma": "en", "filtrar": false, "url": "https://www.notebookstories.com/feed/" },
+    { "id": "calnewport",    "nome": "Cal Newport",           "grupo": "cadernos",        "idioma": "en", "filtrar": false, "url": "https://calnewport.com/feed/" },
+    { "id": "fortelabs",     "nome": "Forte Labs (segundo cérebro)", "grupo": "cadernos", "idioma": "en", "filtrar": false, "url": "https://fortelabs.com/feed/" },
+    { "id": "nesslabs",      "nome": "Ness Labs",             "grupo": "cadernos",        "idioma": "en", "filtrar": false, "url": "https://nesslabs.com/feed" },
+    { "id": "makeuseof-prod", "nome": "MakeUseOf – produtividade", "grupo": "cadernos",   "idioma": "en", "filtrar": true, "max_por_dia": 4, "url": "https://www.makeuseof.com/feed/category/productivity/" },
+    { "id": "gn-cadernos-pt", "nome": "Google Notícias – cadernos e escrita à mão", "grupo": "cadernos", "idioma": "pt", "filtrar": true, "max_por_dia": 6,
+      "url": "https://news.google.com/rss/search?q=%22bullet+journal%22+OR+%22caderno+de+anota%C3%A7%C3%B5es%22+OR+%22letra+cursiva%22+OR+%22escrever+%C3%A0+m%C3%A3o%22+OR+%22escrita+%C3%A0+m%C3%A3o%22+OR+journaling+OR+%22caneta-tinteiro%22+OR+%22di%C3%A1rio+pessoal%22+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+    { "id": "gn-produtividade-pt", "nome": "Google Notícias – produtividade e anotações", "grupo": "cadernos", "idioma": "pt", "filtrar": true, "max_por_dia": 5,
+      "url": "https://news.google.com/rss/search?q=%22dicas+de+produtividade%22+OR+%22t%C3%A9cnica+pomodoro%22+OR+%22gest%C3%A3o+do+tempo%22+OR+%22como+ser+mais+produtivo%22+OR+%22segundo+c%C3%A9rebro%22+OR+%22tomar+notas%22+OR+%22m%C3%A9todo+GTD%22+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+    { "id": "gn-cadernos-en", "nome": "Google News – journaling and handwriting", "grupo": "cadernos", "idioma": "en", "filtrar": true, "max_por_dia": 6,
+      "url": "https://news.google.com/rss/search?q=%22bullet+journal%22+OR+journaling+OR+handwriting+OR+%22note-taking%22+OR+%22fountain+pen%22+OR+%22paper+planner%22+-horoscope+-game+when:7d&hl=en-US&gl=US&ceid=US:en" },
+    { "id": "gn-produtividade-en", "nome": "Google News – productivity tips", "grupo": "cadernos", "idioma": "en", "filtrar": true, "max_por_dia": 5,
+      "url": "https://news.google.com/rss/search?q=%22productivity+tips%22+OR+%22time+management%22+OR+%22deep+work%22+OR+%22second+brain%22+OR+pomodoro+-horoscope+-game+-steam+when:7d&hl=en-US&gl=US&ceid=US:en" }
   ]
 }

@@ -52,6 +52,8 @@
     { "id": "suspense",  "nome": "suspense e mistério",
       "termos": ["thriller", "suspense", "misterio", "mystery", "conspiracao", "conspiracy", "simbologia", "romance policial", "detective novel"] },
     { "id": "mente",     "nome": "mente e emoções",
-      "termos": ["psicologia", "psychology", "emocoes", "emocional", "emotional", "ansiedade", "anxiety", "saude mental", "mental health", "inteligencia emocional", "autoconhecimento"] }
+      "termos": ["psicologia", "psychology", "emocoes", "emocional", "emotional", "ansiedade", "anxiety", "saude mental", "mental health", "inteligencia emocional", "autoconhecimento"] },
+    { "id": "cadernos",  "nome": "cadernos e produtividade",
+      "termos": ["bullet journal", "bujo", "journaling", "caderno de anotacoes", "planner", "anotacoes", "note-taking", "segundo cerebro", "second brain", "zettelkasten", "caligrafia", "calligraphy", "lettering", "escrita a mao", "escrever a mao", "handwriting", "handwritten", "caneta-tinteiro", "fountain pen", "produtividade pessoal", "dicas de produtividade", "productivity", "pomodoro", "deep work", "gestao do tempo", "time management"] }
   ]
 }

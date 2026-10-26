@@ -110,3 +110,20 @@ As fontes de cultura geral (Folha, Estadão, Público e Observador) têm `"filtr
 - **Rodar na hora**: aba *Actions* → *Atualizar Radar Literário* → *Run workflow*.
 - **Rodar no seu PC**: `python coletor/coletar.py` (Python 3.10 ou mais novo, sem instalar nada).
 - **Mudar o horário**: a linha `cron` em `.github/workflows/atualizar.yml` (está em UTC; Brasília = UTC−3).
+
+## Cadernos e produtividade
+
+A aba "Cadernos e produtividade" (seção `cadernos` da API, grupo `cadernos`) traz bullet journal, anotações, escrita à mão, canetas e papelaria e dicas de produtividade:
+
+- **Blogs:** Bullet Journal (Ryder Carroll), Vida Organizada, The Pen Addict, The Well-Appointed Desk, Notebook Stories, Cal Newport, Forte Labs, Ness Labs e MakeUseOf.
+- **Buscas:** quatro buscas do Google Notícias, em português e em inglês.
+- **Filtro:** as buscas só passam se citarem um termo de `CADERNOS` em `coletor/coletar.py`. Caem as que citam um termo de `CADERNOS_FORA`, como horóscopo, batom, jogo ou festival de caligrafia oriental.
+- **Separação:** esses itens não contam em "Em alta" nem viram prêmio ou lançamento. O tema "cadernos e produtividade" do `perfil.json` dá pontos em "Para você".
+
+## Remover publicações
+
+Cada notícia tem o botão **✕ Remover**, e ela some na hora. A aba "Removidas" lista o que saiu e deixa restaurar.
+
+Com a chave do GitHub ligada (aba Vou publicar), a remoção é gravada em `docs/api/removidos.json`. O workflow `remover.yml` então roda `coletar.py --so-remover`: tira o item de todos os JSON da API sem buscar notícias novas. O item também não volta nas próximas edições.
+
+Para isso, a chave precisa da permissão **Contents: Read and write** no repositório `radar-literario`. Sem ela, a remoção vale só no aparelho.

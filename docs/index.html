@@ -232,6 +232,7 @@
 const SECOES = [
   { id: "para-voce", nome: "Para você" },
   { id: "publicar", nome: "Vou publicar" },
+  { id: "cadernos", nome: "Cadernos e produtividade" },
   { id: "sergipe", nome: "Sergipe" },
   { id: "kindle", nome: "Kindle" },
   { id: "em-alta", nome: "Em alta" },
@@ -241,6 +242,7 @@ const SECOES = [
   { id: "premios-lancamentos", nome: "Prêmios e lançamentos" },
   { id: "brasil-portugal", nome: "Brasil e Portugal" },
   { id: "internacional", nome: "Internacional" },
+  { id: "removidas", nome: "Removidas", so_com_itens: true },
 ];
 const fmtDia = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 const fmtCurto = new Intl.DateTimeFormat("pt-BR", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
@@ -266,17 +268,19 @@ const periodo = n => n === 1 ? "hoje" : `nos últimos ${n} dias`;
 const nomeTema = t => dados.temas?.[t] || t;
 
 function contagem(id) {
-  if (id === "tudo") return dados.itens.length;
+  if (id === "tudo") return dados.itens.filter(visivel).length;
+  if (id === "removidas") return Object.keys(removidosMapa).length;
   if (id === "em-alta") return alta ? alta.termos.length : 0;
   if (id === "estante") return estante ? estante.autores.length : 0;
   if (id === "semana") return null;
   if (id === "publicar") return pautas().filter(p => p.estado === "pretendo").length;
   if (id === "kindle") return kindle ? kindle.ofertas.filter(ofertaRecente).length : 0;
-  return (dados.secoes[id] || []).length;
+  return (dados.secoes[id] || []).filter(k => !(k in removidosMapa)).length;
 }
 
 function desenharAbas() {
-  document.getElementById("abas").replaceChildren(...SECOES.map(s => {
+  if (secao === "removidas" && !contagem("removidas")) secao = "para-voce";
+  document.getElementById("abas").replaceChildren(...SECOES.filter(s => !s.so_com_itens || contagem(s.id)).map(s => {
     const n = contagem(s.id);
     const b = el("button", { type: "button", "aria-pressed": String(s.id === secao) }, s.nome, n == null ? null : el("span", { class: "n" }, String(n)));
     b.onclick = () => { secao = s.id; gravar("radar-secao", s.id); desenharAbas(); desenhar(); };
@@ -361,7 +365,7 @@ function cartao(i) {
   if (i.tags.includes("premios")) meta.append(el("span", { class: "selo s-premios" }, "prêmios"));
   if (i.tags.includes("lancamentos")) meta.append(el("span", { class: "selo s-lancamentos" }, "lançamento"));
   if (i.idioma === "en") meta.append(el("span", { class: "selo s-en" }, "em inglês"));
-  meta.append(botaoPauta(i));
+  meta.append(botaoPauta(i), botaoRemover(i));
   const a = el("a", { class: "titulo", href: i.link, target: "_blank", rel: "noopener" }, i.titulo);
   a.addEventListener("click", () => registrarClique(i));
   a.addEventListener("auxclick", () => registrarClique(i));
@@ -535,6 +539,98 @@ function cartaoPauta(p) {
   return el("article", { class: "pauta" }, titulo, p.resumo ? el("p", {}, p.resumo) : null, meta, nota, ondeCampo, botoes);
 }
 
+// ---------- Remover: publicação que não interessa sai do Radar ----------
+// Some na hora neste aparelho. Se a chave do GitHub puder gravar no radar-literario, vai também para
+// docs/api/removidos.json: o workflow remover.yml refaz a API sem ela, e ela some em todos os aparelhos.
+const REPO_RADAR = "marcoscacau/radar-literario";
+const ARQ_REMOVIDOS = "docs/api/removidos.json";
+let removidosMapa = ler("radar-removidos", {});           // id -> { id, titulo, link, fonte, quando }
+const filaRemocao = () => ler("radar-removidos-fila", []); // mudanças que ainda não chegaram ao GitHub
+let remocaoNuvem = { estado: "local", erro: "" };
+const visivel = i => i && !(i.id in removidosMapa);
+
+function mudarRemovidos(op) {
+  if (op.op === "remover") removidosMapa[op.item.id] = op.item; else delete removidosMapa[op.item.id];
+  gravar("radar-removidos", removidosMapa);
+  gravar("radar-removidos-fila", [...filaRemocao(), op]);
+  desenharAbas(); desenhar();
+  enviarRemocoes();
+}
+const removerItem = i => mudarRemovidos({ op: "remover", item: { id: i.id, titulo: i.titulo, link: i.link, fonte: i.fonte, quando: hojeISO() } });
+const restaurarItem = id => mudarRemovidos({ op: "restaurar", item: removidosMapa[id] });
+
+function botaoRemover(i) {
+  const b = el("button", { type: "button", class: "acao", title: "Tirar esta publicação do Radar e da API" }, "✕ Remover");
+  b.onclick = () => {
+    if (b.dataset.certeza) { removerItem(i); return; }
+    b.dataset.certeza = "1"; b.textContent = "Remover mesmo?";
+    setTimeout(() => { if (b.isConnected) { delete b.dataset.certeza; b.textContent = "✕ Remover"; } }, 4000);
+  };
+  return b;
+}
+
+const paraBase64 = texto => { let s = ""; for (const b of new TextEncoder().encode(texto)) s += String.fromCharCode(b); return btoa(s); };
+const deBase64 = b64 => new TextDecoder().decode(Uint8Array.from(atob(b64.replace(/\s/g, "")), c => c.charCodeAt(0)));
+function ghRemovidos(opcoes = {}) {
+  return fetch(`https://api.github.com/repos/${REPO_RADAR}/contents/${ARQ_REMOVIDOS}`, {
+    ...opcoes, cache: "no-store",
+    headers: { Authorization: `Bearer ${chaveGH()}`, Accept: "application/vnd.github+json", "Content-Type": "application/json" },
+  }).then(r => {
+    if (r.ok) return r.json();
+    throw new Error(r.status === 401 ? "chave inválida ou vencida"
+      : r.status === 403 || r.status === 404 ? "a chave ainda não pode gravar no radar-literario"
+      : r.status === 409 ? "o arquivo mudou no meio do caminho; tento de novo na próxima" : `GitHub respondeu ${r.status}`);
+  });
+}
+
+// Junta a fila deste aparelho com o removidos.json do GitHub e grava; depois a lista daqui passa a ser a de lá.
+let enviandoRemocoes = null;
+function enviarRemocoes() {
+  if (!chaveGH()) return Promise.resolve();
+  if (enviandoRemocoes) return enviandoRemocoes.then(enviarRemocoes);
+  const fila = filaRemocao();
+  enviandoRemocoes = ghRemovidos().then(arq => {
+    const atual = JSON.parse(deBase64(arq.content));
+    const mapa = new Map(atual.removidos.map(r => [r.id, r]));
+    for (const { op, item } of fila) op === "remover" ? mapa.set(item.id, item) : mapa.delete(item.id);
+    const novo = { ...atual, removidos: [...mapa.values()] };
+    const gravacao = !fila.length ? Promise.resolve() : ghRemovidos({ method: "PUT", body: JSON.stringify({
+      message: `Radar: ${fila.length === 1 ? (fila[0].op === "remover" ? "remove" : "restaura") + " “" + fila[0].item.titulo.slice(0, 60) + "”" : fila.length + " mudanças nas removidas"}`,
+      content: paraBase64(JSON.stringify(novo, null, 1) + "\n"), sha: arq.sha }) });
+    return gravacao.then(() => {
+      const resto = filaRemocao().slice(fila.length);   // o que foi removido enquanto gravava fica para a próxima
+      gravar("radar-removidos-fila", resto);
+      removidosMapa = Object.fromEntries(novo.removidos.map(r => [r.id, r]));
+      for (const { op, item } of resto) op === "remover" ? removidosMapa[item.id] = item : delete removidosMapa[item.id];
+      gravar("radar-removidos", removidosMapa);
+      remocaoNuvem = { estado: "ok", erro: "" };
+    });
+  }).catch(e => { remocaoNuvem = { estado: "erro", erro: e.message }; })
+    .finally(() => { enviandoRemocoes = null; desenharAbas(); if (secao === "removidas") desenhar(); });
+  return enviandoRemocoes;
+}
+
+function desenharRemovidas(termo) {
+  const lista = Object.values(removidosMapa).filter(r => !termo || semAcento(`${r.titulo} ${r.fonte}`).includes(termo))
+    .sort((a, b) => (b.quando || "").localeCompare(a.quando || ""));
+  const situacao = !chaveGH()
+    ? "Estão escondidas só neste aparelho. Com a chave do GitHub ligada (aba Vou publicar), saem também da API e de todos os aparelhos."
+    : remocaoNuvem.estado === "ok" ? "☁ Gravadas no GitHub: saem da API em um ou dois minutos e somem em todos os aparelhos."
+    : remocaoNuvem.estado === "erro" ? `☁ Escondidas neste aparelho, mas não consegui tirar da API: ${remocaoNuvem.erro}. ` +
+      "Para isso, a chave precisa da permissão Contents: Read and write no repositório radar-literario (em github.com → Settings → Developer settings → Fine-grained tokens)."
+    : "☁ Gravando no GitHub…";
+  const blocos = [el("div", { class: "intro" }, el("strong", {}, "O que você tirou do Radar. "),
+    "Publicações removidas não aparecem em nenhuma aba e não voltam nas próximas edições. Mudou de ideia? É só restaurar.",
+    el("div", { class: "meta", style: "margin-top:10px" }, el("span", {}, situacao)))];
+  blocos.push(...lista.map(r => {
+    const voltar = el("button", { type: "button", class: "acao" }, "↩ Restaurar");
+    voltar.onclick = () => restaurarItem(r.id);
+    return el("article", {}, el("a", { class: "titulo", href: r.link, target: "_blank", rel: "noopener" }, r.titulo),
+      el("div", { class: "meta" }, el("span", {}, r.fonte), el("span", {}, `removida em ${dataBR(r.quando)}`), voltar));
+  }));
+  document.getElementById("conteudo").replaceChildren(...blocos);
+}
+
 // ---------- Kindle: promoções postadas no Pelando e no Gatry ----------
 const ofertaRecente = o => Date.now() - new Date(o.postado_em) < 14 * 864e5;
 const ofertaAtiva = o => kindle && new Date(kindle.gerado_em) - new Date(o.ultima_vez || o.visto_em) < 6 * 36e5;
@@ -649,7 +745,7 @@ function expansivel(linha, ids) {
   linha.setAttribute("aria-expanded", "false");
   linha.onclick = () => {
     const abrir = caixa.hidden;
-    if (abrir && !caixa.childElementCount) ids.map(id => porId.get(id)).filter(Boolean).forEach(i => caixa.append(cartao(i)));
+    if (abrir && !caixa.childElementCount) ids.map(id => porId.get(id)).filter(visivel).forEach(i => caixa.append(cartao(i)));
     caixa.hidden = !abrir;
     linha.setAttribute("aria-expanded", String(abrir));
   };
@@ -772,7 +868,7 @@ function desenharSemana() {
   }
   if (r.destaques.length) {
     blocos.push(el("h2", {}, "Destaques", el("small", {}, "um por autor")));
-    r.destaques.map(id => porId.get(id)).filter(Boolean).forEach(i => blocos.push(cartao(i)));
+    r.destaques.map(id => porId.get(id)).filter(visivel).forEach(i => blocos.push(cartao(i)));
   }
   main.replaceChildren(...blocos);
 }
@@ -783,12 +879,16 @@ function desenhar() {
   if (secao === "em-alta") return alta ? desenharEmAlta(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "estante") return estante ? desenharEstante(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "publicar") return desenharPublicar(termo);
+  if (secao === "removidas") return desenharRemovidas(termo);
   if (secao === "kindle") return kindle ? desenharKindle(termo) : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
   if (secao === "semana") return resumo ? desenharSemana() : main.replaceChildren(el("p", { class: "vazio" }, "Ainda sem dados."));
-  const filtra = i => !termo || semAcento(`${i.titulo} ${i.resumo} ${i.fonte}`).includes(termo);
+  const filtra = i => visivel(i) && (!termo || semAcento(`${i.titulo} ${i.resumo} ${i.fonte}`).includes(termo));
   if (secao === "tudo") return desenharLista(dados.itens.filter(filtra));
-  const itens = (dados.secoes[secao] || []).map(id => porId.get(id)).filter(i => i && filtra(i));
+  const itens = (dados.secoes[secao] || []).map(id => porId.get(id)).filter(filtra);
   if (secao === "para-voce") return desenharLista(itens, [introParaVoce(itens)], [painelAprendizado()]);
+  if (secao === "cadernos") return desenharLista(itens, [el("div", { class: "intro" },
+    el("strong", {}, "Cadernos, anotações e produtividade. "),
+    "Bullet journal, escrita à mão, caligrafia, canetas e papelaria, jeitos de tomar notas e dicas de produtividade — do blog do Ryder Carroll, da Vida Organizada, do Cal Newport, do Pen Addict e das notícias. Não quer ver alguma? Toque em “✕ Remover”: ela sai daqui e da API.")]);
   if (secao === "sergipe") return desenharLista(itens, [el("div", { class: "intro" },
     el("strong", {}, "Eventos literários em Sergipe. "),
     "Feiras, bienais, saraus, lançamentos e sessões de autógrafos em Aracaju e no interior, garimpados nas notícias, na agenda cultural da semana e no Sympla. Cada evento novo também chega por e-mail e no celular.",
@@ -818,9 +918,12 @@ const pegar = (nome, obrigatorio) => fetch(`api/${nome}.json`, { cache: "no-stor
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .catch(e => { if (obrigatorio) throw e; return null; });
 
-Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("resumo-semana"), pegar("alertas"), pegar("perfil"), pegar("kindle")])
-.then(([j, a, e, r, al, p, k]) => {
+Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("resumo-semana"), pegar("alertas"), pegar("perfil"), pegar("kindle"), pegar("removidos")])
+.then(([j, a, e, r, al, p, k, rem]) => {
   dados = j; alta = a; estante = e; resumo = r; alertas = al?.alertas || []; perfil = p; kindle = k;
+  // O que já saiu da API em outro aparelho também some aqui (menos o que este aparelho acabou de restaurar).
+  const restaurando = new Set(filaRemocao().filter(o => o.op === "restaurar").map(o => o.item.id));
+  for (const r of rem?.removidos || []) if (!restaurando.has(r.id)) removidosMapa[r.id] = r;
   j.secoes["para-voce"] ||= [];
   porId = new Map(j.itens.map(i => [i.id, i]));
   document.getElementById("data").textContent = j.dias.length ? diaExtenso(j.dias[0]) : "Sem edições ainda";
@@ -833,7 +936,8 @@ Promise.all([pegar("semana", true), pegar("em-alta"), pegar("estante"), pegar("r
   document.getElementById("busca").addEventListener("input", desenhar);
   // Pautas: puxa a lista do GitHub ao abrir e ao voltar para a página (pode ter mudado no outro aparelho).
   sincronizar();
-  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && chaveGH()) sincronizar(); });
+  enviarRemocoes();
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && chaveGH()) { sincronizar(); enviarRemocoes(); } });
 }).catch(() => {
   document.getElementById("data").textContent = "";
   document.getElementById("conteudo").replaceChildren(el("p", { class: "erro" }, "Não consegui carregar as notícias agora. Tente de novo mais tarde."));
