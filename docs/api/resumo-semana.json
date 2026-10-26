@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T08:35:01-03:00",
+ "gerado_em": "2026-10-26T12:54:01-03:00",
  "dias": [
   "2026-10-26",
   "2026-10-25",
@@ -9,11 +9,11 @@
   "2026-10-21",
   "2026-10-20"
  ],
- "total": 575,
+ "total": 588,
  "por_grupo": {
-  "internacional": 295,
-  "cadernos": 17,
-  "brasil-portugal": 263
+  "brasil-portugal": 271,
+  "internacional": 299,
+  "cadernos": 18
  },
  "temas": [
   {
@@ -60,7 +60,7 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 60
+   "noticias": 61
   },
   {
    "nome": "Rebecca Yarros",
@@ -68,7 +68,7 @@
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 33
+   "noticias": 34
   },
   {
    "nome": "C. S. Lewis",
@@ -83,11 +83,11 @@
    "noticias": 5
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 3
+   "nome": "Dostoiévski",
+   "noticias": 4
   },
   {
-   "nome": "Dostoiévski",
+   "nome": "Raphael Montes",
    "noticias": 3
   },
   {

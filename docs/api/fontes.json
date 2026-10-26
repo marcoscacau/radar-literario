@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T08:35:01-03:00",
+ "gerado_em": "2026-10-26T12:54:01-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "quatrocincoum",
@@ -17,7 +17,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 0
+   "novos_hoje": 4
   },
   {
    "id": "folha",
@@ -26,7 +26,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 14,
-   "novos_hoje": 2
+   "novos_hoje": 1
   },
   {
    "id": "estadao",
@@ -34,7 +34,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 1,
+   "itens_no_feed": 0,
    "novos_hoje": 0
   },
   {
@@ -44,7 +44,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 3,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 4,
-   "novos_hoje": 4
+   "itens_no_feed": 0,
+   "novos_hoje": 0
   },
   {
    "id": "gn-premios-br",
@@ -61,8 +61,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 64,
-   "novos_hoje": 9
+   "itens_no_feed": 59,
+   "novos_hoje": 0
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 25,
-   "novos_hoje": 0
+   "itens_no_feed": 32,
+   "novos_hoje": 1
   },
   {
    "id": "gn-estante-br",
@@ -79,8 +79,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 35,
-   "novos_hoje": 5
+   "itens_no_feed": 36,
+   "novos_hoje": 1
   },
   {
    "id": "gn-acompanhados-br",
@@ -88,8 +88,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 47,
-   "novos_hoje": 4
+   "itens_no_feed": 48,
+   "novos_hoje": 1
   },
   {
    "id": "gn-sergipe-eventos",
@@ -97,7 +97,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 40,
+   "itens_no_feed": 41,
    "novos_hoje": 0
   },
   {
@@ -131,8 +131,8 @@
    "id": "g1-se",
    "nome": "g1 Sergipe",
    "grupo": "brasil-portugal",
-   "ok": false,
-   "erro": "ParseError: not well-formed (invalid token): line 1, column 0",
+   "ok": true,
+   "erro": null,
    "itens_no_feed": 0,
    "novos_hoje": 0
   },
@@ -170,7 +170,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 10
+   "novos_hoje": 0
   },
   {
    "id": "guardian",
@@ -179,7 +179,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 29,
-   "novos_hoje": 5
+   "novos_hoje": 1
   },
   {
    "id": "nyt",
@@ -188,7 +188,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 37,
-   "novos_hoje": 2
+   "novos_hoje": 0
   },
   {
    "id": "guardian-ciencia",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 4
+   "novos_hoje": 0
   },
   {
    "id": "ct",
@@ -241,7 +241,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 6,
+   "itens_no_feed": 4,
    "novos_hoje": 0
   },
   {
@@ -250,8 +250,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 49,
-   "novos_hoje": 4
+   "itens_no_feed": 50,
+   "novos_hoje": 1
   },
   {
    "id": "gn-yarros-en",
@@ -259,8 +259,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 100,
-   "novos_hoje": 6
+   "itens_no_feed": 65,
+   "novos_hoje": 0
   },
   {
    "id": "gn-king-en",
@@ -268,8 +268,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 39,
-   "novos_hoje": 6
+   "itens_no_feed": 37,
+   "novos_hoje": 0
   },
   {
    "id": "parisreview",
@@ -286,8 +286,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 44,
-   "novos_hoje": 7
+   "itens_no_feed": 45,
+   "novos_hoje": 2
   },
   {
    "id": "bujo",
@@ -314,7 +314,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 20,
-   "novos_hoje": 3
+   "novos_hoje": 1
   },
   {
    "id": "wellappointed",
@@ -323,7 +323,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "notebookstories",
@@ -377,7 +377,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 6,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "gn-produtividade-pt",
@@ -386,7 +386,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 3,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "gn-cadernos-en",
@@ -394,8 +394,8 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 38,
-   "novos_hoje": 6
+   "itens_no_feed": 40,
+   "novos_hoje": 0
   },
   {
    "id": "gn-produtividade-en",
@@ -403,8 +403,8 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 10,
-   "novos_hoje": 5
+   "itens_no_feed": 9,
+   "novos_hoje": 0
   }
  ]
 }

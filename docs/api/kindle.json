@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T10:26:52-03:00",
+ "gerado_em": "2026-10-26T12:54:08-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -2] Name or service not known>",
    "ofertas": 0
   },
   {
@@ -20,8 +20,26 @@
    "ofertas": 4
   }
  ],
- "total": 30,
+ "total": 31,
  "ofertas": [
+  {
+   "id": "5767f4afc3bd",
+   "titulo": "Kindle Unlimited acabou? Entenda o que muda para quem assina",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXBhRGRTd2RhVF9iTzgwbjIyMTN2bkttR09ab0xxOHdreG11bGlUU2JrYjY5N1N2Rkl5b0liWXo0dzg1MktJLTVadVNKeFQ4cG9PZi1yRXFfNUNEU1BjZ3ExU3hrbTRqRVJNSDUtTnU3N1d0dkZVWXFhMF9NT2tvZ3RyYXVvWXN5aDFlTmJLU1RxN2VKWFFnSEdRZElhUnVPSFRyQmt0Wk9jOEI2bXfSAa4BQVVfeXFMTlVwYURkU3dkYVRfYk84MG4yMjEzdm5LbUdPWm9McTh3a3htdWxpVFNia2I2OTdTdkZJeW9JYll6NHc4NTJLSS01WnVTSnhUOHBvT2YtckVxXzVDRFNQY2dxMVN4a200akVSTUg1LU51NzdXdHZGVVlxYTBfTU9rb2d0cmF1b1lzeWgxZU5iS1NUcTdlSlhRZ0hHUWRJYVJ1T0hUckJrdFpPYzhCNm13?oc=5",
+   "fonte": "Portal iG",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-26T12:42+00:00",
+   "visto_em": "2026-10-26T12:54-03:00",
+   "ultima_vez": "2026-10-26T12:54-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "fe1e49e5bc5e",
    "titulo": "Kindle Unlimited: Amazon muda nome do serviço de livros para Kindle+",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-26T04:57+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-26T10:26-03:00",
+   "ultima_vez": "2026-10-26T12:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-23T19:59+00:00",
    "visto_em": "2026-10-23T18:34-03:00",
-   "ultima_vez": "2026-10-26T10:26-03:00",
+   "ultima_vez": "2026-10-26T12:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-10-23T16:55+00:00",
    "visto_em": "2026-10-24T13:09-03:00",
-   "ultima_vez": "2026-10-26T10:26-03:00",
+   "ultima_vez": "2026-10-26T12:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

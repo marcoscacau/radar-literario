@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T08:35:01-03:00",
+ "gerado_em": "2026-10-26T12:54:01-03:00",
  "dias": [
   "2026-10-26",
   "2026-10-25",
@@ -9,19 +9,20 @@
   "2026-10-21",
   "2026-10-20"
  ],
- "total": 575,
+ "total": 588,
  "secoes": {
   "para-voce": [
    "468083ae8878",
    "25f6c10c67b9",
+   "1461cf8b2131",
    "ff0fb623d1aa",
    "49605e3df2ae",
    "9c04d16bd769",
    "21bcc2ee4066",
    "5e6079769c79",
    "61688f9639f8",
-   "7c8081994571",
    "10316dd96377",
+   "88e5bcb25a00",
    "aa790e4c9b10",
    "29e7faa9ad27",
    "3c2e00caffd3",
@@ -116,6 +117,8 @@
    "d7c66625e55e"
   ],
   "premios-lancamentos": [
+   "22471797f836",
+   "cced2ce3b18b",
    "0177b9e7a84b",
    "88d5c3031b9b",
    "5948ecbe835a",
@@ -228,6 +231,13 @@
    "638150c748a1"
   ],
   "brasil-portugal": [
+   "b14c1624fde5",
+   "88e5bcb25a00",
+   "49a00bec2fa1",
+   "49bdff134466",
+   "043b5b3cc22a",
+   "cced2ce3b18b",
+   "1461cf8b2131",
    "902e08aea1df",
    "031b4653c6fd",
    "25f6c10c67b9",
@@ -238,6 +248,7 @@
    "49605e3df2ae",
    "d2bbfd21e16f",
    "31499323ce5c",
+   "5c51cc51b4c2",
    "21bcc2ee4066",
    "8d7c3b7d957a",
    "e3232329aaaa",
@@ -493,6 +504,8 @@
    "64b8a26e4fca"
   ],
   "internacional": [
+   "d943129e7a55",
+   "22471797f836",
    "65b442e9bd7c",
    "6f5cf489a6c7",
    "97fe30feee75",
@@ -533,9 +546,11 @@
    "61688f9639f8",
    "7c8081994571",
    "10316dd96377",
+   "7bbb5b67adb7",
    "63863c69c26b",
    "ddb3a92db82a",
    "e229897ccb69",
+   "7560390e30d6",
    "296f4beda3ab",
    "305d829f6fb0",
    "5a2fbc35b6b5",
@@ -790,6 +805,7 @@
    "a030a24badd3"
   ],
   "cadernos": [
+   "b1af302213c9",
    "4f8ed641f1e9",
    "88a064277f94",
    "fea272524bea",
@@ -820,6 +836,198 @@
   "cadernos": "cadernos e produtividade"
  },
  "itens": [
+  {
+   "id": "b14c1624fde5",
+   "titulo": "Uma menina no meio da violência",
+   "link": "https://quatrocincoum.com.br/resenhas/literatura/literatura-negra/uma-menina-no-meio-da-violencia/",
+   "resumo": "A publicação no Brasil de Rosa Mistika, do escritor tanzaniano Euphrase Kezilahabi, é um acontecimento importante por várias razões que merecem celebração. Para começar, é o primeiro romance originalmente escrito em língua suaíli a ser publicado em tradução no país. O livro estreou em 1971 e só…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T12:10-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "88e5bcb25a00",
+   "titulo": "Dica de leitura: 'Noites Brancas' é porta de entrada para Dostoiévski",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHVTVVRmS3ZtVGl5SnNBaUNKMk1tRkhjMjg2aEVGNmRET0FvanhiRGFtbE5LLXFfY2pNZnE0RHJ2bmtTdnA5WlgxS3JvekZwWTFvazBqRmpHT3BkbVllT2NCbi1WX3NTbWwxUkZQV3Q1cUdtV0J0SGdzT0V3RkkwUkh2dTN2dHhQdm16NlFmXzdidVRSOFpTRGhlMlZ4THNiaWJqSGhmdWQ?oc=5",
+   "resumo": "",
+   "fonte": "Band (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T12:10-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [
+     "Dostoiévski"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "49a00bec2fa1",
+   "titulo": "Transcrição: Amelinha Teles e Camilo Vannuchi no podcast 451 MHz",
+   "link": "https://quatrocincoum.com.br/transcricao/podcast/transcricao-amelinha-teles-e-camilo-vannuchi-no-podcast-451-mhz/",
+   "resumo": "Este programa, que foi ao ar na véspera do primeiro turno de mais uma eleição decisiva para a democracia brasileira, é uma homenagem à escritora e ativista Amelinha Teles, morta em 15 de setembro. Ela e o jornalista e escritor Camilo Vannuchi falam sobre a luta para que a história da ditadura…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T11:55-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "49bdff134466",
+   "titulo": "SBT mantém linha pró-governo e faz editorial para apoiar Lula: 'Lado do povo'",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/sbt-mantem-linha-pro-governo-e-faz-editorial-para-apoiar-lula-lado-do-povo.shtml",
+   "resumo": "O SBT divulgou um editorial na noite de domingo (25), pouco antes de o TSE (Tribunal Superior Eleitoral) confirmar a reeleição do presidente Lula ( PT ). A emissora afirmou que irá apoiar o governo federal nos próximos quatro anos. Leia mais (10/26/2026 - 11h46)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T11:46-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "d943129e7a55",
+   "titulo": "Lord Of The Rings Movies Cut A Key Book Scene Where Sam Totally Changes The Shire",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeC1qbUhxX0Q0dkZoYWtzcm9kSTN2R1dpcG1QanA2cFlIYTB0Q09tNHVBMzBTVzdjcjNiQXVSak83S3R4QXJ6T1dJSTZvUTFFUEdOTGxpS2ZndFFuNlpQRGtKQzFrUUxFeHhzYjRLNGpnNkI5VXVhVzgwR1l5RXRYSTlOYUw3aE42UHVpU3FWWm0?oc=5",
+   "resumo": "",
+   "fonte": "Yahoo (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-26T11:35-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "043b5b3cc22a",
+   "titulo": "Mulheres em perspectiva",
+   "link": "https://quatrocincoum.com.br/trechos/trechos/mulheres-em-perspectiva/",
+   "resumo": "Nos Estados Unidos dos anos 60, Margaret, Viv e Bitsy, três amigas donas de casa que moram em um bairro planejado no estado de Virgínia, acham que suas vidas são pacatas. Dificuldades, porém, começam a surgir: Margaret não consegue abrir uma conta bancária em seu próprio nome e Viv não consegue…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T11:12-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "22471797f836",
+   "titulo": "The Booker Prize Shortlist 2026: Contemporary fiction’s take on what it means to be a man",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUtiNGxselNGRGwyU0Q3WGVDV2ZnV2p1cUZReV85UVhQaUNHd2lRWi1GaFZXbDlzSzlQajRlWGp5OHRKZk8yTGNTekRRakRURjc1SjZtQ3QxRElqZm1ESVhqYUVMMkpkWkNHdmxVa3RfekpoN3NMaWxmczJGWkJUS1dtM1ZJcEJDbkFOZ1ZKX1N5SXEwVzBmTGhSQ0YzeWdENVJON19laVRaMlo3dXlubQ?oc=5",
+   "resumo": "",
+   "fonte": "epigram.org.uk (via Google)",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-26T11:12-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "cced2ce3b18b",
+   "titulo": "Quatro Cinco Um lança assinatura digital para leitores no exterior",
+   "link": "https://quatrocincoum.com.br/noticias/451/quatro-cinco-um-lanca-assinatura-digital-para-leitores-no-exterior/",
+   "resumo": "A Quatro Cinco Um tem uma boa notícia para leitores onívoros que não moram no Brasil: a revista agora oferece um plano de assinatura digital para quem vive no exterior. Criada em 2017, a Quatro Cinco Um é uma revista multiplataforma de crítica de livros que publica resenhas, reportagens,…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T11:04-03:00",
+   "tags": [
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "b1af302213c9",
+   "titulo": "It’s About That Time!",
+   "link": "https://www.penaddict.com/blog/2026/10/26/its-about-that-time",
+   "resumo": "It’s almost vacation time for me, and what a vacation it is going to be. I’m heading to Japan soon, so for the first time in as long as I can remember, The Pen Addict blog will be quiet for a couple of weeks. If you want to follow along with what I am up to you can follow me on Instagram . I’m…",
+   "fonte": "The Pen Addict",
+   "fonte_id": "penaddict",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-10-26T10:00-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "1461cf8b2131",
+   "titulo": "Halloween: 5 séries de terror no estilo Stephen King para assistir",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2FEdlNmQzlIa3BlNHlHM1FRVndWajZJNVU0bXFtenZ2czBLSmVIZmUzSENsMUNReXozTllkQkxXQUJYWDJCTjJyekpzV1JuUjhrRl9RZnVUai0wWFZwYTEybkNaMU85aDFsQW5VdXZjM2VEb2tvVFVPdjJCWjdiSlUxRERrMmEwcXJmOG1TR3Zhazl4YmItSmRYMVkyYWhTY3RaTERITlFqRHRMbGo4TVBicGlOUndtenfSAb8BQVVfeXFMT1ZhNzlZaVM2aTZ2OWtzUGdmU0V4eTZfOWM0Z3ZGanZOUWJ4TXlYRFdIU0lfZmNWUTdWa0FqeEVCWkZleVBYdm92NkZSWU1MdWFTcTFpQUlKU2NVRzVoajg2cXFkOFNTMTZmQkFrbzBSYW55aXdzV2xTX1BZVHV4UEQ2Ni1FbUJXOTBXMm9WczZRZlpSSElSTHQxRG9TbVBUY2xjRmw1T3VBUmg1cF82TjEwYUxUUlR2dHN1TmxIOVk?oc=5",
+   "resumo": "",
+   "fonte": "Estadão (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-26T08:45-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
   {
    "id": "65b442e9bd7c",
    "titulo": "Fourth Wing TV series reportedly locks in filming window",
@@ -1754,6 +1962,24 @@
    "dia": "2026-10-26"
   },
   {
+   "id": "5c51cc51b4c2",
+   "titulo": "2ª Bienal do Livro Sergipe movimentará a capital e os sergipanos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbkdEVUN5Nmc0MHJndUw5WEozZ3dpd2V4UFNRV0tuOWRMb1d0ZmhDdjZLWnFkdHVPam9MM1k2VThtS3p6QTNLODRTX1JBdWVsNmNhOFV0NWxsQ01qZ2FUTHJ6YjQ1VUJTLVhMbm52QWRjQi1ZaU9Pd1MwMGljSDZOWTFxNEdIOWlyYURJaUl6SlhkSUlISW1iRjN3?oc=5",
+   "resumo": "",
+   "fonte": "Cinform Online (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-25T17:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
    "id": "804d6cdfb802",
    "titulo": "AI Wearables Move From Note-Taking Pendants to Everyday Companions",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmFpYkw1aWZVNGEyZi00SmFGYlU2VmdiVW9iSUVwN3JvWldGWmlSdGZEdWZqOUczaWEyazJnSktySUg4MGlTNV9CMWszMGV3NWdSMFJTTi11Vng4QWVWa0N2VjFRcmZRTlh0VkE4ZjAwek8yLUxjakZRT3dfME5IUTNkTUJBckM2VUFFZURndkhFRl8tYXB5bnBwd1U0ZkNDZ3pxNmZkNGU?oc=5",
@@ -2095,6 +2321,24 @@
    "dia": "2026-10-26"
   },
   {
+   "id": "7bbb5b67adb7",
+   "titulo": "Two children’s laureates to give royalties to Sally Rooney after her UK sales halted",
+   "link": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
+   "resumo": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity after Rooney’s support for Palestine Action The children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidarity after she was forced to stop selling books in the UK…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-25T09:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
    "id": "41072375ad57",
    "titulo": "Escritores negros da Zona Norte do Rio são finalistas do Prêmio Jabuti e refletem a diversidade da cidade em suas obras premiadas.",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUHJFWlp4UkJGZWZrRkxueVNjN01xZ2xRSTRRMFZlSkFfWC1DcmN4TmNaZUkwNXljTjl4eUR5WmpMQlpvbWJCYkVBZ2NyNUx0TEg0d3NxUFktZ3J6XzNpNF9BZUpaM0tqTFBRdWhLQnNHTjlMaFhkR2taMlNKWWltZDlUbHA1dkxSVjNnTEdqc2JVUmxuWWpnaDdlRVVTbnFHVDd1eXBmcElKeVZ1OTNoZmt5eHJoWWJyS2VtRDFuR0ZTNy1zajNtZnRMZ2dmczhmY2tkX2VLSWNKaTMzX1B2US0xSDFGd0FENFdaTERmQzdxdw?oc=5",
@@ -2219,6 +2463,24 @@
    "resumo": "Novelist says demise of Britain’s ‘incredible’ welfare system and housing struggles have led to deeper divisions The novelist Zadie Smith has said that inequality has made culture clashes feel “existential”, adding that it has become “natural to look to your left and think ‘who the fuck are you?’”…",
    "fonte": "The Guardian – Books",
    "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-10-25T04:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "dia": "2026-10-26"
+  },
+  {
+   "id": "7560390e30d6",
+   "titulo": "Who Inspired Sherlock? Elementary!",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHVEZC1EdjRVN0Z2MDB6VHFlalFJTWhKZUY4RlR3WmhpemoydGRZZlRtOU9rZjlPNmpwcVBzU2NRWFE3X1NreG11VmVRTFNRMk1RYWIweWduLXVIUmFkckdQNzEzdEh1YWVFRnNYcVpfQjdPWVkzdXF0aDUwUkdlQkk1VmJEODd2OG44R0pOcGlOamh2VHIxR1dHNTF6cmlRTTl5Ni1FYzNCZXV6NlJ3LUlZOGRzb3FjY25CS0J3?oc=5",
+   "resumo": "",
+   "fonte": "The New York Times (via Google)",
+   "fonte_id": "gn-prizes",
    "grupo": "internacional",
    "idioma": "en",
    "publicado_em": "2026-10-25T04:00-03:00",
