@@ -1,50 +1,40 @@
 {
- "gerado_em": "2026-10-26T12:54:01-03:00",
+ "gerado_em": "2026-10-27T12:10:02-03:00",
  "dias": [
+  "2026-10-27",
   "2026-10-26",
   "2026-10-25",
   "2026-10-24",
   "2026-10-23",
   "2026-10-22",
-  "2026-10-21",
-  "2026-10-20"
+  "2026-10-21"
  ],
- "total": 588,
+ "total": 602,
  "por_grupo": {
-  "brasil-portugal": 271,
-  "internacional": 299,
-  "cadernos": 18
+  "internacional": 293,
+  "brasil-portugal": 283,
+  "cadernos": 26
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 14
+   "noticias": 21
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 12
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 7
+   "noticias": 13
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 4
+   "noticias": 6
   },
   {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 4
-  },
-  {
-   "id": "russos",
-   "nome": "literatura russa",
-   "noticias": 3
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 6
   },
   {
    "id": "filosofia",
@@ -52,39 +42,49 @@
    "noticias": 3
   },
   {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 3
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
+   "noticias": 3
+  },
+  {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 2
+   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 61
+   "noticias": 56
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 40
+   "noticias": 39
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 34
+   "noticias": 30
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 21
+   "noticias": 17
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 13
   },
   {
    "nome": "Franz Kafka",
    "noticias": 9
   },
   {
-   "nome": "Augusto Cury",
-   "noticias": 5
-  },
-  {
    "nome": "Dostoiévski",
-   "noticias": 4
+   "noticias": 3
   },
   {
    "nome": "Raphael Montes",
@@ -101,26 +101,26 @@
  ],
  "em_alta": [
   "Prêmio Jabuti",
+  "Augusto Cury",
   "Prime Video",
-  "Fourth Wing",
   "Gustavo Scarpa",
-  "Biblioteca Nacional"
+  "Fourth Wing"
  ],
  "subindo": [
   {
-   "termo": "Prime Video",
+   "termo": "Augusto Cury",
    "ultimos_3_dias": 9,
-   "antes": 4
-  },
-  {
-   "termo": "Gustavo Scarpa",
-   "ultimos_3_dias": 5,
    "antes": 3
   },
   {
-   "termo": "Franz Kafka",
-   "ultimos_3_dias": 3,
-   "antes": 2
+   "termo": "Nobel de Literatura",
+   "ultimos_3_dias": 5,
+   "antes": 1
+  },
+  {
+   "termo": "Booker Prize",
+   "ultimos_3_dias": 2,
+   "antes": 1
   }
  ],
  "destaques": [
@@ -130,7 +130,7 @@
   "25f6c10c67b9",
   "0389461fcfa9",
   "50b86974bc0e",
-  "49605e3df2ae",
-  "02fc8f2f4510"
+  "a4e928c28c4e",
+  "49605e3df2ae"
  ]
 }

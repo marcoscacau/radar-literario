@@ -1,7 +1,49 @@
 {
- "gerado_em": "2026-10-26T12:54:01-03:00",
- "total": 28,
+ "gerado_em": "2026-10-27T12:10:02-03:00",
+ "total": 30,
  "eventos": [
+  {
+   "id": "ea9230bb835d",
+   "titulo": "MEC Livros bate 1 milhão de empréstimos e amplia acervo",
+   "link": "https://infonet.com.br/noticias/educacao/mec-livros-bate-1-milhao-de-emprestimos-e-amplia-acervo/",
+   "resumo": "Biblioteca digital gratuita reúne mais de 25 mil obras e amplia de duas para quatro a quantidade mensal de empréstimos de títulos protegidos por direitos autorais. Acervo recebe 101 novos livros",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-27T10:32-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-27"
+  },
+  {
+   "id": "e34304320377",
+   "titulo": "Festival Sergipanidade abre 135 vagas para oficinas gratuitas",
+   "link": "https://infonet.com.br/noticias/cultura/festival-sergipanidade-abre-135-vagas-para-oficinas-gratuitas/",
+   "resumo": "Nove oficinas e duas rodas de conversa acontecem na sexta-feira e sábado, no Centro de Criatividade, com inscrições por formulário on-line",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-27T10:22-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-10-27"
+  },
   {
    "id": "850c10663c6b",
    "titulo": "Acompanhamento ocular infantil ajuda a identificar problemas de visão",

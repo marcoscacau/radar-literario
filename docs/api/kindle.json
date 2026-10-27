@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T06:15:57-03:00",
+ "gerado_em": "2026-10-27T12:10:09-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -2] Name or service not known>",
    "ofertas": 0
   },
   {
@@ -20,8 +20,26 @@
    "ofertas": 2
   }
  ],
- "total": 31,
+ "total": 32,
  "ofertas": [
+  {
+   "id": "4cc706e6b917",
+   "titulo": "Kindle Unlimited acabou? Entenda o que muda para quem assina",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkw5QzlrZk0wUWxKVlRPaHIwSG1Kb1VTOHliRHBCRG9YY2J1U3VPRXlKWEFCVjJRQ2dhM2JZck91djRjdjJoNDR6T2tfb0dWTU52MDY5ZkxheFFCekotM2FhX3J2dE10WTN2cDEwd1hTbjJqRHU5UWhYTk9KbFVISFppNHFzS3g3SS1IakFMYkcwSFNkOU9YVWJiNUhJTHRYZEszeG10MFHSAa4BQVVfeXFMTlVwYURkU3dkYVRfYk84MG4yMjEzdm5LbUdPWm9McTh3a3htdWxpVFNia2I2OTdTdkZJeW9JYll6NHc4NTJLSS01WnVTSnhUOHBvT2YtckVxXzVDRFNQY2dxMVN4a200akVSTUg1LU51NzdXdHZGVVlxYTBfTU9rb2d0cmF1b1lzeWgxZU5iS1NUcTdlSlhRZ0hHUWRJYVJ1T0hUckJrdFpPYzhCNm13?oc=5",
+   "fonte": "Portal iG",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-26T12:42+00:00",
+   "visto_em": "2026-10-27T12:10-03:00",
+   "ultima_vez": "2026-10-27T12:10-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "5767f4afc3bd",
    "titulo": "Kindle Unlimited acabou? Entenda o que muda para quem assina",
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-26T04:57+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-27T06:15-03:00",
+   "ultima_vez": "2026-10-27T12:10-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
