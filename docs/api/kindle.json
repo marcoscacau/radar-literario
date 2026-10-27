@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T12:29:54-03:00",
+ "gerado_em": "2026-10-27T17:13:14-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 2
+   "ofertas": 3
   }
  ],
- "total": 32,
+ "total": 33,
  "ofertas": [
+  {
+   "id": "2464dc1eb9c3",
+   "titulo": "O Kindle Unlimited passa por uma reformulação e adiciona ótimos recursos para os leitores.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkdRTnhSVlhLNXFUekhncjUyc3hMOEd0ZE9rUmRoMVpaS3I3Uko4OFhRRzYzOFFwTEgxcTRwb2ExTlFoLXh6ZWdMVjBXellFYjh4YmxpWFZoWEY2UGNCUjdJaTBQa0NHYUo3X1VfbE1FWlpXVkpRNlRnV1NNQUd6VFUtLUw1aDBmS0JLRA?oc=5",
+   "fonte": "Vietnam.vn",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-27T11:00+00:00",
+   "visto_em": "2026-10-27T17:13-03:00",
+   "ultima_vez": "2026-10-27T17:13-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "4cc706e6b917",
    "titulo": "Kindle Unlimited acabou? Entenda o que muda para quem assina",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-26T12:42+00:00",
    "visto_em": "2026-10-27T12:10-03:00",
-   "ultima_vez": "2026-10-27T12:29-03:00",
+   "ultima_vez": "2026-10-27T17:13-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-10-26T04:57+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
-   "ultima_vez": "2026-10-27T12:29-03:00",
+   "ultima_vez": "2026-10-27T17:13-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
