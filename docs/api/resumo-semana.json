@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-10-27T12:10:02-03:00",
+ "gerado_em": "2026-10-28T12:45:51-03:00",
  "dias": [
+  "2026-10-28",
   "2026-10-27",
   "2026-10-26",
   "2026-10-25",
   "2026-10-24",
   "2026-10-23",
-  "2026-10-22",
-  "2026-10-21"
+  "2026-10-22"
  ],
- "total": 602,
+ "total": 629,
  "por_grupo": {
-  "internacional": 293,
-  "brasil-portugal": 283,
-  "cadernos": 26
+  "internacional": 297,
+  "brasil-portugal": 290,
+  "cadernos": 42
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 21
+   "noticias": 34
   },
   {
    "id": "fantasia",
@@ -27,56 +27,56 @@
    "noticias": 13
   },
   {
-   "id": "fe",
-   "nome": "fé e teologia",
-   "noticias": 6
-  },
-  {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 6
+   "noticias": 7
   },
   {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 3
+   "id": "fe",
+   "nome": "fé e teologia",
+   "noticias": 7
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 3
-  },
-  {
-   "id": "russos",
-   "nome": "literatura russa",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
+   "noticias": 2
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 2
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
    "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 56
+   "noticias": 58
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 39
+   "noticias": 40
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 30
-  },
-  {
-   "nome": "C. S. Lewis",
-   "noticias": 17
+   "noticias": 23
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 13
+   "noticias": 20
+  },
+  {
+   "nome": "C. S. Lewis",
+   "noticias": 16
   },
   {
    "nome": "Franz Kafka",
@@ -87,12 +87,12 @@
    "noticias": 3
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 3
+   "nome": "Dan Brown",
+   "noticias": 1
   },
   {
-   "nome": "Ursula K. Le Guin",
-   "noticias": 2
+   "nome": "Raphael Montes",
+   "noticias": 1
   },
   {
    "nome": "Aleksandr Púchkin",
@@ -104,33 +104,43 @@
   "Augusto Cury",
   "Prime Video",
   "Gustavo Scarpa",
-  "Fourth Wing"
+  "Flávio Bolsonaro"
  ],
  "subindo": [
   {
    "termo": "Augusto Cury",
-   "ultimos_3_dias": 9,
-   "antes": 3
+   "ultimos_3_dias": 14,
+   "antes": 4
+  },
+  {
+   "termo": "Ruy Castro",
+   "ultimos_3_dias": 6,
+   "antes": 0
+  },
+  {
+   "termo": "Livro do Ano",
+   "ultimos_3_dias": 5,
+   "antes": 0
   },
   {
    "termo": "Nobel de Literatura",
-   "ultimos_3_dias": 5,
+   "ultimos_3_dias": 6,
    "antes": 1
   },
   {
    "termo": "Booker Prize",
-   "ultimos_3_dias": 2,
+   "ultimos_3_dias": 3,
    "antes": 1
   }
  ],
  "destaques": [
   "468083ae8878",
+  "c6b053103275",
   "3c2e00caffd3",
-  "51dcbf2dc972",
+  "0f82a15ce07f",
   "25f6c10c67b9",
   "0389461fcfa9",
-  "50b86974bc0e",
-  "a4e928c28c4e",
+  "2eedf4152752",
   "49605e3df2ae"
  ]
 }

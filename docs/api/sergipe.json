@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-10-27T12:10:02-03:00",
- "total": 30,
+ "gerado_em": "2026-10-28T12:45:51-03:00",
+ "total": 31,
  "eventos": [
+  {
+   "id": "e89523109608",
+   "titulo": "Festival Sergipanidade oferta 135 vagas para oficinas gratuitas e rodas de conversa em Aracaju",
+   "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/27/festival-sergipanidade-abre-135-vagas-para-oficinas-gratuitas-e-rodas-de-conversa-em-aracaju.ghtml",
+   "resumo": "Cordel Divulgação/Arquivo O Festival Sergipanidade está ofertando 135 vagas em nove oficinas gratuitas nesta sexta-feira (30) e no sábado (31), no Centro de Criatividade, localizado no Bairro Getúlio Vargas, em Aracaju. Aprender a modelar uma peça de cerâmica, criar uma xilogravura, escrever versos…",
+   "fonte": "g1 Sergipe",
+   "fonte_id": "g1-se",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-27T18:54-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-30",
+    "fim": "2026-10-30",
+    "origem": "texto"
+   },
+   "dia": "2026-10-28"
+  },
   {
    "id": "ea9230bb835d",
    "titulo": "MEC Livros bate 1 milhão de empréstimos e amplia acervo",

@@ -10,8 +10,28 @@ X-WR-CALDESC:Eventos literários em Sergipe encontrados pelo Radar Literár
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:e89523109608@radar-literario
+DTSTAMP:20261028T154551Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Festival Sergipanidade oferta 135 vagas para oficinas gratuitas e r
+ odas de conversa em Aracaju
+DESCRIPTION:Cordel Divulgação/Arquivo O Festival Sergipanidade está ofer
+ tando 135 vagas em nove oficinas gratuitas nesta sexta-feira (30) e no sá
+ bado (31)\, no Centro de Criatividade\, localizado no Bairro Getúlio Varg
+ as\, em Aracaju. Aprender a modelar uma peça de cerâmica\, criar uma xil
+ ogravura\, escrever versos…\n\nFonte: g1 Sergipe\nhttps://g1.globo.com/s
+ e/sergipe/noticia/2026/10/27/festival-sergipanidade-abre-135-vagas-para-of
+ icinas-gratuitas-e-rodas-de-conversa-em-aracaju.ghtml\n\nData lida automat
+ icamente do texto da notícia: confira no link.
+URL:https://g1.globo.com/se/sergipe/noticia/2026/10/27/festival-sergipanida
+ de-abre-135-vagas-para-oficinas-gratuitas-e-rodas-de-conversa-em-aracaju.g
+ html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:79d198c8b230@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Escritor Antônio Camilo lançará seu 10º livro no dia 3 de dezem
@@ -27,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c66625e55e@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Seed realiza ‘Tardezinha do Pré-Uni’ 2026 nesta quarta-feira
@@ -42,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aa4c2970dffd@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261024
 SUMMARY:Museu da Gente realizará a Semana da Sergipanidade de 20 a 23 de o
@@ -58,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e4e9ffce7fbf@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:TTB recebe os Melhores do Mundo e a peça “Hermanoteu na Terra de
@@ -74,7 +94,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2ac750ba954d@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Melhores do Mundo em Aracaju: “Não temos plateia\, temos torcida
@@ -91,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1fcaaa964a8f@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261023
 SUMMARY:AGENDA MANGUE CULTURAL DE 16 a 22 de Outubro: “Sambalá\, Hip Hop
@@ -110,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4416f700ae8f@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Dia das Crianças: confira a programação para curtir com a famíl
@@ -126,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:25f0b47ef362@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
 SUMMARY:Bienal do Livro Sergipe
@@ -139,7 +159,7 @@ LOCATION:Centro Cultural Palácio-Museu Luiz Antônio Barreto\, Aracaju
 END:VEVENT
 BEGIN:VEVENT
 UID:4340d50a2d8f@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Programação completa do FASC 2026 será lançada no dia 15 de out
@@ -157,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a9716d9c5e@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261016
 SUMMARY:AGENDA MANGUE CULTURAL DE 9 a 15 de Outubro: “Dia das Crianças\,
@@ -176,7 +196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5445f83399c2@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261009
 SUMMARY:AGENDA MANGUE CULTURAL DE 2 a 8 de Outubro: “PEIAS Sonoras\, Noch
@@ -196,7 +216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dd11b963523b@radar-literario
-DTSTAMP:20261027T151002Z
+DTSTAMP:20261028T154551Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Shows\, feira de livros\, circo e mais: veja o que fazer em Sergipe

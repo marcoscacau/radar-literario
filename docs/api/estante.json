@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T12:10:02-03:00",
+ "gerado_em": "2026-10-28T12:45:51-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -119,6 +119,11 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "8c04274fa493",
+      "5a85dcad2564",
+      "3e2fdf59e543",
+      "9b687e80fa32",
+      "e37664ee0b9d",
       "da759bc89c13",
       "1c13453fee5d",
       "fd89d0e1f4ed",
@@ -148,11 +153,7 @@
       "49dcaf24b20f",
       "55e14b8193c8",
       "fad71955c579",
-      "d9dca2614fca",
-      "2c423ff8b5b5",
-      "4a906b821f0d",
-      "5528926564b8",
-      "29ca7161d12c"
+      "d9dca2614fca"
      ]
     },
     {
@@ -234,16 +235,12 @@
      "titulo": "Bom Dia, Verônica",
      "ano": 2016,
      "serie": "com Ilana Casoy, como Andrea Killmore",
-     "noticias": [
-      "1ce8df9d50e7"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Uma Mulher no Escuro",
      "ano": 2019,
-     "noticias": [
-      "f2d26aa2bb01"
-     ]
+     "noticias": []
     },
     {
      "titulo": "A Mágica Mortal",
@@ -265,6 +262,16 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "856b19f9e779",
+    "e222ac755142",
+    "00cc5e68f016",
+    "02dcdd1c4394",
+    "c4306d67ad13",
+    "40c25f05d5c3",
+    "9831902c4ab2",
+    "6cdfb49c500a",
+    "c6b053103275",
+    "092b0f4ea48e",
     "272533502994",
     "0bcb1c35c510",
     "1461cf8b2131",
@@ -293,16 +300,7 @@
     "65ad8fc148bf",
     "1d71fa153cbf",
     "f235e651875a",
-    "76a1004aaa81",
-    "2a16c35a0f99",
-    "bb7aeb8a0ca6",
-    "5f658003b94b",
-    "31acc7060174",
-    "63fc8994d359",
-    "94fa16c01eac",
-    "237d119425b6",
-    "050ce17aec1b",
-    "973e5ad068f8"
+    "76a1004aaa81"
    ],
    "livros": [
     {
@@ -311,6 +309,9 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "a5c0c33baec5",
+      "c6b053103275",
+      "092b0f4ea48e",
       "f873db1753a2",
       "6214ae21a094",
       "afa45ea1748d",
@@ -337,11 +338,7 @@
       "371aeb1bc806",
       "d457852ec0c8",
       "65ad8fc148bf",
-      "f235e651875a",
-      "5f658003b94b",
-      "31acc7060174",
-      "237d119425b6",
-      "050ce17aec1b"
+      "f235e651875a"
      ]
     },
     {
@@ -502,8 +499,7 @@
      "pt": "Misery: Louca Obsessão",
      "ano": 1987,
      "noticias": [
-      "5ceea9f07791",
-      "2a16c35a0f99"
+      "5ceea9f07791"
      ]
     },
     {
@@ -867,6 +863,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "de30ded57c9b",
     "468083ae8878",
     "0389461fcfa9",
     "66e700b93fd2"
@@ -918,7 +915,9 @@
      "titulo": "The Screwtape Letters",
      "pt": "Cartas de um Diabo a seu Aprendiz",
      "ano": 1942,
-     "noticias": []
+     "noticias": [
+      "de30ded57c9b"
+     ]
     },
     {
      "titulo": "A Preface to Paradise Lost",
@@ -1019,9 +1018,7 @@
      "noticias": [
       "10316dd96377",
       "f5b7c27abd8e",
-      "17000780bac9",
-      "f6fc9a4bcef8",
-      "5f9c34347ff4"
+      "17000780bac9"
      ]
     },
     {
