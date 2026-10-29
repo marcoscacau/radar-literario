@@ -1,14 +1,13 @@
 {
- "gerado_em": "2026-10-28T12:45:51-03:00",
+ "gerado_em": "2026-10-29T12:53:37-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "e1ab45646c06",
     "bcce307c54c9",
     "1dd8a076d8fc",
-    "a7fd1dd9ea34",
-    "d8d9154f5ef5",
-    "49dcaf24b20f"
+    "a7fd1dd9ea34"
    ],
    "livros": [
     {
@@ -119,6 +118,12 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "e1ab45646c06",
+      "f208ce69d210",
+      "09df0fe7e11d",
+      "1073a16d5896",
+      "5447230d8275",
+      "ade55a2a0bf1",
       "8c04274fa493",
       "5a85dcad2564",
       "3e2fdf59e543",
@@ -147,13 +152,7 @@
       "80d81ed2edc2",
       "21c2f5360b0d",
       "a7fd1dd9ea34",
-      "16e0faa1d7e9",
-      "1166727b9c9d",
-      "d8d9154f5ef5",
-      "49dcaf24b20f",
-      "55e14b8193c8",
-      "fad71955c579",
-      "d9dca2614fca"
+      "16e0faa1d7e9"
      ]
     },
     {
@@ -192,8 +191,7 @@
       "bcce307c54c9",
       "3c2e00caffd3",
       "1d8ee9ebfa14",
-      "281694c60937",
-      "1166727b9c9d"
+      "281694c60937"
      ]
     },
     {
@@ -207,6 +205,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "fd7194e26465",
     "25f6c10c67b9"
    ],
    "livros": [
@@ -255,13 +254,20 @@
     {
      "titulo": "A Estranha na Cama",
      "ano": 2026,
-     "noticias": []
+     "noticias": [
+      "67eded3b6dce"
+     ]
     }
    ]
   },
   {
    "nome": "Stephen King",
    "noticias": [
+    "ce9c0444695d",
+    "9b64fe13ead3",
+    "77ddc5f37c4a",
+    "8913d5caaca9",
+    "65c0e8207df9",
     "856b19f9e779",
     "e222ac755142",
     "00cc5e68f016",
@@ -295,12 +301,7 @@
     "6ae65d4ab309",
     "12525b776d8b",
     "02fc56507e92",
-    "d457852ec0c8",
-    "5ceea9f07791",
-    "65ad8fc148bf",
-    "1d71fa153cbf",
-    "f235e651875a",
-    "76a1004aaa81"
+    "d457852ec0c8"
    ],
    "livros": [
     {
@@ -309,6 +310,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "d7643c109c2f",
+      "0f7b747c180e",
       "a5c0c33baec5",
       "c6b053103275",
       "092b0f4ea48e",
@@ -336,9 +339,7 @@
       "59e1a57f164c",
       "02fc56507e92",
       "371aeb1bc806",
-      "d457852ec0c8",
-      "65ad8fc148bf",
-      "f235e651875a"
+      "d457852ec0c8"
      ]
     },
     {
@@ -498,9 +499,7 @@
      "titulo": "Misery",
      "pt": "Misery: Louca Obsessão",
      "ano": 1987,
-     "noticias": [
-      "5ceea9f07791"
-     ]
+     "noticias": []
     },
     {
      "titulo": "The Tommyknockers",
@@ -538,9 +537,7 @@
      "titulo": "Gerald's Game",
      "pt": "Jogo Perigoso",
      "ano": 1992,
-     "noticias": [
-      "561ec0ce93c6"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Dolores Claiborne",
@@ -569,7 +566,9 @@
      "titulo": "The Green Mile",
      "pt": "À Espera de um Milagre",
      "ano": 1996,
-     "noticias": []
+     "noticias": [
+      "c9ca420056f3"
+     ]
     },
     {
      "titulo": "Desperation",
@@ -863,6 +862,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "2a3e882f76e5",
     "de30ded57c9b",
     "468083ae8878",
     "0389461fcfa9",

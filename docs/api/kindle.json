@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T10:32:02-03:00",
+ "gerado_em": "2026-10-29T12:53:44-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": false,
-   "erro": "URLError: <urlopen error [Errno -2] Name or service not known>",
+   "ok": true,
+   "erro": null,
    "ofertas": 0
   },
   {
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-10-28T05:00+00:00",
    "visto_em": "2026-10-28T06:56-03:00",
-   "ultima_vez": "2026-10-29T10:32-03:00",
+   "ultima_vez": "2026-10-29T12:53-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-27T11:00+00:00",
    "visto_em": "2026-10-27T17:13-03:00",
-   "ultima_vez": "2026-10-29T10:32-03:00",
+   "ultima_vez": "2026-10-29T12:53-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-10-28T12:45:51-03:00",
+ "gerado_em": "2026-10-29T12:53:37-03:00",
  "dias": [
+  "2026-10-29",
   "2026-10-28",
   "2026-10-27",
   "2026-10-26",
   "2026-10-25",
   "2026-10-24",
-  "2026-10-23",
-  "2026-10-22"
+  "2026-10-23"
  ],
- "total": 629,
+ "total": 646,
  "por_grupo": {
-  "internacional": 297,
-  "brasil-portugal": 290,
-  "cadernos": 42
+  "cadernos": 54,
+  "brasil-portugal": 301,
+  "internacional": 291
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 34
+   "noticias": 44
   },
   {
    "id": "fantasia",
@@ -29,17 +29,17 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 7
+   "noticias": 10
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 7
+   "noticias": 8
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 4
+   "noticias": 5
   },
   {
    "id": "fisica",
@@ -60,7 +60,7 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 58
+   "noticias": 60
   },
   {
    "nome": "Rebecca Yarros",
@@ -68,31 +68,31 @@
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 23
+   "noticias": 22
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 20
+   "noticias": 19
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 16
+   "noticias": 15
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 9
+   "noticias": 8
   },
   {
-   "nome": "Dostoiévski",
+   "nome": "Raphael Montes",
    "noticias": 3
   },
   {
    "nome": "Dan Brown",
-   "noticias": 1
+   "noticias": 2
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 1
+   "nome": "Dostoiévski",
+   "noticias": 2
   },
   {
    "nome": "Aleksandr Púchkin",
@@ -104,33 +104,33 @@
   "Augusto Cury",
   "Prime Video",
   "Gustavo Scarpa",
-  "Flávio Bolsonaro"
+  "Ruy Castro"
  ],
  "subindo": [
   {
    "termo": "Augusto Cury",
-   "ultimos_3_dias": 14,
-   "antes": 4
+   "ultimos_3_dias": 15,
+   "antes": 2
   },
   {
    "termo": "Ruy Castro",
-   "ultimos_3_dias": 6,
+   "ultimos_3_dias": 9,
+   "antes": 0
+  },
+  {
+   "termo": "Prêmio Oceanos",
+   "ultimos_3_dias": 8,
    "antes": 0
   },
   {
    "termo": "Livro do Ano",
-   "ultimos_3_dias": 5,
+   "ultimos_3_dias": 7,
    "antes": 0
-  },
-  {
-   "termo": "Nobel de Literatura",
-   "ultimos_3_dias": 6,
-   "antes": 1
   },
   {
    "termo": "Booker Prize",
    "ultimos_3_dias": 3,
-   "antes": 1
+   "antes": 0
   }
  ],
  "destaques": [
@@ -140,7 +140,7 @@
   "0f82a15ce07f",
   "25f6c10c67b9",
   "0389461fcfa9",
-  "2eedf4152752",
-  "49605e3df2ae"
+  "543add501d63",
+  "f4d604d07579"
  ]
 }
