@@ -1,42 +1,42 @@
 {
- "gerado_em": "2026-10-29T12:53:37-03:00",
+ "gerado_em": "2026-10-30T12:37:07-03:00",
  "dias": [
-  "2026-10-23",
   "2026-10-24",
   "2026-10-25",
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
    "fontes": 42,
-   "mencoes": 52,
+   "mencoes": 53,
    "por_dia": [
-    7,
     10,
     5,
     3,
     5,
     15,
-    7
+    7,
+    8
    ],
    "novo_hoje": false,
    "itens": [
+    "cc693285db66",
+    "9d58d7ffaff5",
+    "045485e85c88",
+    "aa26ecf97f3b",
+    "eac5fd8a86a1",
+    "fe67ca02c2a9",
+    "ce5525191472",
+    "1ec592f3665c",
     "48082a62f4fa",
     "4c5b30844c6c",
     "57ca13afee66",
-    "e39c14d96058",
-    "c148e49cdd48",
-    "00bcc31dfa67",
-    "9a5d8740c3ea",
-    "5ff6d7ae7897",
-    "2085876f81a2",
-    "affa7dfbc9ec",
-    "eb48b2fdf124",
-    "6ba2e7723378"
+    "e39c14d96058"
    ]
   },
   {
@@ -44,16 +44,17 @@
    "fontes": 14,
    "mencoes": 17,
    "por_dia": [
-    1,
     0,
     1,
     0,
     8,
     6,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "2ad1067d865d",
     "f4d604d07579",
     "2eedf4152752",
     "98e967ed4446",
@@ -64,25 +65,53 @@
     "a4e928c28c4e",
     "095974dcd20c",
     "a54ab16710bc",
-    "f7441364fb81",
-    "f7cc69319cc9"
+    "f7441364fb81"
+   ]
+  },
+  {
+   "termo": "Prêmio Oceanos",
+   "fontes": 10,
+   "mencoes": 11,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    8,
+    3
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "592d9f164a95",
+    "5ce75a9c1bd8",
+    "52bf7faacc83",
+    "b51b6e0f5a86",
+    "190cfa74bccd",
+    "5885d83b5c4b",
+    "9b8c5b1ceec6",
+    "4f708c8d745d",
+    "0c0d1daeae2a",
+    "5c6cf2186fae",
+    "8312d79d041e"
    ]
   },
   {
    "termo": "Prime Video",
-   "fontes": 11,
-   "mencoes": 13,
+   "fontes": 9,
+   "mencoes": 11,
    "por_dia": [
-    3,
     5,
     2,
     2,
     1,
     0,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "ffe54bd0c923",
     "1c13453fee5d",
     "b9e75d8e257a",
     "f873db1753a2",
@@ -92,54 +121,25 @@
     "d5e546d7e3e9",
     "aca5de974ee3",
     "e93cb52cb6de",
-    "0db734d385e9",
-    "59e1a57f164c",
-    "02fc56507e92"
-   ]
-  },
-  {
-   "termo": "Gustavo Scarpa",
-   "fontes": 9,
-   "mencoes": 11,
-   "por_dia": [
-    3,
-    4,
-    0,
-    1,
-    1,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "eb48b2fdf124",
-    "915e9ee5b46e",
-    "7d96864f4bb1",
-    "1e244c2eaa15",
-    "27dded4887e2",
-    "872dace95b41",
-    "bc79e5b8d9a7",
-    "c95653968723",
-    "743487a7a9f0",
-    "ffb051bddeb1",
-    "b53f9d7fd23e"
+    "0db734d385e9"
    ]
   },
   {
    "termo": "Ruy Castro",
-   "fontes": 8,
-   "mencoes": 9,
+   "fontes": 9,
+   "mencoes": 10,
    "por_dia": [
-    0,
     0,
     0,
     0,
     0,
     6,
-    3
+    3,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "9fb853e1545b",
     "48082a62f4fa",
     "57ca13afee66",
     "9a5d8740c3ea",
@@ -152,45 +152,21 @@
    ]
   },
   {
-   "termo": "Prêmio Oceanos",
-   "fontes": 7,
+   "termo": "Livro do Ano",
+   "fontes": 8,
    "mencoes": 8,
    "por_dia": [
     0,
     0,
     0,
     0,
-    0,
-    0,
-    8
-   ],
-   "novo_hoje": true,
-   "itens": [
-    "b51b6e0f5a86",
-    "190cfa74bccd",
-    "5885d83b5c4b",
-    "9b8c5b1ceec6",
-    "4f708c8d745d",
-    "0c0d1daeae2a",
-    "5c6cf2186fae",
-    "8312d79d041e"
-   ]
-  },
-  {
-   "termo": "Livro do Ano",
-   "fontes": 7,
-   "mencoes": 7,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
     5,
-    2
+    2,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "9fb853e1545b",
     "48082a62f4fa",
     "9a5d8740c3ea",
     "2085876f81a2",
@@ -201,50 +177,51 @@
    ]
   },
   {
-   "termo": "Flávio Bolsonaro",
+   "termo": "Gustavo Scarpa",
    "fontes": 6,
-   "mencoes": 7,
+   "mencoes": 8,
    "por_dia": [
-    2,
-    0,
+    4,
     0,
     1,
-    0,
-    3,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f4d604d07579",
-    "2eedf4152752",
-    "98e967ed4446",
-    "6a9c7f526585",
-    "2ac7f4dc79ec",
-    "a3e7eb51b764",
-    "e0b433a2dca7"
-   ]
-  },
-  {
-   "termo": "Ryu Murakami",
-   "fontes": 6,
-   "mencoes": 6,
-   "por_dia": [
-    3,
-    3,
-    0,
-    0,
-    0,
+    1,
+    2,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "aa128f86e3f8",
-    "8723625011a0",
-    "b170fed8856e",
-    "9a7635885406",
-    "0397364ae758",
-    "e986e86d64a5"
+    "eb48b2fdf124",
+    "915e9ee5b46e",
+    "7d96864f4bb1",
+    "1e244c2eaa15",
+    "27dded4887e2",
+    "872dace95b41",
+    "bc79e5b8d9a7",
+    "c95653968723"
+   ]
+  },
+  {
+   "termo": "Flávio Bolsonaro",
+   "fontes": 5,
+   "mencoes": 6,
+   "por_dia": [
+    0,
+    0,
+    1,
+    0,
+    3,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "2ad1067d865d",
+    "f4d604d07579",
+    "2eedf4152752",
+    "98e967ed4446",
+    "6a9c7f526585",
+    "2ac7f4dc79ec"
    ]
   },
   {
@@ -252,94 +229,52 @@
    "fontes": 4,
    "mencoes": 8,
    "por_dia": [
-    2,
     1,
     0,
     1,
     2,
     1,
-    1
+    1,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "0a3dee05ab7a",
+    "a1ce1b8670d9",
     "5447230d8275",
     "9b687e80fa32",
     "da759bc89c13",
     "1c13453fee5d",
     "b9e75d8e257a",
-    "fe150cedc846",
-    "a7fd1dd9ea34",
-    "16e0faa1d7e9"
-   ]
-  },
-  {
-   "termo": "Barnes Noble",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    3,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "d1488715d14d",
-    "266273f4d1d3",
-    "fffd82ea7515",
-    "7178d9e45c00"
-   ]
-  },
-  {
-   "termo": "Franz Kafka",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    2,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "5e6079769c79",
-    "1c4cee92e84e",
-    "32e802786722",
-    "4b9418eb3f02"
+    "fe150cedc846"
    ]
   },
   {
    "termo": "Nobel de Literatura",
-   "fontes": 3,
+   "fontes": 4,
    "mencoes": 7,
    "por_dia": [
-    1,
     0,
     0,
     2,
     3,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "94d2abcba474",
     "4c497013c7a6",
     "052ce4e2ea9a",
     "8c34d30cd59c",
     "fcea352747d4",
     "27209e4d2871",
-    "254cbe065df7",
-    "c2eb0158159c"
+    "254cbe065df7"
    ]
   },
   {
-   "termo": "Bosque Selvagem",
+   "termo": "Estados Unidos",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
@@ -350,6 +285,46 @@
     0,
     0,
     2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "5b98733435d7",
+    "2ad1067d865d",
+    "043b5b3cc22a"
+   ]
+  },
+  {
+   "termo": "Segunda Guerra Mundial",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "94d2abcba474",
+    "e4212186613e",
+    "7a1adb9e1d72"
+   ]
+  },
+  {
+   "termo": "Bosque Selvagem",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -366,9 +341,9 @@
     0,
     0,
     0,
-    0,
     2,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -376,6 +351,26 @@
     "ad8ab94d2934",
     "2f87cf87f687",
     "3cb3da269330"
+   ]
+  },
+  {
+   "termo": "Belo Horizonte",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "d036cde71c24",
+    "6673a9303d2a",
+    "3d9a5481aae1"
    ]
   }
  ]

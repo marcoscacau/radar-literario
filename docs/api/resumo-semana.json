@@ -1,40 +1,40 @@
 {
- "gerado_em": "2026-10-29T12:53:37-03:00",
+ "gerado_em": "2026-10-30T12:37:07-03:00",
  "dias": [
+  "2026-10-30",
   "2026-10-29",
   "2026-10-28",
   "2026-10-27",
   "2026-10-26",
   "2026-10-25",
-  "2026-10-24",
-  "2026-10-23"
+  "2026-10-24"
  ],
- "total": 646,
+ "total": 653,
  "por_grupo": {
-  "cadernos": 54,
-  "brasil-portugal": 301,
-  "internacional": 291
+  "cadernos": 61,
+  "brasil-portugal": 318,
+  "internacional": 274
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 44
+   "noticias": 50
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 13
+   "noticias": 17
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 10
+   "noticias": 12
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 8
+   "noticias": 11
   },
   {
    "id": "mente",
@@ -42,14 +42,14 @@
    "noticias": 5
   },
   {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 2
-  },
-  {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 2
+   "noticias": 3
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 1
   },
   {
    "id": "russos",
@@ -60,11 +60,11 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 60
+   "noticias": 57
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 40
+   "noticias": 37
   },
   {
    "nome": "J. R. R. Tolkien",
@@ -72,11 +72,11 @@
   },
   {
    "nome": "Augusto Cury",
-   "noticias": 19
+   "noticias": 18
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 15
+   "noticias": 12
   },
   {
    "nome": "Franz Kafka",
@@ -92,45 +92,41 @@
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 2
-  },
-  {
-   "nome": "Aleksandr Púchkin",
    "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Augusto Cury",
+  "Prêmio Oceanos",
   "Prime Video",
-  "Gustavo Scarpa",
   "Ruy Castro"
  ],
  "subindo": [
   {
-   "termo": "Augusto Cury",
-   "ultimos_3_dias": 15,
-   "antes": 2
-  },
-  {
-   "termo": "Ruy Castro",
-   "ultimos_3_dias": 9,
+   "termo": "Prêmio Oceanos",
+   "ultimos_3_dias": 11,
    "antes": 0
   },
   {
-   "termo": "Prêmio Oceanos",
-   "ultimos_3_dias": 8,
+   "termo": "Ruy Castro",
+   "ultimos_3_dias": 10,
    "antes": 0
   },
   {
    "termo": "Livro do Ano",
-   "ultimos_3_dias": 7,
+   "ultimos_3_dias": 8,
    "antes": 0
   },
   {
-   "termo": "Booker Prize",
-   "ultimos_3_dias": 3,
-   "antes": 0
+   "termo": "Prêmio Jabuti",
+   "ultimos_3_dias": 30,
+   "antes": 23
+  },
+  {
+   "termo": "Flávio Bolsonaro",
+   "ultimos_3_dias": 5,
+   "antes": 1
   }
  ],
  "destaques": [
@@ -139,8 +135,8 @@
   "3c2e00caffd3",
   "0f82a15ce07f",
   "25f6c10c67b9",
-  "0389461fcfa9",
-  "543add501d63",
+  "660c29f7c7f9",
+  "e56d2ae0857d",
   "f4d604d07579"
  ]
 }

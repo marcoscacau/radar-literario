@@ -1,13 +1,11 @@
 {
- "gerado_em": "2026-10-29T12:53:37-03:00",
+ "gerado_em": "2026-10-30T12:37:07-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
     "e1ab45646c06",
-    "bcce307c54c9",
-    "1dd8a076d8fc",
-    "a7fd1dd9ea34"
+    "bcce307c54c9"
    ],
    "livros": [
     {
@@ -118,6 +116,9 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "0a3dee05ab7a",
+      "a1ce1b8670d9",
+      "3e3c13adf71f",
       "e1ab45646c06",
       "f208ce69d210",
       "09df0fe7e11d",
@@ -147,12 +148,7 @@
       "fe150cedc846",
       "3a0e9aa2c719",
       "e60662c40eae",
-      "eb0cb9d6ab49",
-      "760daae9118b",
-      "80d81ed2edc2",
-      "21c2f5360b0d",
-      "a7fd1dd9ea34",
-      "16e0faa1d7e9"
+      "eb0cb9d6ab49"
      ]
     },
     {
@@ -263,6 +259,13 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "18a2593e6c85",
+    "a3dfcdf91574",
+    "f16421d36f75",
+    "8df53d745f2b",
+    "f86a19da6d58",
+    "272648659a74",
+    "bad7377a315f",
     "ce9c0444695d",
     "9b64fe13ead3",
     "77ddc5f37c4a",
@@ -294,14 +297,7 @@
     "1f879005a800",
     "3c6ccf8fd7bb",
     "d5e546d7e3e9",
-    "99981bc2e704",
-    "c684d87eb727",
-    "dffa044ce9ed",
-    "51dcbf2dc972",
-    "6ae65d4ab309",
-    "12525b776d8b",
-    "02fc56507e92",
-    "d457852ec0c8"
+    "99981bc2e704"
    ],
    "livros": [
     {
@@ -310,6 +306,10 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "4b338f13e5ed",
+      "f16421d36f75",
+      "ffe54bd0c923",
+      "272648659a74",
       "d7643c109c2f",
       "0f7b747c180e",
       "a5c0c33baec5",
@@ -330,16 +330,7 @@
       "ad650e36c37c",
       "e900a4bc7182",
       "e93cb52cb6de",
-      "0db734d385e9",
-      "dee70195680d",
-      "d8451c8c4f00",
-      "6ae65d4ab309",
-      "12525b776d8b",
-      "753cd5cc9c87",
-      "59e1a57f164c",
-      "02fc56507e92",
-      "371aeb1bc806",
-      "d457852ec0c8"
+      "0db734d385e9"
      ]
     },
     {
@@ -661,7 +652,9 @@
      "pt": "A Torre Negra",
      "ano": 2004,
      "serie": "A Torre Negra #7",
-     "noticias": []
+     "noticias": [
+      "4b338f13e5ed"
+     ]
     },
     {
      "titulo": "The Colorado Kid",
@@ -853,9 +846,7 @@
      "titulo": "Other Worlds Than These",
      "ano": 2026,
      "serie": "com Peter Straub · Talismã #3",
-     "noticias": [
-      "51dcbf2dc972"
-     ]
+     "noticias": []
     }
    ]
   },
@@ -864,9 +855,7 @@
    "noticias": [
     "2a3e882f76e5",
     "de30ded57c9b",
-    "468083ae8878",
-    "0389461fcfa9",
-    "66e700b93fd2"
+    "468083ae8878"
    ],
    "livros": [
     {
@@ -1016,9 +1005,8 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
-      "10316dd96377",
-      "f5b7c27abd8e",
-      "17000780bac9"
+      "660c29f7c7f9",
+      "10316dd96377"
      ]
     },
     {

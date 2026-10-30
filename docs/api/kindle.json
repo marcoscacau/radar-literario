@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T07:21:43-03:00",
+ "gerado_em": "2026-10-30T12:37:15-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,18 +9,18 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 3
+   "ofertas": 2
   }
  ],
- "total": 35,
+ "total": 36,
  "ofertas": [
   {
    "id": "c96c38a569de",
@@ -33,7 +33,25 @@
    "nota": "",
    "postado_em": "2026-10-29T20:53+00:00",
    "visto_em": "2026-10-29T22:16-03:00",
-   "ultima_vez": "2026-10-30T07:21-03:00",
+   "ultima_vez": "2026-10-30T12:37-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "d74afa0db13b",
+   "titulo": "Kindle+ (Unlimited) vale a pena? Guia completo sobre a assinatura",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRNeTE5SGxJNWlfQ1RBbUgwZnI4ME9vRHFrYXBfb0RnYlBaTlBCS2pvNEpSNTMtTDhpSk5YSzRteXNOUU41b3pvTkhtREt6WTRoWnp2aHpsU21JLTVYLXdrQkRJOTBlV3Q3RktkUGRhaERGY2VYeWpEeGM4RTRhZlZ3Sk40Rnd5UXg4VGRYMUgxcV9obFY0cXhzdkszSE5keWdsS3lOalFpeFA2REc1cnhVNE5Cd0hk0gHHAUFVX3lxTE9Xa3QwZk13TFk4T1BOY05EQTNLNm1YeWk4OXVMWE1pbWN2dnFzTUdsTWdWZUVZNmw4YmoyVkFqSENia05CLUNRNUtKZUNzak8zRkVvUmJMOC1hN0Z6X0dWWmFtUldMaTdqdHg1SWc3QjI1MjhibXFUMmVleDVySXB6Mks2NC1md0R2LXZGX09xVkpSR3I5NFBYYlZ0Yl9rdzlNZHBKYURpVUxFRWJWTVluVE1vcTFYM2ZZRGlqZ2UxYVhxXzVSMk0?oc=5",
+   "fonte": "TechTudo",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-28T05:00+00:00",
+   "visto_em": "2026-10-30T12:37-03:00",
+   "ultima_vez": "2026-10-30T12:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

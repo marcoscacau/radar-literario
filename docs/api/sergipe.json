@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-10-29T12:53:37-03:00",
- "total": 32,
+ "gerado_em": "2026-10-30T12:37:07-03:00",
+ "total": 33,
  "eventos": [
+  {
+   "id": "9e7151201e16",
+   "titulo": "AGENDA MANGUE CULTURAL DE 30 de Outubro a 5 de Novembro: “Exposição estudantil, festival gastronômico, festas de halloween e muito mais em Sergipe”",
+   "link": "https://manguejornalismo.org/agenda-mangue-cultural-de-30-de-outubro-a-5-de-novembro-exposicao-estudantil-festival-gastronomico-festas-de-halloween-e-muito-mais-em-sergipe/",
+   "resumo": "ARACAJU — Centro Cubos de Dança Especial Halloween Literatura Gótica No sábado, 31, acontece o especial halloween com leitura gótica na Leitura do Shopping Riomar, às 17h.",
+   "fonte": "Mangue Jornalismo (agenda cultural)",
+   "fonte_id": "mangue",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-10-30T06:43-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-10-30",
+    "fim": "2026-11-05",
+    "origem": "texto"
+   },
+   "dia": "2026-10-30"
+  },
   {
    "id": "27042050cb42",
    "titulo": "O Gatola da Cartola",
