@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T17:27:44-03:00",
+ "gerado_em": "2026-10-29T22:16:13-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,37 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 2
+   "ofertas": 3
   }
  ],
- "total": 34,
+ "total": 35,
  "ofertas": [
+  {
+   "id": "c96c38a569de",
+   "titulo": "Kindle Unlimited agora é Kindle+: Amazon libera 2 meses por apenas R$ 2,99",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVpheDJ0ZjhabGRNM21aQ25qRnVuYThkZm1hc245YVdQcjl3NkdjZThIcTNDLWQxSXlPQTdSRG0zZ3hmVFRoVHZqalB4anJBdkwwNWpMNXZ5bTZzNWJlOXNEa0VKcS1hVEh5Zmxodlhva1BxcTh0NFowSUpkcE1Qei1qTW9OeVN6aEhucDhnTm1SRlJ4NEdUVUhBdkhwR1U?oc=5",
+   "fonte": "TudoCelular.com",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-29T20:53+00:00",
+   "visto_em": "2026-10-29T22:16-03:00",
+   "ultima_vez": "2026-10-29T22:16-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "28d3c7afc585",
    "titulo": "Kindle+ (Unlimited) vale a pena? Guia completo sobre a assinatura",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-28T05:00+00:00",
    "visto_em": "2026-10-28T06:56-03:00",
-   "ultima_vez": "2026-10-29T17:27-03:00",
+   "ultima_vez": "2026-10-29T22:16-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-10-27T11:00+00:00",
    "visto_em": "2026-10-27T17:13-03:00",
-   "ultima_vez": "2026-10-29T17:27-03:00",
+   "ultima_vez": "2026-10-29T22:16-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
