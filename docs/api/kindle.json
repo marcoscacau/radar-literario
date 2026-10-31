@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31T09:57:09-03:00",
+ "gerado_em": "2026-10-31T12:07:12-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,37 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 1
+   "ofertas": 2
   }
  ],
- "total": 36,
+ "total": 37,
  "ofertas": [
+  {
+   "id": "ce2c11d5cae2",
+   "titulo": "Para leitores do Kindle: HQ digital de O Máskara ganha 65% de desconto por tempo limitado",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tMVlEcWViQ0NOcnlBSWwxYUlVSkNtTlU4b2htM1JHVG5od0c2VE1UMGR5a0RHRFZfdEpaa3BMTmM4UzJ1dkJ2NlpMbDBBMXpEMHNQZG5qM3hOTERJd3NaS0tKVXRmVFppb3BRTmpHcVTSAXZBVV95cUxOcXQ4LVJYTUJPMzZrNHRzVXo1MDk3Tkgzdkd2NkZDZDNEZzEtaVFWell4TkF3VlUtR3hJRVJUazg0cnZHaVd2OVhmdjJCWXZHSUphNDJEUHdOVWdfd0NfZUhTQkkzZ3dNMkpxaHZmVGZCRDJUbHlB?oc=5",
+   "fonte": "AdoroCinema",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-10-31T13:40+00:00",
+   "visto_em": "2026-10-31T12:07-03:00",
+   "ultima_vez": "2026-10-31T12:07-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "c96c38a569de",
    "titulo": "Kindle Unlimited agora é Kindle+: Amazon libera 2 meses por apenas R$ 2,99",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-10-29T20:53+00:00",
    "visto_em": "2026-10-29T22:16-03:00",
-   "ultima_vez": "2026-10-31T09:57-03:00",
+   "ultima_vez": "2026-10-31T12:07-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

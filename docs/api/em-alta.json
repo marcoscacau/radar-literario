@@ -1,59 +1,60 @@
 {
- "gerado_em": "2026-10-30T12:37:07-03:00",
+ "gerado_em": "2026-10-31T12:07:05-03:00",
  "dias": [
-  "2026-10-24",
   "2026-10-25",
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
-  "2026-10-30"
+  "2026-10-30",
+  "2026-10-31"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
    "fontes": 42,
-   "mencoes": 53,
+   "mencoes": 50,
    "por_dia": [
-    10,
     5,
     3,
     5,
     15,
     7,
-    8
+    8,
+    7
    ],
    "novo_hoje": false,
    "itens": [
+    "4935d8e0dc3a",
+    "e3e98bb1b118",
+    "f10cdd0c22df",
+    "8aec803126f0",
+    "8a325704dda3",
+    "376a8f7f432f",
+    "043eea38ec13",
     "cc693285db66",
     "9d58d7ffaff5",
     "045485e85c88",
     "aa26ecf97f3b",
-    "eac5fd8a86a1",
-    "fe67ca02c2a9",
-    "ce5525191472",
-    "1ec592f3665c",
-    "48082a62f4fa",
-    "4c5b30844c6c",
-    "57ca13afee66",
-    "e39c14d96058"
+    "eac5fd8a86a1"
    ]
   },
   {
    "termo": "Augusto Cury",
-   "fontes": 14,
-   "mencoes": 17,
+   "fontes": 15,
+   "mencoes": 18,
    "por_dia": [
-    0,
     1,
     0,
     8,
     6,
     1,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "48003a963fc1",
     "2ad1067d865d",
     "f4d604d07579",
     "2eedf4152752",
@@ -64,25 +65,26 @@
     "aa62778f3a19",
     "a4e928c28c4e",
     "095974dcd20c",
-    "a54ab16710bc",
-    "f7441364fb81"
+    "a54ab16710bc"
    ]
   },
   {
    "termo": "Prêmio Oceanos",
-   "fontes": 10,
-   "mencoes": 11,
+   "fontes": 11,
+   "mencoes": 13,
    "por_dia": [
     0,
     0,
     0,
     0,
-    0,
     8,
-    3
+    3,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "3e948055e48c",
+    "0597b04fbcff",
     "592d9f164a95",
     "5ce75a9c1bd8",
     "52bf7faacc83",
@@ -92,53 +94,25 @@
     "9b8c5b1ceec6",
     "4f708c8d745d",
     "0c0d1daeae2a",
-    "5c6cf2186fae",
-    "8312d79d041e"
-   ]
-  },
-  {
-   "termo": "Prime Video",
-   "fontes": 9,
-   "mencoes": 11,
-   "por_dia": [
-    5,
-    2,
-    2,
-    1,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "ffe54bd0c923",
-    "1c13453fee5d",
-    "b9e75d8e257a",
-    "f873db1753a2",
-    "afa45ea1748d",
-    "f2c456f55b7b",
-    "fe150cedc846",
-    "d5e546d7e3e9",
-    "aca5de974ee3",
-    "e93cb52cb6de",
-    "0db734d385e9"
+    "5c6cf2186fae"
    ]
   },
   {
    "termo": "Ruy Castro",
-   "fontes": 9,
-   "mencoes": 10,
+   "fontes": 10,
+   "mencoes": 11,
    "por_dia": [
-    0,
     0,
     0,
     0,
     6,
     3,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "e3e98bb1b118",
     "9fb853e1545b",
     "48082a62f4fa",
     "57ca13afee66",
@@ -153,19 +127,20 @@
   },
   {
    "termo": "Livro do Ano",
-   "fontes": 8,
-   "mencoes": 8,
+   "fontes": 9,
+   "mencoes": 9,
    "por_dia": [
-    0,
     0,
     0,
     0,
     5,
     2,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "e3e98bb1b118",
     "9fb853e1545b",
     "48082a62f4fa",
     "9a5d8740c3ea",
@@ -177,28 +152,53 @@
    ]
   },
   {
-   "termo": "Gustavo Scarpa",
+   "termo": "Fourth Wing",
    "fontes": 6,
-   "mencoes": 8,
+   "mencoes": 9,
    "por_dia": [
-    4,
     0,
+    1,
+    2,
     1,
     1,
     2,
-    0,
-    0
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "eb48b2fdf124",
-    "915e9ee5b46e",
-    "7d96864f4bb1",
-    "1e244c2eaa15",
-    "27dded4887e2",
-    "872dace95b41",
-    "bc79e5b8d9a7",
-    "c95653968723"
+    "67a723771027",
+    "4348667dc3ec",
+    "0a3dee05ab7a",
+    "a1ce1b8670d9",
+    "5447230d8275",
+    "9b687e80fa32",
+    "da759bc89c13",
+    "1c13453fee5d",
+    "b9e75d8e257a"
+   ]
+  },
+  {
+   "termo": "Prime Video",
+   "fontes": 6,
+   "mencoes": 7,
+   "por_dia": [
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c81a8db10317",
+    "ffe54bd0c923",
+    "1c13453fee5d",
+    "b9e75d8e257a",
+    "f873db1753a2",
+    "afa45ea1748d",
+    "f2c456f55b7b"
    ]
   },
   {
@@ -207,12 +207,12 @@
    "mencoes": 6,
    "por_dia": [
     0,
-    0,
     1,
     0,
     3,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -225,42 +225,17 @@
    ]
   },
   {
-   "termo": "Fourth Wing",
-   "fontes": 4,
-   "mencoes": 8,
-   "por_dia": [
-    1,
-    0,
-    1,
-    2,
-    1,
-    1,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "0a3dee05ab7a",
-    "a1ce1b8670d9",
-    "5447230d8275",
-    "9b687e80fa32",
-    "da759bc89c13",
-    "1c13453fee5d",
-    "b9e75d8e257a",
-    "fe150cedc846"
-   ]
-  },
-  {
    "termo": "Nobel de Literatura",
    "fontes": 4,
    "mencoes": 7,
    "por_dia": [
     0,
-    0,
     2,
     3,
     1,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -274,83 +249,67 @@
    ]
   },
   {
-   "termo": "Estados Unidos",
-   "fontes": 3,
-   "mencoes": 3,
+   "termo": "Raphael Montes",
+   "fontes": 4,
+   "mencoes": 5,
    "por_dia": [
-    0,
     0,
     1,
     0,
     0,
     0,
-    2
+    0,
+    4
    ],
    "novo_hoje": false,
    "itens": [
-    "5b98733435d7",
-    "2ad1067d865d",
-    "043b5b3cc22a"
+    "aec7da3592c3",
+    "15afb380cc68",
+    "eb01c407beeb",
+    "ef1fbe2bd11b",
+    "25f6c10c67b9"
    ]
   },
   {
-   "termo": "Segunda Guerra Mundial",
-   "fontes": 3,
-   "mencoes": 3,
+   "termo": "Booker Prize",
+   "fontes": 4,
+   "mencoes": 4,
    "por_dia": [
     0,
     0,
-    0,
-    0,
     2,
+    1,
+    0,
     0,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "94d2abcba474",
-    "e4212186613e",
-    "7a1adb9e1d72"
-   ]
-  },
-  {
-   "termo": "Bosque Selvagem",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    1,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e044d56edd1e",
-    "c75be22097f8",
-    "d764f78f04d5"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    2,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
+    "a5ac8fe2c528",
     "ad8ab94d2934",
     "2f87cf87f687",
     "3cb3da269330"
+   ]
+  },
+  {
+   "termo": "Gustavo Scarpa",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "eb48b2fdf124",
+    "915e9ee5b46e",
+    "7d96864f4bb1",
+    "1e244c2eaa15"
    ]
   },
   {
@@ -358,19 +317,59 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    1,
     0,
     0,
     0,
     2,
     0,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "48003a963fc1",
     "d036cde71c24",
-    "6673a9303d2a",
-    "3d9a5481aae1"
+    "6673a9303d2a"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f9e20b56f3f3",
+    "9f0bf055d6b2",
+    "158958b0af0c"
+   ]
+  },
+  {
+   "termo": "Dia Nacional do Livro",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "74cc81cc1c10",
+    "8044de23fc36",
+    "9737a532abc2"
    ]
   }
  ]
