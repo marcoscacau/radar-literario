@@ -1,27 +1,27 @@
 {
- "gerado_em": "2026-10-31T12:07:05-03:00",
+ "gerado_em": "2026-11-01T12:49:36-03:00",
  "dias": [
-  "2026-10-25",
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
-  "2026-10-31"
+  "2026-10-31",
+  "2026-11-01"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 42,
-   "mencoes": 50,
+   "fontes": 39,
+   "mencoes": 45,
    "por_dia": [
-    5,
     3,
     5,
     15,
     7,
     8,
-    7
+    7,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -41,16 +41,16 @@
   },
   {
    "termo": "Augusto Cury",
-   "fontes": 15,
-   "mencoes": 18,
+   "fontes": 14,
+   "mencoes": 17,
    "por_dia": [
-    1,
     0,
     8,
     6,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -70,19 +70,21 @@
   },
   {
    "termo": "Prêmio Oceanos",
-   "fontes": 11,
-   "mencoes": 13,
+   "fontes": 12,
+   "mencoes": 15,
    "por_dia": [
-    0,
     0,
     0,
     0,
     8,
     3,
+    2,
     2
    ],
    "novo_hoje": false,
    "itens": [
+    "e9b083e6658e",
+    "2bee819e5532",
     "3e948055e48c",
     "0597b04fbcff",
     "592d9f164a95",
@@ -92,9 +94,7 @@
     "190cfa74bccd",
     "5885d83b5c4b",
     "9b8c5b1ceec6",
-    "4f708c8d745d",
-    "0c0d1daeae2a",
-    "5c6cf2186fae"
+    "4f708c8d745d"
    ]
   },
   {
@@ -104,11 +104,11 @@
    "por_dia": [
     0,
     0,
-    0,
     6,
     3,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -132,11 +132,11 @@
    "por_dia": [
     0,
     0,
-    0,
     5,
     2,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -156,13 +156,13 @@
    "fontes": 6,
    "mencoes": 9,
    "por_dia": [
-    0,
     1,
     2,
     1,
     1,
     2,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -179,26 +179,25 @@
   },
   {
    "termo": "Prime Video",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 5,
+   "mencoes": 6,
    "por_dia": [
-    2,
     2,
     1,
     0,
     0,
+    1,
     1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "efccd541673a",
     "c81a8db10317",
     "ffe54bd0c923",
     "1c13453fee5d",
     "b9e75d8e257a",
-    "f873db1753a2",
-    "afa45ea1748d",
-    "f2c456f55b7b"
+    "f873db1753a2"
    ]
   },
   {
@@ -206,12 +205,12 @@
    "fontes": 5,
    "mencoes": 6,
    "por_dia": [
-    0,
     1,
     0,
     3,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -229,12 +228,12 @@
    "fontes": 4,
    "mencoes": 7,
    "por_dia": [
-    0,
     2,
     3,
     1,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -253,13 +252,13 @@
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
-    0,
     1,
     0,
     0,
     0,
     0,
-    4
+    4,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -271,17 +270,59 @@
    ]
   },
   {
-   "termo": "Booker Prize",
+   "termo": "Belo Horizonte",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
     0,
     2,
+    0,
+    0,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fc58f7e87b78",
+    "48003a963fc1",
+    "d036cde71c24",
+    "6673a9303d2a"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "9823c24dc0c0",
+    "f9e20b56f3f3",
+    "9f0bf055d6b2",
+    "158958b0af0c"
+   ]
+  },
+  {
+   "termo": "Booker Prize",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    2,
     1,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -296,10 +337,10 @@
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
-    0,
     1,
     1,
     2,
+    0,
     0,
     0,
     0
@@ -313,46 +354,6 @@
    ]
   },
   {
-   "termo": "Belo Horizonte",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    2,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "48003a963fc1",
-    "d036cde71c24",
-    "6673a9303d2a"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f9e20b56f3f3",
-    "9f0bf055d6b2",
-    "158958b0af0c"
-   ]
-  },
-  {
    "termo": "Dia Nacional do Livro",
    "fontes": 3,
    "mencoes": 3,
@@ -360,10 +361,10 @@
     0,
     0,
     0,
-    0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [

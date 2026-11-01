@@ -1,12 +1,12 @@
 {
- "gerado_em": "2026-10-31T12:07:05-03:00",
+ "gerado_em": "2026-11-01T12:49:36-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "3670f2afd80d",
     "f94b44e66f7b",
-    "e1ab45646c06",
-    "bcce307c54c9"
+    "e1ab45646c06"
    ],
    "livros": [
     {
@@ -117,6 +117,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "49dfab241336",
+      "f3fa9a35e265",
       "9088e13d6bb3",
       "67a723771027",
       "8f3b05ab2dbd",
@@ -146,12 +148,7 @@
       "ff0fb623d1aa",
       "b9e75d8e257a",
       "cf2fd59bea02",
-      "7d31ca2e13e2",
-      "37189dbce17f",
-      "8b78861b296c",
-      "e9b550bc87c9",
-      "322b0e26c9cf",
-      "bf5dedc7cce3"
+      "7d31ca2e13e2"
      ]
     },
     {
@@ -186,10 +183,7 @@
      "ano": 2026,
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
-     "noticias": [
-      "bcce307c54c9",
-      "3c2e00caffd3"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Peculiar Stars",
@@ -264,6 +258,14 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "751b1e3c6e75",
+    "40a40fba4936",
+    "9fcd5823c10e",
+    "d6b14fa5821c",
+    "145330e27293",
+    "42640824e45d",
+    "45ced49a0d15",
+    "e80242191275",
     "c81a8db10317",
     "9b9cc622f437",
     "18a2593e6c85",
@@ -296,11 +298,7 @@
     "7c8081994571",
     "6cff4146ab35",
     "296f4beda3ab",
-    "6214ae21a094",
-    "49a9a1ad4bd7",
-    "22512106940b",
-    "225e6c915847",
-    "526e99f27975"
+    "6214ae21a094"
    ],
    "livros": [
     {
@@ -309,6 +307,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "efccd541673a",
+      "7cda6633946e",
       "4b338f13e5ed",
       "f16421d36f75",
       "ffe54bd0c923",
@@ -319,14 +319,7 @@
       "c6b053103275",
       "092b0f4ea48e",
       "f873db1753a2",
-      "6214ae21a094",
-      "afa45ea1748d",
-      "0d832a5326f3",
-      "f2c456f55b7b",
-      "49a9a1ad4bd7",
-      "8ca56107588e",
-      "75572dd7bec2",
-      "526e99f27975"
+      "6214ae21a094"
      ]
     },
     {
