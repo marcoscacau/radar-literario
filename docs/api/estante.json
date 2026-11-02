@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-11-01T12:49:36-03:00",
+ "gerado_em": "2026-11-02T16:14:21-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "4f22ef72fb86",
+    "f88282812004",
     "3670f2afd80d",
     "f94b44e66f7b",
     "e1ab45646c06"
@@ -117,6 +119,9 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "36ebc7826cc1",
+      "4f22ef72fb86",
+      "f88282812004",
       "49dfab241336",
       "f3fa9a35e265",
       "9088e13d6bb3",
@@ -143,12 +148,7 @@
       "1c13453fee5d",
       "fd89d0e1f4ed",
       "fd158ffa20a2",
-      "a0adf08af780",
-      "65b442e9bd7c",
-      "ff0fb623d1aa",
-      "b9e75d8e257a",
-      "cf2fd59bea02",
-      "7d31ca2e13e2"
+      "a0adf08af780"
      ]
     },
     {
@@ -176,7 +176,10 @@
      "pt": "Tempestade de Ônix",
      "ano": 2025,
      "serie": "O Empyriano #3",
-     "noticias": []
+     "noticias": [
+      "4f22ef72fb86",
+      "f88282812004"
+     ]
     },
     {
      "titulo": "Threshing Day",
@@ -200,8 +203,7 @@
     "15afb380cc68",
     "eb01c407beeb",
     "ef1fbe2bd11b",
-    "fd7194e26465",
-    "25f6c10c67b9"
+    "fd7194e26465"
    ],
    "livros": [
     {
@@ -258,6 +260,12 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "23a3a8436ff3",
+    "49be4800afdc",
+    "8c087a44c35b",
+    "b5a8e7d4583a",
+    "1bb8c2e86735",
+    "742b538cf6e3",
     "751b1e3c6e75",
     "40a40fba4936",
     "9fcd5823c10e",
@@ -291,14 +299,7 @@
     "c6b053103275",
     "092b0f4ea48e",
     "272533502994",
-    "0bcb1c35c510",
-    "1461cf8b2131",
-    "9c04d16bd769",
-    "61688f9639f8",
-    "7c8081994571",
-    "6cff4146ab35",
-    "296f4beda3ab",
-    "6214ae21a094"
+    "0bcb1c35c510"
    ],
    "livros": [
     {
@@ -307,6 +308,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "31b1679c6eaf",
       "efccd541673a",
       "7cda6633946e",
       "4b338f13e5ed",
@@ -317,9 +319,7 @@
       "0f7b747c180e",
       "a5c0c33baec5",
       "c6b053103275",
-      "092b0f4ea48e",
-      "f873db1753a2",
-      "6214ae21a094"
+      "092b0f4ea48e"
      ]
     },
     {
@@ -446,9 +446,7 @@
      "pt": "A Maldição do Cigano",
      "ano": 1984,
      "serie": "como Richard Bachman",
-     "noticias": [
-      "9c04d16bd769"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Skeleton Crew",
@@ -716,7 +714,9 @@
      "titulo": "Doctor Sleep",
      "pt": "Doutor Sono",
      "ano": 2013,
-     "noticias": []
+     "noticias": [
+      "53dae9e86b8d"
+     ]
     },
     {
      "titulo": "Mr. Mercedes",
@@ -781,7 +781,9 @@
      "titulo": "The Institute",
      "pt": "O Instituto",
      "ano": 2019,
-     "noticias": []
+     "noticias": [
+      "49be4800afdc"
+     ]
     },
     {
      "titulo": "If It Bleeds",
@@ -842,9 +844,9 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "0a3fa48d7469",
     "2a3e882f76e5",
-    "de30ded57c9b",
-    "468083ae8878"
+    "de30ded57c9b"
    ],
    "livros": [
     {
@@ -994,8 +996,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
-      "660c29f7c7f9",
-      "10316dd96377"
+      "660c29f7c7f9"
      ]
     },
     {

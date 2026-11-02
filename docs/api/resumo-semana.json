@@ -1,30 +1,30 @@
 {
- "gerado_em": "2026-11-01T12:49:36-03:00",
+ "gerado_em": "2026-11-02T16:14:21-03:00",
  "dias": [
+  "2026-11-02",
   "2026-11-01",
   "2026-10-31",
   "2026-10-30",
   "2026-10-29",
   "2026-10-28",
-  "2026-10-27",
-  "2026-10-26"
+  "2026-10-27"
  ],
- "total": 703,
+ "total": 675,
  "por_grupo": {
-  "internacional": 288,
-  "brasil-portugal": 342,
-  "cadernos": 73
+  "cadernos": 63,
+  "brasil-portugal": 337,
+  "internacional": 275
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 61
+   "noticias": 55
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 21
+   "noticias": 22
   },
   {
    "id": "suspense",
@@ -39,7 +39,7 @@
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 5
+   "noticias": 6
   },
   {
    "id": "filosofia",
@@ -64,11 +64,11 @@
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 33
+   "noticias": 31
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 27
+   "noticias": 26
   },
   {
    "nome": "Augusto Cury",
@@ -76,23 +76,23 @@
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 11
-  },
-  {
-   "nome": "Raphael Montes",
-   "noticias": 7
+   "noticias": 10
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 7
+   "noticias": 6
+  },
+  {
+   "nome": "Raphael Montes",
+   "noticias": 6
+  },
+  {
+   "nome": "Dan Brown",
+   "noticias": 4
   },
   {
    "nome": "Dostoiévski",
    "noticias": 4
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 3
   }
  ],
  "em_alta": [
@@ -106,27 +106,27 @@
   {
    "termo": "Raphael Montes",
    "ultimos_3_dias": 4,
-   "antes": 1
+   "antes": 0
   },
   {
-   "termo": "Senhor dos Anéis",
+   "termo": "Subversão Kafka",
    "ultimos_3_dias": 3,
-   "antes": 1
+   "antes": 2
   },
   {
-   "termo": "Dia Nacional do Livro",
+   "termo": "Mike Flanagan",
    "ultimos_3_dias": 2,
    "antes": 1
   }
  ],
  "destaques": [
-  "468083ae8878",
+  "0a3fa48d7469",
   "f3fa9a35e265",
-  "2d0dff6b8902",
+  "739a188c6f7f",
   "c6b053103275",
   "f1215cd87854",
   "0f82a15ce07f",
-  "25f6c10c67b9",
+  "fc7151cf9411",
   "48003a963fc1"
  ]
 }

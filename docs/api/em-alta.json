@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-11-01T12:49:36-03:00",
+ "gerado_em": "2026-11-02T16:14:21-03:00",
  "dias": [
-  "2026-10-26",
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
   "2026-10-31",
-  "2026-11-01"
+  "2026-11-01",
+  "2026-11-02"
  ],
  "termos": [
   {
@@ -15,16 +15,19 @@
    "fontes": 39,
    "mencoes": 45,
    "por_dia": [
-    3,
     5,
     15,
     7,
     8,
     7,
-    0
+    0,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "baac3f01f75f",
+    "3a21f0700579",
+    "c1a2ebf65e64",
     "4935d8e0dc3a",
     "e3e98bb1b118",
     "f10cdd0c22df",
@@ -33,10 +36,7 @@
     "376a8f7f432f",
     "043eea38ec13",
     "cc693285db66",
-    "9d58d7ffaff5",
-    "045485e85c88",
-    "aa26ecf97f3b",
-    "eac5fd8a86a1"
+    "9d58d7ffaff5"
    ]
   },
   {
@@ -44,12 +44,12 @@
    "fontes": 14,
    "mencoes": 17,
    "por_dia": [
-    0,
     8,
     6,
     1,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -75,11 +75,11 @@
    "por_dia": [
     0,
     0,
-    0,
     8,
     3,
     2,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -99,19 +99,20 @@
   },
   {
    "termo": "Ruy Castro",
-   "fontes": 10,
-   "mencoes": 11,
+   "fontes": 11,
+   "mencoes": 12,
    "por_dia": [
-    0,
     0,
     6,
     3,
     1,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "baac3f01f75f",
     "e3e98bb1b118",
     "9fb853e1545b",
     "48082a62f4fa",
@@ -127,19 +128,20 @@
   },
   {
    "termo": "Livro do Ano",
-   "fontes": 9,
-   "mencoes": 9,
+   "fontes": 10,
+   "mencoes": 10,
    "por_dia": [
-    0,
     0,
     5,
     2,
     1,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "baac3f01f75f",
     "e3e98bb1b118",
     "9fb853e1545b",
     "48082a62f4fa",
@@ -153,19 +155,20 @@
   },
   {
    "termo": "Fourth Wing",
-   "fontes": 6,
+   "fontes": 7,
    "mencoes": 9,
    "por_dia": [
-    1,
     2,
     1,
     1,
     2,
     2,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "36ebc7826cc1",
     "67a723771027",
     "4348667dc3ec",
     "0a3dee05ab7a",
@@ -173,66 +176,41 @@
     "5447230d8275",
     "9b687e80fa32",
     "da759bc89c13",
-    "1c13453fee5d",
-    "b9e75d8e257a"
+    "1c13453fee5d"
    ]
   },
   {
-   "termo": "Prime Video",
-   "fontes": 5,
-   "mencoes": 6,
+   "termo": "Booker Prize",
+   "fontes": 4,
+   "mencoes": 5,
    "por_dia": [
     2,
     1,
     0,
     0,
     1,
-    1,
+    0,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "efccd541673a",
-    "c81a8db10317",
-    "ffe54bd0c923",
-    "1c13453fee5d",
-    "b9e75d8e257a",
-    "f873db1753a2"
-   ]
-  },
-  {
-   "termo": "Flávio Bolsonaro",
-   "fontes": 5,
-   "mencoes": 6,
-   "por_dia": [
-    1,
-    0,
-    3,
-    1,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2ad1067d865d",
-    "f4d604d07579",
-    "2eedf4152752",
-    "98e967ed4446",
-    "6a9c7f526585",
-    "2ac7f4dc79ec"
+    "eaf2142f71df",
+    "a5ac8fe2c528",
+    "ad8ab94d2934",
+    "2f87cf87f687",
+    "3cb3da269330"
    ]
   },
   {
    "termo": "Nobel de Literatura",
    "fontes": 4,
-   "mencoes": 7,
+   "mencoes": 5,
    "por_dia": [
-    2,
     3,
     1,
     0,
     1,
+    0,
     0,
     0
    ],
@@ -242,31 +220,29 @@
     "4c497013c7a6",
     "052ce4e2ea9a",
     "8c34d30cd59c",
-    "fcea352747d4",
-    "27209e4d2871",
-    "254cbe065df7"
+    "fcea352747d4"
    ]
   },
   {
-   "termo": "Raphael Montes",
+   "termo": "Flávio Bolsonaro",
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
+    0,
+    3,
+    1,
     1,
     0,
     0,
-    0,
-    0,
-    4,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "aec7da3592c3",
-    "15afb380cc68",
-    "eb01c407beeb",
-    "ef1fbe2bd11b",
-    "25f6c10c67b9"
+    "2ad1067d865d",
+    "f4d604d07579",
+    "2eedf4152752",
+    "98e967ed4446",
+    "6a9c7f526585"
    ]
   },
   {
@@ -275,12 +251,12 @@
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     2,
     0,
     0,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -297,11 +273,11 @@
    "por_dia": [
     0,
     0,
-    0,
     1,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -312,65 +288,87 @@
    ]
   },
   {
-   "termo": "Booker Prize",
+   "termo": "Prime Video",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
-    0,
-    2,
     1,
     0,
     0,
+    1,
+    1,
     1,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "a5ac8fe2c528",
-    "ad8ab94d2934",
-    "2f87cf87f687",
-    "3cb3da269330"
+    "efccd541673a",
+    "c81a8db10317",
+    "ffe54bd0c923",
+    "1c13453fee5d"
    ]
   },
   {
-   "termo": "Gustavo Scarpa",
-   "fontes": 4,
-   "mencoes": 4,
+   "termo": "Subversão Kafka",
+   "fontes": 3,
+   "mencoes": 5,
    "por_dia": [
+    0,
+    0,
     1,
     1,
     2,
     0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fc7151cf9411",
+    "84ea0f64f1f0",
+    "6e017712446d",
+    "60970ce5efb9",
+    "543add501d63"
+   ]
+  },
+  {
+   "termo": "Raphael Montes",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
     0,
+    0,
+    0,
+    0,
+    4,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "eb48b2fdf124",
-    "915e9ee5b46e",
-    "7d96864f4bb1",
-    "1e244c2eaa15"
+    "aec7da3592c3",
+    "15afb380cc68",
+    "eb01c407beeb",
+    "ef1fbe2bd11b"
    ]
   },
   {
-   "termo": "Dia Nacional do Livro",
+   "termo": "Mike Flanagan",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
+    1,
     0,
     0,
+    0,
     1,
-    1,
-    1,
-    0
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "74cc81cc1c10",
-    "8044de23fc36",
-    "9737a532abc2"
+    "31b1679c6eaf",
+    "7cda6633946e",
+    "092b0f4ea48e"
    ]
   }
  ]
