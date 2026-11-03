@@ -1,40 +1,40 @@
 {
- "gerado_em": "2026-11-02T16:14:21-03:00",
+ "gerado_em": "2026-11-03T13:51:34-03:00",
  "dias": [
+  "2026-11-03",
   "2026-11-02",
   "2026-11-01",
   "2026-10-31",
   "2026-10-30",
   "2026-10-29",
-  "2026-10-28",
-  "2026-10-27"
+  "2026-10-28"
  ],
- "total": 675,
+ "total": 651,
  "por_grupo": {
-  "cadernos": 63,
-  "brasil-portugal": 337,
-  "internacional": 275
+  "cadernos": 64,
+  "brasil-portugal": 317,
+  "internacional": 270
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 55
+   "noticias": 54
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 22
+   "noticias": 23
+  },
+  {
+   "id": "fe",
+   "nome": "fé e teologia",
+   "noticias": 12
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
    "noticias": 12
-  },
-  {
-   "id": "fe",
-   "nome": "fé e teologia",
-   "noticias": 11
   },
   {
    "id": "fisica",
@@ -63,19 +63,19 @@
    "noticias": 50
   },
   {
-   "nome": "Rebecca Yarros",
-   "noticias": 31
-  },
-  {
    "nome": "J. R. R. Tolkien",
-   "noticias": 26
+   "noticias": 32
   },
   {
-   "nome": "Augusto Cury",
-   "noticias": 18
+   "nome": "Rebecca Yarros",
+   "noticias": 27
   },
   {
    "nome": "C. S. Lewis",
+   "noticias": 11
+  },
+  {
+   "nome": "Augusto Cury",
    "noticias": 10
   },
   {
@@ -97,22 +97,12 @@
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Augusto Cury",
   "Prêmio Oceanos",
   "Ruy Castro",
-  "Livro do Ano"
+  "Livro do Ano",
+  "Augusto Cury"
  ],
  "subindo": [
-  {
-   "termo": "Raphael Montes",
-   "ultimos_3_dias": 4,
-   "antes": 0
-  },
-  {
-   "termo": "Subversão Kafka",
-   "ultimos_3_dias": 3,
-   "antes": 2
-  },
   {
    "termo": "Mike Flanagan",
    "ultimos_3_dias": 2,

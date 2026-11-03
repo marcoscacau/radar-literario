@@ -1,7 +1,28 @@
 {
- "gerado_em": "2026-11-02T16:14:21-03:00",
- "total": 34,
+ "gerado_em": "2026-11-03T13:51:34-03:00",
+ "total": 35,
  "eventos": [
+  {
+   "id": "a4eeab4f2eee",
+   "titulo": "Morre Gigi Poetisa, poeta e atriz sergipana, aos 60 anos",
+   "link": "https://infonet.com.br/noticias/cidade/morre-gigi-poetisa-poeta-e-atriz-sergipana-aos-60-anos/",
+   "resumo": "Artista era natural de Propriá e teve trajetória marcada pela poesia, pelo cordel e pela valorização da cultura popular",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-03T11:15-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-03"
+  },
   {
    "id": "78833e7cd8f0",
    "titulo": "Acadêmico Francisco Diemerson é eleito membro correspondente da Academia Sergipana de Letras",
