@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-03T13:51:34-03:00",
+ "gerado_em": "2026-11-04T13:54:00-03:00",
  "dias": [
+  "2026-11-04",
   "2026-11-03",
   "2026-11-02",
   "2026-11-01",
   "2026-10-31",
   "2026-10-30",
-  "2026-10-29",
-  "2026-10-28"
+  "2026-10-29"
  ],
- "total": 651,
+ "total": 628,
  "por_grupo": {
-  "cadernos": 64,
-  "brasil-portugal": 317,
-  "internacional": 270
+  "internacional": 269,
+  "brasil-portugal": 304,
+  "cadernos": 55
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 54
+   "noticias": 47
   },
   {
    "id": "fantasia",
@@ -34,22 +34,22 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 12
+   "noticias": 8
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 6
+   "noticias": 5
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 2
   },
   {
    "id": "russos",
@@ -60,11 +60,11 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 50
+   "noticias": 44
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 32
+   "noticias": 36
   },
   {
    "nome": "Rebecca Yarros",
@@ -73,10 +73,6 @@
   {
    "nome": "C. S. Lewis",
    "noticias": 11
-  },
-  {
-   "nome": "Augusto Cury",
-   "noticias": 10
   },
   {
    "nome": "Franz Kafka",
@@ -93,18 +89,37 @@
   {
    "nome": "Dostoiévski",
    "noticias": 4
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 3
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Prêmio Oceanos",
+  "Fourth Wing",
   "Ruy Castro",
-  "Livro do Ano",
-  "Augusto Cury"
+  "Roberta Campos"
  ],
  "subindo": [
   {
-   "termo": "Mike Flanagan",
+   "termo": "Roberta Campos",
+   "ultimos_3_dias": 5,
+   "antes": 0
+  },
+  {
+   "termo": "Pedro Pacífico",
+   "ultimos_3_dias": 5,
+   "antes": 0
+  },
+  {
+   "termo": "Booker Prize",
+   "ultimos_3_dias": 3,
+   "antes": 1
+  },
+  {
+   "termo": "Paulliny Tort",
    "ultimos_3_dias": 2,
    "antes": 1
   }
@@ -113,10 +128,10 @@
   "0a3fa48d7469",
   "f3fa9a35e265",
   "739a188c6f7f",
-  "c6b053103275",
+  "c2ee01ec2a51",
   "f1215cd87854",
-  "0f82a15ce07f",
   "fc7151cf9411",
-  "48003a963fc1"
+  "48003a963fc1",
+  "aec7da3592c3"
  ]
 }

@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-11-03T13:51:34-03:00",
+ "gerado_em": "2026-11-04T13:54:00-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "fc52114d594e",
+    "f6d0ccb289cc",
     "4f22ef72fb86",
     "f88282812004",
     "3670f2afd80d",
@@ -119,6 +121,10 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "f706ded742fa",
+      "1b8406271433",
+      "4d156801dc0b",
+      "fc52114d594e",
       "6f3c7bff0566",
       "36ebc7826cc1",
       "4f22ef72fb86",
@@ -139,12 +145,7 @@
       "09df0fe7e11d",
       "1073a16d5896",
       "5447230d8275",
-      "ade55a2a0bf1",
-      "8c04274fa493",
-      "5a85dcad2564",
-      "3e2fdf59e543",
-      "9b687e80fa32",
-      "e37664ee0b9d"
+      "ade55a2a0bf1"
      ]
     },
     {
@@ -256,6 +257,10 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "7a446543557e",
+    "c2ee01ec2a51",
+    "1a4daffda4a4",
+    "25451b9d97f1",
     "2952b2a70b73",
     "75293987d10b",
     "23a3a8436ff3",
@@ -285,17 +290,7 @@
     "9b64fe13ead3",
     "77ddc5f37c4a",
     "8913d5caaca9",
-    "65c0e8207df9",
-    "856b19f9e779",
-    "e222ac755142",
-    "00cc5e68f016",
-    "02dcdd1c4394",
-    "c4306d67ad13",
-    "40c25f05d5c3",
-    "9831902c4ab2",
-    "6cdfb49c500a",
-    "c6b053103275",
-    "092b0f4ea48e"
+    "65c0e8207df9"
    ],
    "livros": [
     {
@@ -304,6 +299,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "6eb1a6ef42f4",
       "31b1679c6eaf",
       "efccd541673a",
       "7cda6633946e",
@@ -312,10 +308,7 @@
       "ffe54bd0c923",
       "272648659a74",
       "d7643c109c2f",
-      "0f7b747c180e",
-      "a5c0c33baec5",
-      "c6b053103275",
-      "092b0f4ea48e"
+      "0f7b747c180e"
      ]
     },
     {
@@ -841,8 +834,7 @@
    "nome": "C. S. Lewis",
    "noticias": [
     "0a3fa48d7469",
-    "2a3e882f76e5",
-    "de30ded57c9b"
+    "2a3e882f76e5"
    ],
    "livros": [
     {
@@ -891,9 +883,7 @@
      "titulo": "The Screwtape Letters",
      "pt": "Cartas de um Diabo a seu Aprendiz",
      "ano": 1942,
-     "noticias": [
-      "de30ded57c9b"
-     ]
+     "noticias": []
     },
     {
      "titulo": "A Preface to Paradise Lost",
@@ -992,6 +982,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "05f58bdec548",
       "660c29f7c7f9"
      ]
     },
