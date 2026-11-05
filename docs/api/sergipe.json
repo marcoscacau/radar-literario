@@ -1,7 +1,54 @@
 {
- "gerado_em": "2026-11-04T13:54:00-03:00",
- "total": 35,
+ "gerado_em": "2026-11-05T14:09:12-03:00",
+ "total": 37,
  "eventos": [
+  {
+   "id": "6e5079a03ae0",
+   "titulo": "Plano Diretor: Emília convida Aracaju a desenhar seu futuro",
+   "link": "https://infonet.com.br/blogs/fausto_leite/plano-diretor-emilia-convida-aracaju-a-desenhar-seu-futuro/",
+   "resumo": "Foram 26 anos de espera, tentativas frustradas e uma pergunta que nunca deixou de acompanhar Aracaju: que cidade queremos entregar às próximas gerações? Na terça-feira passada, dia 3, no auditório do Ministério Público de Sergipe, a prefeita Emília Corrêa participou da primeira audiência pública da…",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-05T10:42-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "6e55702256aa",
+   "titulo": "Agenda g1 SE tem Toquinho, bienal do livro, samba no mercado, forró e mais",
+   "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/05/agenda-g1-se-tem-toquinho-bienal-do-livro-samba-no-mercado-forro-e-mais.ghtml",
+   "resumo": "O g1 SE separou os principais eventos que acontecem em Sergipe de 5 a 8 de novembro com data, horário e local para você se programar. ✅ Clique aqui para seguir o canal do g1 SE no WhatsApp Lançamento de Livro Gilson Sousa. Assessoria de Imprensa da Século XX. Será lançado nesta quinta-feira (5), o…",
+   "fonte": "g1 Sergipe",
+   "fonte_id": "g1-se",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-05T10:20-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-05",
+    "fim": "2026-11-08",
+    "origem": "texto"
+   },
+   "dia": "2026-11-05"
+  },
   {
    "id": "a4eeab4f2eee",
    "titulo": "Morre Gigi Poetisa, poeta e atriz sergipana, aos 60 anos",

@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-04T13:54:00-03:00",
+ "gerado_em": "2026-11-05T14:09:12-03:00",
  "dias": [
+  "2026-11-05",
   "2026-11-04",
   "2026-11-03",
   "2026-11-02",
   "2026-11-01",
   "2026-10-31",
-  "2026-10-30",
-  "2026-10-29"
+  "2026-10-30"
  ],
- "total": 628,
+ "total": 593,
  "por_grupo": {
-  "internacional": 269,
-  "brasil-portugal": 304,
-  "cadernos": 55
+  "brasil-portugal": 285,
+  "cadernos": 53,
+  "internacional": 255
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 47
+   "noticias": 45
   },
   {
    "id": "fantasia",
@@ -34,7 +34,7 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 8
+   "noticias": 7
   },
   {
    "id": "fisica",
@@ -47,11 +47,6 @@
    "noticias": 4
   },
   {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 2
-  },
-  {
    "id": "russos",
    "nome": "literatura russa",
    "noticias": 1
@@ -60,15 +55,15 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 44
+   "noticias": 37
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 36
+   "noticias": 33
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 27
+   "noticias": 22
   },
   {
    "nome": "C. S. Lewis",
@@ -79,27 +74,27 @@
    "noticias": 6
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 6
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 4
-  },
-  {
    "nome": "Dostoiévski",
    "noticias": 4
   },
   {
-   "nome": "Augusto Cury",
+   "nome": "Raphael Montes",
+   "noticias": 4
+  },
+  {
+   "nome": "Dan Brown",
    "noticias": 3
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 2
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Prêmio Oceanos",
   "Fourth Wing",
-  "Ruy Castro",
+  "Booker Prize",
   "Roberta Campos"
  ],
  "subindo": [
@@ -116,21 +111,26 @@
   {
    "termo": "Booker Prize",
    "ultimos_3_dias": 3,
+   "antes": 2
+  },
+  {
+   "termo": "Meryl Streep",
+   "ultimos_3_dias": 2,
    "antes": 1
   },
   {
-   "termo": "Paulliny Tort",
+   "termo": "Academia Brasileira de Letras",
    "ultimos_3_dias": 2,
    "antes": 1
   }
  ],
  "destaques": [
+  "7f5212186cda",
   "0a3fa48d7469",
   "f3fa9a35e265",
-  "739a188c6f7f",
-  "c2ee01ec2a51",
+  "29e00ece5422",
   "f1215cd87854",
-  "fc7151cf9411",
+  "577392eacc77",
   "48003a963fc1",
   "aec7da3592c3"
  ]
