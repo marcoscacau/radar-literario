@@ -1,9 +1,10 @@
 {
- "gerado_em": "2026-11-05T14:09:12-03:00",
+ "gerado_em": "2026-11-06T13:37:15-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "e82f2f084a46",
     "fc52114d594e",
     "f6d0ccb289cc",
     "4f22ef72fb86",
@@ -120,6 +121,10 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "497b4631cc37",
+      "e82f2f084a46",
+      "ae0adfe7dc5b",
+      "5692fc0e152e",
       "126e0c56df2f",
       "f706ded742fa",
       "1b8406271433",
@@ -136,10 +141,7 @@
       "8f3b05ab2dbd",
       "2709af54ade9",
       "4348667dc3ec",
-      "f94b44e66f7b",
-      "0a3dee05ab7a",
-      "a1ce1b8670d9",
-      "3e3c13adf71f"
+      "f94b44e66f7b"
      ]
     },
     {
@@ -248,6 +250,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "f9f69510935a",
+    "e88bd009b71f",
+    "5bed2ef7b03e",
     "29e00ece5422",
     "7a446543557e",
     "c2ee01ec2a51",
@@ -270,14 +275,7 @@
     "45ced49a0d15",
     "e80242191275",
     "c81a8db10317",
-    "9b9cc622f437",
-    "18a2593e6c85",
-    "a3dfcdf91574",
-    "f16421d36f75",
-    "8df53d745f2b",
-    "f86a19da6d58",
-    "272648659a74",
-    "bad7377a315f"
+    "9b9cc622f437"
    ],
    "livros": [
     {
@@ -289,11 +287,7 @@
       "6eb1a6ef42f4",
       "31b1679c6eaf",
       "efccd541673a",
-      "7cda6633946e",
-      "4b338f13e5ed",
-      "f16421d36f75",
-      "ffe54bd0c923",
-      "272648659a74"
+      "7cda6633946e"
      ]
     },
     {
@@ -611,9 +605,7 @@
      "pt": "A Torre Negra",
      "ano": 2004,
      "serie": "A Torre Negra #7",
-     "noticias": [
-      "4b338f13e5ed"
-     ]
+     "noticias": []
     },
     {
      "titulo": "The Colorado Kid",
@@ -816,6 +808,8 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "09e536e66135",
+    "8d12e8ad3b24",
     "fdb3dbc0964c",
     "0a3fa48d7469"
    ],
@@ -938,7 +932,9 @@
      "titulo": "Mere Christianity",
      "pt": "Cristianismo Puro e Simples",
      "ano": 1952,
-     "noticias": []
+     "noticias": [
+      "09e536e66135"
+     ]
     },
     {
      "titulo": "The Silver Chair",
@@ -965,8 +961,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
-      "05f58bdec548",
-      "660c29f7c7f9"
+      "05f58bdec548"
      ]
     },
     {

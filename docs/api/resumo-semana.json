@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-05T14:09:12-03:00",
+ "gerado_em": "2026-11-06T13:37:15-03:00",
  "dias": [
+  "2026-11-06",
   "2026-11-05",
   "2026-11-04",
   "2026-11-03",
   "2026-11-02",
   "2026-11-01",
-  "2026-10-31",
-  "2026-10-30"
+  "2026-10-31"
  ],
- "total": 593,
+ "total": 582,
  "por_grupo": {
-  "brasil-portugal": 285,
-  "cadernos": 53,
-  "internacional": 255
+  "brasil-portugal": 258,
+  "cadernos": 62,
+  "internacional": 262
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 45
+   "noticias": 53
   },
   {
    "id": "fantasia",
@@ -32,19 +32,24 @@
    "noticias": 12
   },
   {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 7
-  },
-  {
    "id": "fisica",
    "nome": "física e ciência",
+   "noticias": 6
+  },
+  {
+   "id": "suspense",
+   "nome": "suspense e mistério",
    "noticias": 5
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 4
+   "noticias": 3
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 1
   },
   {
    "id": "russos",
@@ -54,27 +59,27 @@
  ],
  "autores": [
   {
-   "nome": "Stephen King",
-   "noticias": 37
+   "nome": "J. R. R. Tolkien",
+   "noticias": 32
   },
   {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 33
+   "nome": "Stephen King",
+   "noticias": 31
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 22
+   "noticias": 23
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 11
-  },
-  {
-   "nome": "Franz Kafka",
-   "noticias": 6
+   "noticias": 13
   },
   {
    "nome": "Dostoiévski",
+   "noticias": 5
+  },
+  {
+   "nome": "Franz Kafka",
    "noticias": 4
   },
   {
@@ -86,52 +91,56 @@
    "noticias": 3
   },
   {
+   "nome": "Carl Sagan",
+   "noticias": 1
+  },
+  {
    "nome": "Augusto Cury",
-   "noticias": 2
+   "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Prêmio Oceanos",
-  "Fourth Wing",
   "Booker Prize",
-  "Roberta Campos"
+  "Fourth Wing",
+  "Roberta Campos",
+  "Pedro Pacífico"
  ],
  "subindo": [
   {
-   "termo": "Roberta Campos",
-   "ultimos_3_dias": 5,
-   "antes": 0
-  },
-  {
-   "termo": "Pedro Pacífico",
-   "ultimos_3_dias": 5,
-   "antes": 0
-  },
-  {
    "termo": "Booker Prize",
-   "ultimos_3_dias": 3,
+   "ultimos_3_dias": 5,
    "antes": 2
   },
   {
-   "termo": "Meryl Streep",
-   "ultimos_3_dias": 2,
+   "termo": "Roberta Campos",
+   "ultimos_3_dias": 4,
    "antes": 1
   },
   {
-   "termo": "Academia Brasileira de Letras",
-   "ultimos_3_dias": 2,
+   "termo": "Pedro Pacífico",
+   "ultimos_3_dias": 4,
+   "antes": 1
+  },
+  {
+   "termo": "Liam Neeson",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Philippe Jaenada",
+   "ultimos_3_dias": 3,
    "antes": 1
   }
  ],
  "destaques": [
+  "497b4631cc37",
   "7f5212186cda",
   "0a3fa48d7469",
-  "f3fa9a35e265",
   "29e00ece5422",
   "f1215cd87854",
+  "39e814381e42",
   "577392eacc77",
-  "48003a963fc1",
-  "aec7da3592c3"
+  "48003a963fc1"
  ]
 }

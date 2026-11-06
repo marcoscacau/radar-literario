@@ -1,27 +1,27 @@
 {
- "gerado_em": "2026-11-05T14:09:12-03:00",
+ "gerado_em": "2026-11-06T13:37:15-03:00",
  "dias": [
-  "2026-10-30",
   "2026-10-31",
   "2026-11-01",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 24,
-   "mencoes": 28,
+   "fontes": 18,
+   "mencoes": 20,
    "por_dia": [
-    8,
     7,
     0,
     3,
     2,
     6,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -40,74 +40,50 @@
    ]
   },
   {
-   "termo": "Prêmio Oceanos",
-   "fontes": 6,
-   "mencoes": 8,
-   "por_dia": [
-    3,
-    2,
-    2,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "fb3cb37d019b",
-    "e9b083e6658e",
-    "2bee819e5532",
-    "3e948055e48c",
-    "0597b04fbcff",
-    "592d9f164a95",
-    "5ce75a9c1bd8",
-    "52bf7faacc83"
-   ]
-  },
-  {
-   "termo": "Fourth Wing",
-   "fontes": 6,
-   "mencoes": 7,
-   "por_dia": [
-    2,
-    2,
-    0,
-    1,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4d156801dc0b",
-    "6f3c7bff0566",
-    "36ebc7826cc1",
-    "67a723771027",
-    "4348667dc3ec",
-    "0a3dee05ab7a",
-    "a1ce1b8670d9"
-   ]
-  },
-  {
    "termo": "Booker Prize",
    "fontes": 5,
-   "mencoes": 5,
+   "mencoes": 7,
    "por_dia": [
-    0,
     1,
     0,
     1,
     0,
     2,
-    1
+    1,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "00b7ec151cdb",
+    "09f8d1dfd11f",
     "39b9c2dcfa17",
     "af12567e9a42",
     "117a7713fdca",
     "eaf2142f71df",
     "a5ac8fe2c528"
+   ]
+  },
+  {
+   "termo": "Fourth Wing",
+   "fontes": 5,
+   "mencoes": 6,
+   "por_dia": [
+    2,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "e82f2f084a46",
+    "4d156801dc0b",
+    "6f3c7bff0566",
+    "36ebc7826cc1",
+    "67a723771027",
+    "4348667dc3ec"
    ]
   },
   {
@@ -118,9 +94,9 @@
     0,
     0,
     0,
-    0,
     1,
     4,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -140,9 +116,9 @@
     0,
     0,
     0,
-    0,
     1,
     4,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -161,45 +137,66 @@
    "por_dia": [
     1,
     1,
-    1,
     0,
     0,
     2,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "2f5c66b5ed12",
     "855b4975e961",
     "0057ed76c653",
     "9823c24dc0c0",
-    "f9e20b56f3f3",
-    "9f0bf055d6b2"
+    "f9e20b56f3f3"
    ]
   },
   {
-   "termo": "Feira do Livro",
+   "termo": "Prêmio Oceanos",
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
     2,
-    1,
+    2,
     0,
     0,
-    1,
+    0,
     1,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "5ea84881e73d",
-    "26f04e1b0ce0",
-    "10427ce0c945",
-    "b8c758859b02",
-    "eba6fa24f654"
+    "fb3cb37d019b",
+    "e9b083e6658e",
+    "2bee819e5532",
+    "3e948055e48c",
+    "0597b04fbcff"
    ]
   },
   {
-   "termo": "Ruy Castro",
+   "termo": "Philippe Jaenada",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "44d6ab010b7c",
+    "be1b302213d8",
+    "d9a3890630be",
+    "e2e6e360efb8"
+   ]
+  },
+  {
+   "termo": "Prime Video",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
@@ -213,52 +210,31 @@
    ],
    "novo_hoje": false,
    "itens": [
-    "679581c5750d",
-    "baac3f01f75f",
-    "e3e98bb1b118",
-    "9fb853e1545b"
+    "e82f2f084a46",
+    "6f3c7bff0566",
+    "efccd541673a",
+    "c81a8db10317"
    ]
   },
   {
-   "termo": "Prime Video",
+   "termo": "Meryl Streep",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
-    1,
-    1,
-    1,
+    0,
     0,
     1,
     0,
-    0
+    1,
+    1,
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "6f3c7bff0566",
-    "efccd541673a",
-    "c81a8db10317",
-    "ffe54bd0c923"
-   ]
-  },
-  {
-   "termo": "Subversão Kafka",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    2,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "fc7151cf9411",
-    "84ea0f64f1f0",
-    "6e017712446d",
-    "60970ce5efb9"
+    "36a569453153",
+    "4f523be72241",
+    "05f58bdec548",
+    "f52b3d4f7231"
    ]
   },
   {
@@ -266,8 +242,8 @@
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    0,
     4,
+    0,
     0,
     0,
     0,
@@ -283,23 +259,23 @@
    ]
   },
   {
-   "termo": "Meryl Streep",
+   "termo": "Liam Neeson",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
     0,
     0,
-    1,
     0,
+    1,
     1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "36a569453153",
     "4f523be72241",
-    "05f58bdec548",
-    "f52b3d4f7231"
+    "05f58bdec548"
    ]
   },
   {
@@ -308,12 +284,12 @@
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
     1,
     1,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -328,18 +304,38 @@
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
     1,
     0,
     0,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
     "88c222f1b1e7",
     "5d42198a47e5",
     "843f65a9ea8e"
+   ]
+  },
+  {
+   "termo": "Ruy Castro",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "679581c5750d",
+    "baac3f01f75f",
+    "e3e98bb1b118"
    ]
   }
  ]

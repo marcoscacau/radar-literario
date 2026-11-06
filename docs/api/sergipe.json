@@ -1,7 +1,54 @@
 {
- "gerado_em": "2026-11-05T14:09:12-03:00",
- "total": 37,
+ "gerado_em": "2026-11-06T13:37:15-03:00",
+ "total": 39,
  "eventos": [
+  {
+   "id": "df31327c3b3c",
+   "titulo": "A força dos parentes e aderentes no serviço público",
+   "link": "https://infonet.com.br/blogs/adiberto/a-forca-dos-parentes-e-aderentes-no-servico-publico/",
+   "resumo": "Aprovada há alguns anos pelo Supremo Tribunal Federal, a súmula proibindo o nepotismo no serviço público sempre foi desrespeitada pela maioria dos gestores. De lá pra cá, pouca gente perdeu o emprego por pertencer à família dos governadores ou prefeitos de plantão, que insistem em alegar a…",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-06T08:12-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "864a10ac1e51",
+   "titulo": "AGENDA MANGUE CULTURAL DE 6 a 12 de Novembro: “Festivais culturais, Bienal do Livro, Gaymado e muito mais em Sergipe”",
+   "link": "https://manguejornalismo.org/agenda-mangue-cultural-de-6-a-12-de-novembro-festivais-culturais-bienal-do-livro-gaymado-e-muito-mais-em-sergipe/",
+   "resumo": "Na sexta, 06, acontece o Festival Mosaico Cultural , em Aracaju, a XVI FACTOB , em Tobias Barreto, e a 2ª Bienal do Livro Sergipe , também em Aracaju. No sábado, 07, tem uma edição especial de Ensaios da Rural , o Lançamento e Leitura Dramática do Livro “Filhas de Peixe” e o Pareia , todos em…",
+   "fonte": "Mangue Jornalismo (agenda cultural)",
+   "fonte_id": "mangue",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-06T07:49-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-06",
+    "fim": "2026-11-12",
+    "origem": "texto"
+   },
+   "dia": "2026-11-06"
+  },
   {
    "id": "6e5079a03ae0",
    "titulo": "Plano Diretor: Emília convida Aracaju a desenhar seu futuro",
