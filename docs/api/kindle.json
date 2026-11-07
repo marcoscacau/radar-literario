@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-07T14:49:30-03:00",
+ "gerado_em": "2026-11-07T19:11:37-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
