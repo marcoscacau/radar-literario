@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:37:15-03:00",
+ "gerado_em": "2026-11-07T12:28:07-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -9,8 +9,7 @@
     "f6d0ccb289cc",
     "4f22ef72fb86",
     "f88282812004",
-    "3670f2afd80d",
-    "f94b44e66f7b"
+    "3670f2afd80d"
    ],
    "livros": [
     {
@@ -121,6 +120,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "8fde4077e5ae",
+      "ca69c47b8884",
       "497b4631cc37",
       "e82f2f084a46",
       "ae0adfe7dc5b",
@@ -135,13 +136,7 @@
       "4f22ef72fb86",
       "f88282812004",
       "49dfab241336",
-      "f3fa9a35e265",
-      "9088e13d6bb3",
-      "67a723771027",
-      "8f3b05ab2dbd",
-      "2709af54ade9",
-      "4348667dc3ec",
-      "f94b44e66f7b"
+      "f3fa9a35e265"
      ]
     },
     {
@@ -179,7 +174,9 @@
      "ano": 2026,
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
-     "noticias": []
+     "noticias": [
+      "8fde4077e5ae"
+     ]
     },
     {
      "titulo": "Peculiar Stars",
@@ -191,12 +188,7 @@
   },
   {
    "nome": "Raphael Montes",
-   "noticias": [
-    "aec7da3592c3",
-    "15afb380cc68",
-    "eb01c407beeb",
-    "ef1fbe2bd11b"
-   ],
+   "noticias": [],
    "livros": [
     {
      "titulo": "Suicidas",
@@ -250,6 +242,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "c9c5c749da08",
+    "5b689a171ce7",
+    "0f3cb6d02f9d",
     "f9f69510935a",
     "e88bd009b71f",
     "5bed2ef7b03e",
@@ -273,9 +268,7 @@
     "145330e27293",
     "42640824e45d",
     "45ced49a0d15",
-    "e80242191275",
-    "c81a8db10317",
-    "9b9cc622f437"
+    "e80242191275"
    ],
    "livros": [
     {
@@ -808,6 +801,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "bafb288a33cd",
     "09e536e66135",
     "8d12e8ad3b24",
     "fdb3dbc0964c",

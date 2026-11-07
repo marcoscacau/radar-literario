@@ -1,30 +1,33 @@
 {
- "gerado_em": "2026-11-06T13:37:15-03:00",
+ "gerado_em": "2026-11-07T12:28:07-03:00",
  "dias": [
-  "2026-10-31",
   "2026-11-01",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
   "2026-11-05",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 18,
-   "mencoes": 20,
+   "fontes": 15,
+   "mencoes": 16,
    "por_dia": [
-    7,
     0,
     3,
     2,
     6,
     2,
-    0
+    0,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "6881517811ba",
+    "df65cc1cc337",
+    "06fae3b78379",
     "da574977d6e3",
     "758b5f6a27a3",
     "3adcbbade7c7",
@@ -33,10 +36,31 @@
     "7295e5f1a1fb",
     "5ce96dde5b6d",
     "e5e193244642",
-    "9a109af47adf",
-    "0aec341f6c4d",
-    "baac3f01f75f",
-    "3a21f0700579"
+    "9a109af47adf"
+   ]
+  },
+  {
+   "termo": "Roberta Campos",
+   "fontes": 5,
+   "mencoes": 7,
+   "por_dia": [
+    0,
+    0,
+    1,
+    4,
+    0,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4fc1d5563d76",
+    "55ebb62a319a",
+    "2e919b3e1450",
+    "0940c4e5d841",
+    "a1ba1fd3876a",
+    "d9fbfbccb636",
+    "92008d690634"
    ]
   },
   {
@@ -44,68 +68,23 @@
    "fontes": 5,
    "mencoes": 7,
    "por_dia": [
-    1,
     0,
     1,
     0,
     2,
     1,
-    2
+    2,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "0769b52242fe",
     "00b7ec151cdb",
     "09f8d1dfd11f",
     "39b9c2dcfa17",
     "af12567e9a42",
     "117a7713fdca",
-    "eaf2142f71df",
-    "a5ac8fe2c528"
-   ]
-  },
-  {
-   "termo": "Fourth Wing",
-   "fontes": 5,
-   "mencoes": 6,
-   "por_dia": [
-    2,
-    0,
-    1,
-    1,
-    1,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e82f2f084a46",
-    "4d156801dc0b",
-    "6f3c7bff0566",
-    "36ebc7826cc1",
-    "67a723771027",
-    "4348667dc3ec"
-   ]
-  },
-  {
-   "termo": "Roberta Campos",
-   "fontes": 5,
-   "mencoes": 5,
-   "por_dia": [
-    0,
-    0,
-    0,
-    1,
-    4,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2e919b3e1450",
-    "0940c4e5d841",
-    "a1ba1fd3876a",
-    "d9fbfbccb636",
-    "92008d690634"
+    "eaf2142f71df"
    ]
   },
   {
@@ -115,9 +94,9 @@
    "por_dia": [
     0,
     0,
-    0,
     1,
     4,
+    0,
     0,
     0
    ],
@@ -131,47 +110,24 @@
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
+   "termo": "Prime Video",
    "fontes": 4,
-   "mencoes": 5,
+   "mencoes": 4,
    "por_dia": [
     1,
+    0,
     1,
     0,
     0,
-    2,
-    0,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "2f5c66b5ed12",
-    "855b4975e961",
-    "0057ed76c653",
-    "9823c24dc0c0",
-    "f9e20b56f3f3"
-   ]
-  },
-  {
-   "termo": "Prêmio Oceanos",
-   "fontes": 4,
-   "mencoes": 5,
-   "por_dia": [
-    2,
-    2,
-    0,
-    0,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "fb3cb37d019b",
-    "e9b083e6658e",
-    "2bee819e5532",
-    "3e948055e48c",
-    "0597b04fbcff"
+    "5b689a171ce7",
+    "e82f2f084a46",
+    "6f3c7bff0566",
+    "efccd541673a"
    ]
   },
   {
@@ -181,11 +137,11 @@
    "por_dia": [
     0,
     0,
-    0,
     1,
     1,
     0,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -196,38 +152,17 @@
    ]
   },
   {
-   "termo": "Prime Video",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e82f2f084a46",
-    "6f3c7bff0566",
-    "efccd541673a",
-    "c81a8db10317"
-   ]
-  },
-  {
    "termo": "Meryl Streep",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     1,
     0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -238,24 +173,45 @@
    ]
   },
   {
-   "termo": "Raphael Montes",
+   "termo": "Senhor dos Anéis",
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    4,
+    1,
     0,
     0,
+    2,
     0,
-    0,
-    0,
+    1,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "aec7da3592c3",
-    "15afb380cc68",
-    "eb01c407beeb",
-    "ef1fbe2bd11b"
+    "2f5c66b5ed12",
+    "855b4975e961",
+    "0057ed76c653",
+    "9823c24dc0c0"
+   ]
+  },
+  {
+   "termo": "Fourth Wing",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "e82f2f084a46",
+    "4d156801dc0b",
+    "6f3c7bff0566",
+    "36ebc7826cc1"
    ]
   },
   {
@@ -266,10 +222,10 @@
     0,
     0,
     0,
-    0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -279,16 +235,36 @@
    ]
   },
   {
+   "termo": "Prêmio Oceanos",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    2,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "fb3cb37d019b",
+    "e9b083e6658e",
+    "2bee819e5532"
+   ]
+  },
+  {
    "termo": "Mike Flanagan",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     1,
     0,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -303,12 +279,12 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     0,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -319,23 +295,23 @@
    ]
   },
   {
-   "termo": "Ruy Castro",
+   "termo": "Stephen King-adapted TV",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    1,
-    0,
-    1,
     0,
     0,
     1,
+    1,
+    1,
+    0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "679581c5750d",
-    "baac3f01f75f",
-    "e3e98bb1b118"
+    "c451cfa9975d",
+    "9861543d6a0f",
+    "29dcdcd4c5d6"
    ]
   }
  ]

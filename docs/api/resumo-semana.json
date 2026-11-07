@@ -1,45 +1,45 @@
 {
- "gerado_em": "2026-11-06T13:37:15-03:00",
+ "gerado_em": "2026-11-07T12:28:07-03:00",
  "dias": [
+  "2026-11-07",
   "2026-11-06",
   "2026-11-05",
   "2026-11-04",
   "2026-11-03",
   "2026-11-02",
-  "2026-11-01",
-  "2026-10-31"
+  "2026-11-01"
  ],
- "total": 582,
+ "total": 542,
  "por_grupo": {
-  "brasil-portugal": 258,
-  "cadernos": 62,
-  "internacional": 262
+  "internacional": 236,
+  "cadernos": 68,
+  "brasil-portugal": 238
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 53
+   "noticias": 59
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 23
+   "noticias": 21
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 12
+   "noticias": 13
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 6
+   "noticias": 4
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 5
+   "noticias": 4
   },
   {
    "id": "filosofia",
@@ -59,32 +59,24 @@
  ],
  "autores": [
   {
-   "nome": "J. R. R. Tolkien",
+   "nome": "Stephen King",
    "noticias": 32
   },
   {
-   "nome": "Stephen King",
-   "noticias": 31
+   "nome": "J. R. R. Tolkien",
+   "noticias": 27
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 23
+   "noticias": 19
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 13
+   "noticias": 15
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 5
-  },
-  {
-   "nome": "Franz Kafka",
-   "noticias": 4
-  },
-  {
-   "nome": "Raphael Montes",
-   "noticias": 4
+   "noticias": 3
   },
   {
    "nome": "Dan Brown",
@@ -92,44 +84,29 @@
   },
   {
    "nome": "Carl Sagan",
-   "noticias": 1
+   "noticias": 2
   },
   {
-   "nome": "Augusto Cury",
-   "noticias": 1
+   "nome": "Franz Kafka",
+   "noticias": 2
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Booker Prize",
-  "Fourth Wing",
   "Roberta Campos",
-  "Pedro Pacífico"
+  "Booker Prize",
+  "Pedro Pacífico",
+  "Prime Video"
  ],
  "subindo": [
   {
    "termo": "Booker Prize",
-   "ultimos_3_dias": 5,
-   "antes": 2
-  },
-  {
-   "termo": "Roberta Campos",
    "ultimos_3_dias": 4,
-   "antes": 1
-  },
-  {
-   "termo": "Pedro Pacífico",
-   "ultimos_3_dias": 4,
-   "antes": 1
+   "antes": 3
   },
   {
    "termo": "Liam Neeson",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Philippe Jaenada",
-   "ultimos_3_dias": 3,
+   "ultimos_3_dias": 2,
    "antes": 1
   }
  ],
@@ -139,8 +116,8 @@
   "0a3fa48d7469",
   "29e00ece5422",
   "f1215cd87854",
-  "39e814381e42",
+  "36ecc9d0e7aa",
   "577392eacc77",
-  "48003a963fc1"
+  "9b231ef48401"
  ]
 }

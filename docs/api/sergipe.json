@@ -1,7 +1,28 @@
 {
- "gerado_em": "2026-11-06T13:37:15-03:00",
- "total": 39,
+ "gerado_em": "2026-11-07T12:28:07-03:00",
+ "total": 40,
  "eventos": [
+  {
+   "id": "0bd5dd29daaa",
+   "titulo": "Sesc Convida chega ao Shopping Praia Sul com programação gratuita",
+   "link": "https://infonet.com.br/noticias/cultura/sesc-convida-chega-ao-shopping-praia-sul-com-programacao-gratuita/",
+   "resumo": "As atividades serão realizadas na praça de eventos do centro comercial, das 10h às 18h, com acesso gratuito",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-07T08:15-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-07"
+  },
   {
    "id": "df31327c3b3c",
    "titulo": "A força dos parentes e aderentes no serviço público",
