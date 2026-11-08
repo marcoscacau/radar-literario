@@ -1,40 +1,35 @@
 {
- "gerado_em": "2026-11-07T12:28:07-03:00",
+ "gerado_em": "2026-11-08T12:49:45-03:00",
  "dias": [
+  "2026-11-08",
   "2026-11-07",
   "2026-11-06",
   "2026-11-05",
   "2026-11-04",
   "2026-11-03",
-  "2026-11-02",
-  "2026-11-01"
+  "2026-11-02"
  ],
- "total": 542,
+ "total": 504,
  "por_grupo": {
-  "internacional": 236,
-  "cadernos": 68,
-  "brasil-portugal": 238
+  "brasil-portugal": 208,
+  "internacional": 231,
+  "cadernos": 65
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 59
+   "noticias": 57
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 21
+   "noticias": 20
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
    "noticias": 13
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 4
   },
   {
    "id": "suspense",
@@ -49,75 +44,70 @@
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 1
+   "noticias": 2
   },
   {
-   "id": "russos",
-   "nome": "literatura russa",
-   "noticias": 1
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 32
-  },
-  {
-   "nome": "J. R. R. Tolkien",
    "noticias": 27
   },
   {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 23
+  },
+  {
    "nome": "Rebecca Yarros",
-   "noticias": 19
+   "noticias": 17
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 15
-  },
-  {
-   "nome": "Dostoiévski",
-   "noticias": 3
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 3
+   "noticias": 16
   },
   {
    "nome": "Carl Sagan",
    "noticias": 2
   },
   {
+   "nome": "Dostoiévski",
+   "noticias": 2
+  },
+  {
    "nome": "Franz Kafka",
+   "noticias": 2
+  },
+  {
+   "nome": "Dan Brown",
    "noticias": 2
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
-  "Roberta Campos",
   "Booker Prize",
+  "Roberta Campos",
   "Pedro Pacífico",
-  "Prime Video"
+  "Philippe Jaenada"
  ],
  "subindo": [
   {
-   "termo": "Booker Prize",
-   "ultimos_3_dias": 4,
-   "antes": 3
-  },
-  {
-   "termo": "Liam Neeson",
-   "ultimos_3_dias": 2,
+   "termo": "Prime Video",
+   "ultimos_3_dias": 3,
    "antes": 1
   }
  ],
  "destaques": [
+  "bbc155676d21",
   "497b4631cc37",
-  "7f5212186cda",
   "0a3fa48d7469",
   "29e00ece5422",
-  "f1215cd87854",
   "36ecc9d0e7aa",
   "577392eacc77",
-  "9b231ef48401"
+  "b1176a013196",
+  "e0ba4f910fea"
  ]
 }

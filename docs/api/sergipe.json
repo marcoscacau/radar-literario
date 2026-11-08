@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-11-07T12:28:07-03:00",
- "total": 40,
+ "gerado_em": "2026-11-08T12:49:45-03:00",
+ "total": 41,
  "eventos": [
+  {
+   "id": "5ed39a41d920",
+   "titulo": "Aracaju recebe o Monólogo “A Confissão de Leontina”",
+   "link": "https://infonet.com.br/entretenimento-infonet/agenda/aracaju-recebe-o-monologo-a-confissao-de-leontina/",
+   "resumo": "Após passar por cidades como Belo Horizonte e Rio de Janeiro, espetáculo chega à capital sergipana nos dias 13 e 14 de novembro",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-08T08:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-13",
+    "fim": "2026-11-14",
+    "origem": "texto"
+   },
+   "dia": "2026-11-08"
+  },
   {
    "id": "0bd5dd29daaa",
    "titulo": "Sesc Convida chega ao Shopping Praia Sul com programação gratuita",

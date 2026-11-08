@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-08T03:32:06-03:00",
+ "gerado_em": "2026-11-08T12:49:50-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,19 +9,37 @@
   },
   {
    "fonte": "Gatry",
-   "ok": false,
-   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+   "ok": true,
+   "erro": null,
    "ofertas": 0
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 0
+   "ofertas": 1
   }
  ],
- "total": 34,
+ "total": 35,
  "ofertas": [
+  {
+   "id": "8d441a19639f",
+   "titulo": "‘Encha Seu Kindle’ é antecipado para esta semana; saiba nova data",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUxELVJhTzljTExlclBqM0xpcU8zb2F1bUR4SUlpcUlRcWxHcmZiRVVzVWFzVmRKX1hlV09fak5fdk8wS2lmdWw0eU5JZjFRZHBvS1RySHpUczk4ZTFZTmVRejR0WlI0NVdvOTd1YS1LT1ZUdjM3ZER6NVluZ2wza3plUjR5MXF5UE9iSTBn?oc=5",
+   "fonte": "Fast Company Brasil",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-08T12:20+00:00",
+   "visto_em": "2026-11-08T12:49-03:00",
+   "ultima_vez": "2026-11-08T12:49-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "ce2c11d5cae2",
    "titulo": "Para leitores do Kindle: HQ digital de O Máskara ganha 65% de desconto por tempo limitado",

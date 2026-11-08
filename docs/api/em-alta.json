@@ -1,30 +1,31 @@
 {
- "gerado_em": "2026-11-07T12:28:07-03:00",
+ "gerado_em": "2026-11-08T12:49:45-03:00",
  "dias": [
-  "2026-11-01",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
   "2026-11-05",
   "2026-11-06",
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "termos": [
   {
    "termo": "Prêmio Jabuti",
-   "fontes": 15,
-   "mencoes": 16,
+   "fontes": 16,
+   "mencoes": 17,
    "por_dia": [
-    0,
     3,
     2,
     6,
     2,
     0,
-    3
+    3,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "d67107bdbd2b",
     "6881517811ba",
     "df65cc1cc337",
     "06fae3b78379",
@@ -35,8 +36,32 @@
     "bc9099cd4401",
     "7295e5f1a1fb",
     "5ce96dde5b6d",
-    "e5e193244642",
-    "9a109af47adf"
+    "e5e193244642"
+   ]
+  },
+  {
+   "termo": "Booker Prize",
+   "fontes": 6,
+   "mencoes": 8,
+   "por_dia": [
+    1,
+    0,
+    2,
+    1,
+    2,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "24db7b3dca19",
+    "0769b52242fe",
+    "00b7ec151cdb",
+    "09f8d1dfd11f",
+    "39b9c2dcfa17",
+    "af12567e9a42",
+    "117a7713fdca",
+    "eaf2142f71df"
    ]
   },
   {
@@ -45,12 +70,12 @@
    "mencoes": 7,
    "por_dia": [
     0,
-    0,
     1,
     4,
     0,
     0,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -64,38 +89,14 @@
    ]
   },
   {
-   "termo": "Booker Prize",
-   "fontes": 5,
-   "mencoes": 7,
-   "por_dia": [
-    0,
-    1,
-    0,
-    2,
-    1,
-    2,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "0769b52242fe",
-    "00b7ec151cdb",
-    "09f8d1dfd11f",
-    "39b9c2dcfa17",
-    "af12567e9a42",
-    "117a7713fdca",
-    "eaf2142f71df"
-   ]
-  },
-  {
    "termo": "Pedro Pacífico",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
     0,
-    0,
     1,
     4,
+    0,
     0,
     0,
     0
@@ -110,37 +111,16 @@
    ]
   },
   {
-   "termo": "Prime Video",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    0,
-    1,
-    0,
-    0,
-    1,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "5b689a171ce7",
-    "e82f2f084a46",
-    "6f3c7bff0566",
-    "efccd541673a"
-   ]
-  },
-  {
    "termo": "Philippe Jaenada",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     1,
     1,
     0,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -156,12 +136,12 @@
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
-    0,
     1,
     0,
     1,
     1,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -173,45 +153,106 @@
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    0,
-    0,
-    2,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2f5c66b5ed12",
-    "855b4975e961",
-    "0057ed76c653",
-    "9823c24dc0c0"
-   ]
-  },
-  {
    "termo": "Fourth Wing",
    "fontes": 3,
-   "mencoes": 4,
+   "mencoes": 5,
    "por_dia": [
-    0,
     1,
     1,
     1,
     0,
     1,
-    0
+    0,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "d38a73c1b054",
     "e82f2f084a46",
     "4d156801dc0b",
     "6f3c7bff0566",
     "36ebc7826cc1"
+   ]
+  },
+  {
+   "termo": "Prime Video",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "d38a73c1b054",
+    "5b689a171ce7",
+    "e82f2f084a46",
+    "6f3c7bff0566"
+   ]
+  },
+  {
+   "termo": "Crônicas de Nárnia",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f9b66aba2685",
+    "4f523be72241",
+    "0a3fa48d7469"
+   ]
+  },
+  {
+   "termo": "Greta Gerwig",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f9b66aba2685",
+    "05f58bdec548",
+    "f52b3d4f7231"
+   ]
+  },
+  {
+   "termo": "Paulliny Tort",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "0b958c6639b1",
+    "927682aaad2c",
+    "d6301bed310b"
    ]
   },
   {
@@ -221,10 +262,10 @@
    "por_dia": [
     0,
     0,
+    1,
+    1,
+    1,
     0,
-    1,
-    1,
-    1,
     0
    ],
    "novo_hoje": false,
@@ -235,75 +276,15 @@
    ]
   },
   {
-   "termo": "Prêmio Oceanos",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    2,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "fb3cb37d019b",
-    "e9b083e6658e",
-    "2bee819e5532"
-   ]
-  },
-  {
-   "termo": "Mike Flanagan",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f3b84b1a0628",
-    "31b1679c6eaf",
-    "7cda6633946e"
-   ]
-  },
-  {
-   "termo": "Academia Brasileira de Letras",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    0,
-    0,
-    1,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "88c222f1b1e7",
-    "5d42198a47e5",
-    "843f65a9ea8e"
-   ]
-  },
-  {
    "termo": "Stephen King-adapted TV",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
+    1,
+    1,
+    1,
     0,
-    1,
-    1,
-    1,
     0,
     0
    ],
