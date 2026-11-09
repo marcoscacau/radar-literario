@@ -1,50 +1,50 @@
 {
- "gerado_em": "2026-11-08T12:49:45-03:00",
+ "gerado_em": "2026-11-09T16:32:30-03:00",
  "dias": [
+  "2026-11-09",
   "2026-11-08",
   "2026-11-07",
   "2026-11-06",
   "2026-11-05",
   "2026-11-04",
-  "2026-11-03",
-  "2026-11-02"
+  "2026-11-03"
  ],
  "total": 504,
  "por_grupo": {
-  "brasil-portugal": 208,
-  "internacional": 231,
-  "cadernos": 65
+  "brasil-portugal": 204,
+  "internacional": 233,
+  "cadernos": 67
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 57
+   "noticias": 58
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 20
+   "noticias": 22
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 13
+   "noticias": 14
   },
   {
-   "id": "suspense",
-   "nome": "suspense e mistério",
+   "id": "mente",
+   "nome": "mente e emoções",
    "noticias": 4
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 3
+   "noticias": 4
   },
   {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 2
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 4
   },
   {
    "id": "fisica",
@@ -55,22 +55,26 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 27
+   "noticias": 24
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 23
+   "noticias": 22
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 17
+   "noticias": 19
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 16
+   "noticias": 15
   },
   {
    "nome": "Carl Sagan",
+   "noticias": 3
+  },
+  {
+   "nome": "Dan Brown",
    "noticias": 2
   },
   {
@@ -79,11 +83,7 @@
   },
   {
    "nome": "Franz Kafka",
-   "noticias": 2
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 2
+   "noticias": 1
   }
  ],
  "em_alta": [
@@ -91,23 +91,38 @@
   "Booker Prize",
   "Roberta Campos",
   "Pedro Pacífico",
-  "Philippe Jaenada"
+  "Fourth Wing"
  ],
  "subindo": [
   {
-   "termo": "Prime Video",
+   "termo": "Douglas Stuart",
    "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Eliana Alves Cruz",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Marlon James",
+   "ultimos_3_dias": 3,
+   "antes": 1
+  },
+  {
+   "termo": "Carl Sagan",
+   "ultimos_3_dias": 2,
    "antes": 1
   }
  ],
  "destaques": [
-  "bbc155676d21",
+  "3eb8c4e8d731",
   "497b4631cc37",
-  "0a3fa48d7469",
-  "29e00ece5422",
-  "36ecc9d0e7aa",
+  "7c3d5db792b2",
+  "09e536e66135",
+  "e67830df311e",
   "577392eacc77",
-  "b1176a013196",
-  "e0ba4f910fea"
+  "a42287b89642",
+  "42691426b104"
  ]
 }

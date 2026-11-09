@@ -1,14 +1,14 @@
 {
- "gerado_em": "2026-11-08T12:49:45-03:00",
+ "gerado_em": "2026-11-09T16:32:30-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "edb4f78cafc4",
+    "49c4a52e564a",
     "e82f2f084a46",
     "fc52114d594e",
-    "f6d0ccb289cc",
-    "4f22ef72fb86",
-    "f88282812004"
+    "f6d0ccb289cc"
    ],
    "livros": [
     {
@@ -119,6 +119,11 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "0eecaeb2da38",
+      "6b7bee53c9d9",
+      "edb4f78cafc4",
+      "49c4a52e564a",
+      "8b9694de799b",
       "d38a73c1b054",
       "8fde4077e5ae",
       "ca69c47b8884",
@@ -131,10 +136,7 @@
       "1b8406271433",
       "4d156801dc0b",
       "fc52114d594e",
-      "6f3c7bff0566",
-      "36ebc7826cc1",
-      "4f22ef72fb86",
-      "f88282812004"
+      "6f3c7bff0566"
      ]
     },
     {
@@ -162,10 +164,7 @@
      "pt": "Tempestade de Ônix",
      "ano": 2025,
      "serie": "O Empyriano #3",
-     "noticias": [
-      "4f22ef72fb86",
-      "f88282812004"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Threshing Day",
@@ -240,6 +239,10 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "13b5101de729",
+    "1c79d89c55e0",
+    "7c3d5db792b2",
+    "bdb827b4d222",
     "255de28e4164",
     "a009a6b39fb8",
     "fae1f35737cc",
@@ -257,13 +260,7 @@
     "1a4daffda4a4",
     "25451b9d97f1",
     "2952b2a70b73",
-    "75293987d10b",
-    "23a3a8436ff3",
-    "49be4800afdc",
-    "8c087a44c35b",
-    "b5a8e7d4583a",
-    "1bb8c2e86735",
-    "742b538cf6e3"
+    "75293987d10b"
    ],
    "livros": [
     {
@@ -272,8 +269,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
-      "6eb1a6ef42f4",
-      "31b1679c6eaf"
+      "6105a074c8b7",
+      "6eb1a6ef42f4"
      ]
     },
     {
@@ -355,7 +352,9 @@
      "pt": "O Concorrente",
      "ano": 1982,
      "serie": "como Richard Bachman",
-     "noticias": []
+     "noticias": [
+      "7c3d5db792b2"
+     ]
     },
     {
      "titulo": "The Gunslinger",
@@ -664,9 +663,7 @@
      "titulo": "Doctor Sleep",
      "pt": "Doutor Sono",
      "ano": 2013,
-     "noticias": [
-      "53dae9e86b8d"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Mr. Mercedes",
@@ -731,9 +728,7 @@
      "titulo": "The Institute",
      "pt": "O Instituto",
      "ano": 2019,
-     "noticias": [
-      "49be4800afdc"
-     ]
+     "noticias": []
     },
     {
      "titulo": "If It Bleeds",
@@ -799,8 +794,7 @@
     "bafb288a33cd",
     "09e536e66135",
     "8d12e8ad3b24",
-    "fdb3dbc0964c",
-    "0a3fa48d7469"
+    "fdb3dbc0964c"
    ],
    "livros": [
     {
