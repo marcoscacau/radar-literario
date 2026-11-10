@@ -1,45 +1,40 @@
 {
- "gerado_em": "2026-11-09T16:32:30-03:00",
+ "gerado_em": "2026-11-10T13:49:53-03:00",
  "dias": [
+  "2026-11-10",
   "2026-11-09",
   "2026-11-08",
   "2026-11-07",
   "2026-11-06",
   "2026-11-05",
-  "2026-11-04",
-  "2026-11-03"
+  "2026-11-04"
  ],
- "total": 504,
+ "total": 537,
  "por_grupo": {
-  "brasil-portugal": 204,
-  "internacional": 233,
-  "cadernos": 67
+  "brasil-portugal": 222,
+  "internacional": 253,
+  "cadernos": 62
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 58
+   "noticias": 55
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 22
+   "noticias": 36
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 14
+   "noticias": 13
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 4
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 4
+   "noticias": 5
   },
   {
    "id": "suspense",
@@ -49,53 +44,76 @@
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 2
+   "noticias": 3
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 3
   }
  ],
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 24
-  },
-  {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 22
+   "noticias": 27
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 19
+   "noticias": 23
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "noticias": 20
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 15
+   "noticias": 17
+  },
+  {
+   "nome": "Dostoiévski",
+   "noticias": 3
   },
   {
    "nome": "Carl Sagan",
    "noticias": 3
   },
   {
+   "nome": "Franz Kafka",
+   "noticias": 2
+  },
+  {
    "nome": "Dan Brown",
    "noticias": 2
   },
   {
-   "nome": "Dostoiévski",
-   "noticias": 2
+   "nome": "Ursula K. Le Guin",
+   "noticias": 1
   },
   {
-   "nome": "Franz Kafka",
+   "nome": "Raphael Montes",
    "noticias": 1
   }
  ],
  "em_alta": [
   "Prêmio Jabuti",
   "Booker Prize",
+  "John Harrison",
   "Roberta Campos",
-  "Pedro Pacífico",
   "Fourth Wing"
  ],
  "subindo": [
   {
+   "termo": "John Harrison",
+   "ultimos_3_dias": 9,
+   "antes": 0
+  },
+  {
    "termo": "Douglas Stuart",
+   "ultimos_3_dias": 4,
+   "antes": 0
+  },
+  {
+   "termo": "Bienal do Livro",
    "ultimos_3_dias": 3,
    "antes": 0
   },
@@ -105,24 +123,19 @@
    "antes": 0
   },
   {
-   "termo": "Marlon James",
-   "ultimos_3_dias": 3,
-   "antes": 1
-  },
-  {
-   "termo": "Carl Sagan",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Fourth Wing",
+   "ultimos_3_dias": 4,
+   "antes": 2
   }
  ],
  "destaques": [
-  "3eb8c4e8d731",
-  "497b4631cc37",
+  "8374bb24fde1",
+  "f75021bfb586",
   "7c3d5db792b2",
   "09e536e66135",
+  "3b84053fa7ee",
+  "5243b385ea5a",
   "e67830df311e",
-  "577392eacc77",
-  "a42287b89642",
-  "42691426b104"
+  "6aeffe0d6345"
  ]
 }

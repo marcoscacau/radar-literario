@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T12:08:28-03:00",
+ "gerado_em": "2026-11-10T13:49:59-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -9,8 +9,8 @@
   },
   {
    "fonte": "Gatry",
-   "ok": true,
-   "erro": null,
+   "ok": false,
+   "erro": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
    "ofertas": 0
   },
   {
@@ -20,7 +20,7 @@
    "ofertas": 0
   }
  ],
- "total": 30,
+ "total": 28,
  "ofertas": [
   {
    "id": "8d441a19639f",
@@ -520,42 +520,6 @@
    "postado_em": "2026-10-13T20:46+00:00",
    "visto_em": "2026-10-13T21:29-03:00",
    "ultima_vez": "2026-10-16T13:52-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "9078bb35acd5",
-   "titulo": "Kindle Colorsoft de 16 GB em promoção apenas hoje na Amazon",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbk55M3RXbHk0ck1SZ2lOalN2WVJZb0ZPQV9UMW0yWDk1Zk05TTlCcFo1ZjV4c0N5TEZoUjVEZldJbXhqM2tWRXBHS2M1SUdEQkxqVktUc2J2UFMyRHNjVHVPU2M0bUtRdndNVnBUTHgtYTk4eGN4eFVaeFFVZ19tcHd3QmdVMEYzdmRvemE3MEFNRVBpbGM0dmtFNA?oc=5",
-   "fonte": "IGN Brasil",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-11T13:48+00:00",
-   "visto_em": "2026-10-11T19:40-03:00",
-   "ultima_vez": "2026-10-14T09:15-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "35727a8734a9",
-   "titulo": "Excelente para quadrinhos e livros: Kindle Colorsoft em promoção apenas hoje",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV21BM2EtUEkzellORW1BMmVnYUtVa0hQeUk0ek9JZ2JiekNXY3NBT0I4WnJSOVp5aW9qNnB4azNzU01HLVdRTDBfYXBHcC1GWk5ZTDdvaFZfRU9jT2ZFZ2dYbV9paEZxeWl3VkEwSDjSAXZBVV95cUxPMEtkeUU5Q3FpN0JhcHpBZWcyR0ZlQVNhVk5WU0dCWUpsaUhBaFhucUU4cDUzNXh3YTZRRU1DWjdKUTB5dlFVSUFmMTFzczdRdnd5Qm9kcUFFZFVZZzg5WDVPVE13aUlOWmplTDJNeUJDMWpLeHZ3?oc=5",
-   "fonte": "AdoroCinema",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-11T13:31+00:00",
-   "visto_em": "2026-10-11T19:40-03:00",
-   "ultima_vez": "2026-10-14T09:15-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
