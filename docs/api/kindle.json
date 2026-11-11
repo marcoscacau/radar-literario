@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T08:21:47-03:00",
+ "gerado_em": "2026-11-11T13:55:47-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -11,17 +11,179 @@
    "fonte": "Gatry",
    "ok": true,
    "erro": null,
-   "ofertas": 0
+   "ofertas": 2
   },
   {
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 0
+   "ofertas": 7
   }
  ],
- "total": 28,
+ "total": 37,
  "ofertas": [
+  {
+   "id": "6e43686a9e8a",
+   "titulo": "Kindle com tela colorida está com 33% off e sai por R$ 999, vale a pena?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZURGVGJsaE5pOVlwTVUwN3Z6b21LZld6RklET0JYOXFFSE04MC1YRm43bGNvOU9kOEdKYWtTb0xRUjU4VjZPSkM2MUQxS2tsMVdyMkFRUV8wejFFd0g5RFVXUjRwajB1Mzc0eTZiZGhMTEVXWTFadXk3LWVOQUVXbC11aVR1SmNwb29fSENCQjhpOTg4WVk4Q0xUZWk0MzR3akl3aU9Za1IyUnZhUkthX1lOcXFYZXVkam5hUVpXNjNzWmJEMnlsbEZnX3F4V1dS?oc=5",
+   "fonte": "UOL",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T15:44+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "49a8f12aaf69",
+   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbl9uaUY1MWZoVUUyZUhTUnB6b1praHdaSzRrRVVRM2tsVDdOeEMtYVZneElRWGJqQmd0d0U0ME5kTlZmNVdaZThBaVhUZ08wdWd0dERmall2VmxSWnBXY09QMWRQdGlhWG1uaW1VbDJnTGVlMkpWclZLZmJBclMyZEo5MVEyQTYzcjV5enFGczBnMW1EWTJOb050WkZzT0xlMk92UjFXZmwtV3BkSWFxZDhjVQ?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T14:37+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "14e266640310",
+   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHByQTEzWmJ2Y2JNbFVTblhHbEQtSnpTejVSdWU5TVVuY1NMOUdENjBScS1jbmZ1NUlBUkoxaVZwb3NXVnEyS3EwTVNjOUNPeGdnU0xIYm1xSlZUN2VDZWtwWFR4QnVEbmJTXzFBS0VqenROWkw5bWN1VDVNUEJrdVNHZ0FnQ2xNa3RPUzNqczFhb1dqdTBQYmNtU1NqUnFfMU1XOEExY0vSAa4BQVVfeXFMTm9FSV8zaHFISllIQzVoMi1mSXBLTlpaVmFnaThBZGxqVG9QYVgydFAyUWJoUUwzNHc3X2oxRUlBekRZNTNJUVc5WGpqS1NwQTlnZjdReFpFTUVNelJURnhPdFJEV0EzMFMyUHhibThlZFg4WTlFQlNmbFRZc0pMUy1NSHN6UThabmNlazVXMEZkQnpvX2xQN1lxbmlvX0VlY2JZS05UVkh5bUd5N09B?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T14:33+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "6c329fe27db9",
+   "titulo": "11.11 da Amazon traz Kindle Colorsoft com R$500 de desconto! Chance rara de garantir o seu Kindle colorido a um preço mais acessível",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQS25SWkw5c1h1YnB2SjktT1BncHlPWjRrTVphWU0tMHlBWm1KdGpyXzBHM3RVQkQwd0xyZWZmVF9HUFFkYmQzRC1IYW5FdE54a3V3X1RWa2xYTTJtenh3d0xvajhfemFaWElEakN5NV84VU5iNk9ZSmFFYjlCbjZVbHFNNjAxcEpjVThQU0gwOGctOWFDd1hsaWJJWFFvS1o1bExtcUtPR2NWeVpsU1dVZGxfX0h0QktTbGtDMlBfREpRdktJMk80UkFPMFJwaHVRYzEzQXk0ek1LVEJLQWdIQlplcmh0T0VMOWw4M3kyeXNUU2piWTgyMXdhRENrRGYwY2o0TXBn?oc=5",
+   "fonte": "Hardware.com.br",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T14:00+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "0810653b629c",
+   "titulo": "Ofertas do dia: PS5 Slim, Kindle Colorsoft e Galaxy FE",
+   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOWFMxdTNhbnBKZGRmMlJWQnVYYU4zVVRUWGQ2dFJ1UkV6SklGLWRHSDFZX2RnYm1zS3Z1NGdrN0owaURVUV9yTy1wZFg5OWRwVlhrZTZfNF9ya3lHVFdNd3ZIc0tiUW9FSGY2THJnSDZ1bzYyekhmWG91dExBYko2bmdDXzJwTHdyaU5LZ2lSVVJTYlVDZ2JBZDRkQkVfaTBYTWE1a1plZFdKNmZuSGFubzhuakRhQUZyTkQ2ZUFMaXdJbHMzM0tTcEwzeDYxdHpldnJ1VjlWQUdJSGVWVk5pWU5od05tZWJLUXBZNmFXSmJwQ2Z4TjlHaUJfekVuT0dyZzdYNVZEREN1anRvMy01c2J1QjJEUGhkNWVFTW1pYmx4MHpWUDJrcm5VS0tULV9pRUV0N25MdjZTbU04M0ZybS1GcllLSi1meU84c3NDeURjSlhtQlZZ?oc=5",
+   "fonte": "Olhar Digital",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T13:52+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "0d81696e0946",
+   "titulo": "Amazon Kindle Colorsoft 16 GB",
+   "link": "https://gatry.com/promocoes/286955/amazon-kindle-colorsoft-16-gb",
+   "fonte": "Gatry",
+   "loja": "Amazon",
+   "preco": 849.0,
+   "tipo": "aparelho",
+   "nota": "Cupom: KINDLE11LIVE",
+   "postado_em": "2026-11-11T13:30-03:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b5861667af1d",
+   "titulo": "Kindle Colorsoft em promoção: tela colorida e bateria duradoura pelo menor preço hoje",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGdaWWZZRlJTMDNaQURqdXIyM2JIaHhQemRrM0FoWnJBN0o0WEFFVnY2YVgxQk1kVHZuam9uTVNraVNfdktuTUJ3ZUtROU1fRTBqRXFTZllBdHBsZTl2d2p3YVJPaDdSdTBMdGRGQl9SbWZvbWlzM1dPQzduSlAxUXFqSHZKVGlwc2tUTDdWTVBKMzl1ZmlBNWNYbXJ3ZjBf?oc=5",
+   "fonte": "TudoCelular.com",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T12:47+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "70145df9f3cd",
+   "titulo": "Amazon queima largada da Black Friday: Kindle Colorsoft com parcelas de R$ 99",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM04zTnVzM1RBX0Y3RFVFVzFlRF9mdlRQU1czcEpZLVlnZi1rdDk4MEQwSjQyRTMxRndhM29LeDVZMms4M2Foa09ReDVOUmNQWDdPbmJYc3pfSUhaWElSUmxQV2pjQks2ZENPUXk3QzdjdTZ0OGhEMmhIeWMzd2h4RXk4d3c0N0xjUkVFMEdTenFjS0YwaWlVaW1SNDBGZFJHU2JjQjB5X1Mtd0hFSXpZ?oc=5",
+   "fonte": "Canaltech",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T11:45+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "3d4841da5b5e",
+   "titulo": "Apresentamos O Kindle Colorsoft (16 GB) - Com Tela Colorida E Temperatura De Luz Ajustável",
+   "link": "https://gatry.com/promocoes/286900/apresentamos-o-kindle-colorsoft-16-gb-com-tela-colorida-e-temperatura-de-luz-ajustavel",
+   "fonte": "Gatry",
+   "loja": "Amazon",
+   "preco": 999.0,
+   "tipo": "aparelho",
+   "nota": "",
+   "postado_em": "2026-11-11T10:02-03:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T13:55-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "8d441a19639f",
    "titulo": "‘Encha Seu Kindle’ é antecipado para esta semana; saiba nova data",

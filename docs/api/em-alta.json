@@ -1,30 +1,91 @@
 {
- "gerado_em": "2026-11-10T13:49:53-03:00",
+ "gerado_em": "2026-11-11T13:55:41-03:00",
  "dias": [
-  "2026-11-04",
   "2026-11-05",
   "2026-11-06",
   "2026-11-07",
   "2026-11-08",
   "2026-11-09",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
  "termos": [
   {
-   "termo": "Prêmio Jabuti",
-   "fontes": 13,
-   "mencoes": 14,
+   "termo": "Booker Prize",
+   "fontes": 17,
+   "mencoes": 18,
    "por_dia": [
+    1,
+    2,
+    1,
+    1,
+    0,
     6,
+    7
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "78219bb96c6c",
+    "a7edbcfe5590",
+    "3d5ffc4e61b1",
+    "4ed5ed787fb8",
+    "b9e3388e31e5",
+    "b3fbf9513901",
+    "a9ca0b0e3234",
+    "d9d9ff1d302a",
+    "76a28efa55ef",
+    "63eccb8fada4",
+    "96e4dfb8cfaf",
+    "2e4a8aa95990"
+   ]
+  },
+  {
+   "termo": "John Harrison",
+   "fontes": 15,
+   "mencoes": 18,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    9
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "78219bb96c6c",
+    "a7edbcfe5590",
+    "9dfea5d34a73",
+    "3d5ffc4e61b1",
+    "4ed5ed787fb8",
+    "9c953bcce205",
+    "896d91be06ba",
+    "b3fbf9513901",
+    "a9ca0b0e3234",
+    "63eccb8fada4",
+    "96e4dfb8cfaf",
+    "2e4a8aa95990"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 10,
+   "mencoes": 11,
+   "por_dia": [
     2,
     0,
     3,
     1,
     1,
-    1
+    1,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "f62e25d815d1",
+    "df7a995cce79",
+    "647403761135",
     "b96af9b39f49",
     "0ca985005bd1",
     "d67107bdbd2b",
@@ -32,89 +93,7 @@
     "df65cc1cc337",
     "06fae3b78379",
     "da574977d6e3",
-    "758b5f6a27a3",
-    "3adcbbade7c7",
-    "38be696847b7",
-    "bc9099cd4401",
-    "7295e5f1a1fb"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 12,
-   "mencoes": 13,
-   "por_dia": [
-    2,
-    1,
-    2,
-    1,
-    1,
-    0,
-    6
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "d9d9ff1d302a",
-    "76a28efa55ef",
-    "63eccb8fada4",
-    "96e4dfb8cfaf",
-    "2e4a8aa95990",
-    "d89a9ef4ce2e",
-    "24db7b3dca19",
-    "0769b52242fe",
-    "00b7ec151cdb",
-    "09f8d1dfd11f",
-    "39b9c2dcfa17",
-    "af12567e9a42"
-   ]
-  },
-  {
-   "termo": "John Harrison",
-   "fontes": 8,
-   "mencoes": 9,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    9
-   ],
-   "novo_hoje": true,
-   "itens": [
-    "63eccb8fada4",
-    "96e4dfb8cfaf",
-    "2e4a8aa95990",
-    "e6e5ee774972",
-    "71fe9bc3e9f1",
-    "e1d1536d1504",
-    "23f767d8b15b",
-    "393f28b0fd44",
-    "d5d85f1ad907"
-   ]
-  },
-  {
-   "termo": "Roberta Campos",
-   "fontes": 5,
-   "mencoes": 6,
-   "por_dia": [
-    4,
-    0,
-    0,
-    2,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4fc1d5563d76",
-    "55ebb62a319a",
-    "2e919b3e1450",
-    "0940c4e5d841",
-    "a1ba1fd3876a",
-    "d9fbfbccb636"
+    "758b5f6a27a3"
    ]
   },
   {
@@ -122,43 +101,85 @@
    "fontes": 4,
    "mencoes": 6,
    "por_dia": [
-    1,
     0,
     1,
     0,
     1,
     2,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "e96b411b9dc2",
     "af9c1bf6b0c9",
     "edb4f78cafc4",
     "49c4a52e564a",
     "d38a73c1b054",
-    "e82f2f084a46",
-    "4d156801dc0b"
+    "e82f2f084a46"
    ]
   },
   {
-   "termo": "Academia Brasileira de Letras",
+   "termo": "Prime Video",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "3e72ffb5394c",
+    "d38a73c1b054",
+    "5b689a171ce7",
+    "e82f2f084a46"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     1,
+    0,
     1,
     0,
     0,
-    0,
-    0,
-    2
+    1,
+    1
    ],
    "novo_hoje": false,
    "itens": [
-    "90c78d724625",
-    "8559095f0a88",
-    "88c222f1b1e7",
-    "5d42198a47e5"
+    "9ca7bd0a0a76",
+    "d6f05a059c3a",
+    "3e505aee0320",
+    "a08281a398a5"
+   ]
+  },
+  {
+   "termo": "Eliana Alves Cruz",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "647403761135",
+    "0ca985005bd1",
+    "d67107bdbd2b",
+    "b94e04df2f97"
    ]
   },
   {
@@ -170,9 +191,9 @@
     0,
     0,
     0,
-    0,
     3,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -188,11 +209,11 @@
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     1,
     0,
     0,
     3,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -204,65 +225,84 @@
    ]
   },
   {
-   "termo": "Pedro Pacífico",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    4,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2e919b3e1450",
-    "0940c4e5d841",
-    "a1ba1fd3876a",
-    "d9fbfbccb636"
-   ]
-  },
-  {
-   "termo": "São Paulo",
+   "termo": "Black Friday da Amazon",
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    1,
-    1,
-    1,
     0,
     0,
     0,
+    0,
+    1,
+    2,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "e459a5c37403",
-    "99da28289b78",
-    "888e6a2bf33a",
-    "3ccd8d9ccf63"
+    "fdf1b83f488f",
+    "12a58c74a797",
+    "238a0d9b35d9",
+    "661b72f7c125"
    ]
   },
   {
-   "termo": "Nobel de Literatura",
+   "termo": "Senhor dos Anéis",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
     1,
     0,
+    0,
+    0,
     1,
-    0,
-    0,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "d6f05a059c3a",
-    "3e505aee0320",
-    "a08281a398a5"
+    "de716eb8d529",
+    "eed02a25cd77",
+    "2f5c66b5ed12"
+   ]
+  },
+  {
+   "termo": "São Paulo",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "e459a5c37403",
+    "99da28289b78",
+    "888e6a2bf33a"
+   ]
+  },
+  {
+   "termo": "Academia Brasileira de Letras",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "90c78d724625",
+    "8559095f0a88",
+    "88c222f1b1e7"
    ]
   },
   {
@@ -270,13 +310,13 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     0,
     1,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -293,56 +333,16 @@
     0,
     0,
     0,
-    0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
     "4adf576e4f3a",
     "be0a7c5ce077",
     "5e391165878a"
-   ]
-  },
-  {
-   "termo": "Carl Sagan",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e67830df311e",
-    "36ecc9d0e7aa",
-    "39e814381e42"
-   ]
-  },
-  {
-   "termo": "Eliana Alves Cruz",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    2,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "0ca985005bd1",
-    "d67107bdbd2b",
-    "b94e04df2f97"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T13:49:53-03:00",
+ "gerado_em": "2026-11-11T13:55:41-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -9,9 +9,7 @@
     "af9c1bf6b0c9",
     "edb4f78cafc4",
     "49c4a52e564a",
-    "e82f2f084a46",
-    "fc52114d594e",
-    "f6d0ccb289cc"
+    "e82f2f084a46"
    ],
    "livros": [
     {
@@ -122,6 +120,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "e96b411b9dc2",
       "f75021bfb586",
       "927dec6be166",
       "af9c1bf6b0c9",
@@ -137,11 +136,7 @@
       "e82f2f084a46",
       "ae0adfe7dc5b",
       "5692fc0e152e",
-      "126e0c56df2f",
-      "f706ded742fa",
-      "1b8406271433",
-      "4d156801dc0b",
-      "fc52114d594e"
+      "126e0c56df2f"
      ]
     },
     {
@@ -266,11 +261,7 @@
     "f9f69510935a",
     "e88bd009b71f",
     "5bed2ef7b03e",
-    "29e00ece5422",
-    "7a446543557e",
-    "c2ee01ec2a51",
-    "1a4daffda4a4",
-    "25451b9d97f1"
+    "29e00ece5422"
    ],
    "livros": [
     {
@@ -279,9 +270,9 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "3e72ffb5394c",
       "895f53990cb6",
-      "6105a074c8b7",
-      "6eb1a6ef42f4"
+      "6105a074c8b7"
      ]
     },
     {
@@ -955,9 +946,7 @@
      "pt": "O Sobrinho do Mago",
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
-     "noticias": [
-      "05f58bdec548"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Surprised by Joy",

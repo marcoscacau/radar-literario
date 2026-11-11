@@ -1,7 +1,29 @@
 {
- "gerado_em": "2026-11-10T13:49:53-03:00",
- "total": 42,
+ "gerado_em": "2026-11-11T13:55:41-03:00",
+ "total": 43,
  "eventos": [
+  {
+   "id": "3ea8c9b8f9f5",
+   "titulo": "Elvis Vaz lança a exposição ‘Estuário em Movimento’ na Galeria Sesc",
+   "link": "https://infonet.com.br/noticias/cultura/elvis-vaz-lanca-a-exposicao-estuario-em-movimento-na-galeria-sesc/",
+   "resumo": "Composta por 25 obras, entre esculturas, pinturas, fotografias e instalações, Elvis parte da trajetória autobiográfica",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-11T08:51-03:00",
+   "tags": [
+    "lancamentos",
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-11"
+  },
   {
    "id": "9ddd25d3a13d",
    "titulo": "Segunda Bienal do Livro de Sergipe é realizada em Aracaju até este domingo",

@@ -1,35 +1,35 @@
 {
- "gerado_em": "2026-11-10T13:49:53-03:00",
+ "gerado_em": "2026-11-11T13:55:41-03:00",
  "dias": [
+  "2026-11-11",
   "2026-11-10",
   "2026-11-09",
   "2026-11-08",
   "2026-11-07",
   "2026-11-06",
-  "2026-11-05",
-  "2026-11-04"
+  "2026-11-05"
  ],
- "total": 537,
+ "total": 538,
  "por_grupo": {
-  "brasil-portugal": 222,
-  "internacional": 253,
-  "cadernos": 62
+  "brasil-portugal": 221,
+  "cadernos": 67,
+  "internacional": 250
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 55
+   "noticias": 59
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 36
+   "noticias": 44
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 13
+   "noticias": 12
   },
   {
    "id": "mente",
@@ -37,14 +37,14 @@
    "noticias": 5
   },
   {
-   "id": "suspense",
-   "nome": "suspense e mistério",
+   "id": "fisica",
+   "nome": "física e ciência",
    "noticias": 4
   },
   {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 3
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 4
   },
   {
    "id": "filosofia",
@@ -55,34 +55,34 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 27
-  },
-  {
-   "nome": "Rebecca Yarros",
    "noticias": 23
   },
   {
+   "nome": "Rebecca Yarros",
+   "noticias": 19
+  },
+  {
    "nome": "J. R. R. Tolkien",
-   "noticias": 20
+   "noticias": 18
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 17
+   "noticias": 16
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 3
+   "noticias": 5
   },
   {
    "nome": "Carl Sagan",
    "noticias": 3
   },
   {
-   "nome": "Franz Kafka",
+   "nome": "Dan Brown",
    "noticias": 2
   },
   {
-   "nome": "Dan Brown",
+   "nome": "Franz Kafka",
    "noticias": 2
   },
   {
@@ -95,17 +95,22 @@
   }
  ],
  "em_alta": [
-  "Prêmio Jabuti",
   "Booker Prize",
   "John Harrison",
-  "Roberta Campos",
-  "Fourth Wing"
+  "Prêmio Jabuti",
+  "Fourth Wing",
+  "Prime Video"
  ],
  "subindo": [
   {
    "termo": "John Harrison",
-   "ultimos_3_dias": 9,
+   "ultimos_3_dias": 18,
    "antes": 0
+  },
+  {
+   "termo": "Booker Prize",
+   "ultimos_3_dias": 13,
+   "antes": 5
   },
   {
    "termo": "Douglas Stuart",
@@ -113,13 +118,8 @@
    "antes": 0
   },
   {
-   "termo": "Bienal do Livro",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Eliana Alves Cruz",
-   "ultimos_3_dias": 3,
+   "termo": "Black Friday da Amazon",
+   "ultimos_3_dias": 4,
    "antes": 0
   },
   {
@@ -129,13 +129,13 @@
   }
  ],
  "destaques": [
-  "8374bb24fde1",
+  "60d53531dfba",
   "f75021bfb586",
   "7c3d5db792b2",
   "09e536e66135",
   "3b84053fa7ee",
   "5243b385ea5a",
   "e67830df311e",
-  "6aeffe0d6345"
+  "e45655dcb122"
  ]
 }
