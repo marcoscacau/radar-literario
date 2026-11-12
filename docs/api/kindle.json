@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T16:47:38-03:00",
+ "gerado_em": "2026-11-11T23:24:01-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 8
+   "ofertas": 9
   }
  ],
- "total": 39,
+ "total": 40,
  "ofertas": [
+  {
+   "id": "9bff0d4e2b84",
+   "titulo": "Kindle Colorsoft de 16 GB cai para R$ 999 na Amazon",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWN3ejBxVTJaV2JfMWh4QVBOcWpuWnZEdU02cVBkLVBkN0dBdFJudmhBTWhGbTlLeldDN2w4dFUyNG5veFlFTnlrV1Z6NFNMcF92RWowckRYY1VHWEEwMlpnOWV2cVNLT0RZbzBmWEx3Nk50S3RjckFrTWcyZ3RaSVhkaXM?oc=5",
+   "fonte": "tekimobile",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T21:58+00:00",
+   "visto_em": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "6a436ad75709",
    "titulo": "Kindle com tela colorida tem desconto de R$ 500 na Amazon nesta quarta-feira (11)",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-11T18:30+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:44+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:37+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:33+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -113,6 +131,24 @@
    }
   },
   {
+   "id": "0810653b629c",
+   "titulo": "Ofertas do dia: PS5 Slim, Kindle Colorsoft e Galaxy FE",
+   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOWFMxdTNhbnBKZGRmMlJWQnVYYU4zVVRUWGQ2dFJ1UkV6SklGLWRHSDFZX2RnYm1zS3Z1NGdrN0owaURVUV9yTy1wZFg5OWRwVlhrZTZfNF9ya3lHVFdNd3ZIc0tiUW9FSGY2THJnSDZ1bzYyekhmWG91dExBYko2bmdDXzJwTHdyaU5LZ2lSVVJTYlVDZ2JBZDRkQkVfaTBYTWE1a1plZFdKNmZuSGFubzhuakRhQUZyTkQ2ZUFMaXdJbHMzM0tTcEwzeDYxdHpldnJ1VjlWQUdJSGVWVk5pWU5od05tZWJLUXBZNmFXSmJwQ2Z4TjlHaUJfekVuT0dyZzdYNVZEREN1anRvMy01c2J1QjJEUGhkNWVFTW1pYmx4MHpWUDJrcm5VS0tULV9pRUV0N25MdjZTbU04M0ZybS1GcllLSi1meU84c3NDeURjSlhtQlZZ?oc=5",
+   "fonte": "Olhar Digital",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T14:11+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
    "id": "6c329fe27db9",
    "titulo": "11.11 da Amazon traz Kindle Colorsoft com R$500 de desconto! Chance rara de garantir o seu Kindle colorido a um preço mais acessível",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQS25SWkw5c1h1YnB2SjktT1BncHlPWjRrTVphWU0tMHlBWm1KdGpyXzBHM3RVQkQwd0xyZWZmVF9HUFFkYmQzRC1IYW5FdE54a3V3X1RWa2xYTTJtenh3d0xvajhfemFaWElEakN5NV84VU5iNk9ZSmFFYjlCbjZVbHFNNjAxcEpjVThQU0gwOGctOWFDd1hsaWJJWFFvS1o1bExtcUtPR2NWeVpsU1dVZGxfX0h0QktTbGtDMlBfREpRdktJMk80UkFPMFJwaHVRYzEzQXk0ek1LVEJLQWdIQlplcmh0T0VMOWw4M3kyeXNUU2piWTgyMXdhRENrRGYwY2o0TXBn?oc=5",
@@ -123,25 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:00+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "0810653b629c",
-   "titulo": "Ofertas do dia: PS5 Slim, Kindle Colorsoft e Galaxy FE",
-   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOWFMxdTNhbnBKZGRmMlJWQnVYYU4zVVRUWGQ2dFJ1UkV6SklGLWRHSDFZX2RnYm1zS3Z1NGdrN0owaURVUV9yTy1wZFg5OWRwVlhrZTZfNF9ya3lHVFdNd3ZIc0tiUW9FSGY2THJnSDZ1bzYyekhmWG91dExBYko2bmdDXzJwTHdyaU5LZ2lSVVJTYlVDZ2JBZDRkQkVfaTBYTWE1a1plZFdKNmZuSGFubzhuakRhQUZyTkQ2ZUFMaXdJbHMzM0tTcEwzeDYxdHpldnJ1VjlWQUdJSGVWVk5pWU5od05tZWJLUXBZNmFXSmJwQ2Z4TjlHaUJfekVuT0dyZzdYNVZEREN1anRvMy01c2J1QjJEUGhkNWVFTW1pYmx4MHpWUDJrcm5VS0tULV9pRUV0N25MdjZTbU04M0ZybS1GcllLSi1meU84c3NDeURjSlhtQlZZ?oc=5",
-   "fonte": "Olhar Digital",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-11-11T13:52+00:00",
-   "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-11-11T12:47+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-11-11T11:45+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T16:47-03:00",
+   "ultima_vez": "2026-11-11T23:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
