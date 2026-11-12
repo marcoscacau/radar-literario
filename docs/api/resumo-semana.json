@@ -1,35 +1,35 @@
 {
- "gerado_em": "2026-11-11T13:55:41-03:00",
+ "gerado_em": "2026-11-12T14:23:53-03:00",
  "dias": [
+  "2026-11-12",
   "2026-11-11",
   "2026-11-10",
   "2026-11-09",
   "2026-11-08",
   "2026-11-07",
-  "2026-11-06",
-  "2026-11-05"
+  "2026-11-06"
  ],
- "total": 538,
+ "total": 537,
  "por_grupo": {
-  "brasil-portugal": 221,
-  "cadernos": 67,
-  "internacional": 250
+  "brasil-portugal": 213,
+  "internacional": 259,
+  "cadernos": 65
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 59
+   "noticias": 57
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 44
+   "noticias": 50
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 12
+   "noticias": 14
   },
   {
    "id": "mente",
@@ -44,7 +44,7 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 4
+   "noticias": 3
   },
   {
    "id": "filosofia",
@@ -55,23 +55,23 @@
  "autores": [
   {
    "nome": "Stephen King",
-   "noticias": 23
-  },
-  {
-   "nome": "Rebecca Yarros",
-   "noticias": 19
+   "noticias": 22
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 18
+   "noticias": 21
+  },
+  {
+   "nome": "Rebecca Yarros",
+   "noticias": 20
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 16
+   "noticias": 15
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 5
+   "noticias": 7
   },
   {
    "nome": "Carl Sagan",
@@ -82,11 +82,11 @@
    "noticias": 2
   },
   {
-   "nome": "Franz Kafka",
-   "noticias": 2
+   "nome": "Ursula K. Le Guin",
+   "noticias": 1
   },
   {
-   "nome": "Ursula K. Le Guin",
+   "nome": "Franz Kafka",
    "noticias": 1
   },
   {
@@ -99,33 +99,33 @@
   "John Harrison",
   "Prêmio Jabuti",
   "Fourth Wing",
-  "Prime Video"
+  "Academia Brasileira de Letras"
  ],
  "subindo": [
   {
    "termo": "John Harrison",
-   "ultimos_3_dias": 18,
+   "ultimos_3_dias": 23,
    "antes": 0
   },
   {
    "termo": "Booker Prize",
-   "ultimos_3_dias": 13,
-   "antes": 5
+   "ultimos_3_dias": 20,
+   "antes": 4
   },
   {
-   "termo": "Douglas Stuart",
+   "termo": "Academia Brasileira de Letras",
    "ultimos_3_dias": 4,
    "antes": 0
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "ultimos_3_dias": 3,
+   "antes": 1
   },
   {
    "termo": "Black Friday da Amazon",
-   "ultimos_3_dias": 4,
-   "antes": 0
-  },
-  {
-   "termo": "Fourth Wing",
-   "ultimos_3_dias": 4,
-   "antes": 2
+   "ultimos_3_dias": 3,
+   "antes": 1
   }
  ],
  "destaques": [
@@ -136,6 +136,6 @@
   "3b84053fa7ee",
   "5243b385ea5a",
   "e67830df311e",
-  "e45655dcb122"
+  "e59ff6bc7237"
  ]
 }
