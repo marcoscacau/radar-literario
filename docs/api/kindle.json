@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T23:24:01-03:00",
+ "gerado_em": "2026-11-12T08:41:21-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 9
+   "ofertas": 11
   }
  ],
- "total": 40,
+ "total": 42,
  "ofertas": [
+  {
+   "id": "2723ed9022d2",
+   "titulo": "Kindle Colorsoft colorido tem desconto histórico no 11.11",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUF4eWR4eUFYMGRoOFpjNHZyNFp5MFVONF84aXcxUVlGUWFFTEVmUlo0U2kxTEpaRGhJWUYwQ0Q5d3NYVXFxYlM5UTFmdlB1RmtQN1A4X0VoTEhTeEdJOUtmUGl6dVRsNnYzbTFMb24wbEVMbXFXOW1fNGdzVlM2UV9ZTWJoRXVMdlc1TGNhb3Blb0FPSGV2NWNlRGMyQQ?oc=5",
+   "fonte": "Agora Litoral",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-12T05:51+00:00",
+   "visto_em": "2026-11-12T08:41-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "6f9bbc7a984e",
+   "titulo": "Kindle colorido aparece R$600 mais barato em oferta exclusiva da Black da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OeTkzNXNaeGRvVkZzMC1ldjhVak9HdzJ6U2l2ZmI0RlJXUDZJUVBodXVWSG04Z0xUX1hCMVhDenpxQ1ZQQlZsZjBNQ0g5eHotbWRELTViMGVNVTAzNWZabGY4LWFUTmNKU1BvaVhKTFHSAXZBVV95cUxQWDBVa1FKSmNOeERpZzlNZTZtMmJXTXpKMHZ0WUhsVWFEYmR1THh4dGI2dlNvN3d2a1NJOFd4Ukd4MWZ6em5paWlSa19iOEZzcXFUMXhENUI1al9oeTR4OXFMdmc0VXFOX2YtQll2Vm9pWFlBdWVR?oc=5",
+   "fonte": "AdoroCinema",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-12T04:19+00:00",
+   "visto_em": "2026-11-12T08:41-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "9bff0d4e2b84",
    "titulo": "Kindle Colorsoft de 16 GB cai para R$ 999 na Amazon",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-11T21:58+00:00",
    "visto_em": "2026-11-11T23:24-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-11T18:30+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:44+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:37+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:33+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:11+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:00+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +231,7 @@
    "nota": "",
    "postado_em": "2026-11-11T12:47+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -213,7 +249,7 @@
    "nota": "",
    "postado_em": "2026-11-11T11:45+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T23:24-03:00",
+   "ultima_vez": "2026-11-12T08:41-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
