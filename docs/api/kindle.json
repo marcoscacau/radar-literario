@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T23:01:56-03:00",
+ "gerado_em": "2026-11-13T08:24:35-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,7 +17,7 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 11
+   "ofertas": 9
   }
  ],
  "total": 41,
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-11-12T05:51+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-12T04:19+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-11T21:58+00:00",
    "visto_em": "2026-11-11T23:24-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-11T18:30+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:44+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +123,25 @@
    "nota": "",
    "postado_em": "2026-11-11T15:01+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "14e266640310",
+   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHByQTEzWmJ2Y2JNbFVTblhHbEQtSnpTejVSdWU5TVVuY1NMOUdENjBScS1jbmZ1NUlBUkoxaVZwb3NXVnEyS3EwTVNjOUNPeGdnU0xIYm1xSlZUN2VDZWtwWFR4QnVEbmJTXzFBS0VqenROWkw5bWN1VDVNUEJrdVNHZ0FnQ2xNa3RPUzNqczFhb1dqdTBQYmNtU1NqUnFfMU1XOEExY0vSAa4BQVVfeXFMTm9FSV8zaHFISllIQzVoMi1mSXBLTlpaVmFnaThBZGxqVG9QYVgydFAyUWJoUUwzNHc3X2oxRUlBekRZNTNJUVc5WGpqS1NwQTlnZjdReFpFTUVNelJURnhPdFJEV0EzMFMyUHhibThlZFg4WTlFQlNmbFRZc0pMUy1NSHN6UThabmNlazVXMEZkQnpvX2xQN1lxbmlvX0VlY2JZS05UVkh5bUd5N09B?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-11T14:33+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -149,24 +167,6 @@
    }
   },
   {
-   "id": "14e266640310",
-   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHByQTEzWmJ2Y2JNbFVTblhHbEQtSnpTejVSdWU5TVVuY1NMOUdENjBScS1jbmZ1NUlBUkoxaVZwb3NXVnEyS3EwTVNjOUNPeGdnU0xIYm1xSlZUN2VDZWtwWFR4QnVEbmJTXzFBS0VqenROWkw5bWN1VDVNUEJrdVNHZ0FnQ2xNa3RPUzNqczFhb1dqdTBQYmNtU1NqUnFfMU1XOEExY0vSAa4BQVVfeXFMTm9FSV8zaHFISllIQzVoMi1mSXBLTlpaVmFnaThBZGxqVG9QYVgydFAyUWJoUUwzNHc3X2oxRUlBekRZNTNJUVc5WGpqS1NwQTlnZjdReFpFTUVNelJURnhPdFJEV0EzMFMyUHhibThlZFg4WTlFQlNmbFRZc0pMUy1NSHN6UThabmNlazVXMEZkQnpvX2xQN1lxbmlvX0VlY2JZS05UVkh5bUd5N09B?oc=5",
-   "fonte": "Estadão",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-11-11T14:33+00:00",
-   "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-11T13:55-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
    "id": "0810653b629c",
    "titulo": "Ofertas do dia: PS5 Slim, Kindle Colorsoft e Galaxy FE",
    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOWFMxdTNhbnBKZGRmMlJWQnVYYU4zVVRUWGQ2dFJ1UkV6SklGLWRHSDFZX2RnYm1zS3Z1NGdrN0owaURVUV9yTy1wZFg5OWRwVlhrZTZfNF9ya3lHVFdNd3ZIc0tiUW9FSGY2THJnSDZ1bzYyekhmWG91dExBYko2bmdDXzJwTHdyaU5LZ2lSVVJTYlVDZ2JBZDRkQkVfaTBYTWE1a1plZFdKNmZuSGFubzhuakRhQUZyTkQ2ZUFMaXdJbHMzM0tTcEwzeDYxdHpldnJ1VjlWQUdJSGVWVk5pWU5od05tZWJLUXBZNmFXSmJwQ2Z4TjlHaUJfekVuT0dyZzdYNVZEREN1anRvMy01c2J1QjJEUGhkNWVFTW1pYmx4MHpWUDJrcm5VS0tULV9pRUV0N25MdjZTbU04M0ZybS1GcllLSi1meU84c3NDeURjSlhtQlZZ?oc=5",
@@ -177,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:11+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -249,7 +249,7 @@
    "nota": "",
    "postado_em": "2026-11-11T11:45+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T08:24-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
