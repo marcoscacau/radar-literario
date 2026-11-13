@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-11-12T14:23:53-03:00",
+ "gerado_em": "2026-11-13T13:58:25-03:00",
  "dias": [
+  "2026-11-13",
   "2026-11-12",
   "2026-11-11",
   "2026-11-10",
   "2026-11-09",
   "2026-11-08",
-  "2026-11-07",
-  "2026-11-06"
+  "2026-11-07"
  ],
- "total": 537,
+ "total": 539,
  "por_grupo": {
-  "brasil-portugal": 213,
-  "internacional": 259,
-  "cadernos": 65
+  "brasil-portugal": 219,
+  "cadernos": 66,
+  "internacional": 254
  },
  "temas": [
   {
@@ -24,17 +24,12 @@
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 50
+   "noticias": 48
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 14
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 5
+   "noticias": 12
   },
   {
    "id": "fisica",
@@ -44,41 +39,55 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 3
+   "noticias": 4
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 4
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 3
+  },
+  {
+   "id": "russos",
+   "nome": "literatura russa",
+   "noticias": 1
   }
  ],
  "autores": [
   {
-   "nome": "Stephen King",
-   "noticias": 22
+   "nome": "J. R. R. Tolkien",
+   "noticias": 27
   },
   {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 21
+   "nome": "Stephen King",
+   "noticias": 24
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 20
+   "noticias": 16
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 15
+   "noticias": 12
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 7
+   "noticias": 6
   },
   {
-   "nome": "Carl Sagan",
-   "noticias": 3
+   "nome": "Raphael Montes",
+   "noticias": 2
   },
   {
    "nome": "Dan Brown",
+   "noticias": 2
+  },
+  {
+   "nome": "Carl Sagan",
    "noticias": 2
   },
   {
@@ -88,54 +97,50 @@
   {
    "nome": "Franz Kafka",
    "noticias": 1
-  },
-  {
-   "nome": "Raphael Montes",
-   "noticias": 1
   }
  ],
  "em_alta": [
   "Booker Prize",
   "John Harrison",
-  "Prêmio Jabuti",
-  "Fourth Wing",
-  "Academia Brasileira de Letras"
+  "Academia Brasileira de Letras",
+  "Drauzio Varella",
+  "Prêmio Jabuti"
  ],
  "subindo": [
   {
-   "termo": "John Harrison",
-   "ultimos_3_dias": 23,
+   "termo": "Academia Brasileira de Letras",
+   "ultimos_3_dias": 14,
+   "antes": 2
+  },
+  {
+   "termo": "Drauzio Varella",
+   "ultimos_3_dias": 11,
    "antes": 0
   },
   {
    "termo": "Booker Prize",
-   "ultimos_3_dias": 20,
-   "antes": 4
+   "ultimos_3_dias": 14,
+   "antes": 8
   },
   {
-   "termo": "Academia Brasileira de Letras",
-   "ultimos_3_dias": 4,
+   "termo": "John Harrison",
+   "ultimos_3_dias": 14,
+   "antes": 9
+  },
+  {
+   "termo": "York Times",
+   "ultimos_3_dias": 3,
    "antes": 0
-  },
-  {
-   "termo": "Nobel de Literatura",
-   "ultimos_3_dias": 3,
-   "antes": 1
-  },
-  {
-   "termo": "Black Friday da Amazon",
-   "ultimos_3_dias": 3,
-   "antes": 1
   }
  ],
  "destaques": [
   "60d53531dfba",
   "f75021bfb586",
   "7c3d5db792b2",
-  "09e536e66135",
+  "41b7b489cada",
+  "9c95b254494b",
   "3b84053fa7ee",
-  "5243b385ea5a",
   "e67830df311e",
-  "e59ff6bc7237"
+  "a0102d30d188"
  ]
 }

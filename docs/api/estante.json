@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T14:23:53-03:00",
+ "gerado_em": "2026-11-13T13:58:25-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -9,8 +9,7 @@
     "97037f394e39",
     "af9c1bf6b0c9",
     "edb4f78cafc4",
-    "49c4a52e564a",
-    "e82f2f084a46"
+    "49c4a52e564a"
    ],
    "livros": [
     {
@@ -133,11 +132,7 @@
       "8b9694de799b",
       "d38a73c1b054",
       "8fde4077e5ae",
-      "ca69c47b8884",
-      "497b4631cc37",
-      "e82f2f084a46",
-      "ae0adfe7dc5b",
-      "5692fc0e152e"
+      "ca69c47b8884"
      ]
     },
     {
@@ -188,6 +183,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "41b7b489cada",
     "5243b385ea5a"
    ],
    "livros": [
@@ -210,7 +206,9 @@
     {
      "titulo": "Jantar Secreto",
      "ano": 2016,
-     "noticias": []
+     "noticias": [
+      "41b7b489cada"
+     ]
     },
     {
      "titulo": "Bom Dia, Verônica",
@@ -243,6 +241,11 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "b7b26c3c1565",
+    "2cc4e7a99a90",
+    "d275d934d8a1",
+    "da2b2d33ab67",
+    "78c84fbef319",
     "c530dfbd4e4f",
     "895f53990cb6",
     "a007cc255d30",
@@ -259,10 +262,7 @@
     "5495a9739969",
     "c9c5c749da08",
     "5b689a171ce7",
-    "0f3cb6d02f9d",
-    "f9f69510935a",
-    "e88bd009b71f",
-    "5bed2ef7b03e"
+    "0f3cb6d02f9d"
    ],
    "livros": [
     {
@@ -677,7 +677,9 @@
     {
      "titulo": "Revival",
      "ano": 2014,
-     "noticias": []
+     "noticias": [
+      "da2b2d33ab67"
+     ]
     },
     {
      "titulo": "Finders Keepers",
@@ -795,9 +797,7 @@
     "963969b14be5",
     "9466340820df",
     "0cafc1eac711",
-    "bafb288a33cd",
-    "09e536e66135",
-    "8d12e8ad3b24"
+    "bafb288a33cd"
    ],
    "livros": [
     {
@@ -918,9 +918,7 @@
      "titulo": "Mere Christianity",
      "pt": "Cristianismo Puro e Simples",
      "ano": 1952,
-     "noticias": [
-      "09e536e66135"
-     ]
+     "noticias": []
     },
     {
      "titulo": "The Silver Chair",

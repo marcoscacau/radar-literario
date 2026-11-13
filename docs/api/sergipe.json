@@ -1,7 +1,76 @@
 {
- "gerado_em": "2026-11-12T14:23:53-03:00",
- "total": 43,
+ "gerado_em": "2026-11-13T13:58:25-03:00",
+ "total": 46,
  "eventos": [
+  {
+   "id": "df991358d0a1",
+   "titulo": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade",
+   "link": "https://infonet.com.br/noticias/economia/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade/",
+   "resumo": "Em 12 meses, setor acumula alta de 1,7%",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-13T11:10-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "3630593e187c",
+   "titulo": "Pré-Caju: operação combate venda de bebidas adulteradas em Aracaju",
+   "link": "https://infonet.com.br/noticias/cidade/pre-caju-operacao-combate-venda-de-bebidas-adulteradas-em-aracaju/",
+   "resumo": "Ação terá atuação do IAPF na perícia de bebidas e do Procon Sergipe para garantir água gratuita em estabelecimentos e pontos de hidratação",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-13T09:45-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "cb24c4dd8238",
+   "titulo": "AGENDA MANGUE CULTURAL DE 13 a 19 de Novembro: “feira literária, batalha de rimas e Dia da Consciência Negra e muito mais em Sergipe”",
+   "link": "https://manguejornalismo.org/agenda-mangue-cultural-de-13-a-19-de-novembro-feira-literaria-batalha-de-rimas-e-dia-da-consciencia-negra-e-muito-mais-em-sergipe/",
+   "resumo": "Na sexta, 13, acontece o III Sarau de Poetas Populares e o espetáculo A Confissão de Leontina , em Aracaju, e a Flic 2026 – Feira Literária , em Carira. No domingo, 15, acontece a Troca de Livros na Vila Caju , em Aracaju. ARACAJU — Freedom Discos – Rua Santa Luzia, 151, Centro III SARAU DE POETAS…",
+   "fonte": "Mangue Jornalismo (agenda cultural)",
+   "fonte_id": "mangue",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-13T07:15-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "filosofia"
+    ]
+   },
+   "quando": {
+    "inicio": "2026-11-13",
+    "fim": "2026-11-19",
+    "origem": "texto"
+   },
+   "dia": "2026-11-13"
+  },
   {
    "id": "3ea8c9b8f9f5",
    "titulo": "Elvis Vaz lança a exposição ‘Estuário em Movimento’ na Galeria Sesc",

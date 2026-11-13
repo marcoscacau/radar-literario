@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-13T08:24:35-03:00",
+ "gerado_em": "2026-11-13T13:58:32-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 9
+   "ofertas": 10
   }
  ],
- "total": 41,
+ "total": 42,
  "ofertas": [
+  {
+   "id": "8bcc9c1670f2",
+   "titulo": "Kindle grátis: 10 livros brasileiros para baixar nesta sexta...",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDZldHVIcWZpT1BDd29tTUJEaWtuMmJYZmc5a0JDN3NHQVNDalg2SV9yQ054R1Frb3hNLVFfYlg4OG9DY2FMNFktMVVGSlNBWjgzMHR2QTNSdTRTbGVhMllFR2NlT0ZhWVY2NDRTY0pqc29uakcxVTUyVnpwYzBBZl9ZUF8takZ2Tk9kNU1sbjdOd24xUnFVQlpQcVpnY2lt?oc=5",
+   "fonte": "O Anhanguera",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-13T15:45+00:00",
+   "visto_em": "2026-11-13T13:58-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "2723ed9022d2",
    "titulo": "Kindle Colorsoft colorido tem desconto histórico no 11.11",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-12T05:51+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-12T04:19+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-11T21:58+00:00",
    "visto_em": "2026-11-11T23:24-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-11T18:30+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:44+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:01+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:33+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -177,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:11+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -249,7 +267,7 @@
    "nota": "",
    "postado_em": "2026-11-11T11:45+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T08:24-03:00",
+   "ultima_vez": "2026-11-13T13:58-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

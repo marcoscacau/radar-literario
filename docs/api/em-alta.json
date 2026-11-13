@@ -1,27 +1,27 @@
 {
- "gerado_em": "2026-11-12T14:23:53-03:00",
+ "gerado_em": "2026-11-13T13:58:25-03:00",
  "dias": [
-  "2026-11-06",
   "2026-11-07",
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "termos": [
   {
    "termo": "Booker Prize",
-   "fontes": 23,
-   "mencoes": 24,
+   "fontes": 22,
+   "mencoes": 22,
    "por_dia": [
-    2,
     1,
     1,
     0,
     6,
     7,
-    7
+    7,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -47,10 +47,10 @@
     0,
     0,
     0,
-    0,
     9,
     9,
-    5
+    5,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -69,16 +69,73 @@
    ]
   },
   {
+   "termo": "Academia Brasileira de Letras",
+   "fontes": 15,
+   "mencoes": 16,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    2,
+    12
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "bb53d94572b6",
+    "d66ccf057693",
+    "8081c9bf8c26",
+    "932924f67326",
+    "1f58416e8d1f",
+    "aee9c0f2233c",
+    "63eb7171ba1e",
+    "0bd9752e84c1",
+    "f2bed2b8fc1d",
+    "95f7d8e2f118",
+    "e7597fd44e2a",
+    "5704c8888204"
+   ]
+  },
+  {
+   "termo": "Drauzio Varella",
+   "fontes": 10,
+   "mencoes": 11,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    11
+   ],
+   "novo_hoje": true,
+   "itens": [
+    "bb53d94572b6",
+    "d66ccf057693",
+    "932924f67326",
+    "1f58416e8d1f",
+    "aee9c0f2233c",
+    "63eb7171ba1e",
+    "0bd9752e84c1",
+    "f2bed2b8fc1d",
+    "95f7d8e2f118",
+    "e7597fd44e2a",
+    "5704c8888204"
+   ]
+  },
+  {
    "termo": "Prêmio Jabuti",
    "fontes": 9,
    "mencoes": 9,
    "por_dia": [
+    3,
+    1,
+    1,
+    1,
+    3,
     0,
-    3,
-    1,
-    1,
-    1,
-    3,
     0
    ],
    "novo_hoje": false,
@@ -95,81 +152,16 @@
    ]
   },
   {
-   "termo": "Fourth Wing",
-   "fontes": 4,
-   "mencoes": 6,
-   "por_dia": [
-    1,
-    0,
-    1,
-    2,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e96b411b9dc2",
-    "af9c1bf6b0c9",
-    "edb4f78cafc4",
-    "49c4a52e564a",
-    "d38a73c1b054",
-    "e82f2f084a46"
-   ]
-  },
-  {
-   "termo": "Academia Brasileira de Letras",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    2,
-    0,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "84b799a174ed",
-    "d26176ca0772",
-    "90c78d724625",
-    "8559095f0a88"
-   ]
-  },
-  {
-   "termo": "Prime Video",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    1,
-    1,
-    0,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "3e72ffb5394c",
-    "d38a73c1b054",
-    "5b689a171ce7",
-    "e82f2f084a46"
-   ]
-  },
-  {
    "termo": "Eliana Alves Cruz",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
     0,
-    0,
     2,
     1,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -187,9 +179,9 @@
    "por_dia": [
     0,
     0,
-    0,
     3,
     1,
+    0,
     0,
     0
    ],
@@ -202,24 +194,67 @@
    ]
   },
   {
-   "termo": "Marlon James",
-   "fontes": 4,
-   "mencoes": 4,
+   "termo": "Fourth Wing",
+   "fontes": 3,
+   "mencoes": 5,
    "por_dia": [
+    0,
     1,
-    0,
-    0,
-    3,
-    0,
+    2,
+    1,
+    1,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "c2a61ccf1d8d",
-    "17fa8cfdff8e",
-    "0015eeaefcdf",
-    "21824ab00fd7"
+    "e96b411b9dc2",
+    "af9c1bf6b0c9",
+    "edb4f78cafc4",
+    "49c4a52e564a",
+    "d38a73c1b054"
+   ]
+  },
+  {
+   "termo": "Prime Video",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "238bf5e1d27e",
+    "3e72ffb5394c",
+    "d38a73c1b054",
+    "5b689a171ce7"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "b1c178fc5b9c",
+    "0c806ddc625f",
+    "de716eb8d529",
+    "eed02a25cd77"
    ]
   },
   {
@@ -227,13 +262,13 @@
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    0,
     1,
     0,
     0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -250,10 +285,10 @@
    "por_dia": [
     0,
     0,
-    0,
     1,
     2,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -265,43 +300,23 @@
    ]
   },
   {
-   "termo": "São Paulo",
+   "termo": "York Times",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
+    0,
+    0,
+    0,
+    0,
     1,
     0,
-    0,
-    0,
-    1,
-    0,
-    1
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "09b1361d6fae",
-    "e459a5c37403",
-    "99da28289b78"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    0,
-    0,
-    0,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "de716eb8d529",
-    "eed02a25cd77",
-    "2f5c66b5ed12"
+    "41b7b489cada",
+    "9f1c61431ea8",
+    "90a20de38773"
    ]
   },
   {
@@ -310,10 +325,10 @@
    "mencoes": 3,
    "por_dia": [
     0,
+    1,
+    1,
+    1,
     0,
-    1,
-    1,
-    1,
     0,
     0
    ],
@@ -325,23 +340,23 @@
    ]
   },
   {
-   "termo": "Carl Sagan",
+   "termo": "Marlon James",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    1,
-    1,
     0,
-    1,
+    0,
+    3,
+    0,
     0,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "e67830df311e",
-    "36ecc9d0e7aa",
-    "39e814381e42"
+    "c2a61ccf1d8d",
+    "17fa8cfdff8e",
+    "0015eeaefcdf"
    ]
   }
  ]
