@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T15:24:44-03:00",
+ "gerado_em": "2026-11-14T19:40:00-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 9
+   "ofertas": 8
   }
  ],
- "total": 45,
+ "total": 46,
  "ofertas": [
+  {
+   "id": "49a8f12aaf69",
+   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbl9uaUY1MWZoVUUyZUhTUnB6b1praHdaSzRrRVVRM2tsVDdOeEMtYVZneElRWGJqQmd0d0U0ME5kTlZmNVdaZThBaVhUZ08wdWd0dERmall2VmxSWnBXY09QMWRQdGlhWG1uaW1VbDJnTGVlMkpWclZLZmJBclMyZEo5MVEyQTYzcjV5enFGczBnMW1EWTJOb050WkZzT0xlMk92UjFXZmwtV3BkSWFxZDhjVQ?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-14T20:05+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "2027dfe368bc",
+   "titulo": "Bolsa Kindle: onde encontrar livros grátis após o fim",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2RwMzJLWGRjZ1BPd1M0VGc5YjNsR29LLVgxVDBhcjBrUk9xSFFpOHBCejRjam91R1lVaERFU3otUGo1cUlIVTU0Qng5MU5ROTlQbmdZLTFobG8zdzRROGVXVFJCUDlnQk1SOHdmMG45ZjhxZ0RETWt5OVJiNm1qMWV4ZGdKa0dnRkY1UGpCbS1pUDJtNUFUcQ?oc=5",
+   "fonte": "CenárioMT",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-14T19:36+00:00",
+   "visto_em": "2026-11-14T19:40-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "24e00f1cc152",
    "titulo": "Bolsa Kindle acabou? Veja como conseguir livros grátis hoje (14)",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-14T13:11+00:00",
    "visto_em": "2026-11-14T12:36-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-14T02:11+00:00",
    "visto_em": "2026-11-14T07:47-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,25 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-13T23:48+00:00",
    "visto_em": "2026-11-13T22:37-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "49a8f12aaf69",
-   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbl9uaUY1MWZoVUUyZUhTUnB6b1praHdaSzRrRVVRM2tsVDdOeEMtYVZneElRWGJqQmd0d0U0ME5kTlZmNVdaZThBaVhUZ08wdWd0dERmall2VmxSWnBXY09QMWRQdGlhWG1uaW1VbDJnTGVlMkpWclZLZmJBclMyZEo5MVEyQTYzcjV5enFGczBnMW1EWTJOb050WkZzT0xlMk92UjFXZmwtV3BkSWFxZDhjVQ?oc=5",
-   "fonte": "Estadão",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-11-13T20:22+00:00",
-   "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-13T15:45+00:00",
    "visto_em": "2026-11-13T13:58-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-12T05:51+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-12T04:19+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-14T15:24-03:00",
+   "ultima_vez": "2026-11-14T19:40-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
