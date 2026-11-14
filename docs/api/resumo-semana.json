@@ -1,30 +1,30 @@
 {
- "gerado_em": "2026-11-13T13:58:25-03:00",
+ "gerado_em": "2026-11-14T12:36:34-03:00",
  "dias": [
+  "2026-11-14",
   "2026-11-13",
   "2026-11-12",
   "2026-11-11",
   "2026-11-10",
   "2026-11-09",
-  "2026-11-08",
-  "2026-11-07"
+  "2026-11-08"
  ],
- "total": 539,
+ "total": 552,
  "por_grupo": {
-  "brasil-portugal": 219,
-  "cadernos": 66,
-  "internacional": 254
+  "cadernos": 69,
+  "brasil-portugal": 230,
+  "internacional": 253
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 57
+   "noticias": 59
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 48
+   "noticias": 49
   },
   {
    "id": "fe",
@@ -59,24 +59,28 @@
  ],
  "autores": [
   {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 27
+   "nome": "Stephen King",
+   "noticias": 28
   },
   {
-   "nome": "Stephen King",
-   "noticias": 24
+   "nome": "J. R. R. Tolkien",
+   "noticias": 28
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 16
+   "noticias": 15
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 12
+   "noticias": 11
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 6
+   "noticias": 7
+  },
+  {
+   "nome": "Carl Sagan",
+   "noticias": 2
   },
   {
    "nome": "Raphael Montes",
@@ -84,10 +88,6 @@
   },
   {
    "nome": "Dan Brown",
-   "noticias": 2
-  },
-  {
-   "nome": "Carl Sagan",
    "noticias": 2
   },
   {
@@ -100,47 +100,42 @@
   }
  ],
  "em_alta": [
-  "Booker Prize",
-  "John Harrison",
   "Academia Brasileira de Letras",
   "Drauzio Varella",
+  "Booker Prize",
+  "John Harrison",
   "Prêmio Jabuti"
  ],
  "subindo": [
   {
    "termo": "Academia Brasileira de Letras",
-   "ultimos_3_dias": 14,
+   "ultimos_3_dias": 27,
    "antes": 2
   },
   {
    "termo": "Drauzio Varella",
-   "ultimos_3_dias": 11,
+   "ultimos_3_dias": 24,
    "antes": 0
   },
   {
-   "termo": "Booker Prize",
-   "ultimos_3_dias": 14,
-   "antes": 8
-  },
-  {
-   "termo": "John Harrison",
-   "ultimos_3_dias": 14,
-   "antes": 9
+   "termo": "Zuenir Ventura",
+   "ultimos_3_dias": 6,
+   "antes": 0
   },
   {
    "termo": "York Times",
-   "ultimos_3_dias": 3,
-   "antes": 0
+   "ultimos_3_dias": 4,
+   "antes": 1
   }
  ],
  "destaques": [
   "60d53531dfba",
   "f75021bfb586",
   "7c3d5db792b2",
+  "814c05da9fc8",
+  "64dcdef7857f",
   "41b7b489cada",
-  "9c95b254494b",
   "3b84053fa7ee",
-  "e67830df311e",
-  "a0102d30d188"
+  "a92e33bc6b36"
  ]
 }

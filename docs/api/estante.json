@@ -1,9 +1,10 @@
 {
- "gerado_em": "2026-11-13T13:58:25-03:00",
+ "gerado_em": "2026-11-14T12:36:34-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "c816e6866dd4",
     "a2603709dadd",
     "6e38ec7294de",
     "97037f394e39",
@@ -130,9 +131,7 @@
       "edb4f78cafc4",
       "49c4a52e564a",
       "8b9694de799b",
-      "d38a73c1b054",
-      "8fde4077e5ae",
-      "ca69c47b8884"
+      "d38a73c1b054"
      ]
     },
     {
@@ -168,8 +167,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
-      "a2603709dadd",
-      "8fde4077e5ae"
+      "a2603709dadd"
      ]
     },
     {
@@ -241,6 +239,13 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "a14d3e739f4b",
+    "7c4c84ec57e5",
+    "b2e8d4144bc8",
+    "4f7fa5bf9fdd",
+    "9bd627f72108",
+    "e979d50b437f",
+    "5240d69ddbbc",
     "b7b26c3c1565",
     "2cc4e7a99a90",
     "d275d934d8a1",
@@ -259,10 +264,7 @@
     "a009a6b39fb8",
     "fae1f35737cc",
     "61101e0172a0",
-    "5495a9739969",
-    "c9c5c749da08",
-    "5b689a171ce7",
-    "0f3cb6d02f9d"
+    "5495a9739969"
    ],
    "livros": [
     {
@@ -271,6 +273,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "9bd627f72108",
       "3e72ffb5394c",
       "895f53990cb6",
       "6105a074c8b7"
@@ -794,10 +797,10 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "64dcdef7857f",
     "963969b14be5",
     "9466340820df",
-    "0cafc1eac711",
-    "bafb288a33cd"
+    "0cafc1eac711"
    ],
    "livros": [
     {
