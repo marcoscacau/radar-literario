@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-13T16:56:50-03:00",
+ "gerado_em": "2026-11-13T22:37:23-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 10
+   "ofertas": 13
   }
  ],
- "total": 42,
+ "total": 43,
  "ofertas": [
+  {
+   "id": "103d80aaff4d",
+   "titulo": "Bolsa Kindle: o que é e como funciona a campanha de livros grátis",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HcG5CZ0JRaTF6eFo5VEZRUWhwQWxUdi1lMGpMM1E5QjdDQWtIMzlPYUE1REdXU2pyc1JrQW5Hal9QQUdqekZKMHhxaE5ka2pHT3M1TVdFZVhESUgtNHJv?oc=5",
+   "fonte": "Game Overdrive",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-13T23:48+00:00",
+   "visto_em": "2026-11-13T22:37-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "49a8f12aaf69",
+   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbl9uaUY1MWZoVUUyZUhTUnB6b1praHdaSzRrRVVRM2tsVDdOeEMtYVZneElRWGJqQmd0d0U0ME5kTlZmNVdaZThBaVhUZ08wdWd0dERmall2VmxSWnBXY09QMWRQdGlhWG1uaW1VbDJnTGVlMkpWclZLZmJBclMyZEo5MVEyQTYzcjV5enFGczBnMW1EWTJOb050WkZzT0xlMk92UjFXZmwtV3BkSWFxZDhjVQ?oc=5",
+   "fonte": "Estadão",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-13T20:22+00:00",
+   "visto_em": "2026-11-11T13:55-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "8bcc9c1670f2",
    "titulo": "Kindle grátis: 10 livros brasileiros para baixar nesta sexta...",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-13T15:45+00:00",
    "visto_em": "2026-11-13T13:58-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-12T05:51+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-12T04:19+00:00",
    "visto_em": "2026-11-12T08:41-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-11T21:58+00:00",
    "visto_em": "2026-11-11T23:24-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-11T18:30+00:00",
    "visto_em": "2026-11-11T16:47-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,25 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-11T15:44+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "49a8f12aaf69",
-   "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbl9uaUY1MWZoVUUyZUhTUnB6b1praHdaSzRrRVVRM2tsVDdOeEMtYVZneElRWGJqQmd0d0U0ME5kTlZmNVdaZThBaVhUZ08wdWd0dERmall2VmxSWnBXY09QMWRQdGlhWG1uaW1VbDJnTGVlMkpWclZLZmJBclMyZEo5MVEyQTYzcjV5enFGczBnMW1EWTJOb050WkZzT0xlMk92UjFXZmwtV3BkSWFxZDhjVQ?oc=5",
-   "fonte": "Estadão",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-11-11T15:01+00:00",
-   "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:33+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -195,7 +213,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:11+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -213,7 +231,7 @@
    "nota": "",
    "postado_em": "2026-11-11T14:00+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -249,7 +267,7 @@
    "nota": "",
    "postado_em": "2026-11-11T12:47+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-12T23:01-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -267,7 +285,7 @@
    "nota": "",
    "postado_em": "2026-11-11T11:45+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-13T16:56-03:00",
+   "ultima_vez": "2026-11-13T22:37-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
