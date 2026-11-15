@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T13:30:43-03:00",
+ "gerado_em": "2026-11-15T20:04:15-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 6
+   "ofertas": 8
   }
  ],
- "total": 46,
+ "total": 48,
  "ofertas": [
+  {
+   "id": "fd611a8c0eb5",
+   "titulo": "Calendário de promoções do Kindle até a Black Friday de 2027",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkV1YnA1b1A4SVdmVjUyTzJJQ21YVUZ5OEVmN19WNWhKcUZBblpmeTNhTFU1ZVhGSFZjX0E2d2tuUlZhNURMSk9vMzRJd1lTM1lidlBsMHQ0SVpxZEVSSlVRR1kzcDlZZzZyZWhlcEVwWEZ1TGVLS0NtVTBoQW1vZ2NIdVk0VWtBY1lIUThVZEdaMjg2a25sajl5UHpaR0FEeUJaag?oc=5",
+   "fonte": "SpaceMoney",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-15T19:45+00:00",
+   "visto_em": "2026-11-15T20:04-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "06080fe5e332",
+   "titulo": "Quando tem promoção de Kindle na Amazon? Veja quando comprar mais barato",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHVyc3N1aVRPZXozTUxyYlNwQmRpWEVkQXVTeHRHcW1qSkQ0YU04MFI0WFV0WUxtQjhjZXJQSXY3cldzOUQ1MWR3RVZxMjkwanBGXzQwNmxBYndHQVFmS1BINDZzbGJ3OTFYV3RyMnBZTDBFcHdBTDliZEw3WEhyWUdkOUUtWExlOHZDdzc4ZnkzQUhYVHVyOGtUc1lHY0FMSjJXd0dMZDgydw?oc=5",
+   "fonte": "Canaltech",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-15T19:30+00:00",
+   "visto_em": "2026-11-15T20:04-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "49a8f12aaf69",
    "titulo": "Kindle Colorsoft entra em promoção no 11.11 da Amazon",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-14T20:05+00:00",
    "visto_em": "2026-11-11T13:55-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,25 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-14T19:36+00:00",
    "visto_em": "2026-11-14T19:40-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "24e00f1cc152",
-   "titulo": "Bolsa Kindle acabou? Veja como conseguir livros grátis hoje (14)",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGNfdk55cFdteHc4SXlHLWE1M0xWQkozX011UXBmaDNJZHdEYWp0VnB3YzZHOEV5NGZDSFNDbVRXSmtFUV9VbEtjMV8xX3U2dWdEMERicWRFVTBsQ3ZDWlgtRGRqYVlaekF2QjlWY1U0bTU2ZmFxRndyTTJWdHAyb3ROUjFjb3pvdkp4WDZSSng1QkE?oc=5",
-   "fonte": "Game Overdrive",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-11-14T13:11+00:00",
-   "visto_em": "2026-11-14T12:36-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-14T02:11+00:00",
    "visto_em": "2026-11-14T07:47-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +123,25 @@
    "nota": "",
    "postado_em": "2026-11-13T23:48+00:00",
    "visto_em": "2026-11-13T22:37-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "24e00f1cc152",
+   "titulo": "Bolsa Kindle acabou? Veja como conseguir livros grátis hoje (14)",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGNfdk55cFdteHc4SXlHLWE1M0xWQkozX011UXBmaDNJZHdEYWp0VnB3YzZHOEV5NGZDSFNDbVRXSmtFUV9VbEtjMV8xX3U2dWdEMERicWRFVTBsQ3ZDWlgtRGRqYVlaekF2QjlWY1U0bTU2ZmFxRndyTTJWdHAyb3ROUjFjb3pvdkp4WDZSSng1QkE?oc=5",
+   "fonte": "Game Overdrive",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-13T20:56+00:00",
+   "visto_em": "2026-11-14T12:36-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-13T15:45+00:00",
    "visto_em": "2026-11-13T13:58-03:00",
-   "ultima_vez": "2026-11-15T13:30-03:00",
+   "ultima_vez": "2026-11-15T20:04-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
