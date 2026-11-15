@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T12:36:34-03:00",
+ "gerado_em": "2026-11-15T13:06:29-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -121,6 +121,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "909c0b2cc9c9",
+      "eeea20f73848",
       "79c8e89633f3",
       "e96b411b9dc2",
       "f75021bfb586",
@@ -130,8 +132,7 @@
       "6b7bee53c9d9",
       "edb4f78cafc4",
       "49c4a52e564a",
-      "8b9694de799b",
-      "d38a73c1b054"
+      "8b9694de799b"
      ]
     },
     {
@@ -181,6 +182,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "1d4ba0b4bac5",
     "41b7b489cada",
     "5243b385ea5a"
    ],
@@ -205,6 +207,7 @@
      "titulo": "Jantar Secreto",
      "ano": 2016,
      "noticias": [
+      "1d4ba0b4bac5",
       "41b7b489cada"
      ]
     },
@@ -239,6 +242,10 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "d892b965784c",
+    "2b144b8584e1",
+    "26ed1795f99a",
+    "f99db35db924",
     "a14d3e739f4b",
     "7c4c84ec57e5",
     "b2e8d4144bc8",
@@ -259,12 +266,7 @@
     "13b5101de729",
     "1c79d89c55e0",
     "7c3d5db792b2",
-    "bdb827b4d222",
-    "255de28e4164",
-    "a009a6b39fb8",
-    "fae1f35737cc",
-    "61101e0172a0",
-    "5495a9739969"
+    "bdb827b4d222"
    ],
    "livros": [
     {
@@ -273,6 +275,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "673fdcadff4f",
       "9bd627f72108",
       "3e72ffb5394c",
       "895f53990cb6",
@@ -797,10 +800,9 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "57bbb5d44f47",
     "64dcdef7857f",
-    "963969b14be5",
-    "9466340820df",
-    "0cafc1eac711"
+    "963969b14be5"
    ],
    "livros": [
     {

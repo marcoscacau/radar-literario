@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-14T12:36:34-03:00",
+ "gerado_em": "2026-11-15T13:06:29-03:00",
  "dias": [
+  "2026-11-15",
   "2026-11-14",
   "2026-11-13",
   "2026-11-12",
   "2026-11-11",
   "2026-11-10",
-  "2026-11-09",
-  "2026-11-08"
+  "2026-11-09"
  ],
- "total": 552,
+ "total": 573,
  "por_grupo": {
-  "cadernos": 69,
-  "brasil-portugal": 230,
-  "internacional": 253
+  "brasil-portugal": 247,
+  "internacional": 249,
+  "cadernos": 77
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 59
+   "noticias": 66
   },
   {
    "id": "fantasia",
@@ -29,7 +29,7 @@
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 12
+   "noticias": 13
   },
   {
    "id": "fisica",
@@ -37,18 +37,18 @@
    "noticias": 4
   },
   {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 3
+  },
+  {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 4
+   "noticias": 3
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 4
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
    "noticias": 3
   },
   {
@@ -64,26 +64,30 @@
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 28
+   "noticias": 27
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 15
+   "noticias": 16
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 11
+   "noticias": 9
   },
   {
    "nome": "Dostoiévski",
    "noticias": 7
   },
   {
-   "nome": "Carl Sagan",
-   "noticias": 2
+   "nome": "Franz Kafka",
+   "noticias": 3
   },
   {
    "nome": "Raphael Montes",
+   "noticias": 3
+  },
+  {
+   "nome": "Carl Sagan",
    "noticias": 2
   },
   {
@@ -93,49 +97,50 @@
   {
    "nome": "Ursula K. Le Guin",
    "noticias": 1
-  },
-  {
-   "nome": "Franz Kafka",
-   "noticias": 1
   }
  ],
  "em_alta": [
   "Academia Brasileira de Letras",
   "Drauzio Varella",
-  "Booker Prize",
   "John Harrison",
-  "Prêmio Jabuti"
+  "Booker Prize",
+  "Zuenir Ventura"
  ],
  "subindo": [
   {
-   "termo": "Academia Brasileira de Letras",
-   "ultimos_3_dias": 27,
-   "antes": 2
-  },
-  {
    "termo": "Drauzio Varella",
-   "ultimos_3_dias": 24,
+   "ultimos_3_dias": 34,
    "antes": 0
   },
   {
+   "termo": "Academia Brasileira de Letras",
+   "ultimos_3_dias": 34,
+   "antes": 4
+  },
+  {
    "termo": "Zuenir Ventura",
-   "ultimos_3_dias": 6,
+   "ultimos_3_dias": 7,
    "antes": 0
   },
   {
    "termo": "York Times",
    "ultimos_3_dias": 4,
    "antes": 1
+  },
+  {
+   "termo": "Prime Video",
+   "ultimos_3_dias": 2,
+   "antes": 1
   }
  ],
  "destaques": [
+  "57bbb5d44f47",
   "60d53531dfba",
   "f75021bfb586",
   "7c3d5db792b2",
+  "647b829d44c0",
+  "1d4ba0b4bac5",
   "814c05da9fc8",
-  "64dcdef7857f",
-  "41b7b489cada",
-  "3b84053fa7ee",
-  "a92e33bc6b36"
+  "331d211e4519"
  ]
 }
