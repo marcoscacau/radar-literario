@@ -1,45 +1,35 @@
 {
- "gerado_em": "2026-11-15T13:06:29-03:00",
+ "gerado_em": "2026-11-16T16:19:23-03:00",
  "dias": [
+  "2026-11-16",
   "2026-11-15",
   "2026-11-14",
   "2026-11-13",
   "2026-11-12",
   "2026-11-11",
-  "2026-11-10",
-  "2026-11-09"
+  "2026-11-10"
  ],
- "total": 573,
+ "total": 578,
  "por_grupo": {
-  "brasil-portugal": 247,
-  "internacional": 249,
-  "cadernos": 77
+  "internacional": 254,
+  "cadernos": 82,
+  "brasil-portugal": 242
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 66
+   "noticias": 68
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 49
+   "noticias": 45
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 13
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 4
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 3
+   "noticias": 12
   },
   {
    "id": "suspense",
@@ -47,9 +37,19 @@
    "noticias": 3
   },
   {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 3
+  },
+  {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 3
+  },
+  {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 2
   },
   {
    "id": "russos",
@@ -59,12 +59,12 @@
  ],
  "autores": [
   {
-   "nome": "Stephen King",
+   "nome": "J. R. R. Tolkien",
    "noticias": 28
   },
   {
-   "nome": "J. R. R. Tolkien",
-   "noticias": 27
+   "nome": "Stephen King",
+   "noticias": 26
   },
   {
    "nome": "Rebecca Yarros",
@@ -72,11 +72,11 @@
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 9
+   "noticias": 10
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 7
+   "noticias": 6
   },
   {
    "nome": "Franz Kafka",
@@ -88,11 +88,11 @@
   },
   {
    "nome": "Carl Sagan",
-   "noticias": 2
+   "noticias": 1
   },
   {
    "nome": "Dan Brown",
-   "noticias": 2
+   "noticias": 1
   },
   {
    "nome": "Ursula K. Le Guin",
@@ -109,38 +109,33 @@
  "subindo": [
   {
    "termo": "Drauzio Varella",
-   "ultimos_3_dias": 34,
-   "antes": 0
+   "ultimos_3_dias": 23,
+   "antes": 11
   },
   {
    "termo": "Academia Brasileira de Letras",
-   "ultimos_3_dias": 34,
-   "antes": 4
+   "ultimos_3_dias": 22,
+   "antes": 16
   },
   {
    "termo": "Zuenir Ventura",
-   "ultimos_3_dias": 7,
-   "antes": 0
-  },
-  {
-   "termo": "York Times",
    "ultimos_3_dias": 4,
-   "antes": 1
+   "antes": 3
   },
   {
-   "termo": "Prime Video",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Fourth Wing",
+   "ultimos_3_dias": 3,
+   "antes": 2
   }
  ],
  "destaques": [
   "57bbb5d44f47",
   "60d53531dfba",
   "f75021bfb586",
-  "7c3d5db792b2",
+  "d1b43c133f61",
   "647b829d44c0",
   "1d4ba0b4bac5",
   "814c05da9fc8",
-  "331d211e4519"
+  "660f0cd8b96a"
  ]
 }

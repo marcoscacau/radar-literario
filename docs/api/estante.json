@@ -1,16 +1,17 @@
 {
- "gerado_em": "2026-11-15T13:06:29-03:00",
+ "gerado_em": "2026-11-16T16:19:23-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "a43a40225f4e",
+    "b580aaf860c0",
+    "a14d9dddfe4c",
     "c816e6866dd4",
     "a2603709dadd",
     "6e38ec7294de",
     "97037f394e39",
-    "af9c1bf6b0c9",
-    "edb4f78cafc4",
-    "49c4a52e564a"
+    "af9c1bf6b0c9"
    ],
    "livros": [
     {
@@ -121,18 +122,16 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "b580aaf860c0",
+      "97821d10ad15",
+      "af38c6640f43",
       "909c0b2cc9c9",
       "eeea20f73848",
       "79c8e89633f3",
       "e96b411b9dc2",
       "f75021bfb586",
       "927dec6be166",
-      "af9c1bf6b0c9",
-      "0eecaeb2da38",
-      "6b7bee53c9d9",
-      "edb4f78cafc4",
-      "49c4a52e564a",
-      "8b9694de799b"
+      "af9c1bf6b0c9"
      ]
     },
     {
@@ -175,7 +174,10 @@
      "titulo": "Peculiar Stars",
      "ano": null,
      "anunciado": true,
-     "noticias": []
+     "noticias": [
+      "a43a40225f4e",
+      "a14d9dddfe4c"
+     ]
     }
    ]
   },
@@ -242,6 +244,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "d1b43c133f61",
+    "52dd1d180785",
+    "64440f3b50e4",
     "d892b965784c",
     "2b144b8584e1",
     "26ed1795f99a",
@@ -262,11 +267,7 @@
     "895f53990cb6",
     "a007cc255d30",
     "1828ce4b4b8d",
-    "f9463efc0ab1",
-    "13b5101de729",
-    "1c79d89c55e0",
-    "7c3d5db792b2",
-    "bdb827b4d222"
+    "f9463efc0ab1"
    ],
    "livros": [
     {
@@ -275,11 +276,11 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "64440f3b50e4",
       "673fdcadff4f",
       "9bd627f72108",
       "3e72ffb5394c",
-      "895f53990cb6",
-      "6105a074c8b7"
+      "895f53990cb6"
      ]
     },
     {
@@ -361,9 +362,7 @@
      "pt": "O Concorrente",
      "ano": 1982,
      "serie": "como Richard Bachman",
-     "noticias": [
-      "7c3d5db792b2"
-     ]
+     "noticias": []
     },
     {
      "titulo": "The Gunslinger",
@@ -800,6 +799,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "5768f4e80726",
     "57bbb5d44f47",
     "64dcdef7857f",
     "963969b14be5"
