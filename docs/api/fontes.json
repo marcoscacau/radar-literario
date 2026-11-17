@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T16:19:23-03:00",
+ "gerado_em": "2026-11-17T15:12:52-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "quatrocincoum",
@@ -25,8 +25,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 16,
-   "novos_hoje": 3
+   "itens_no_feed": 15,
+   "novos_hoje": 2
   },
   {
    "id": "estadao",
@@ -34,8 +34,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 2,
+   "novos_hoje": 2
   },
   {
    "id": "publico",
@@ -43,8 +43,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "observador",
@@ -52,8 +52,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "gn-premios-br",
@@ -62,7 +62,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 100,
-   "novos_hoje": 1
+   "novos_hoje": 2
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 26,
-   "novos_hoje": 9
+   "itens_no_feed": 19,
+   "novos_hoje": 3
   },
   {
    "id": "gn-estante-br",
@@ -79,8 +79,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 23,
-   "novos_hoje": 2
+   "itens_no_feed": 26,
+   "novos_hoje": 4
   },
   {
    "id": "gn-acompanhados-br",
@@ -97,7 +97,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 11,
+   "itens_no_feed": 12,
    "novos_hoje": 0
   },
   {
@@ -124,8 +124,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 1,
+   "novos_hoje": 1
   },
   {
    "id": "g1-se",
@@ -160,7 +160,7 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
+   "itens_no_feed": 1,
    "novos_hoje": 0
   },
   {
@@ -179,7 +179,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 28,
-   "novos_hoje": 3
+   "novos_hoje": 2
   },
   {
    "id": "nyt",
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 37,
-   "novos_hoje": 6
+   "itens_no_feed": 35,
+   "novos_hoje": 5
   },
   {
    "id": "guardian-ciencia",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 60,
-   "novos_hoje": 2
+   "novos_hoje": 3
   },
   {
    "id": "ct",
@@ -233,7 +233,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 2,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "reactor",
@@ -241,7 +241,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 5,
+   "itens_no_feed": 7,
    "novos_hoje": 3
   },
   {
@@ -251,7 +251,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 31,
-   "novos_hoje": 4
+   "novos_hoje": 2
   },
   {
    "id": "gn-yarros-en",
@@ -259,7 +259,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 21,
+   "itens_no_feed": 19,
    "novos_hoje": 6
   },
   {
@@ -268,8 +268,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 12,
-   "novos_hoje": 4
+   "itens_no_feed": 16,
+   "novos_hoje": 3
   },
   {
    "id": "parisreview",
@@ -278,7 +278,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 2
+   "novos_hoje": 1
   },
   {
    "id": "gn-prizes",
@@ -286,8 +286,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 52,
-   "novos_hoje": 1
+   "itens_no_feed": 26,
+   "novos_hoje": 0
   },
   {
    "id": "bujo",
@@ -296,7 +296,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 30,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "vidaorganizada",
@@ -314,7 +314,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 20,
-   "novos_hoje": 2
+   "novos_hoje": 1
   },
   {
    "id": "wellappointed",
@@ -323,7 +323,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "notebookstories",
@@ -332,7 +332,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 5,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "calnewport",
@@ -341,7 +341,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 8,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "fortelabs",
@@ -376,8 +376,8 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 5,
-   "novos_hoje": 1
+   "itens_no_feed": 3,
+   "novos_hoje": 0
   },
   {
    "id": "gn-produtividade-pt",
@@ -394,8 +394,8 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 29,
-   "novos_hoje": 5
+   "itens_no_feed": 36,
+   "novos_hoje": 6
   },
   {
    "id": "gn-produtividade-en",

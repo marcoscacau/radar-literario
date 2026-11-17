@@ -1,7 +1,32 @@
 {
- "gerado_em": "2026-11-16T16:19:23-03:00",
- "total": 47,
+ "gerado_em": "2026-11-17T15:12:52-03:00",
+ "total": 48,
  "eventos": [
+  {
+   "id": "f8119508d22a",
+   "titulo": "Mudanças no trânsito no bairro Jabotiana iniciam nesta terça",
+   "link": "https://infonet.com.br/noticias/cidade/mudancas-no-transito-no-bairro-jabotiana-iniciam-nesta-terca/",
+   "resumo": "Com as mudanças, algumas vias que atualmente funcionam em mão dupla passarão a ter sentido único de circulação",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-17T10:37-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-17",
+    "fim": "2026-11-17",
+    "origem": "texto"
+   },
+   "dia": "2026-11-17"
+  },
   {
    "id": "c6970b9ac9af",
    "titulo": "SMTT altera sentido de ruas no conj. Santa Lúcia a partir de terça, 17",

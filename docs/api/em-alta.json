@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-16T16:19:23-03:00",
+ "gerado_em": "2026-11-17T15:12:52-03:00",
  "dias": [
-  "2026-11-10",
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
   "2026-11-14",
   "2026-11-15",
-  "2026-11-16"
+  "2026-11-16",
+  "2026-11-17"
  ],
  "termos": [
   {
    "termo": "Academia Brasileira de Letras",
-   "fontes": 35,
-   "mencoes": 38,
+   "fontes": 33,
+   "mencoes": 36,
    "por_dia": [
-    2,
     0,
     2,
     12,
     13,
     9,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -46,10 +46,10 @@
    "por_dia": [
     0,
     0,
-    0,
     11,
     13,
     10,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -70,15 +70,15 @@
   },
   {
    "termo": "John Harrison",
-   "fontes": 23,
-   "mencoes": 28,
+   "fontes": 17,
+   "mencoes": 19,
    "por_dia": [
-    9,
     9,
     5,
     0,
     3,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -99,15 +99,15 @@
   },
   {
    "termo": "Booker Prize",
-   "fontes": 23,
-   "mencoes": 24,
+   "fontes": 17,
+   "mencoes": 18,
    "por_dia": [
-    6,
     7,
     7,
     0,
     2,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -133,10 +133,10 @@
    "por_dia": [
     0,
     0,
-    0,
     3,
     3,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -153,23 +153,24 @@
   {
    "termo": "Fourth Wing",
    "fontes": 4,
-   "mencoes": 5,
+   "mencoes": 6,
    "por_dia": [
-    1,
     1,
     0,
     0,
     0,
     2,
-    1
+    1,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "4f24cf6f1c5f",
+    "3dd5945558f4",
     "97821d10ad15",
     "909c0b2cc9c9",
     "eeea20f73848",
-    "e96b411b9dc2",
-    "af9c1bf6b0c9"
+    "e96b411b9dc2"
    ]
   },
   {
@@ -177,11 +178,11 @@
    "fontes": 4,
    "mencoes": 5,
    "por_dia": [
-    0,
     1,
     0,
     2,
     2,
+    0,
     0,
     0
    ],
@@ -195,12 +196,113 @@
    ]
   },
   {
-   "termo": "Prêmio Jabuti",
-   "fontes": 4,
+   "termo": "Prime Video",
+   "fontes": 3,
    "mencoes": 4,
    "por_dia": [
     1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "6c329323a0bd",
+    "673fdcadff4f",
+    "238bf5e1d27e",
+    "3e72ffb5394c"
+   ]
+  },
+  {
+   "termo": "Peculiar Stars",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a8e8924cc3f6",
+    "ffcff15f2a42",
+    "a14d9dddfe4c"
+   ]
+  },
+  {
+   "termo": "Gary Shteyngart",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c6149dd94839",
+    "09f9afd24764",
+    "e1859f3e97e9"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "1823bb285e25",
+    "4b22f8d000c6",
+    "9ca7bd0a0a76"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "b1c178fc5b9c",
+    "0c806ddc625f",
+    "de716eb8d529"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
     3,
+    0,
     0,
     0,
     0,
@@ -211,70 +313,7 @@
    "itens": [
     "f62e25d815d1",
     "df7a995cce79",
-    "647403761135",
-    "b96af9b39f49"
-   ]
-  },
-  {
-   "termo": "São Paulo",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    0,
-    1,
-    1,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "211e765c50c4",
-    "ace919abd740",
-    "09b1361d6fae",
-    "e459a5c37403"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 4,
-   "por_dia": [
-    1,
-    1,
-    0,
-    2,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "b1c178fc5b9c",
-    "0c806ddc625f",
-    "de716eb8d529",
-    "eed02a25cd77"
-   ]
-  },
-  {
-   "termo": "Prime Video",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    1,
-    0,
-    1,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "673fdcadff4f",
-    "238bf5e1d27e",
-    "3e72ffb5394c"
+    "647403761135"
    ]
   }
  ]

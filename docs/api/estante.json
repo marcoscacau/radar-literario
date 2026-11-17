@@ -1,17 +1,19 @@
 {
- "gerado_em": "2026-11-16T16:19:23-03:00",
+ "gerado_em": "2026-11-17T15:12:52-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "513d6072cfb9",
+    "a8e8924cc3f6",
+    "4f24cf6f1c5f",
+    "3dd5945558f4",
+    "ffcff15f2a42",
     "a43a40225f4e",
     "b580aaf860c0",
     "a14d9dddfe4c",
     "c816e6866dd4",
-    "a2603709dadd",
-    "6e38ec7294de",
-    "97037f394e39",
-    "af9c1bf6b0c9"
+    "a2603709dadd"
    ],
    "livros": [
     {
@@ -122,16 +124,16 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "58213f69b370",
+      "4f24cf6f1c5f",
+      "3dd5945558f4",
       "b580aaf860c0",
       "97821d10ad15",
       "af38c6640f43",
       "909c0b2cc9c9",
       "eeea20f73848",
       "79c8e89633f3",
-      "e96b411b9dc2",
-      "f75021bfb586",
-      "927dec6be166",
-      "af9c1bf6b0c9"
+      "e96b411b9dc2"
      ]
     },
     {
@@ -175,6 +177,9 @@
      "ano": null,
      "anunciado": true,
      "noticias": [
+      "513d6072cfb9",
+      "a8e8924cc3f6",
+      "ffcff15f2a42",
       "a43a40225f4e",
       "a14d9dddfe4c"
      ]
@@ -185,8 +190,7 @@
    "nome": "Raphael Montes",
    "noticias": [
     "1d4ba0b4bac5",
-    "41b7b489cada",
-    "5243b385ea5a"
+    "41b7b489cada"
    ],
    "livros": [
     {
@@ -244,6 +248,7 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "249dcd4079e0",
     "d1b43c133f61",
     "52dd1d180785",
     "64440f3b50e4",
@@ -262,12 +267,7 @@
     "2cc4e7a99a90",
     "d275d934d8a1",
     "da2b2d33ab67",
-    "78c84fbef319",
-    "c530dfbd4e4f",
-    "895f53990cb6",
-    "a007cc255d30",
-    "1828ce4b4b8d",
-    "f9463efc0ab1"
+    "78c84fbef319"
    ],
    "livros": [
     {
@@ -276,11 +276,11 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "6c329323a0bd",
       "64440f3b50e4",
       "673fdcadff4f",
       "9bd627f72108",
-      "3e72ffb5394c",
-      "895f53990cb6"
+      "3e72ffb5394c"
      ]
     },
     {
@@ -801,8 +801,7 @@
    "noticias": [
     "5768f4e80726",
     "57bbb5d44f47",
-    "64dcdef7857f",
-    "963969b14be5"
+    "64dcdef7857f"
    ],
    "livros": [
     {
