@@ -1,9 +1,13 @@
 {
- "gerado_em": "2026-11-17T15:12:52-03:00",
+ "gerado_em": "2026-11-18T14:49:56-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "66beb19aebd2",
+    "2e51344928ae",
+    "8a4a303e107d",
+    "7d9c280a4cbe",
     "513d6072cfb9",
     "a8e8924cc3f6",
     "4f24cf6f1c5f",
@@ -124,6 +128,9 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "f22d924b30fd",
+      "66beb19aebd2",
+      "6e33a8ea163f",
       "58213f69b370",
       "4f24cf6f1c5f",
       "3dd5945558f4",
@@ -132,8 +139,7 @@
       "af38c6640f43",
       "909c0b2cc9c9",
       "eeea20f73848",
-      "79c8e89633f3",
-      "e96b411b9dc2"
+      "79c8e89633f3"
      ]
     },
     {
@@ -169,6 +175,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "f22d924b30fd",
       "a2603709dadd"
      ]
     },
@@ -248,6 +255,7 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "bbb8a52aa972",
     "249dcd4079e0",
     "d1b43c133f61",
     "52dd1d180785",
@@ -279,8 +287,7 @@
       "6c329323a0bd",
       "64440f3b50e4",
       "673fdcadff4f",
-      "9bd627f72108",
-      "3e72ffb5394c"
+      "9bd627f72108"
      ]
     },
     {
@@ -419,7 +426,9 @@
      "titulo": "It",
      "pt": "It: A Coisa",
      "ano": 1986,
-     "noticias": []
+     "noticias": [
+      "bbb8a52aa972"
+     ]
     },
     {
      "titulo": "The Eyes of the Dragon",
@@ -948,7 +957,9 @@
      "pt": "O Sobrinho do Mago",
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
-     "noticias": []
+     "noticias": [
+      "c7efad3e0f4d"
+     ]
     },
     {
      "titulo": "Surprised by Joy",

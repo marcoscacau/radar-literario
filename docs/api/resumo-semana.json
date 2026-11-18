@@ -1,30 +1,30 @@
 {
- "gerado_em": "2026-11-17T15:12:52-03:00",
+ "gerado_em": "2026-11-18T14:49:56-03:00",
  "dias": [
+  "2026-11-18",
   "2026-11-17",
   "2026-11-16",
   "2026-11-15",
   "2026-11-14",
   "2026-11-13",
-  "2026-11-12",
-  "2026-11-11"
+  "2026-11-12"
  ],
  "total": 549,
  "por_grupo": {
-  "brasil-portugal": 224,
-  "internacional": 237,
-  "cadernos": 88
+  "internacional": 239,
+  "cadernos": 88,
+  "brasil-portugal": 222
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 73
+   "noticias": 74
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 28
+   "noticias": 24
   },
   {
    "id": "fe",
@@ -34,17 +34,12 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 4
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 5
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "id": "filosofia",
@@ -52,15 +47,20 @@
    "noticias": 3
   },
   {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 3
+  },
+  {
    "id": "russos",
    "nome": "literatura russa",
-   "noticias": 1
+   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 28
+   "noticias": 29
   },
   {
    "nome": "Stephen King",
@@ -68,15 +68,15 @@
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 17
+   "noticias": 22
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 8
+   "noticias": 9
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 5
+   "noticias": 3
   },
   {
    "nome": "Franz Kafka",
@@ -89,10 +89,6 @@
   {
    "nome": "Carl Sagan",
    "noticias": 1
-  },
-  {
-   "nome": "Dan Brown",
-   "noticias": 1
   }
  ],
  "em_alta": [
@@ -104,9 +100,9 @@
  ],
  "subindo": [
   {
-   "termo": "Fourth Wing",
-   "ultimos_3_dias": 5,
-   "antes": 1
+   "termo": "Tony Bellotto",
+   "ultimos_3_dias": 3,
+   "antes": 0
   },
   {
    "termo": "Peculiar Stars",
@@ -117,16 +113,26 @@
    "termo": "Gary Shteyngart",
    "ultimos_3_dias": 3,
    "antes": 0
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "ultimos_3_dias": 3,
+   "antes": 1
+  },
+  {
+   "termo": "Fourth Wing",
+   "ultimos_3_dias": 3,
+   "antes": 2
   }
  ],
  "destaques": [
+  "cb8d1bce457e",
   "57bbb5d44f47",
-  "60d53531dfba",
-  "513d6072cfb9",
-  "249dcd4079e0",
+  "f22d924b30fd",
+  "bbb8a52aa972",
   "647b829d44c0",
   "1d4ba0b4bac5",
   "814c05da9fc8",
-  "e6783067dcca"
+  "a4d1c41582e0"
  ]
 }
