@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T15:00:07-03:00",
+ "gerado_em": "2026-11-19T17:53:53-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 3
+   "ofertas": 5
   }
  ],
- "total": 50,
+ "total": 52,
  "ofertas": [
+  {
+   "id": "04108b93fc6f",
+   "titulo": "Black Friday Amazon! Kindle por R$ 519, Echo por R$ 289 e descontos de até R$ 650!",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZU1CTXVkR01oRnVhOWktZ2F1V3Z1U1lLMXg3MFdaYUx3SHJpVXhYMWJjVzVUdWowSzlrUVZqcUFOVXp6NmFZU3hWU3ZzUXdYMkJ1cDgwOHJnUGdrMVp1RjdZa05LT0RaR2ZSY1J4MF94eXRkNUNZWXd1MjNhNE9iRmxwX3ZBZEk?oc=5",
+   "fonte": "Melhores Cartões",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-19T18:59+00:00",
+   "visto_em": "2026-11-19T17:53-03:00",
+   "ultima_vez": "2026-11-19T17:53-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "5378b1d7f275",
+   "titulo": "Com 42% de desconto, Kindle é oportunidade para mergulhar nos livros que deram origem a filmes e séries",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Z1g3OTVxNWpUSy1UazlEZDA1MWVsOTRrMXl2amJGLWRSejFCaVhZVVBkNzl6ZHFKQ2o0YXJGbVhBYTh4TmdhcF9ldWtWU3hjVDZXQnNUMnY0aFd2ZElFLW1aenhCdkl1MUp3aXlENW7SAXZBVV95cUxQZF9wZnR2c05abzc3M19wUGczcE9aeTAwOElncm1oMzhKalhqemgyZUZzTktoV2hLUTVPRWtzX2FDV3FoMC1wYTMwVHI0WW14QzJOeVktck9BRUt4c3Y4MFotZlA2WjdQOTZ3WC1yV1VTX3V5RGVR?oc=5",
+   "fonte": "AdoroCinema",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-19T17:52+00:00",
+   "visto_em": "2026-11-19T17:53-03:00",
+   "ultima_vez": "2026-11-19T17:53-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "1d41024945ec",
    "titulo": "Amazon renova ofertas da Black dos Sonhos com novos Kindle, Alexa, celulares e mais",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-19T14:52+00:00",
    "visto_em": "2026-11-19T15:00-03:00",
-   "ultima_vez": "2026-11-19T15:00-03:00",
+   "ultima_vez": "2026-11-19T17:53-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-17T14:12+00:00",
    "visto_em": "2026-11-17T13:22-03:00",
-   "ultima_vez": "2026-11-19T15:00-03:00",
+   "ultima_vez": "2026-11-19T17:53-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-17T14:00+00:00",
    "visto_em": "2026-11-17T13:22-03:00",
-   "ultima_vez": "2026-11-19T15:00-03:00",
+   "ultima_vez": "2026-11-19T17:53-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
