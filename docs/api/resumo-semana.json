@@ -1,30 +1,30 @@
 {
- "gerado_em": "2026-11-18T14:49:56-03:00",
+ "gerado_em": "2026-11-19T15:00:00-03:00",
  "dias": [
+  "2026-11-19",
   "2026-11-18",
   "2026-11-17",
   "2026-11-16",
   "2026-11-15",
   "2026-11-14",
-  "2026-11-13",
-  "2026-11-12"
+  "2026-11-13"
  ],
- "total": 549,
+ "total": 553,
  "por_grupo": {
-  "internacional": 239,
-  "cadernos": 88,
-  "brasil-portugal": 222
+  "cadernos": 97,
+  "internacional": 238,
+  "brasil-portugal": 218
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 74
+   "noticias": 83
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 24
+   "noticias": 16
   },
   {
    "id": "fe",
@@ -32,24 +32,24 @@
    "noticias": 12
   },
   {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 5
+  },
+  {
    "id": "suspense",
    "nome": "suspense e mistério",
    "noticias": 5
   },
   {
-   "id": "fisica",
-   "nome": "física e ciência",
+   "id": "mente",
+   "nome": "mente e emoções",
    "noticias": 4
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 3
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "id": "russos",
@@ -59,35 +59,35 @@
  ],
  "autores": [
   {
+   "nome": "Stephen King",
+   "noticias": 31
+  },
+  {
    "nome": "J. R. R. Tolkien",
    "noticias": 29
   },
   {
-   "nome": "Stephen King",
-   "noticias": 23
-  },
-  {
    "nome": "Rebecca Yarros",
-   "noticias": 22
+   "noticias": 25
   },
   {
    "nome": "C. S. Lewis",
    "noticias": 9
   },
   {
-   "nome": "Dostoiévski",
-   "noticias": 3
+   "nome": "Raphael Montes",
+   "noticias": 5
   },
   {
    "nome": "Franz Kafka",
    "noticias": 2
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 2
+   "nome": "Carl Sagan",
+   "noticias": 1
   },
   {
-   "nome": "Carl Sagan",
+   "nome": "Dostoiévski",
    "noticias": 1
   }
  ],
@@ -95,44 +95,39 @@
   "Academia Brasileira de Letras",
   "Drauzio Varella",
   "John Harrison",
-  "Booker Prize",
-  "Zuenir Ventura"
+  "Zuenir Ventura",
+  "Booker Prize"
  ],
  "subindo": [
   {
-   "termo": "Tony Bellotto",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Peculiar Stars",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Gary Shteyngart",
+   "termo": "Prêmio Jabuti",
    "ultimos_3_dias": 3,
    "antes": 0
   },
   {
    "termo": "Nobel de Literatura",
    "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Tony Bellotto",
+   "ultimos_3_dias": 2,
    "antes": 1
   },
   {
-   "termo": "Fourth Wing",
-   "ultimos_3_dias": 3,
-   "antes": 2
+   "termo": "Peculiar Stars",
+   "ultimos_3_dias": 2,
+   "antes": 1
   }
  ],
  "destaques": [
   "cb8d1bce457e",
   "57bbb5d44f47",
-  "f22d924b30fd",
-  "bbb8a52aa972",
+  "f6fbfea593dd",
+  "08652595b198",
+  "6984369b2636",
   "647b829d44c0",
-  "1d4ba0b4bac5",
   "814c05da9fc8",
-  "a4d1c41582e0"
+  "318bcb6dfae2"
  ]
 }

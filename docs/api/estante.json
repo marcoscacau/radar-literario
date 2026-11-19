@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-11-18T14:49:56-03:00",
+ "gerado_em": "2026-11-19T15:00:00-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "8e47fb5b3e69",
+    "76eb22edd995",
     "66beb19aebd2",
     "2e51344928ae",
     "8a4a303e107d",
@@ -16,8 +18,7 @@
     "a43a40225f4e",
     "b580aaf860c0",
     "a14d9dddfe4c",
-    "c816e6866dd4",
-    "a2603709dadd"
+    "c816e6866dd4"
    ],
    "livros": [
     {
@@ -128,6 +129,9 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "dbdca1a03b9b",
+      "6984369b2636",
+      "2415d2c7be30",
       "f22d924b30fd",
       "66beb19aebd2",
       "6e33a8ea163f",
@@ -138,8 +142,7 @@
       "97821d10ad15",
       "af38c6640f43",
       "909c0b2cc9c9",
-      "eeea20f73848",
-      "79c8e89633f3"
+      "eeea20f73848"
      ]
     },
     {
@@ -175,8 +178,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
-      "f22d924b30fd",
-      "a2603709dadd"
+      "f22d924b30fd"
      ]
     },
     {
@@ -184,6 +186,7 @@
      "ano": null,
      "anunciado": true,
      "noticias": [
+      "8e47fb5b3e69",
       "513d6072cfb9",
       "a8e8924cc3f6",
       "ffcff15f2a42",
@@ -196,6 +199,9 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "08652595b198",
+    "b5a10e0889c3",
+    "f0a445d646f4",
     "1d4ba0b4bac5",
     "41b7b489cada"
    ],
@@ -209,7 +215,9 @@
      "titulo": "Dias Perfeitos",
      "ano": 2014,
      "ambiguo": true,
-     "noticias": []
+     "noticias": [
+      "b5a10e0889c3"
+     ]
     },
     {
      "titulo": "O Vilarejo",
@@ -255,6 +263,11 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "7aa8cb848fc1",
+    "b36359807f17",
+    "eea8475c0d17",
+    "65f9c2a4423c",
+    "178b216f372c",
     "bbb8a52aa972",
     "249dcd4079e0",
     "d1b43c133f61",
@@ -301,7 +314,9 @@
      "titulo": "The Shining",
      "pt": "O Iluminado",
      "ano": 1977,
-     "noticias": []
+     "noticias": [
+      "eea8475c0d17"
+     ]
     },
     {
      "titulo": "Rage",
@@ -394,7 +409,10 @@
      "titulo": "Pet Sematary",
      "pt": "O Cemitério",
      "ano": 1983,
-     "noticias": []
+     "noticias": [
+      "f6fbfea593dd",
+      "7303a391442e"
+     ]
     },
     {
      "titulo": "Cycle of the Werewolf",
@@ -680,7 +698,9 @@
      "titulo": "Doctor Sleep",
      "pt": "Doutor Sono",
      "ano": 2013,
-     "noticias": []
+     "noticias": [
+      "eea8475c0d17"
+     ]
     },
     {
      "titulo": "Mr. Mercedes",
@@ -788,7 +808,9 @@
      "titulo": "You Like It Darker",
      "ano": 2024,
      "pt": "Mais Sombrio",
-     "noticias": []
+     "noticias": [
+      "efd5351c037c"
+     ]
     },
     {
      "titulo": "Never Flinch",
@@ -808,6 +830,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "f39c75f4b8ce",
     "5768f4e80726",
     "57bbb5d44f47",
     "64dcdef7857f"

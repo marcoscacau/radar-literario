@@ -1,27 +1,27 @@
 {
- "gerado_em": "2026-11-18T14:49:56-03:00",
+ "gerado_em": "2026-11-19T15:00:00-03:00",
  "dias": [
-  "2026-11-12",
   "2026-11-13",
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "termos": [
   {
    "termo": "Academia Brasileira de Letras",
-   "fontes": 34,
-   "mencoes": 37,
+   "fontes": 32,
+   "mencoes": 35,
    "por_dia": [
-    2,
     12,
     13,
     9,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -44,10 +44,10 @@
    "fontes": 31,
    "mencoes": 34,
    "por_dia": [
-    0,
     11,
     13,
     10,
+    0,
     0,
     0,
     0
@@ -70,58 +70,26 @@
   },
   {
    "termo": "John Harrison",
-   "fontes": 10,
-   "mencoes": 11,
+   "fontes": 6,
+   "mencoes": 7,
    "por_dia": [
-    5,
     0,
     3,
     2,
     0,
     0,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "f15d7405bf4f",
     "b58ac6ad5e5d",
     "56e9a2dc791d",
     "5037bf6f568d",
     "63ce83f8edf3",
     "0c48e635e916",
-    "e0afb9d2eaf1",
-    "830bc582a141",
-    "15c0e6704dc3",
-    "533a240aeef9",
-    "c09aa6a76823",
-    "703ccca46866"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 10,
-   "mencoes": 11,
-   "por_dia": [
-    7,
-    0,
-    2,
-    2,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "56e9a2dc791d",
-    "5037bf6f568d",
-    "0c48e635e916",
-    "e0afb9d2eaf1",
-    "35b4c73ba132",
-    "e59ff6bc7237",
-    "15c0e6704dc3",
-    "533a240aeef9",
-    "c09aa6a76823",
-    "703ccca46866",
-    "8cfdab3925c5"
+    "e0afb9d2eaf1"
    ]
   },
   {
@@ -129,10 +97,10 @@
    "fontes": 6,
    "mencoes": 7,
    "por_dia": [
-    0,
     3,
     3,
     1,
+    0,
     0,
     0,
     0
@@ -149,13 +117,36 @@
    ]
   },
   {
-   "termo": "York Times",
-   "fontes": 4,
-   "mencoes": 4,
+   "termo": "Booker Prize",
+   "fontes": 5,
+   "mencoes": 6,
    "por_dia": [
     0,
     2,
     2,
+    0,
+    0,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "34d7f32dcc4c",
+    "f15d7405bf4f",
+    "56e9a2dc791d",
+    "5037bf6f568d",
+    "0c48e635e916",
+    "e0afb9d2eaf1"
+   ]
+  },
+  {
+   "termo": "York Times",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    2,
+    2,
+    0,
     0,
     0,
     0,
@@ -176,10 +167,10 @@
    "por_dia": [
     0,
     0,
-    0,
     2,
     1,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -192,11 +183,11 @@
    ]
   },
   {
-   "termo": "Nobel de Literatura",
+   "termo": "Prêmio Jabuti",
    "fontes": 3,
-   "mencoes": 4,
+   "mencoes": 3,
    "por_dia": [
-    1,
+    0,
     0,
     0,
     0,
@@ -206,10 +197,29 @@
    ],
    "novo_hoje": false,
    "itens": [
+    "45ff9054871d",
+    "ee0e43914228",
+    "5a9e7da18c45"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
     "810baf1ee9fb",
     "bcd04efc21ee",
-    "1823bb285e25",
-    "4b22f8d000c6"
+    "1823bb285e25"
    ]
   },
   {
@@ -217,13 +227,13 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     2,
     0,
     0,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -240,10 +250,10 @@
     0,
     0,
     0,
-    0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -260,9 +270,9 @@
     0,
     0,
     0,
-    0,
     1,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -280,9 +290,9 @@
     0,
     0,
     0,
-    0,
     2,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
