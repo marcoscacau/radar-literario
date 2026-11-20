@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-19T15:00:00-03:00",
+ "gerado_em": "2026-11-20T14:35:25-03:00",
  "dias": [
-  "2026-11-13",
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "termos": [
   {
    "termo": "Academia Brasileira de Letras",
-   "fontes": 32,
-   "mencoes": 35,
+   "fontes": 21,
+   "mencoes": 23,
    "por_dia": [
-    12,
     13,
     9,
     0,
     0,
     1,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -41,12 +41,12 @@
   },
   {
    "termo": "Drauzio Varella",
-   "fontes": 31,
-   "mencoes": 34,
+   "fontes": 21,
+   "mencoes": 23,
    "por_dia": [
-    11,
     13,
     10,
+    0,
     0,
     0,
     0,
@@ -70,19 +70,20 @@
   },
   {
    "termo": "John Harrison",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 7,
+   "mencoes": 8,
    "por_dia": [
-    0,
     3,
     2,
     0,
     0,
     1,
+    1,
     1
    ],
    "novo_hoje": false,
    "itens": [
+    "d57ce2e7e279",
     "f15d7405bf4f",
     "b58ac6ad5e5d",
     "56e9a2dc791d",
@@ -93,13 +94,58 @@
    ]
   },
   {
-   "termo": "Zuenir Ventura",
+   "termo": "Booker Prize",
    "fontes": 6,
    "mencoes": 7,
    "por_dia": [
-    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    2,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "556084775bb0",
+    "34d7f32dcc4c",
+    "f15d7405bf4f",
+    "56e9a2dc791d",
+    "5037bf6f568d",
+    "0c48e635e916",
+    "e0afb9d2eaf1"
+   ]
+  },
+  {
+   "termo": "Peculiar Stars",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4a955830edbc",
+    "a8e8924cc3f6",
+    "ffcff15f2a42",
+    "a14d9dddfe4c"
+   ]
+  },
+  {
+   "termo": "Zuenir Ventura",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
     3,
     1,
+    0,
     0,
     0,
     0,
@@ -110,54 +156,30 @@
     "4686e00af65e",
     "e87a2ae2647f",
     "4fa1458c7331",
-    "0c6ea81f04ae",
-    "d66ccf057693",
-    "f2bed2b8fc1d",
-    "e7597fd44e2a"
+    "0c6ea81f04ae"
    ]
   },
   {
-   "termo": "Booker Prize",
-   "fontes": 5,
+   "termo": "National Book Award",
+   "fontes": 3,
    "mencoes": 6,
    "por_dia": [
     0,
-    2,
-    2,
+    0,
+    1,
     0,
     0,
-    0,
-    2
+    1,
+    4
    ],
    "novo_hoje": false,
    "itens": [
-    "34d7f32dcc4c",
-    "f15d7405bf4f",
-    "56e9a2dc791d",
-    "5037bf6f568d",
-    "0c48e635e916",
-    "e0afb9d2eaf1"
-   ]
-  },
-  {
-   "termo": "York Times",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    2,
-    2,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "e6bae26e3600",
-    "5655153f3236",
-    "41b7b489cada",
-    "9f1c61431ea8"
+    "8a1370e85ec2",
+    "75a4937ee3ab",
+    "c01e7921b560",
+    "5653dc5a55f0",
+    "ce9bebadda59",
+    "b4cc1c232935"
    ]
   },
   {
@@ -166,10 +188,10 @@
    "mencoes": 5,
    "por_dia": [
     0,
-    0,
     2,
     1,
     2,
+    0,
     0,
     0
    ],
@@ -183,7 +205,27 @@
    ]
   },
   {
-   "termo": "Prêmio Jabuti",
+   "termo": "Toni Morrison",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "3003f0fe3de6",
+    "7d0454c2e8ce",
+    "1823bb285e25"
+   ]
+  },
+  {
+   "termo": "Rick Riordan",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
@@ -197,109 +239,109 @@
    ],
    "novo_hoje": false,
    "itens": [
+    "208f74f11995",
+    "4994460e1fdb",
+    "d3c468543ec9"
+   ]
+  },
+  {
+   "termo": "Percy Jackson",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "208f74f11995",
+    "4994460e1fdb",
+    "d3c468543ec9"
+   ]
+  },
+  {
+   "termo": "York Times",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "2f9917a5b431",
+    "e6bae26e3600",
+    "5655153f3236"
+   ]
+  },
+  {
+   "termo": "Estados Unidos",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c01e7921b560",
+    "8eeaf99ea20e",
+    "7c4c84ec57e5"
+   ]
+  },
+  {
+   "termo": "Anéis de Poder",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a97c53818311",
+    "69bf584d7a8a",
+    "d1d5d93a73a2"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
     "45ff9054871d",
     "ee0e43914228",
     "5a9e7da18c45"
-   ]
-  },
-  {
-   "termo": "Nobel de Literatura",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "810baf1ee9fb",
-    "bcd04efc21ee",
-    "1823bb285e25"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    2,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "cb8d1bce457e",
-    "b1c178fc5b9c",
-    "0c806ddc625f"
-   ]
-  },
-  {
-   "termo": "Tony Bellotto",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4720e6817fd1",
-    "658a7065fa06",
-    "f9a32bcf7f7c"
-   ]
-  },
-  {
-   "termo": "Peculiar Stars",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    1,
-    2,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "a8e8924cc3f6",
-    "ffcff15f2a42",
-    "a14d9dddfe4c"
-   ]
-  },
-  {
-   "termo": "Gary Shteyngart",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    2,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "c6149dd94839",
-    "09f9afd24764",
-    "e1859f3e97e9"
    ]
   }
  ]

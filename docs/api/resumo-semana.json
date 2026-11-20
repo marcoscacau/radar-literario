@@ -1,40 +1,35 @@
 {
- "gerado_em": "2026-11-19T15:00:00-03:00",
+ "gerado_em": "2026-11-20T14:35:25-03:00",
  "dias": [
+  "2026-11-20",
   "2026-11-19",
   "2026-11-18",
   "2026-11-17",
   "2026-11-16",
   "2026-11-15",
-  "2026-11-14",
-  "2026-11-13"
+  "2026-11-14"
  ],
- "total": 553,
+ "total": 532,
  "por_grupo": {
-  "cadernos": 97,
-  "internacional": 238,
-  "brasil-portugal": 218
+  "internacional": 240,
+  "cadernos": 89,
+  "brasil-portugal": 203
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 83
+   "noticias": 76
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 16
+   "noticias": 15
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 12
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
-   "noticias": 5
+   "noticias": 13
   },
   {
    "id": "suspense",
@@ -42,33 +37,38 @@
    "noticias": 5
   },
   {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 4
-  },
-  {
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 4
   },
   {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 4
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 4
+  },
+  {
    "id": "russos",
    "nome": "literatura russa",
-   "noticias": 2
+   "noticias": 1
   }
  ],
  "autores": [
   {
+   "nome": "Rebecca Yarros",
+   "noticias": 30
+  },
+  {
    "nome": "Stephen King",
-   "noticias": 31
+   "noticias": 26
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 29
-  },
-  {
-   "nome": "Rebecca Yarros",
-   "noticias": 25
+   "noticias": 24
   },
   {
    "nome": "C. S. Lewis",
@@ -79,15 +79,15 @@
    "noticias": 5
   },
   {
+   "nome": "Dostoiévski",
+   "noticias": 2
+  },
+  {
    "nome": "Franz Kafka",
    "noticias": 2
   },
   {
    "nome": "Carl Sagan",
-   "noticias": 1
-  },
-  {
-   "nome": "Dostoiévski",
    "noticias": 1
   }
  ],
@@ -95,27 +95,32 @@
   "Academia Brasileira de Letras",
   "Drauzio Varella",
   "John Harrison",
-  "Zuenir Ventura",
-  "Booker Prize"
+  "Booker Prize",
+  "Peculiar Stars"
  ],
  "subindo": [
+  {
+   "termo": "National Book Award",
+   "ultimos_3_dias": 5,
+   "antes": 1
+  },
+  {
+   "termo": "Rick Riordan",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Percy Jackson",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
   {
    "termo": "Prêmio Jabuti",
    "ultimos_3_dias": 3,
    "antes": 0
   },
   {
-   "termo": "Nobel de Literatura",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Tony Bellotto",
-   "ultimos_3_dias": 2,
-   "antes": 1
-  },
-  {
-   "termo": "Peculiar Stars",
+   "termo": "Toni Morrison",
    "ultimos_3_dias": 2,
    "antes": 1
   }
@@ -123,11 +128,11 @@
  "destaques": [
   "cb8d1bce457e",
   "57bbb5d44f47",
+  "4a955830edbc",
+  "2c0445c722fa",
   "f6fbfea593dd",
-  "08652595b198",
-  "6984369b2636",
   "647b829d44c0",
   "814c05da9fc8",
-  "318bcb6dfae2"
+  "d57ce2e7e279"
  ]
 }

@@ -1,9 +1,13 @@
 {
- "gerado_em": "2026-11-19T15:00:00-03:00",
+ "gerado_em": "2026-11-20T14:35:25-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "4a955830edbc",
+    "7fb6363fa469",
+    "fa0eaf6a7825",
+    "73ead809c1d1",
     "8e47fb5b3e69",
     "76eb22edd995",
     "66beb19aebd2",
@@ -129,6 +133,9 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "7fb6363fa469",
+      "fa0eaf6a7825",
+      "edc1a89315da",
       "dbdca1a03b9b",
       "6984369b2636",
       "2415d2c7be30",
@@ -186,6 +193,7 @@
      "ano": null,
      "anunciado": true,
      "noticias": [
+      "4a955830edbc",
       "8e47fb5b3e69",
       "513d6072cfb9",
       "a8e8924cc3f6",
@@ -199,11 +207,11 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "2c0445c722fa",
     "08652595b198",
     "b5a10e0889c3",
     "f0a445d646f4",
-    "1d4ba0b4bac5",
-    "41b7b489cada"
+    "1d4ba0b4bac5"
    ],
    "livros": [
     {
@@ -228,8 +236,7 @@
      "titulo": "Jantar Secreto",
      "ano": 2016,
      "noticias": [
-      "1d4ba0b4bac5",
-      "41b7b489cada"
+      "1d4ba0b4bac5"
      ]
     },
     {
@@ -283,12 +290,7 @@
     "4f7fa5bf9fdd",
     "9bd627f72108",
     "e979d50b437f",
-    "5240d69ddbbc",
-    "b7b26c3c1565",
-    "2cc4e7a99a90",
-    "d275d934d8a1",
-    "da2b2d33ab67",
-    "78c84fbef319"
+    "5240d69ddbbc"
    ],
    "livros": [
     {
@@ -711,9 +713,7 @@
     {
      "titulo": "Revival",
      "ano": 2014,
-     "noticias": [
-      "da2b2d33ab67"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Finders Keepers",
@@ -830,6 +830,7 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "5db7762afe64",
     "f39c75f4b8ce",
     "5768f4e80726",
     "57bbb5d44f47",
