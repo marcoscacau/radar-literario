@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-11-20T14:35:25-03:00",
+ "gerado_em": "2026-11-21T13:37:59-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "e00245545a06",
+    "6c2c6ce14171",
     "4a955830edbc",
     "7fb6363fa469",
     "fa0eaf6a7825",
@@ -21,8 +23,7 @@
     "ffcff15f2a42",
     "a43a40225f4e",
     "b580aaf860c0",
-    "a14d9dddfe4c",
-    "c816e6866dd4"
+    "a14d9dddfe4c"
    ],
    "livros": [
     {
@@ -133,6 +134,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "e00245545a06",
+      "6c2c6ce14171",
       "7fb6363fa469",
       "fa0eaf6a7825",
       "edc1a89315da",
@@ -207,6 +210,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
+    "3fb59abf6a54",
     "2c0445c722fa",
     "08652595b198",
     "b5a10e0889c3",
@@ -224,6 +228,7 @@
      "ano": 2014,
      "ambiguo": true,
      "noticias": [
+      "3fb59abf6a54",
       "b5a10e0889c3"
      ]
     },
@@ -270,6 +275,11 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "69fe15c507a3",
+    "9b70886318fa",
+    "ecdd8ca27606",
+    "8c71bdf3d88b",
+    "8f912e48bd9a",
     "7aa8cb848fc1",
     "b36359807f17",
     "eea8475c0d17",
@@ -283,14 +293,7 @@
     "d892b965784c",
     "2b144b8584e1",
     "26ed1795f99a",
-    "f99db35db924",
-    "a14d3e739f4b",
-    "7c4c84ec57e5",
-    "b2e8d4144bc8",
-    "4f7fa5bf9fdd",
-    "9bd627f72108",
-    "e979d50b437f",
-    "5240d69ddbbc"
+    "f99db35db924"
    ],
    "livros": [
     {
@@ -299,10 +302,10 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "8c71bdf3d88b",
       "6c329323a0bd",
       "64440f3b50e4",
-      "673fdcadff4f",
-      "9bd627f72108"
+      "673fdcadff4f"
      ]
     },
     {
@@ -317,6 +320,7 @@
      "pt": "O Iluminado",
      "ano": 1977,
      "noticias": [
+      "9b70886318fa",
       "eea8475c0d17"
      ]
     },
@@ -833,8 +837,7 @@
     "5db7762afe64",
     "f39c75f4b8ce",
     "5768f4e80726",
-    "57bbb5d44f47",
-    "64dcdef7857f"
+    "57bbb5d44f47"
    ],
    "livros": [
     {

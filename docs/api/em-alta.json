@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-20T14:35:25-03:00",
+ "gerado_em": "2026-11-21T13:37:59-03:00",
  "dias": [
-  "2026-11-14",
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "termos": [
   {
    "termo": "Academia Brasileira de Letras",
-   "fontes": 21,
-   "mencoes": 23,
+   "fontes": 9,
+   "mencoes": 10,
    "por_dia": [
-    13,
     9,
     0,
     0,
     1,
+    0,
     0,
     0
    ],
@@ -34,18 +34,16 @@
     "a037c6597249",
     "2365414ed1d0",
     "3145c3bb7122",
-    "156e8af8b3c7",
-    "ae0f74c26c9f",
-    "284ea99ff3ed"
+    "156e8af8b3c7"
    ]
   },
   {
    "termo": "Drauzio Varella",
-   "fontes": 21,
-   "mencoes": 23,
+   "fontes": 9,
+   "mencoes": 10,
    "por_dia": [
-    13,
     10,
+    0,
     0,
     0,
     0,
@@ -63,23 +61,21 @@
     "2365414ed1d0",
     "3145c3bb7122",
     "156e8af8b3c7",
-    "81a18d72461c",
-    "ae0f74c26c9f",
-    "284ea99ff3ed"
+    "81a18d72461c"
    ]
   },
   {
    "termo": "John Harrison",
-   "fontes": 7,
-   "mencoes": 8,
+   "fontes": 5,
+   "mencoes": 5,
    "por_dia": [
-    3,
     2,
     0,
     0,
     1,
     1,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -87,24 +83,21 @@
     "f15d7405bf4f",
     "b58ac6ad5e5d",
     "56e9a2dc791d",
-    "5037bf6f568d",
-    "63ce83f8edf3",
-    "0c48e635e916",
-    "e0afb9d2eaf1"
+    "5037bf6f568d"
    ]
   },
   {
    "termo": "Booker Prize",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 5,
+   "mencoes": 5,
    "por_dia": [
     2,
-    2,
     0,
     0,
     0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -112,13 +105,58 @@
     "34d7f32dcc4c",
     "f15d7405bf4f",
     "56e9a2dc791d",
-    "5037bf6f568d",
-    "0c48e635e916",
-    "e0afb9d2eaf1"
+    "5037bf6f568d"
    ]
   },
   {
-   "termo": "Peculiar Stars",
+   "termo": "National Book Award",
+   "fontes": 4,
+   "mencoes": 8,
+   "por_dia": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    4,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "da307f9c0c30",
+    "689eec59b87b",
+    "8a1370e85ec2",
+    "75a4937ee3ab",
+    "c01e7921b560",
+    "5653dc5a55f0",
+    "ce9bebadda59",
+    "b4cc1c232935"
+   ]
+  },
+  {
+   "termo": "Anéis de Poder",
+   "fontes": 4,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    1,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f926fd1aeb8f",
+    "a8df0fe9134c",
+    "a97c53818311",
+    "69bf584d7a8a",
+    "d1d5d93a73a2"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
    "fontes": 4,
    "mencoes": 4,
    "por_dia": [
@@ -129,6 +167,48 @@
     0,
     0,
     1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c6d4f7bd0ba9",
+    "810baf1ee9fb",
+    "bcd04efc21ee",
+    "1823bb285e25"
+   ]
+  },
+  {
+   "termo": "Rick Riordan",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a4d209bbbcb7",
+    "208f74f11995",
+    "4994460e1fdb",
+    "d3c468543ec9"
+   ]
+  },
+  {
+   "termo": "Peculiar Stars",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    2,
+    0,
+    0,
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -139,58 +219,14 @@
    ]
   },
   {
-   "termo": "Zuenir Ventura",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    3,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4686e00af65e",
-    "e87a2ae2647f",
-    "4fa1458c7331",
-    "0c6ea81f04ae"
-   ]
-  },
-  {
-   "termo": "National Book Award",
-   "fontes": 3,
-   "mencoes": 6,
-   "por_dia": [
-    0,
-    0,
-    1,
-    0,
-    0,
-    1,
-    4
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "8a1370e85ec2",
-    "75a4937ee3ab",
-    "c01e7921b560",
-    "5653dc5a55f0",
-    "ce9bebadda59",
-    "b4cc1c232935"
-   ]
-  },
-  {
    "termo": "Fourth Wing",
    "fontes": 3,
    "mencoes": 5,
    "por_dia": [
-    0,
     2,
     1,
     2,
+    0,
     0,
     0,
     0
@@ -205,7 +241,7 @@
    ]
   },
   {
-   "termo": "Toni Morrison",
+   "termo": "Dia da Consciência Negra",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
@@ -213,9 +249,29 @@
     0,
     0,
     1,
+    0,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c4a318b342f9",
+    "9d68105348bf",
+    "3b2edb71821e"
+   ]
+  },
+  {
+   "termo": "Toni Morrison",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    1,
     1,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -225,107 +281,7 @@
    ]
   },
   {
-   "termo": "Rick Riordan",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "208f74f11995",
-    "4994460e1fdb",
-    "d3c468543ec9"
-   ]
-  },
-  {
    "termo": "Percy Jackson",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "208f74f11995",
-    "4994460e1fdb",
-    "d3c468543ec9"
-   ]
-  },
-  {
-   "termo": "York Times",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    2,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "2f9917a5b431",
-    "e6bae26e3600",
-    "5655153f3236"
-   ]
-  },
-  {
-   "termo": "Estados Unidos",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    1,
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "c01e7921b560",
-    "8eeaf99ea20e",
-    "7c4c84ec57e5"
-   ]
-  },
-  {
-   "termo": "Anéis de Poder",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    2,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "a97c53818311",
-    "69bf584d7a8a",
-    "d1d5d93a73a2"
-   ]
-  },
-  {
-   "termo": "Prêmio Jabuti",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
@@ -339,9 +295,49 @@
    ],
    "novo_hoje": false,
    "itens": [
+    "208f74f11995",
+    "4994460e1fdb",
+    "d3c468543ec9"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
     "45ff9054871d",
     "ee0e43914228",
     "5a9e7da18c45"
+   ]
+  },
+  {
+   "termo": "Tony Bellotto",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "4720e6817fd1",
+    "658a7065fa06",
+    "f9a32bcf7f7c"
    ]
   }
  ]

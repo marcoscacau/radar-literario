@@ -1,7 +1,55 @@
 {
- "gerado_em": "2026-11-20T14:35:25-03:00",
- "total": 49,
+ "gerado_em": "2026-11-21T13:37:59-03:00",
+ "total": 51,
  "eventos": [
+  {
+   "id": "884346c1fd48",
+   "titulo": "Eventos provocam bloqueios no trânsito de Aracaju neste fim de semana",
+   "link": "https://infonet.com.br/noticias/cidade/eventos-provocam-bloqueios-no-transito-de-aracaju-neste-fim-de-semana/",
+   "resumo": "Corridas, caminhadas e procissões alteram a circulação de veículos em diferentes bairros da capital neste sábado, 21, e domingo, 22",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-21T11:12-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-21",
+    "fim": "2026-11-22",
+    "origem": "texto"
+   },
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "c4a318b342f9",
+   "titulo": "Salão de Literatura do Fasc recebe programação especial no Dia da Consciência Negra",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE5jdXhJUDJ4akVaUHlRNlFJM1dNUUZhME11Tm5aTFpveUFlYS1Xd2E0WktBTjJtY2hoYmhCVy1JaUVvSE5TczR0N2ZCeF9ZQjR3YS1DSVRDc3Bnb0t2VjZPczVYN19sQnhvME1CMXBuVDBnS0dvaXE3M2RMcXFZVWo1OTF2dmMyNmNhS1VrZGRZNEh5NUxvS0NzZkh3NHg3OHotak1zRDlTU1MwSVJ6b0o5ek11dWxQ?oc=5",
+   "resumo": "",
+   "fonte": "REDE BRASIL DE TELEVISÃO (via Google)",
+   "fonte_id": "gn-sergipe-instituicoes",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-21T10:44-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "filosofia"
+    ]
+   },
+   "quando": null,
+   "dia": "2026-11-21"
+  },
   {
    "id": "9d68105348bf",
    "titulo": "AGENDA MANGUE CULTURAL DE 20 a 26 de Novembro: “FASC, exposição sobre território, cicloturismo e muito mais em Sergipe”",

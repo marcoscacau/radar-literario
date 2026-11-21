@@ -1,25 +1,25 @@
 {
- "gerado_em": "2026-11-20T14:35:25-03:00",
+ "gerado_em": "2026-11-21T13:37:59-03:00",
  "dias": [
+  "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
   "2026-11-17",
   "2026-11-16",
-  "2026-11-15",
-  "2026-11-14"
+  "2026-11-15"
  ],
- "total": 532,
+ "total": 521,
  "por_grupo": {
-  "internacional": 240,
-  "cadernos": 89,
-  "brasil-portugal": 203
+  "internacional": 236,
+  "brasil-portugal": 206,
+  "cadernos": 79
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 76
+   "noticias": 66
   },
   {
    "id": "fantasia",
@@ -29,17 +29,17 @@
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 13
+   "noticias": 12
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 6
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
    "noticias": 5
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
-   "noticias": 4
   },
   {
    "id": "fisica",
@@ -60,23 +60,23 @@
  "autores": [
   {
    "nome": "Rebecca Yarros",
-   "noticias": 30
-  },
-  {
-   "nome": "Stephen King",
-   "noticias": 26
+   "noticias": 31
   },
   {
    "nome": "J. R. R. Tolkien",
+   "noticias": 29
+  },
+  {
+   "nome": "Stephen King",
    "noticias": 24
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 9
+   "noticias": 10
   },
   {
    "nome": "Raphael Montes",
-   "noticias": 5
+   "noticias": 6
   },
   {
    "nome": "Dostoiévski",
@@ -87,7 +87,7 @@
    "noticias": 2
   },
   {
-   "nome": "Carl Sagan",
+   "nome": "Tolstói",
    "noticias": 1
   }
  ],
@@ -96,17 +96,17 @@
   "Drauzio Varella",
   "John Harrison",
   "Booker Prize",
-  "Peculiar Stars"
+  "National Book Award"
  ],
  "subindo": [
   {
    "termo": "National Book Award",
-   "ultimos_3_dias": 5,
+   "ultimos_3_dias": 7,
    "antes": 1
   },
   {
    "termo": "Rick Riordan",
-   "ultimos_3_dias": 3,
+   "ultimos_3_dias": 4,
    "antes": 0
   },
   {
@@ -115,24 +115,24 @@
    "antes": 0
   },
   {
-   "termo": "Prêmio Jabuti",
+   "termo": "Booker Prize",
    "ultimos_3_dias": 3,
-   "antes": 0
+   "antes": 2
   },
   {
-   "termo": "Toni Morrison",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Anéis de Poder",
+   "ultimos_3_dias": 3,
+   "antes": 2
   }
  ],
  "destaques": [
   "cb8d1bce457e",
   "57bbb5d44f47",
+  "9b70886318fa",
   "4a955830edbc",
   "2c0445c722fa",
-  "f6fbfea593dd",
   "647b829d44c0",
-  "814c05da9fc8",
-  "d57ce2e7e279"
+  "e04da3f2a509",
+  "c4a318b342f9"
  ]
 }
