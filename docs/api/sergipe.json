@@ -1,7 +1,57 @@
 {
- "gerado_em": "2026-11-21T13:37:59-03:00",
- "total": 51,
+ "gerado_em": "2026-11-22T13:55:25-03:00",
+ "total": 53,
  "eventos": [
+  {
+   "id": "aa03f6748bad",
+   "titulo": "Fasc 2026 encerra neste domingo com shows de Péricles e Duda Beat",
+   "link": "https://infonet.com.br/noticias/cultura/fasc-2026-encerra-neste-domingo-com-shows-de-pericles-e-duda-beat/",
+   "resumo": "O último dia do festival reúne shows de artistas nacionais e sergipanos, apresentações de teatro, dança, cortejos, cinema, literatura, exposições, oficinas e atividades voltadas para diferentes públicos",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-22T12:54-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-22",
+    "fim": "2026-11-22",
+    "origem": "texto"
+   },
+   "dia": "2026-11-22"
+  },
+  {
+   "id": "f50a0dc6d37f",
+   "titulo": "Livro destaca culturas afro-sergipanas e sua importância na educação",
+   "link": "https://infonet.com.br/noticias/cultura/livro-destaca-culturas-afro-sergipanas-e-sua-importancia-na-educacao/",
+   "resumo": "Obra “Kizomba dos Saberes” será apresentada nesta segunda-feira, 23, na Biblioteca Pública Epiphânio Dória, com foco na valorização da cultura negra na educação",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-22T11:07-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-23",
+    "fim": "2026-11-23",
+    "origem": "texto"
+   },
+   "dia": "2026-11-22"
+  },
   {
    "id": "884346c1fd48",
    "titulo": "Eventos provocam bloqueios no trânsito de Aracaju neste fim de semana",

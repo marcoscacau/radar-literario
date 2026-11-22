@@ -1,45 +1,45 @@
 {
- "gerado_em": "2026-11-21T13:37:59-03:00",
+ "gerado_em": "2026-11-22T13:55:25-03:00",
  "dias": [
+  "2026-11-22",
   "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
   "2026-11-17",
-  "2026-11-16",
-  "2026-11-15"
+  "2026-11-16"
  ],
- "total": 521,
+ "total": 501,
  "por_grupo": {
-  "internacional": 236,
-  "brasil-portugal": 206,
-  "cadernos": 79
+  "brasil-portugal": 188,
+  "internacional": 243,
+  "cadernos": 70
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 66
+   "noticias": 58
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 15
+   "noticias": 14
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 12
+   "noticias": 10
+  },
+  {
+   "id": "suspense",
+   "nome": "suspense e mistério",
+   "noticias": 7
   },
   {
    "id": "filosofia",
    "nome": "filosofia",
    "noticias": 6
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 5
   },
   {
    "id": "fisica",
@@ -64,11 +64,11 @@
   },
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 29
+   "noticias": 30
   },
   {
    "nome": "Stephen King",
-   "noticias": 24
+   "noticias": 26
   },
   {
    "nome": "C. S. Lewis",
@@ -76,15 +76,15 @@
   },
   {
    "nome": "Raphael Montes",
-   "noticias": 6
+   "noticias": 5
   },
   {
    "nome": "Dostoiévski",
    "noticias": 2
   },
   {
-   "nome": "Franz Kafka",
-   "noticias": 2
+   "nome": "Carl Sagan",
+   "noticias": 1
   },
   {
    "nome": "Tolstói",
@@ -92,47 +92,47 @@
   }
  ],
  "em_alta": [
-  "Academia Brasileira de Letras",
-  "Drauzio Varella",
-  "John Harrison",
-  "Booker Prize",
-  "National Book Award"
+  "National Book Award",
+  "Anéis de Poder",
+  "Prêmio Jabuti",
+  "Nobel de Literatura",
+  "Rick Riordan"
  ],
  "subindo": [
   {
    "termo": "National Book Award",
-   "ultimos_3_dias": 7,
-   "antes": 1
+   "ultimos_3_dias": 6,
+   "antes": 2
+  },
+  {
+   "termo": "Bienal do Livro Rio",
+   "ultimos_3_dias": 3,
+   "antes": 0
   },
   {
    "termo": "Rick Riordan",
-   "ultimos_3_dias": 4,
-   "antes": 0
-  },
-  {
-   "termo": "Percy Jackson",
    "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Booker Prize",
-   "ultimos_3_dias": 3,
-   "antes": 2
+   "antes": 1
   },
   {
    "termo": "Anéis de Poder",
    "ultimos_3_dias": 3,
    "antes": 2
+  },
+  {
+   "termo": "Dia da Consciência Negra",
+   "ultimos_3_dias": 2,
+   "antes": 1
   }
  ],
  "destaques": [
+  "b31931315f79",
   "cb8d1bce457e",
-  "57bbb5d44f47",
-  "9b70886318fa",
-  "4a955830edbc",
+  "2aa4683af02b",
+  "e2d23b78d290",
+  "4751530401de",
   "2c0445c722fa",
-  "647b829d44c0",
-  "e04da3f2a509",
-  "c4a318b342f9"
+  "72303324c035",
+  "e04da3f2a509"
  ]
 }

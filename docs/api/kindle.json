@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-22T08:50:16-03:00",
+ "gerado_em": "2026-11-22T13:55:32-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,10 +17,10 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 7
+   "ofertas": 6
   }
  ],
- "total": 49,
+ "total": 47,
  "ofertas": [
   {
    "id": "6da5885326ea",
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-11-21T11:25+00:00",
    "visto_em": "2026-11-21T13:38-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-20T14:07+00:00",
    "visto_em": "2026-11-20T14:35-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-20T11:29+00:00",
    "visto_em": "2026-11-20T14:35-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-19T18:59+00:00",
    "visto_em": "2026-11-19T17:53-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-19T17:52+00:00",
    "visto_em": "2026-11-19T17:53-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-19T17:46+00:00",
    "visto_em": "2026-11-19T23:30-03:00",
-   "ultima_vez": "2026-11-22T08:50-03:00",
+   "ultima_vez": "2026-11-22T13:55-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -862,42 +862,6 @@
    "postado_em": "2026-10-23T14:25+00:00",
    "visto_em": "2026-10-23T14:22-03:00",
    "ultima_vez": "2026-10-25T02:06-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "7b58bdeea51a",
-   "titulo": "Kindle Unlimited acabou? Entenda mudança no serviço de assinatura",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmdybzYtaFRDTEo5a2hwVTFPZGpsam8tc2t3Z3NOZDhXX3NDNEZtcVRNMTd2cnZJSzZmRHFIRHFzMXFkLXRrbzktb0szMjZ1Y1pwdU55amgxVWdMNkljNGRsRGwydEVoSllsZDdaU3c0Z3ZvbEMwNjNtNlhXY3RpenJJSUVHWlhCN29iWklZRmpkU3lEcXBFQVA3UlhydVB0bm55SmhNOVRRS0c4ZElOaW5yVU5JSW9XdGtDNjFUSUN5d9IB0AFBVV95cUxQWkhuN2hyb28ySElIWTJpVDd4bnZPU3c0Ump0a0FOQVc4am1mVFBNRDBBcWdjTlNMSTRPeWVtcFVlZF92UWoyV0lZdnc4dG83SWJNMThOVzBNR09tX2g4azRuU3hBdnFOcVNMOW1QdHgxUjFlVFNvcmdyUGhKaFZvRmZrTzlxdEF0dTExYU9kTFk4cUJHWThXcXZyX01KU2FhNVI3eVg3X1dBZ1ZyMmJOVmFVdVlvWFpKck1razRUdU1VUFBzWmxySWE2bFlaRk5Q?oc=5",
-   "fonte": "TechTudo",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T11:31+00:00",
-   "visto_em": "2026-10-23T14:22-03:00",
-   "ultima_vez": "2026-10-26T02:09-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "30cb9f07666d",
-   "titulo": "Kindle Unlimited acabou? Entenda mudança no serviço de assinatura",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkhuN2hyb28ySElIWTJpVDd4bnZPU3c0Ump0a0FOQVc4am1mVFBNRDBBcWdjTlNMSTRPeWVtcFVlZF92UWoyV0lZdnc4dG83SWJNMThOVzBNR09tX2g4azRuU3hBdnFOcVNMOW1QdHgxUjFlVFNvcmdyUGhKaFZvRmZrTzlxdEF0dTExYU9kTFk4cUJHWThXcXZyX01KU2FhNVI3eVg3X1dBZ1ZyMmJOVmFVdVlvWFpKck1razRUdU1VUFBzWmxySWE2bFlaRk5Q0gHQAUFVX3lxTFBaSG43aHJvbzJISUhZMmlUN3hudk9TdzRSanRrQU5BVzhqbWZUUE1EMEFxZ2NOU0xJNE95ZW1wVWVkX3ZRajJXSVl2dzh0bzdJYk0xOE5XME1HT21faDhrNG5TeEF2cU5xU0w5bVB0eDFSMWVUU29yZ3JQaEpoVm9GZmtPOXF0QXR1MTFhT2RMWThxQkdZOFdxdnJfTUpTYWE1Ujd5WDdfV0FnVnIyYk5WYVV1WW9YWkpyTWtrNFR1TVVQUHNabHJJYTZsWVpGTlA?oc=5",
-   "fonte": "TechTudo",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T11:31+00:00",
-   "visto_em": "2026-10-23T11:05-03:00",
-   "ultima_vez": "2026-10-23T11:05-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

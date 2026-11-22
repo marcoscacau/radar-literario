@@ -1,9 +1,11 @@
 {
- "gerado_em": "2026-11-21T13:37:59-03:00",
+ "gerado_em": "2026-11-22T13:55:25-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "2aa4683af02b",
+    "3f4e3040b4cf",
     "e00245545a06",
     "6c2c6ce14171",
     "4a955830edbc",
@@ -134,6 +136,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "2aa4683af02b",
+      "3f4e3040b4cf",
       "e00245545a06",
       "6c2c6ce14171",
       "7fb6363fa469",
@@ -150,9 +154,7 @@
       "3dd5945558f4",
       "b580aaf860c0",
       "97821d10ad15",
-      "af38c6640f43",
-      "909c0b2cc9c9",
-      "eeea20f73848"
+      "af38c6640f43"
      ]
     },
     {
@@ -188,6 +190,8 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "2aa4683af02b",
+      "3f4e3040b4cf",
       "f22d924b30fd"
      ]
     },
@@ -214,8 +218,7 @@
     "2c0445c722fa",
     "08652595b198",
     "b5a10e0889c3",
-    "f0a445d646f4",
-    "1d4ba0b4bac5"
+    "f0a445d646f4"
    ],
    "livros": [
     {
@@ -240,9 +243,7 @@
     {
      "titulo": "Jantar Secreto",
      "ano": 2016,
-     "noticias": [
-      "1d4ba0b4bac5"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Bom Dia, Verônica",
@@ -275,6 +276,13 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "ab38914c13cb",
+    "1032832ffe62",
+    "1d1ec65ac267",
+    "b31931315f79",
+    "1125e8b8c5a3",
+    "d911ba39ea15",
+    "66619b42e069",
     "69fe15c507a3",
     "9b70886318fa",
     "ecdd8ca27606",
@@ -289,11 +297,7 @@
     "249dcd4079e0",
     "d1b43c133f61",
     "52dd1d180785",
-    "64440f3b50e4",
-    "d892b965784c",
-    "2b144b8584e1",
-    "26ed1795f99a",
-    "f99db35db924"
+    "64440f3b50e4"
    ],
    "livros": [
     {
@@ -304,8 +308,7 @@
      "noticias": [
       "8c71bdf3d88b",
       "6c329323a0bd",
-      "64440f3b50e4",
-      "673fdcadff4f"
+      "64440f3b50e4"
      ]
     },
     {
@@ -834,10 +837,11 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "4751530401de",
+    "3a90a4b25e8f",
     "5db7762afe64",
     "f39c75f4b8ce",
-    "5768f4e80726",
-    "57bbb5d44f47"
+    "5768f4e80726"
    ],
    "livros": [
     {
@@ -985,6 +989,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "3a90a4b25e8f",
       "c7efad3e0f4d"
      ]
     },
