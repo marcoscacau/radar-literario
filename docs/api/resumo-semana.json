@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-11-22T13:55:25-03:00",
+ "gerado_em": "2026-11-23T17:54:34-03:00",
  "dias": [
+  "2026-11-23",
   "2026-11-22",
   "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
-  "2026-11-17",
-  "2026-11-16"
+  "2026-11-17"
  ],
- "total": 501,
+ "total": 514,
  "por_grupo": {
-  "brasil-portugal": 188,
-  "internacional": 243,
-  "cadernos": 70
+  "brasil-portugal": 205,
+  "internacional": 240,
+  "cadernos": 69
  },
  "temas": [
   {
@@ -24,27 +24,27 @@
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 14
+   "noticias": 15
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 10
+   "noticias": 11
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 7
-  },
-  {
-   "id": "filosofia",
-   "nome": "filosofia",
    "noticias": 6
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 4
+   "noticias": 5
+  },
+  {
+   "id": "filosofia",
+   "nome": "filosofia",
+   "noticias": 5
   },
   {
    "id": "mente",
@@ -59,20 +59,20 @@
  ],
  "autores": [
   {
-   "nome": "Rebecca Yarros",
-   "noticias": 31
-  },
-  {
    "nome": "J. R. R. Tolkien",
-   "noticias": 30
+   "noticias": 33
   },
   {
    "nome": "Stephen King",
-   "noticias": 26
+   "noticias": 27
+  },
+  {
+   "nome": "Rebecca Yarros",
+   "noticias": 27
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 10
+   "noticias": 12
   },
   {
    "nome": "Raphael Montes",
@@ -80,7 +80,7 @@
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 2
+   "noticias": 3
   },
   {
    "nome": "Carl Sagan",
@@ -93,34 +93,19 @@
  ],
  "em_alta": [
   "National Book Award",
-  "Anéis de Poder",
   "Prêmio Jabuti",
   "Nobel de Literatura",
+  "Anéis de Poder",
   "Rick Riordan"
  ],
  "subindo": [
   {
-   "termo": "National Book Award",
-   "ultimos_3_dias": 6,
-   "antes": 2
-  },
-  {
-   "termo": "Bienal do Livro Rio",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Rick Riordan",
-   "ultimos_3_dias": 3,
+   "termo": "Senhor dos Anéis",
+   "ultimos_3_dias": 4,
    "antes": 1
   },
   {
-   "termo": "Anéis de Poder",
-   "ultimos_3_dias": 3,
-   "antes": 2
-  },
-  {
-   "termo": "Dia da Consciência Negra",
+   "termo": "Bienal do Livro Rio",
    "ultimos_3_dias": 2,
    "antes": 1
   }
@@ -128,11 +113,11 @@
  "destaques": [
   "b31931315f79",
   "cb8d1bce457e",
-  "2aa4683af02b",
+  "5979f12b426f",
+  "e0fd406574a7",
   "e2d23b78d290",
-  "4751530401de",
   "2c0445c722fa",
-  "72303324c035",
-  "e04da3f2a509"
+  "7b9a54128543",
+  "c119013f80d9"
  ]
 }

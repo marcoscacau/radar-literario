@@ -1,9 +1,10 @@
 {
- "gerado_em": "2026-11-22T13:55:25-03:00",
+ "gerado_em": "2026-11-23T17:54:34-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
    "noticias": [
+    "e0fd406574a7",
     "2aa4683af02b",
     "3f4e3040b4cf",
     "e00245545a06",
@@ -22,10 +23,7 @@
     "a8e8924cc3f6",
     "4f24cf6f1c5f",
     "3dd5945558f4",
-    "ffcff15f2a42",
-    "a43a40225f4e",
-    "b580aaf860c0",
-    "a14d9dddfe4c"
+    "ffcff15f2a42"
    ],
    "livros": [
     {
@@ -136,6 +134,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "e0fd406574a7",
       "2aa4683af02b",
       "3f4e3040b4cf",
       "e00245545a06",
@@ -151,10 +150,7 @@
       "6e33a8ea163f",
       "58213f69b370",
       "4f24cf6f1c5f",
-      "3dd5945558f4",
-      "b580aaf860c0",
-      "97821d10ad15",
-      "af38c6640f43"
+      "3dd5945558f4"
      ]
     },
     {
@@ -200,13 +196,12 @@
      "ano": null,
      "anunciado": true,
      "noticias": [
+      "e0fd406574a7",
       "4a955830edbc",
       "8e47fb5b3e69",
       "513d6072cfb9",
       "a8e8924cc3f6",
-      "ffcff15f2a42",
-      "a43a40225f4e",
-      "a14d9dddfe4c"
+      "ffcff15f2a42"
      ]
     }
    ]
@@ -276,6 +271,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "330becd173f3",
+    "3f90c3cf87ba",
+    "58c08a30af23",
     "ab38914c13cb",
     "1032832ffe62",
     "1d1ec65ac267",
@@ -294,10 +292,7 @@
     "65f9c2a4423c",
     "178b216f372c",
     "bbb8a52aa972",
-    "249dcd4079e0",
-    "d1b43c133f61",
-    "52dd1d180785",
-    "64440f3b50e4"
+    "249dcd4079e0"
    ],
    "livros": [
     {
@@ -307,8 +302,7 @@
      "unico": true,
      "noticias": [
       "8c71bdf3d88b",
-      "6c329323a0bd",
-      "64440f3b50e4"
+      "6c329323a0bd"
      ]
     },
     {
@@ -323,6 +317,7 @@
      "pt": "O Iluminado",
      "ano": 1977,
      "noticias": [
+      "3f90c3cf87ba",
       "9b70886318fa",
       "eea8475c0d17"
      ]
@@ -541,7 +536,9 @@
      "titulo": "The Green Mile",
      "pt": "À Espera de um Milagre",
      "ano": 1996,
-     "noticias": []
+     "noticias": [
+      "556662752f58"
+     ]
     },
     {
      "titulo": "Desperation",
@@ -837,11 +834,13 @@
   {
    "nome": "C. S. Lewis",
    "noticias": [
+    "a95450ad008b",
+    "5979f12b426f",
+    "aa8e1ab2ff31",
     "4751530401de",
     "3a90a4b25e8f",
     "5db7762afe64",
-    "f39c75f4b8ce",
-    "5768f4e80726"
+    "f39c75f4b8ce"
    ],
    "livros": [
     {
