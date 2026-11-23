@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-22T16:54:49-03:00",
+ "gerado_em": "2026-11-22T22:54:23-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -20,7 +20,7 @@
    "ofertas": 3
   }
  ],
- "total": 44,
+ "total": 41,
  "ofertas": [
   {
    "id": "6da5885326ea",
@@ -33,7 +33,7 @@
    "nota": "",
    "postado_em": "2026-11-21T11:25+00:00",
    "visto_em": "2026-11-21T13:38-03:00",
-   "ultima_vez": "2026-11-22T16:54-03:00",
+   "ultima_vez": "2026-11-22T22:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-20T14:07+00:00",
    "visto_em": "2026-11-20T14:35-03:00",
-   "ultima_vez": "2026-11-22T16:54-03:00",
+   "ultima_vez": "2026-11-22T22:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-20T11:29+00:00",
    "visto_em": "2026-11-20T14:35-03:00",
-   "ultima_vez": "2026-11-22T16:54-03:00",
+   "ultima_vez": "2026-11-22T22:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -754,60 +754,6 @@
    "postado_em": "2026-10-26T04:57+00:00",
    "visto_em": "2026-10-22T18:51-03:00",
    "ultima_vez": "2026-10-27T17:13-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "eb174d887ac3",
-   "titulo": "Kindle+ substitui Kindle Unlimited: assinatura continua por R$ 24,90",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGhxUHpYV0RRMkY0UHF4ckVQcTBpQWlRV0dnLUhjTEdYSUZDVmcwdEU4VDk0YTBnSTFsUmhxSzA4c01aX3Uzc0o0ZVNBZlJZeGtfYl9WM3BfeEw5NVFrRk1nUzZIZkF4R1owMFlFOC16ZE1FY3VKM2RzeHVBeHFadU85WTdzZWFtRm5oeVdPYnVJbEs0WEQwVUNDLVJJTmhmekszYXc0Rk5mc2kwNDNEWUtwVEV2OGZDLUJz0gHAAUFVX3lxTE85T0tHaGxCeEtJajlObkktbU5BRmtWWVhESFdHeXNBNU5SbmVSSVNlSTY3ekI1eUhqOTBrV3dVZVMtcXRqX1JVVWxqUGFSX1Yyek1Pa3NhOFZJVlZfY0Z4ZVFBVXJvcXFISWhjVF9JckVYY1pBbjJXWkFfbWxPUWxPR0Z4R1Vvb2ttaWg4MFRVNlRxMGt5ck1zT0dfUHFxSDJlcXlMTDFDVjJ0X2t2V3N1SjNUZHFOWUJKUGRsRUJZYw?oc=5",
-   "fonte": "Bem Paraná",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T19:59+00:00",
-   "visto_em": "2026-10-23T18:34-03:00",
-   "ultima_vez": "2026-10-26T12:54-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "9363bb81474b",
-   "titulo": "Kindle+ substitui Kindle Unlimited na Amazon com novos audiolivros nos EUA e preço mantido no Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVlMcGc4VnJSVk0xYzFxUlY0N25QQjQtdDFsMzNVdmVaSUJrVnVxaTlRUWNUWEJ2VGZ5XzVkQUxEVndjclpFckZlLUlVQXFrODBOUUJTRmtNeS1KRTgwdUZfTTh1U29uczFnNHhlRldCeVVpZy1nRG1iMlVKMkVOZjY5VmUzdjJOM2JnSm1LTlNwTEMyTHZDUkVvbTV3dnd0ZkItYjVkYTBOMjBkSWo5MXA3Q2p6VDlocnZ0ODF2Sk9XY1Y2R1FVZzI3UVdfMjFrdDJRcA?oc=5",
-   "fonte": "Mix Vale",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T18:55+00:00",
-   "visto_em": "2026-10-23T18:34-03:00",
-   "ultima_vez": "2026-10-25T08:54-03:00",
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "3101d42f3839",
-   "titulo": "Kindle Unlimited vira Kindle+ e mantém mensalidade no Brasil",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVRjUTl5OFFMRUZ0ZDAtZHFiOS1YUDlLTTB3NXVLTUR5WHBUU0c4MGd2V0hfUzhSQzk4cDRmd0RZWmk4bVJKWDVMUFVHcU9qS2N1X3E2NmpjWm9GQ2s5OW9jUTRTOV9HZmhfb0NWT1JkNWxQUl9EbW5jLXN0dks5UXBVNmhrbjM0MWR1Zm9n?oc=5",
-   "fonte": "Mobile Bit",
-   "loja": "",
-   "preco": null,
-   "tipo": "imprensa",
-   "nota": "",
-   "postado_em": "2026-10-23T16:55+00:00",
-   "visto_em": "2026-10-24T13:09-03:00",
-   "ultima_vez": "2026-10-26T12:54-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
