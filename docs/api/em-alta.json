@@ -1,27 +1,73 @@
 {
- "gerado_em": "2026-11-23T17:54:34-03:00",
+ "gerado_em": "2026-11-24T16:58:46-03:00",
  "dias": [
-  "2026-11-17",
   "2026-11-18",
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
   "2026-11-22",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "termos": [
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 6,
+   "mencoes": 6,
+   "por_dia": [
+    1,
+    2,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "8c183b32e2bd",
+    "82d32e1271f4",
+    "0d04ee7613f8",
+    "45ff9054871d",
+    "ee0e43914228",
+    "5a9e7da18c45"
+   ]
+  },
+  {
+   "termo": "Rick Riordan",
+   "fontes": 6,
+   "mencoes": 6,
+   "por_dia": [
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "307d11071cc2",
+    "5abd77e05735",
+    "a4d209bbbcb7",
+    "208f74f11995",
+    "4994460e1fdb",
+    "d3c468543ec9"
+   ]
+  },
   {
    "termo": "National Book Award",
    "fontes": 5,
    "mencoes": 8,
    "por_dia": [
     0,
-    0,
     1,
     4,
     2,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -36,7 +82,29 @@
    ]
   },
   {
-   "termo": "Prêmio Jabuti",
+   "termo": "Children Booker Prize",
+   "fontes": 5,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "771d5853970f",
+    "b13c11afcdcc",
+    "b0aa1e94cc40",
+    "691047560441",
+    "caea55f8f9f1"
+   ]
+  },
+  {
+   "termo": "Percy Jackson",
    "fontes": 5,
    "mencoes": 5,
    "por_dia": [
@@ -45,98 +113,57 @@
     2,
     0,
     0,
-    1,
-    1
+    0,
+    2
    ],
    "novo_hoje": false,
    "itens": [
-    "82d32e1271f4",
-    "0d04ee7613f8",
-    "45ff9054871d",
-    "ee0e43914228",
-    "5a9e7da18c45"
-   ]
-  },
-  {
-   "termo": "Nobel de Literatura",
-   "fontes": 4,
-   "mencoes": 5,
-   "por_dia": [
-    1,
-    2,
-    0,
-    0,
-    1,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "5aa6ec07d942",
-    "c6d4f7bd0ba9",
-    "810baf1ee9fb",
-    "bcd04efc21ee",
-    "1823bb285e25"
-   ]
-  },
-  {
-   "termo": "Anéis de Poder",
-   "fontes": 4,
-   "mencoes": 5,
-   "por_dia": [
-    2,
-    0,
-    0,
-    1,
-    2,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "f926fd1aeb8f",
-    "a8df0fe9134c",
-    "a97c53818311",
-    "69bf584d7a8a",
-    "d1d5d93a73a2"
-   ]
-  },
-  {
-   "termo": "Rick Riordan",
-   "fontes": 4,
-   "mencoes": 4,
-   "por_dia": [
-    0,
-    0,
-    1,
-    2,
-    1,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "a4d209bbbcb7",
+    "307d11071cc2",
+    "5abd77e05735",
     "208f74f11995",
     "4994460e1fdb",
     "d3c468543ec9"
    ]
   },
   {
-   "termo": "Senhor dos Anéis",
-   "fontes": 3,
-   "mencoes": 5,
+   "termo": "Bienal do Livro Rio",
+   "fontes": 4,
+   "mencoes": 4,
    "por_dia": [
     0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "307d11071cc2",
+    "703ee019d7cb",
+    "a4d209bbbcb7",
+    "208f74f11995"
+   ]
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "fontes": 3,
+   "mencoes": 8,
+   "por_dia": [
     1,
     0,
     0,
     2,
     0,
-    2
+    2,
+    3
    ],
    "novo_hoje": false,
    "itens": [
+    "0c3bda4bea23",
+    "3748fe0926b3",
+    "f98945088664",
     "9b9e4ae7c2a6",
     "055155e4ee72",
     "f926fd1aeb8f",
@@ -149,13 +176,13 @@
    "fontes": 3,
    "mencoes": 4,
    "por_dia": [
-    0,
     1,
     1,
     1,
     0,
     0,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -166,23 +193,44 @@
    ]
   },
   {
-   "termo": "Bienal do Livro Rio",
+   "termo": "Nobel de Literatura",
+   "fontes": 3,
+   "mencoes": 4,
+   "por_dia": [
+    2,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "5aa6ec07d942",
+    "c6d4f7bd0ba9",
+    "810baf1ee9fb",
+    "bcd04efc21ee"
+   ]
+  },
+  {
+   "termo": "Eoin Colfer",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
     0,
     0,
     0,
-    1,
-    1,
-    1,
-    0
+    0,
+    0,
+    0,
+    3
    ],
-   "novo_hoje": false,
+   "novo_hoje": true,
    "itens": [
-    "703ee019d7cb",
-    "a4d209bbbcb7",
-    "208f74f11995"
+    "771d5853970f",
+    "b13c11afcdcc",
+    "f8320933c0ae"
    ]
   },
   {
@@ -190,11 +238,11 @@
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     1,
     1,
+    0,
     0,
     0
    ],
@@ -206,34 +254,14 @@
    ]
   },
   {
-   "termo": "Peculiar Stars",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    2,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "4a955830edbc",
-    "a8e8924cc3f6",
-    "ffcff15f2a42"
-   ]
-  },
-  {
    "termo": "John Harrison",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
+    1,
+    1,
+    1,
     0,
-    1,
-    1,
-    1,
     0,
     0,
     0
@@ -243,66 +271,6 @@
     "d57ce2e7e279",
     "f15d7405bf4f",
     "b58ac6ad5e5d"
-   ]
-  },
-  {
-   "termo": "Toni Morrison",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "3003f0fe3de6",
-    "7d0454c2e8ce",
-    "1823bb285e25"
-   ]
-  },
-  {
-   "termo": "Percy Jackson",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    1,
-    2,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "208f74f11995",
-    "4994460e1fdb",
-    "d3c468543ec9"
-   ]
-  },
-  {
-   "termo": "Booker Prize",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    2,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "556084775bb0",
-    "34d7f32dcc4c",
-    "f15d7405bf4f"
    ]
   }
  ]

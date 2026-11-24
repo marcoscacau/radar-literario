@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T17:54:34-03:00",
+ "gerado_em": "2026-11-24T16:58:46-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -18,12 +18,7 @@
     "66beb19aebd2",
     "2e51344928ae",
     "8a4a303e107d",
-    "7d9c280a4cbe",
-    "513d6072cfb9",
-    "a8e8924cc3f6",
-    "4f24cf6f1c5f",
-    "3dd5945558f4",
-    "ffcff15f2a42"
+    "7d9c280a4cbe"
    ],
    "livros": [
     {
@@ -134,6 +129,8 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "2bf8f15dced8",
+      "11d78da08d77",
       "e0fd406574a7",
       "2aa4683af02b",
       "3f4e3040b4cf",
@@ -147,10 +144,7 @@
       "2415d2c7be30",
       "f22d924b30fd",
       "66beb19aebd2",
-      "6e33a8ea163f",
-      "58213f69b370",
-      "4f24cf6f1c5f",
-      "3dd5945558f4"
+      "6e33a8ea163f"
      ]
     },
     {
@@ -198,10 +192,7 @@
      "noticias": [
       "e0fd406574a7",
       "4a955830edbc",
-      "8e47fb5b3e69",
-      "513d6072cfb9",
-      "a8e8924cc3f6",
-      "ffcff15f2a42"
+      "8e47fb5b3e69"
      ]
     }
    ]
@@ -271,6 +262,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "688212b0d6a6",
+    "e634421ec77f",
+    "db65425d5f8f",
     "330becd173f3",
     "3f90c3cf87ba",
     "58c08a30af23",
@@ -291,8 +285,7 @@
     "eea8475c0d17",
     "65f9c2a4423c",
     "178b216f372c",
-    "bbb8a52aa972",
-    "249dcd4079e0"
+    "bbb8a52aa972"
    ],
    "livros": [
     {
@@ -301,8 +294,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
-      "8c71bdf3d88b",
-      "6c329323a0bd"
+      "8c71bdf3d88b"
      ]
     },
     {

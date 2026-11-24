@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-11-23T17:54:34-03:00",
+ "gerado_em": "2026-11-24T16:58:46-03:00",
  "dias": [
+  "2026-11-24",
   "2026-11-23",
   "2026-11-22",
   "2026-11-21",
   "2026-11-20",
   "2026-11-19",
-  "2026-11-18",
-  "2026-11-17"
+  "2026-11-18"
  ],
- "total": 514,
+ "total": 562,
  "por_grupo": {
-  "brasil-portugal": 205,
-  "internacional": 240,
-  "cadernos": 69
+  "cadernos": 77,
+  "brasil-portugal": 230,
+  "internacional": 255
  },
  "temas": [
   {
@@ -24,21 +24,16 @@
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 15
+   "noticias": 19
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 11
+   "noticias": 13
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 6
-  },
-  {
-   "id": "fisica",
-   "nome": "física e ciência",
    "noticias": 5
   },
   {
@@ -47,9 +42,14 @@
    "noticias": 5
   },
   {
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 4
+  },
+  {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 4
+   "noticias": 2
   },
   {
    "id": "russos",
@@ -60,19 +60,19 @@
  "autores": [
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 33
+   "noticias": 39
   },
   {
    "nome": "Stephen King",
-   "noticias": 27
+   "noticias": 28
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 27
+   "noticias": 23
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 12
+   "noticias": 11
   },
   {
    "nome": "Raphael Montes",
@@ -80,7 +80,7 @@
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 3
+   "noticias": 4
   },
   {
    "nome": "Carl Sagan",
@@ -92,32 +92,37 @@
   }
  ],
  "em_alta": [
-  "National Book Award",
   "Prêmio Jabuti",
-  "Nobel de Literatura",
-  "Anéis de Poder",
-  "Rick Riordan"
+  "Rick Riordan",
+  "National Book Award",
+  "Children Booker Prize",
+  "Percy Jackson"
  ],
  "subindo": [
   {
-   "termo": "Senhor dos Anéis",
+   "termo": "Children Booker Prize",
    "ultimos_3_dias": 4,
    "antes": 1
   },
   {
-   "termo": "Bienal do Livro Rio",
-   "ultimos_3_dias": 2,
-   "antes": 1
+   "termo": "Eoin Colfer",
+   "ultimos_3_dias": 3,
+   "antes": 0
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "ultimos_3_dias": 5,
+   "antes": 3
   }
  ],
  "destaques": [
   "b31931315f79",
   "cb8d1bce457e",
   "5979f12b426f",
-  "e0fd406574a7",
+  "2bf8f15dced8",
   "e2d23b78d290",
   "2c0445c722fa",
-  "7b9a54128543",
-  "c119013f80d9"
+  "8d71424e68d4",
+  "4ee6a1cc0550"
  ]
 }
