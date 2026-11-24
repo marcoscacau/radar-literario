@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T23:28:41-03:00",
+ "gerado_em": "2026-11-24T11:08:07-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -20,8 +20,28 @@
    "ofertas": 3
   }
  ],
- "total": 43,
+ "total": 44,
  "ofertas": [
+  {
+   "id": "9b4dfdb0d72e",
+   "titulo": "Livro que deu origem ao primeiro filme de O Senhor dos Anéis sai por menos de R$ 20 no Kindle",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LTkhiZG5zNFYyRENHQUtSMjVQSXEzMHRXQW9iSmU4WlVkVG1IaGVDZC1McmRvZFlqblMybVRrdXVRREVvS3BwLTdEaE8tN05TeEc4XzBMRkx4NkVzN2dTaWxVVDd4LWFxeVBYdHBlSXDSAXZBVV95cUxPWmN1X09mMEE1STdCc0did1dTeGN4RVdjaDU5MUU4S2d4YTJxVlZzMjFrLWk2ZEJ4Z01vdjhNSUh5TkJ5NHRmdEVuTjVIUnplTVZQNDdmUTJEbHgyTUhSUkZIVF84ZVJjbExudlFMNmJUeXV3S2V3?oc=5",
+   "fonte": "AdoroCinema",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-23T23:45+00:00",
+   "visto_em": "2026-11-24T11:08-03:00",
+   "ultima_vez": "2026-11-24T11:08-03:00",
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   }
+  },
   {
    "id": "475b4671f504",
    "titulo": "Livro que deu origem ao primeiro filme de O Senhor dos Anéis sai por menos de R$ 20 no Kindle",
@@ -53,7 +73,7 @@
    "nota": "",
    "postado_em": "2026-11-23T18:41+00:00",
    "visto_em": "2026-11-23T17:55-03:00",
-   "ultima_vez": "2026-11-23T23:28-03:00",
+   "ultima_vez": "2026-11-24T11:08-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -71,7 +91,7 @@
    "nota": "",
    "postado_em": "2026-11-23T15:30+00:00",
    "visto_em": "2026-11-17T13:22-03:00",
-   "ultima_vez": "2026-11-23T23:28-03:00",
+   "ultima_vez": "2026-11-24T11:08-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
