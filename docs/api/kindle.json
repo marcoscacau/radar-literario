@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25T15:59:41-03:00",
+ "gerado_em": "2026-11-25T16:30:58-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 3
+   "ofertas": 4
   }
  ],
- "total": 41,
+ "total": 42,
  "ofertas": [
+  {
+   "id": "e5bb566df9f4",
+   "titulo": "Kindle na Black Friday 2026: ChatGPT indica mais o Kobo, mas desconto do Kindle chega a 42%",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4RDdjWXpaVEw3cmE2ZDM3ZUtnMjFZdjZVaUIyYUh4S0VadFMzOW5jQnllOFJ1ckFLZ0lXNTg0bTd5eEx4elJaQ1lZQW02d21FRVFaY19yb2lEV2I1aFRDNzVsLVZqNEk1NGt3SzBURQ?oc=5",
+   "fonte": "Exame",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-25T19:28+00:00",
+   "visto_em": "2026-11-25T16:30-03:00",
+   "ultima_vez": "2026-11-25T16:30-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "9b4dfdb0d72e",
    "titulo": "Livro que deu origem ao primeiro filme de O Senhor dos Anéis sai por menos de R$ 20 no Kindle",
@@ -33,7 +51,7 @@
    "nota": "",
    "postado_em": "2026-11-23T23:45+00:00",
    "visto_em": "2026-11-24T11:08-03:00",
-   "ultima_vez": "2026-11-25T15:59-03:00",
+   "ultima_vez": "2026-11-25T16:30-03:00",
    "para_voce": {
     "pontos": 1,
     "autores": [
@@ -73,7 +91,7 @@
    "nota": "",
    "postado_em": "2026-11-23T18:41+00:00",
    "visto_em": "2026-11-23T17:55-03:00",
-   "ultima_vez": "2026-11-25T15:59-03:00",
+   "ultima_vez": "2026-11-25T16:30-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -91,7 +109,7 @@
    "nota": "",
    "postado_em": "2026-11-23T15:30+00:00",
    "visto_em": "2026-11-17T13:22-03:00",
-   "ultima_vez": "2026-11-25T15:59-03:00",
+   "ultima_vez": "2026-11-25T16:30-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
