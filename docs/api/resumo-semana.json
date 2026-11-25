@@ -1,40 +1,35 @@
 {
- "gerado_em": "2026-11-24T16:58:46-03:00",
+ "gerado_em": "2026-11-25T15:59:26-03:00",
  "dias": [
+  "2026-11-25",
   "2026-11-24",
   "2026-11-23",
   "2026-11-22",
   "2026-11-21",
   "2026-11-20",
-  "2026-11-19",
-  "2026-11-18"
+  "2026-11-19"
  ],
- "total": 562,
+ "total": 574,
  "por_grupo": {
-  "cadernos": 77,
+  "internacional": 262,
   "brasil-portugal": 230,
-  "internacional": 255
+  "cadernos": 82
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 58
+   "noticias": 55
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 19
+   "noticias": 17
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 13
-  },
-  {
-   "id": "suspense",
-   "nome": "suspense e mistério",
-   "noticias": 5
+   "noticias": 16
   },
   {
    "id": "filosofia",
@@ -42,37 +37,37 @@
    "noticias": 5
   },
   {
-   "id": "fisica",
-   "nome": "física e ciência",
+   "id": "suspense",
+   "nome": "suspense e mistério",
    "noticias": 4
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 2
+   "noticias": 3
   },
   {
-   "id": "russos",
-   "nome": "literatura russa",
-   "noticias": 1
+   "id": "fisica",
+   "nome": "física e ciência",
+   "noticias": 2
   }
  ],
  "autores": [
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 39
+   "noticias": 41
   },
   {
    "nome": "Stephen King",
-   "noticias": 28
+   "noticias": 31
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 23
+   "noticias": 18
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 11
+   "noticias": 9
   },
   {
    "nome": "Raphael Montes",
@@ -81,6 +76,14 @@
   {
    "nome": "Dostoiévski",
    "noticias": 4
+  },
+  {
+   "nome": "Augusto Cury",
+   "noticias": 1
+  },
+  {
+   "nome": "Franz Kafka",
+   "noticias": 1
   },
   {
    "nome": "Carl Sagan",
@@ -92,17 +95,27 @@
   }
  ],
  "em_alta": [
-  "Prêmio Jabuti",
+  "Children Booker Prize",
+  "Bienal do Livro Rio",
   "Rick Riordan",
   "National Book Award",
-  "Children Booker Prize",
   "Percy Jackson"
  ],
  "subindo": [
   {
    "termo": "Children Booker Prize",
-   "ultimos_3_dias": 4,
+   "ultimos_3_dias": 9,
    "antes": 1
+  },
+  {
+   "termo": "Senhor dos Anéis",
+   "ultimos_3_dias": 7,
+   "antes": 2
+  },
+  {
+   "termo": "Comissão de Cultura",
+   "ultimos_3_dias": 3,
+   "antes": 0
   },
   {
    "termo": "Eoin Colfer",
@@ -110,19 +123,19 @@
    "antes": 0
   },
   {
-   "termo": "Senhor dos Anéis",
-   "ultimos_3_dias": 5,
+   "termo": "Bienal do Livro Rio",
+   "ultimos_3_dias": 4,
    "antes": 3
   }
  ],
  "destaques": [
   "b31931315f79",
-  "cb8d1bce457e",
+  "960a913a8bc1",
   "5979f12b426f",
-  "2bf8f15dced8",
+  "b2b2151365f9",
+  "8ef16ff2988b",
+  "b44b4fdcf221",
   "e2d23b78d290",
-  "2c0445c722fa",
-  "8d71424e68d4",
-  "4ee6a1cc0550"
+  "2c0445c722fa"
  ]
 }

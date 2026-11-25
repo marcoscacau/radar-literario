@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T16:58:46-03:00",
+ "gerado_em": "2026-11-25T15:59:26-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -14,11 +14,7 @@
     "fa0eaf6a7825",
     "73ead809c1d1",
     "8e47fb5b3e69",
-    "76eb22edd995",
-    "66beb19aebd2",
-    "2e51344928ae",
-    "8a4a303e107d",
-    "7d9c280a4cbe"
+    "76eb22edd995"
    ],
    "livros": [
     {
@@ -129,6 +125,7 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "b44b4fdcf221",
       "2bf8f15dced8",
       "11d78da08d77",
       "e0fd406574a7",
@@ -141,10 +138,7 @@
       "edc1a89315da",
       "dbdca1a03b9b",
       "6984369b2636",
-      "2415d2c7be30",
-      "f22d924b30fd",
-      "66beb19aebd2",
-      "6e33a8ea163f"
+      "2415d2c7be30"
      ]
     },
     {
@@ -181,8 +175,7 @@
      "pt": "Dia da Ceifa",
      "noticias": [
       "2aa4683af02b",
-      "3f4e3040b4cf",
-      "f22d924b30fd"
+      "3f4e3040b4cf"
      ]
     },
     {
@@ -262,6 +255,9 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "031f0efd219f",
+    "a4e1da26133b",
+    "f0f7508771c5",
     "688212b0d6a6",
     "e634421ec77f",
     "db65425d5f8f",
@@ -284,8 +280,7 @@
     "b36359807f17",
     "eea8475c0d17",
     "65f9c2a4423c",
-    "178b216f372c",
-    "bbb8a52aa972"
+    "178b216f372c"
    ],
    "livros": [
     {
@@ -294,6 +289,8 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "031f0efd219f",
+      "6ab774c9e29b",
       "8c71bdf3d88b"
      ]
     },
@@ -302,7 +299,9 @@
      "pt": "'Salem",
      "ano": 1975,
      "unico": true,
-     "noticias": []
+     "noticias": [
+      "a4e1da26133b"
+     ]
     },
     {
      "titulo": "The Shining",
@@ -440,9 +439,7 @@
      "titulo": "It",
      "pt": "It: A Coisa",
      "ano": 1986,
-     "noticias": [
-      "bbb8a52aa972"
-     ]
+     "noticias": []
     },
     {
      "titulo": "The Eyes of the Dragon",
@@ -980,8 +977,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
-      "3a90a4b25e8f",
-      "c7efad3e0f4d"
+      "3a90a4b25e8f"
      ]
     },
     {

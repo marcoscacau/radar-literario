@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T16:58:46-03:00",
+ "gerado_em": "2026-11-25T15:59:26-03:00",
  "fontes": [
   {
    "id": "rascunho",
@@ -8,7 +8,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "quatrocincoum",
@@ -17,7 +17,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 4
+   "novos_hoje": 2
   },
   {
    "id": "folha",
@@ -25,8 +25,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 18,
-   "novos_hoje": 5
+   "itens_no_feed": 14,
+   "novos_hoje": 2
   },
   {
    "id": "estadao",
@@ -35,7 +35,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 3,
-   "novos_hoje": 3
+   "novos_hoje": 1
   },
   {
    "id": "publico",
@@ -43,8 +43,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 0,
-   "novos_hoje": 0
+   "itens_no_feed": 2,
+   "novos_hoje": 2
   },
   {
    "id": "observador",
@@ -61,8 +61,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 45,
-   "novos_hoje": 12
+   "itens_no_feed": 43,
+   "novos_hoje": 7
   },
   {
    "id": "gn-mercado-br",
@@ -70,8 +70,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 43,
-   "novos_hoje": 12
+   "itens_no_feed": 40,
+   "novos_hoje": 8
   },
   {
    "id": "gn-estante-br",
@@ -79,8 +79,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 36,
-   "novos_hoje": 6
+   "itens_no_feed": 28,
+   "novos_hoje": 7
   },
   {
    "id": "gn-acompanhados-br",
@@ -88,8 +88,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 15,
-   "novos_hoje": 2
+   "itens_no_feed": 16,
+   "novos_hoje": 3
   },
   {
    "id": "gn-sergipe-eventos",
@@ -106,8 +106,8 @@
    "grupo": "brasil-portugal",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 23,
-   "novos_hoje": 0
+   "itens_no_feed": 43,
+   "novos_hoje": 2
   },
   {
    "id": "mangue",
@@ -170,7 +170,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 8
+   "novos_hoje": 10
   },
   {
    "id": "guardian",
@@ -179,7 +179,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 29,
-   "novos_hoje": 4
+   "novos_hoje": 3
   },
   {
    "id": "nyt",
@@ -187,8 +187,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 32,
-   "novos_hoje": 1
+   "itens_no_feed": 33,
+   "novos_hoje": 3
   },
   {
    "id": "guardian-ciencia",
@@ -224,7 +224,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 60,
-   "novos_hoje": 3
+   "novos_hoje": 4
   },
   {
    "id": "ct",
@@ -232,8 +232,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 3,
-   "novos_hoje": 2
+   "itens_no_feed": 0,
+   "novos_hoje": 0
   },
   {
    "id": "reactor",
@@ -241,8 +241,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 6,
-   "novos_hoje": 3
+   "itens_no_feed": 7,
+   "novos_hoje": 2
   },
   {
    "id": "gn-estante-en",
@@ -250,7 +250,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 60,
+   "itens_no_feed": 57,
    "novos_hoje": 8
   },
   {
@@ -259,8 +259,8 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 42,
-   "novos_hoje": 6
+   "itens_no_feed": 25,
+   "novos_hoje": 4
   },
   {
    "id": "gn-king-en",
@@ -268,7 +268,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 16,
+   "itens_no_feed": 15,
    "novos_hoje": 2
   },
   {
@@ -286,7 +286,7 @@
    "grupo": "internacional",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 25,
+   "itens_no_feed": 49,
    "novos_hoje": 12
   },
   {
@@ -323,7 +323,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 2
+   "novos_hoje": 1
   },
   {
    "id": "notebookstories",
@@ -332,7 +332,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 5,
-   "novos_hoje": 1
+   "novos_hoje": 0
   },
   {
    "id": "calnewport",
@@ -350,7 +350,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 0
+   "novos_hoje": 2
   },
   {
    "id": "nesslabs",
@@ -376,7 +376,7 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 32,
+   "itens_no_feed": 43,
    "novos_hoje": 6
   },
   {
@@ -385,7 +385,7 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 2,
+   "itens_no_feed": 0,
    "novos_hoje": 0
   },
   {
@@ -394,7 +394,7 @@
    "grupo": "cadernos",
    "ok": true,
    "erro": null,
-   "itens_no_feed": 27,
+   "itens_no_feed": 32,
    "novos_hoje": 6
   },
   {
@@ -404,7 +404,7 @@
    "ok": true,
    "erro": null,
    "itens_no_feed": 10,
-   "novos_hoje": 2
+   "novos_hoje": 1
   }
  ]
 }
