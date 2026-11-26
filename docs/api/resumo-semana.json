@@ -1,35 +1,35 @@
 {
- "gerado_em": "2026-11-25T15:59:26-03:00",
+ "gerado_em": "2026-11-26T15:51:15-03:00",
  "dias": [
+  "2026-11-26",
   "2026-11-25",
   "2026-11-24",
   "2026-11-23",
   "2026-11-22",
   "2026-11-21",
-  "2026-11-20",
-  "2026-11-19"
+  "2026-11-20"
  ],
- "total": 574,
+ "total": 575,
  "por_grupo": {
-  "internacional": 262,
-  "brasil-portugal": 230,
-  "cadernos": 82
+  "brasil-portugal": 250,
+  "internacional": 244,
+  "cadernos": 81
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 55
+   "noticias": 49
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 17
+   "noticias": 16
   },
   {
    "id": "fe",
    "nome": "fé e teologia",
-   "noticias": 16
+   "noticias": 13
   },
   {
    "id": "filosofia",
@@ -39,43 +39,43 @@
   {
    "id": "suspense",
    "nome": "suspense e mistério",
-   "noticias": 4
+   "noticias": 3
   },
   {
    "id": "mente",
    "nome": "mente e emoções",
-   "noticias": 3
+   "noticias": 2
   },
   {
    "id": "fisica",
    "nome": "física e ciência",
-   "noticias": 2
+   "noticias": 1
   }
  ],
  "autores": [
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 41
+   "noticias": 43
   },
   {
    "nome": "Stephen King",
-   "noticias": 31
+   "noticias": 25
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 18
+   "noticias": 19
   },
   {
    "nome": "C. S. Lewis",
    "noticias": 9
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 5
+   "nome": "Dostoiévski",
+   "noticias": 6
   },
   {
-   "nome": "Dostoiévski",
-   "noticias": 4
+   "nome": "Raphael Montes",
+   "noticias": 2
   },
   {
    "nome": "Augusto Cury",
@@ -96,45 +96,45 @@
  ],
  "em_alta": [
   "Children Booker Prize",
+  "Senhor dos Anéis",
+  "Anéis de Poder",
   "Bienal do Livro Rio",
-  "Rick Riordan",
-  "National Book Award",
-  "Percy Jackson"
+  "Rick Riordan"
  ],
  "subindo": [
   {
    "termo": "Children Booker Prize",
-   "ultimos_3_dias": 9,
+   "ultimos_3_dias": 11,
    "antes": 1
   },
   {
    "termo": "Senhor dos Anéis",
-   "ultimos_3_dias": 7,
-   "antes": 2
+   "ultimos_3_dias": 9,
+   "antes": 4
+  },
+  {
+   "termo": "São Paulo",
+   "ultimos_3_dias": 5,
+   "antes": 0
+  },
+  {
+   "termo": "Shaun Tan",
+   "ultimos_3_dias": 3,
+   "antes": 0
   },
   {
    "termo": "Comissão de Cultura",
    "ultimos_3_dias": 3,
    "antes": 0
-  },
-  {
-   "termo": "Eoin Colfer",
-   "ultimos_3_dias": 3,
-   "antes": 0
-  },
-  {
-   "termo": "Bienal do Livro Rio",
-   "ultimos_3_dias": 4,
-   "antes": 3
   }
  ],
  "destaques": [
   "b31931315f79",
   "960a913a8bc1",
   "5979f12b426f",
+  "5cb5ab5b514c",
   "b2b2151365f9",
   "8ef16ff2988b",
-  "b44b4fdcf221",
   "e2d23b78d290",
   "2c0445c722fa"
  ]

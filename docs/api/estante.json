@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25T15:59:26-03:00",
+ "gerado_em": "2026-11-26T15:51:15-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -12,9 +12,7 @@
     "4a955830edbc",
     "7fb6363fa469",
     "fa0eaf6a7825",
-    "73ead809c1d1",
-    "8e47fb5b3e69",
-    "76eb22edd995"
+    "73ead809c1d1"
    ],
    "livros": [
     {
@@ -125,6 +123,11 @@
      "ano": 2023,
      "serie": "O Empyriano #1",
      "noticias": [
+      "74961b49bcdc",
+      "cea17aaf8258",
+      "84976cea6588",
+      "22e77ac4ea77",
+      "e9e60d4e44fc",
       "b44b4fdcf221",
       "2bf8f15dced8",
       "11d78da08d77",
@@ -135,10 +138,7 @@
       "6c2c6ce14171",
       "7fb6363fa469",
       "fa0eaf6a7825",
-      "edc1a89315da",
-      "dbdca1a03b9b",
-      "6984369b2636",
-      "2415d2c7be30"
+      "edc1a89315da"
      ]
     },
     {
@@ -174,6 +174,7 @@
      "serie": "O Empyriano",
      "pt": "Dia da Ceifa",
      "noticias": [
+      "5cb5ab5b514c",
       "2aa4683af02b",
       "3f4e3040b4cf"
      ]
@@ -184,8 +185,7 @@
      "anunciado": true,
      "noticias": [
       "e0fd406574a7",
-      "4a955830edbc",
-      "8e47fb5b3e69"
+      "4a955830edbc"
      ]
     }
    ]
@@ -194,10 +194,7 @@
    "nome": "Raphael Montes",
    "noticias": [
     "3fb59abf6a54",
-    "2c0445c722fa",
-    "08652595b198",
-    "b5a10e0889c3",
-    "f0a445d646f4"
+    "2c0445c722fa"
    ],
    "livros": [
     {
@@ -210,8 +207,7 @@
      "ano": 2014,
      "ambiguo": true,
      "noticias": [
-      "3fb59abf6a54",
-      "b5a10e0889c3"
+      "3fb59abf6a54"
      ]
     },
     {
@@ -255,6 +251,8 @@
   {
    "nome": "Stephen King",
    "noticias": [
+    "7ea2cb4ccd5c",
+    "d622b1a4d542",
     "031f0efd219f",
     "a4e1da26133b",
     "f0f7508771c5",
@@ -275,12 +273,7 @@
     "9b70886318fa",
     "ecdd8ca27606",
     "8c71bdf3d88b",
-    "8f912e48bd9a",
-    "7aa8cb848fc1",
-    "b36359807f17",
-    "eea8475c0d17",
-    "65f9c2a4423c",
-    "178b216f372c"
+    "8f912e48bd9a"
    ],
    "livros": [
     {
@@ -309,8 +302,7 @@
      "ano": 1977,
      "noticias": [
       "3f90c3cf87ba",
-      "9b70886318fa",
-      "eea8475c0d17"
+      "9b70886318fa"
      ]
     },
     {
@@ -404,10 +396,7 @@
      "titulo": "Pet Sematary",
      "pt": "O Cemitério",
      "ano": 1983,
-     "noticias": [
-      "f6fbfea593dd",
-      "7303a391442e"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Cycle of the Werewolf",
@@ -693,9 +682,7 @@
      "titulo": "Doctor Sleep",
      "pt": "Doutor Sono",
      "ano": 2013,
-     "noticias": [
-      "eea8475c0d17"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Mr. Mercedes",
@@ -801,9 +788,7 @@
      "titulo": "You Like It Darker",
      "ano": 2024,
      "pt": "Mais Sombrio",
-     "noticias": [
-      "efd5351c037c"
-     ]
+     "noticias": []
     },
     {
      "titulo": "Never Flinch",
@@ -828,8 +813,7 @@
     "aa8e1ab2ff31",
     "4751530401de",
     "3a90a4b25e8f",
-    "5db7762afe64",
-    "f39c75f4b8ce"
+    "5db7762afe64"
    ],
    "livros": [
     {
@@ -977,6 +961,7 @@
      "ano": 1955,
      "serie": "As Crônicas de Nárnia",
      "noticias": [
+      "667bf7ba618f",
       "3a90a4b25e8f"
      ]
     },

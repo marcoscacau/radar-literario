@@ -1,30 +1,32 @@
 {
- "gerado_em": "2026-11-25T15:59:26-03:00",
+ "gerado_em": "2026-11-26T15:51:15-03:00",
  "dias": [
-  "2026-11-19",
   "2026-11-20",
   "2026-11-21",
   "2026-11-22",
   "2026-11-23",
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "termos": [
   {
    "termo": "Children Booker Prize",
-   "fontes": 9,
-   "mencoes": 10,
+   "fontes": 11,
+   "mencoes": 12,
    "por_dia": [
-    0,
     0,
     1,
     0,
     0,
     4,
-    5
+    5,
+    2
    ],
    "novo_hoje": false,
    "itens": [
+    "0a2464461aae",
+    "537ae743987e",
     "5d185b2a9890",
     "bbf60e75d557",
     "ec87c7d62740",
@@ -38,17 +40,70 @@
    ]
   },
   {
+   "termo": "Senhor dos Anéis",
+   "fontes": 7,
+   "mencoes": 13,
+   "por_dia": [
+    0,
+    2,
+    0,
+    2,
+    3,
+    2,
+    4
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "847905d894ec",
+    "88cc2149bfdd",
+    "c5e60ccf9807",
+    "3115423739b2",
+    "b182e798ec48",
+    "5116350ed8a3",
+    "0c3bda4bea23",
+    "3748fe0926b3",
+    "f98945088664",
+    "9b9e4ae7c2a6",
+    "055155e4ee72",
+    "f926fd1aeb8f"
+   ]
+  },
+  {
+   "termo": "Anéis de Poder",
+   "fontes": 6,
+   "mencoes": 7,
+   "por_dia": [
+    1,
+    2,
+    0,
+    0,
+    0,
+    2,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "c5e60ccf9807",
+    "3115423739b2",
+    "559c2c1ec9be",
+    "b182e798ec48",
+    "f926fd1aeb8f",
+    "a8df0fe9134c",
+    "a97c53818311"
+   ]
+  },
+  {
    "termo": "Bienal do Livro Rio",
    "fontes": 6,
    "mencoes": 7,
    "por_dia": [
-    0,
     1,
     1,
     1,
     0,
     1,
-    3
+    3,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -63,16 +118,16 @@
   },
   {
    "termo": "Rick Riordan",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 5,
+   "mencoes": 6,
    "por_dia": [
-    1,
     2,
     1,
     0,
     0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -81,20 +136,19 @@
     "5abd77e05735",
     "a4d209bbbcb7",
     "208f74f11995",
-    "4994460e1fdb",
-    "d3c468543ec9"
+    "4994460e1fdb"
    ]
   },
   {
    "termo": "National Book Award",
-   "fontes": 5,
-   "mencoes": 8,
+   "fontes": 4,
+   "mencoes": 7,
    "por_dia": [
-    1,
     4,
     2,
     0,
     1,
+    0,
     0,
     0
    ],
@@ -106,17 +160,81 @@
     "8a1370e85ec2",
     "75a4937ee3ab",
     "c01e7921b560",
-    "5653dc5a55f0",
-    "ce9bebadda59"
+    "5653dc5a55f0"
    ]
   },
   {
    "termo": "Percy Jackson",
-   "fontes": 5,
-   "mencoes": 6,
+   "fontes": 4,
+   "mencoes": 5,
+   "por_dia": [
+    2,
+    0,
+    0,
+    0,
+    2,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "84f7ecba1d3c",
+    "307d11071cc2",
+    "5abd77e05735",
+    "208f74f11995",
+    "4994460e1fdb"
+   ]
+  },
+  {
+   "termo": "Dia da Consciência Negra",
+   "fontes": 4,
+   "mencoes": 4,
    "por_dia": [
     1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a850bbbba720",
+    "386aabe5c288",
+    "c4a318b342f9",
+    "9d68105348bf"
+   ]
+  },
+  {
+   "termo": "São Paulo",
+   "fontes": 3,
+   "mencoes": 5,
+   "por_dia": [
+    0,
+    0,
+    0,
+    0,
+    1,
     2,
+    2
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a45ab57e1c78",
+    "3388d115210e",
+    "273d5d48e296",
+    "48d9750071de",
+    "cef0ffc45be4"
+   ]
+  },
+  {
+   "termo": "Shaun Tan",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
     0,
     0,
     0,
@@ -125,82 +243,9 @@
    ],
    "novo_hoje": false,
    "itens": [
-    "84f7ecba1d3c",
-    "307d11071cc2",
-    "5abd77e05735",
-    "208f74f11995",
-    "4994460e1fdb",
-    "d3c468543ec9"
-   ]
-  },
-  {
-   "termo": "Prêmio Jabuti",
-   "fontes": 5,
-   "mencoes": 5,
-   "por_dia": [
-    2,
-    0,
-    0,
-    1,
-    1,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "8c183b32e2bd",
-    "82d32e1271f4",
-    "0d04ee7613f8",
-    "45ff9054871d",
-    "ee0e43914228"
-   ]
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "fontes": 4,
-   "mencoes": 9,
-   "por_dia": [
-    0,
-    0,
-    2,
-    0,
-    2,
-    3,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "b182e798ec48",
-    "5116350ed8a3",
-    "0c3bda4bea23",
-    "3748fe0926b3",
-    "f98945088664",
-    "9b9e4ae7c2a6",
-    "055155e4ee72",
-    "f926fd1aeb8f",
-    "688a5606eea7"
-   ]
-  },
-  {
-   "termo": "Anéis de Poder",
-   "fontes": 4,
-   "mencoes": 5,
-   "por_dia": [
-    0,
-    1,
-    2,
-    0,
-    0,
-    0,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "559c2c1ec9be",
-    "b182e798ec48",
-    "f926fd1aeb8f",
-    "a8df0fe9134c",
-    "a97c53818311"
+    "303bf0bf273b",
+    "eff3752043bc",
+    "bbf60e75d557"
    ]
   },
   {
@@ -209,12 +254,12 @@
    "mencoes": 3,
    "por_dia": [
     0,
-    0,
     1,
     0,
     0,
     0,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -232,35 +277,15 @@
     0,
     0,
     0,
-    0,
     1,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
     "de6bddc21197",
     "9d7227e2afa8",
     "45d98d71a4ee"
-   ]
-  },
-  {
-   "termo": "Dia da Consciência Negra",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    1,
-    1,
-    0,
-    0,
-    0,
-    1
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "386aabe5c288",
-    "c4a318b342f9",
-    "9d68105348bf"
    ]
   },
   {
@@ -272,8 +297,8 @@
     0,
     0,
     0,
-    0,
     3,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -284,23 +309,23 @@
    ]
   },
   {
-   "termo": "Abdelrahman ElGendy",
+   "termo": "Prêmio Jabuti",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    1,
-    1,
     0,
     0,
+    1,
+    1,
     1,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "18c7bc3d0989",
-    "5653dc5a55f0",
-    "a4f0249de458"
+    "8c183b32e2bd",
+    "82d32e1271f4",
+    "0d04ee7613f8"
    ]
   }
  ]

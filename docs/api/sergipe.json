@@ -1,7 +1,97 @@
 {
- "gerado_em": "2026-11-25T15:59:26-03:00",
- "total": 56,
+ "gerado_em": "2026-11-26T15:51:15-03:00",
+ "total": 60,
  "eventos": [
+  {
+   "id": "3dc2931094b4",
+   "titulo": "Pecadora",
+   "link": "https://infonet.com.br/entretenimento-infonet/cinema/pecadora/",
+   "resumo": "Baseado no livro homônimo de Nana Pauvolih, Pecadora acompanha a jornada de autodescoberta de uma jovem aprisionada por seus desejos.",
+   "fonte": "Infonet",
+   "fonte_id": "infonet",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T11:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-26"
+  },
+  {
+   "id": "a850bbbba720",
+   "titulo": "Salão de Literatura do Fasc recebe programação especial no Dia da Consciência Negra",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm9rRkhOdTA0R0RrSXNueTJyVUYwdF9nNDFkVzhSYlgwMjNiS2F4S3hPSUZTQmFTZ2xqY3ZlaHBwVnFaZnFtOGxTWEtMMVJCdk4xTG01ZVZXRkI3S3pLZHQ2WFNqZ0lsaDJnR0NlZFFxVmsxd0dvUzhwSHFLOVBmaVJtZUs0VTI4ekoyREJyLTBwNDdJbENiZk0tc3ZuVVB5UWdqSXJ6a2p6bU5hbWpRMGpkcXVmZHZEX0tBNmFTQlBqQUFnNEE?oc=5",
+   "resumo": "",
+   "fonte": "reconcavobahia.com.br (via Google)",
+   "fonte_id": "gn-sergipe-instituicoes",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-21T10:44-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "filosofia"
+    ]
+   },
+   "quando": null,
+   "dia": "2026-11-26"
+  },
+  {
+   "id": "cbbe5f5bf050",
+   "titulo": "Bienal do Livro acontece no Centro Cultural de Aracaju",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUdMMkxVbEI2aGVmekgtTXlVRlV3M2RuSXNUTHhaTjNVZEpiV1lEdUZmV1l2MnExQzVFWU1sY1pIQWRqZEFIalZwb2tUX2Zfd3lZeWxCM1NlbHJwdmJLZ1RSNDJsUmVNMkpLcHMwOU1zRjhYUklEUFJYVnVqMGVqXzhMajF1M3JGaUlDcm9ibnQ0eWNVSnBrZWNPSlFHT2lUYkdKcDJncFhibFhmRE5hOHZCTWlJNElydVRaaW91bWVCV1g3YVdV0gHWAUFVX3lxTFB0Tk92OWoteDY0TDI5S09DQWxjNy1qT1duaTR0MFE0RWd3cUF4bzJmSGNSUmhYZUNoWWJDdFNrcUJKNkpQSVN3cHZGR2ZWTVpLOVdockNGTnZ0UkgxbGNQUnhuVFV5emg5NklaZHA5MzFTRmozTUVPdDFTSG1NUTNoUlBod3g2bEFYTGVPdGRBcmg2a2xOdnI5WEVWX3dYRnBCOGt0YWw0UXVPMHh3bVh3YXdnMUxMTUpZNXVOYklwcGY0UmtQTlNOUmpvZTh4U1dyOTQ5X1E?oc=5",
+   "resumo": "",
+   "fonte": "G1 (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-07T05:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": null,
+   "dia": "2026-11-26"
+  },
+  {
+   "id": "2055ceb2700b",
+   "titulo": "AGENDA MANGUE CULTURAL DE 6 a 12 de Novembro: “Festivais culturais, Bienal do Livro, Gaymado e muito mais em Sergipe”",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWxOYmpYWWpWWDNzRXJNVXN4b1BnWUpvOFZwb1ExMS1RSHVoMXhqSVRtR3A0TjVxQmphbk1pZkhQTkEtTGREbVBwb0RnSklIVVN5ZGdiM2p4U21yYi01UVhRSWcybmVKby0yR0ZQQXBfclB1SVFBS2NmV1NHMUd2dnkxVFhZUHNqQnM0dnZoS2Q1YXF2bEJpVHdXSlhTYlliemVwSnN1SUl1c05MLWlheGZLNlhORWpwZ2ItWHZRZnN4YWhPWnpUZFlmd1lFYTkxX09MNlNMQ3Ezdw?oc=5",
+   "resumo": "",
+   "fonte": "Mangue Jornalismo (via Google)",
+   "fonte_id": "gn-sergipe-eventos",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-06T05:00-03:00",
+   "tags": [
+    "sergipe"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   },
+   "quando": {
+    "inicio": "2026-11-06",
+    "fim": "2026-11-12",
+    "origem": "texto"
+   },
+   "dia": "2026-11-26"
+  },
   {
    "id": "f30d573120ff",
    "titulo": "Salão de Literatura movimenta o segundo dia de Fasc com encontros sobre memória, identidade e criação literária",
