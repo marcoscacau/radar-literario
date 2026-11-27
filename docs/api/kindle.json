@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T15:43:03-03:00",
+ "gerado_em": "2026-11-27T20:38:58-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,29 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 8
+   "ofertas": 10
   }
  ],
- "total": 46,
+ "total": 48,
  "ofertas": [
+  {
+   "id": "31855096becd",
+   "titulo": "Imperdível: Kindle 16 GB (2024) sai por menos de R$ 500 no Pix com cupom",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQmhOX3k5eTNPSFRaMW5DMXRNUmZjaGxsbi1hY0lWQlhvVmZuTHB3UHhaVlZaVnZ6SWNzYVRheExmMWs2MjdBR3RWTnR5dzQ5Tjg0akhBbk9fU2xPd0hYNUE0OEZnOFdISTJEd1BRYjRRbkc3d0xRTTA3WFJVVzc5TUZFNjBnOVdTRVNSQWNCNk5BcGhzcUFFUmpyMnRjTFpIM01XRExQRFc0amlzdm9QQ1RZVmVRNnQtd1BaaHFpZVg1c3lhbmVlbVgzUnNHRmNPLWhXZTM5ZWVsemhJamhyRnNQTlJUeHlE0gHoAUFVX3lxTE1CaE5feTl5M09IVFoxbkMxdE1SZmNobGxuLWFjSVZCWG9WZm5McHdQeFpWVlpWdnpJY3NhVGF4TGYxazYyN0FHdFZOdHl3NDlOODRqSEFuT19TbE93SFg1QTQ4Rmc4V0hJMkR3UFFiNFFuRzd3TFFNMDdYUlVXNzlNRkU2MGc5V1NFU1JBY0I2TkFwaHNxQUVSanIydGNMWkgzTVdETFBEVzRqaXN2b1BDVFlWZVE2dC13UFpocWllWDVzeWFuZWVtWDNSc0dGY08taFdlMzllZWx6aElqaHJGc1BOUlR4eUQ?oc=5",
+   "fonte": "TechTudo",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-27T17:55+00:00",
+   "visto_em": "2026-11-27T20:38-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "bddb432a3ad6",
    "titulo": "Cupom Amazon libera 3 meses de Kindle Unlimited por R$ 1,99 na Black Friday",
@@ -33,7 +51,25 @@
    "nota": "",
    "postado_em": "2026-11-27T17:05+00:00",
    "visto_em": "2026-11-27T15:43-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "29906f9cae59",
+   "titulo": "Black Friday Amazon tem Kindle, Echo e Fire TV em oferta - a partir de R$ 220",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNERzNXJndk1OSzJoVFVibTBLNXNpTHhEcGxWRkZCZENyZ1hRTlA1Vm1sSzFQLTNJWG5lQTZreEVUNE9NY2Y1X2ZfbVVQWXVaYVFnNEljY3JhTERJbzNKZ1J5SGx4dkJKRFZCMkM1OUVjQVVhLXl6Vzl2RmJmWm9RLVFDMWR0eU0?oc=5",
+   "fonte": "Melhores Cartões",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-27T16:26+00:00",
+   "visto_em": "2026-11-27T20:38-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-27T15:13+00:00",
    "visto_em": "2026-11-27T15:43-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-27T01:29+00:00",
    "visto_em": "2026-11-27T09:58-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-26T23:04+00:00",
    "visto_em": "2026-11-26T22:52-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-26T19:54+00:00",
    "visto_em": "2026-11-26T22:52-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-26T17:58+00:00",
    "visto_em": "2026-11-26T15:51-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -141,7 +177,7 @@
    "nota": "",
    "postado_em": "2026-11-26T14:55+00:00",
    "visto_em": "2026-11-26T14:12-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -159,7 +195,7 @@
    "nota": "",
    "postado_em": "2026-11-25T19:28+00:00",
    "visto_em": "2026-11-25T16:30-03:00",
-   "ultima_vez": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T20:38-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
