@@ -1,146 +1,141 @@
 {
- "data": "2026-11-26",
- "gerado_em": "2026-11-26T15:51:15-03:00",
- "total": 86,
+ "data": "2026-11-27",
+ "gerado_em": "2026-11-27T15:42:54-03:00",
+ "total": 88,
  "secoes": {
   "para-voce": [
-   "5cb5ab5b514c",
-   "74961b49bcdc",
-   "cea17aaf8258",
-   "2a3c617be237",
-   "847905d894ec",
-   "871e2af8b262",
-   "d622b1a4d542",
-   "fa46a3566a35",
-   "b5f14616aa8b",
-   "a850bbbba720"
+   "ae4b009e3a24",
+   "8ed56b96c72c",
+   "d8b0f9f0d48e",
+   "b0e3b3f23ef3",
+   "aabaf64723f9",
+   "29cec066d658",
+   "24965f8f73e2"
   ],
   "sergipe": [
-   "3dc2931094b4",
-   "a850bbbba720",
-   "cbbe5f5bf050",
-   "2055ceb2700b"
+   "99dbdd2b26a8"
   ],
   "premios-lancamentos": [
-   "6d8b1ba9340d",
-   "a976ffadf805",
-   "89a82ed54f24",
-   "fa46a3566a35",
-   "cea17aaf8258",
-   "84b8dafe8a3d",
-   "818fb29328c1",
-   "0a2464461aae",
-   "fbbf3ce6747f",
-   "303bf0bf273b",
-   "1b07e8f4013b",
-   "537ae743987e",
-   "10687f13094e",
-   "a1f809d25f6e"
+   "d5c45a34225e",
+   "dcd236feeefe",
+   "61ab99f6561b",
+   "a4aed5250319",
+   "fcb0d784524e",
+   "e21659011545",
+   "e4b953e586c2",
+   "4e47a6b579df",
+   "5d23dc5df7c5",
+   "80c73fdcc718",
+   "455198d661c8",
+   "75492c3df252",
+   "8a8de757e403"
   ],
   "brasil-portugal": [
-   "60a4b60abce7",
-   "667bf7ba618f",
-   "5568f03abc34",
-   "334188eeeffb",
-   "e258554b9fc8",
-   "d4a2061af7f4",
-   "b43cc58b9e56",
-   "3dc2931094b4",
-   "6d8b1ba9340d",
-   "a45ab57e1c78",
-   "a976ffadf805",
-   "89a82ed54f24",
-   "917f89d2079b",
-   "84b8dafe8a3d",
-   "9aaa48998a80",
-   "42dd18d0df96",
-   "2a3c617be237",
-   "1a70219fb944",
-   "0b0f3bccf7e9",
-   "847905d894ec",
-   "818fb29328c1",
-   "88cc2149bfdd",
-   "fbbf3ce6747f",
-   "6141c53ea5b5",
-   "fd604e4d8270",
-   "a2d461f9f17a",
-   "b3dab9b4e0f3",
-   "d1a38d15799e",
-   "8c2ed29de5f8",
-   "5a76b6f0e316",
-   "22e77ac4ea77",
-   "e9e60d4e44fc",
-   "3388d115210e",
-   "797f37af5d70",
-   "b5f14616aa8b",
-   "c5e60ccf9807",
-   "7ea2cb4ccd5c",
-   "6e27a1fc1327",
-   "3115423739b2",
-   "d622b1a4d542",
-   "87a58316c10c",
-   "fd2803550791",
-   "d2f205744872",
-   "a1b85643b349",
-   "a850bbbba720",
-   "cbbe5f5bf050",
-   "2055ceb2700b"
+   "a994115a1d61",
+   "d5c45a34225e",
+   "aabaf64723f9",
+   "25831d8fd746",
+   "45577b54586e",
+   "caaab17bba5b",
+   "361e9831b588",
+   "42ab68db57ec",
+   "57a6469866b4",
+   "b616bb932a29",
+   "61ab99f6561b",
+   "a4aed5250319",
+   "fcb0d784524e",
+   "8ed56b96c72c",
+   "896af25cb29b",
+   "e21659011545",
+   "4a52d7429893",
+   "e4b953e586c2",
+   "5d23dc5df7c5",
+   "99dbdd2b26a8",
+   "bc540c041833",
+   "52138868ad51",
+   "74ebc803c49a",
+   "831f53cbe755",
+   "a849bc7a27f1",
+   "455198d661c8",
+   "73cc79127043",
+   "626cc9ef039f",
+   "604845beaafd",
+   "b2986f7fd65e",
+   "9b6330ebf2de",
+   "96ae15e96dae",
+   "5013f7621c7a",
+   "3b2538052732",
+   "ca591512f0f3",
+   "22f29376b4ed",
+   "948437cec296",
+   "75034ad5be6d",
+   "cef83b4d1ec5",
+   "a18fd4bcd60f",
+   "ca61d8f15333",
+   "cc9e9f7f6b83",
+   "fc243223ab69",
+   "75492c3df252",
+   "24965f8f73e2",
+   "8a8de757e403",
+   "88c8d2280ed0",
+   "a1b4237175ac",
+   "f053add2e5c7",
+   "3c5ce4ce4775",
+   "36410cda4eb4"
   ],
   "internacional": [
-   "8fcbbf77840f",
-   "e8126c9bfa39",
-   "adde5c1eb74e",
-   "5cb5ab5b514c",
-   "74961b49bcdc",
-   "fa46a3566a35",
-   "cea17aaf8258",
-   "84976cea6588",
-   "4f74671ea538",
-   "8c5663cde9af",
-   "67ad51d30323",
-   "42104a1f18a9",
-   "871e2af8b262",
-   "0a2464461aae",
-   "d56a5a504f5a",
-   "d73da3a3c9ee",
-   "303bf0bf273b",
-   "1b07e8f4013b",
-   "537ae743987e",
-   "10687f13094e",
-   "a14fa7268e38",
-   "a1f809d25f6e",
-   "318f545cdd17"
+   "dcd236feeefe",
+   "ae4b009e3a24",
+   "4e47a6b579df",
+   "7f99a1b09529",
+   "a0933d66464b",
+   "80c73fdcc718",
+   "3ea20b79839e",
+   "29cec066d658",
+   "743a47252c5d",
+   "b62610b269a0",
+   "440c634be3b8",
+   "d8b0f9f0d48e",
+   "60b45e56cf31",
+   "cb1e2d621c19",
+   "4865cc12b456",
+   "67a8bc536a4b",
+   "60e2dd119bab",
+   "d52ad58c9c98",
+   "a60b4956e1c4",
+   "094e621d66c2",
+   "aedcb491e35c",
+   "580a00a28742",
+   "f6d157331875",
+   "b0e3b3f23ef3"
   ],
   "cadernos": [
-   "f934eb91c190",
-   "974f4be0f98d",
-   "249cd84d3dca",
-   "94cc8e9607db",
-   "93412a3d3ca3",
-   "32f986e415dd",
-   "6eab9f964687",
-   "3f88cc4ed40e",
-   "4b796718fd1b",
-   "47059c8dcab1",
-   "41db2d3a5475",
-   "9989aa2dd80a",
-   "08cc04713390",
-   "1ab683d4aebf",
-   "f9215bcfdf8b",
-   "b3eecea9b170"
+   "eb22f4e05132",
+   "88a91cd7ff46",
+   "fa4bf183ab4b",
+   "87ef6668f355",
+   "9dcabe887554",
+   "918c9561ac0a",
+   "0be5afa209eb",
+   "b4bb2d1c870c",
+   "b071f2ca7d4c",
+   "832ee5469e99",
+   "89688c402fbd",
+   "876f8aa14ce9",
+   "f7536bdac8e2"
   ]
  },
  "itens": [
   {
-   "id": "60a4b60abce7",
-   "titulo": "5 livros famosos associados ao uso de drogas e o que se sabe sobre sua escrita",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43ZjhYanFoV1dwYm5rUGNKcXJONWxaVGdHc0Z6WFhWQzlrOTZxUVc2Uklzcy10ZHRrUVRaQmZPQkZyclJaMVlhVXI1ZGFHcnZDVUJNaXNLY3JwYzRWeEhpSzdsN0xSdmFvVzJpeWlORXB6MFlqS3Ew?oc=5",
-   "resumo": "",
-   "fonte": "Jornal da Fronteira (via Google)",
-   "fonte_id": "gn-acompanhados-br",
+   "id": "a994115a1d61",
+   "titulo": "Casa Cosmos faz festa literária grátis para crianças e adultos na Vila Madalena, em SP",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://guia.folha.uol.com.br/passeios/2026/11/casa-cosmos-faz-festa-literaria-gratis-para-criancas-e-adultos-na-vila-madalena-em-sp.shtml",
+   "resumo": "A livraria Casa Cosmos faz neste sábado (28) a Festa Literária Cosmopopeia, evento gratuito que quer reunir os adultos e as crianças para falar de arte , literatura e cultura na praça Professora Emília Barbosa, na Vila Madalena. Leia mais (11/27/2026 - 15h30)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-26T15:42-03:00",
+   "publicado_em": "2026-11-27T15:30-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 0,
@@ -149,16 +144,37 @@
    }
   },
   {
-   "id": "8fcbbf77840f",
-   "titulo": "Our Favorite Books for a Last-Minute Holiday Gift",
-   "link": "https://www.nytimes.com/2026/11/26/books/books-holiday-gift-guide.html",
-   "resumo": "Need the perfect holiday gift? Try one of these 2026 releases.",
+   "id": "d5c45a34225e",
+   "titulo": "Albert Camus, vencedor do Nobel de Literatura: \"No meio do inverno, descobri que havia em mim um verão invencível.\"",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMkw2RDhLU2FBVUM5aV85WWJCZ3pjMlJwd3A5bGp6SWw4a2VjeTBHTjg1XzBEOE9KaHktWEVuclZWMnhrT3ZqWW5TT1RIc1d0UzZFYmdwOEdtelBHOHM0cjBwQngxLVRJRF9BTTlKMnFTaklGNUFlekQtQzZzYkFXWm5ZMUZDQmRIc0EtXzVhWkoxQmt4cGZIeW9NbTgzdi1WUHJCUUVlUTJveGt1Z3ZQYWRzdlNoOXpsMnduR1VXamRCcjRMQzVyZHFjM2U1anZDOGwxS3lhLXJtSVVXWFBhTEJIZjZIRWlkeHc?oc=5",
+   "resumo": "",
+   "fonte": "Tribuna de Minas (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T15:02-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "dcd236feeefe",
+   "titulo": "Julio Torres on His Favorite Books and ‘The Perfect Gift’",
+   "link": "https://www.nytimes.com/2026/11/27/books/review/julio-torres-the-perfect-gift.html",
+   "resumo": "“We reduce what can be a beautiful act into a cold exchange of goods,” says the actor and writer. His new book, “The Perfect Gift,” has other ideas.",
    "fonte": "The New York Times – Books",
    "fonte_id": "nyt",
    "grupo": "internacional",
    "idioma": "en",
-   "publicado_em": "2026-11-26T15:18-03:00",
-   "tags": [],
+   "publicado_em": "2026-11-27T15:00-03:00",
+   "tags": [
+    "lancamentos"
+   ],
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -166,85 +182,57 @@
    }
   },
   {
-   "id": "667bf7ba618f",
-   "titulo": "Trailer de “Nárnia: O Sobrinho do Mago” divide opiniões e provoca comparações com filmes da Marvel",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlNtM3BLb3k1QnV1bmJsRkFyMHhPSGgzcndhUXRpblg1WnpxVFNEOXR4NC0wY0lfbjZPWk9CNFdCMG9EZVFYdTdoTzI3cXRSdC1hNXZGbWVSLW91ZUdxc3ctLW9URnBiQmw3SV9USHF4bW1yMnhuRlJXU0ZaVGdMcU8xdDlxT1FLc3NLQkQxRnBta2NaNGJiMjVTSWI0dWJnOXNGcHpaNkY2QklxSjNuLVlWQlRvQmg5VnN2LWxOYmZ1d2lu?oc=5",
+   "id": "eb22f4e05132",
+   "titulo": "Who is Prakriti Malla? Nepali woman's ‘computer-like’ handwriting leaves the internet questioning if it's real",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbnFBbHZva0ZhdUhqRkhWRl9vX0VnWFJWREJnM2JwSzhDVmZoM3VxbS1qaHY0U1FpeDk4bkpMVUpSR0FnVDZqcGNrLVFPNGdvVEEyTlB6a1lKQk5zVHpNRWFMZ3R6QnNEUl95T3g0Qnc3dkJDSlppN0JVRHRNYzVvMlpLOGVQajJoLWt0RjVKaVZrcEhZYkRfbW9Ja0NBZFpsSndBcHF0eFhxR0xVUXNYMzVLSzlwZXQ0VF9SZ0pDREQ1WmxDTEw5bzJzMnZwaXMxX3Y2WW5zU2xRcGJFMUROSVNXYUJTVWJnbTM0LVRwdFo4SVJwak45RDlPSlfSAYICQVVfeXFMTmt5dTZuT1lObGM1ZnIyY2prdnVfTmNNU21ybHdxdVN2VHVyS3FERnZab2xsRGtzX3RqZ0RxMVhhRDZhMFVVR0thOG5sM3NqWGM0QnBEUGdtOHdGcUZueUZvRHhDMHFYWWotUWJhVDlUblRCeDhRcXdNVHVuTVlhVm5lQ21vN2xQeWR3WUxaalpoQXlPTHpRMVdKTGVRN1dTaVBMXzM2VDZfd2lmUHM4X3NoWG9KZUJXaEVqYW85dllhVFlHUm1xOHVaM3dERW5OeW9hMXlKYUdWdTlpVnlPRGZsV1JpZUgyUW03dkVXTl9zTHo5eEdBSmlRTW9IQTY3NjV3?oc=5",
    "resumo": "",
-   "fonte": "sentidohorario.com.br (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T14:26-03:00",
-   "tags": [],
+   "fonte": "Indiatimes (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T14:55-03:00",
+   "tags": [
+    "cadernos"
+   ],
    "para_voce": {
     "pontos": 1,
-    "autores": [
-     "C. S. Lewis"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "5568f03abc34",
-   "titulo": "Contagem decrescente para o Natal com estes livros infantis",
-   "link": "https://observador.pt/2026/11/26/comeca-a-contagem-decrescente-para-o-natal-com-estes-livros-infantis/",
-   "resumo": "Entre as novidades há livros que são calendários do advento, outros que desvendam os segredos do Polo Norte, fazem da árvore de Natal um esconderijo e lembram os melhores valores da época.",
-   "fonte": "Observador – Livros",
-   "fonte_id": "observador",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T13:56-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
     "autores": [],
-    "temas": []
+    "temas": [
+     "cadernos"
+    ]
    }
   },
   {
-   "id": "334188eeeffb",
-   "titulo": "Imagem e ação",
-   "link": "https://quatrocincoum.com.br/colunas/autobibliografia/imagem-e-acao/",
-   "resumo": "O alemão Dieter Graf passou perrengue para se comunicar na Índia. Ainda que 10% da população fale inglês, a imensa maioria gasta o verbo decolonialmente, matraqueando em hindi, bengali e outras 118 línguas. Isso dá 1,3 bilhão de pessoas que não fazem ideia se the book está on the table — muito…",
-   "fonte": "Quatro Cinco Um",
-   "fonte_id": "quatrocincoum",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T13:43-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "e258554b9fc8",
-   "titulo": "Quando a paixão vira ciência. Por Odir Cunha",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU09rQzA1UEp5UkdQZ1g1d1ZjZ3VHR1hENmk5bnFqeTFZbm81bU0tcTZiRVI2N3pSN3V0Ym9JUjRlV3d1SVdSQTd1b0VDNUZ5clNUS3BaU0JCREwwVjVzYzZmZHVnVjhkbGI2eE9RRHpNN1dQc29tdnd5UUJ5aXlIc0ZObWdZWFBDaWRlYVFn?oc=5",
+   "id": "88a91cd7ff46",
+   "titulo": "TCL's Note A1 NXTPAPER note-taking tablet is $150 off",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVTlNTWRjT1ZDYjIySWFXX0U2RTFqRnlDc09hUFk3ZGdBb1VOYmZwbDBPZ3NhMk05V3pLVHZVQlk4ZlZFRm1pR0hIaFhwS1BGOHRLM2FUYXNxOW5JM0tSVVNGQ2ctalBRN3dsN3c3R3FPWmhUYVE?oc=5",
    "resumo": "",
-   "fonte": "Terceiro Tempo (via Google)",
-   "fonte_id": "gn-mercado-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T13:33-03:00",
-   "tags": [],
+   "fonte": "Android Authority (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T13:50-03:00",
+   "tags": [
+    "cadernos"
+   ],
    "para_voce": {
-    "pontos": 0,
+    "pontos": 1,
     "autores": [],
-    "temas": []
+    "temas": [
+     "cadernos"
+    ]
    }
   },
   {
-   "id": "f934eb91c190",
-   "titulo": "Quote of the Week: Give Thanks Continuously",
-   "link": "https://www.wellappointeddesk.com/2026/11/quote-of-the-week-give-thanks-continuously/",
-   "resumo": "“Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously. ” ― Ralph Waldo Emerson This week’s quote is from pen community favorite Ralph Waldo Emerson and is perfect for the week of Thanksgiving. I think this quote should go on the cover of…",
+   "id": "fa4bf183ab4b",
+   "titulo": "Small Business Saturday Sale (alliterations!)",
+   "link": "https://www.wellappointeddesk.com/2026/11/small-business-saturday/",
+   "resumo": "I hope everyone had a lovely Thanksgiving. I want to offer a one-day deal to our shop. Get 10% off EVERYTHING in the shop all day Small Business Saturday (Saturday, Nov. 28, 2026) on any order over $25. Use the coupon code SBS26 to activate the discount. We are so grateful for your continued…",
    "fonte": "The Well-Appointed Desk",
    "fonte_id": "wellappointed",
    "grupo": "cadernos",
    "idioma": "en",
-   "publicado_em": "2026-11-26T13:00-03:00",
+   "publicado_em": "2026-11-27T13:00-03:00",
    "tags": [
     "cadernos"
    ],
@@ -255,57 +243,34 @@
    }
   },
   {
-   "id": "974f4be0f98d",
-   "titulo": "Cheque Bounce Case | Handwriting Expert Opinion Unnecessary When Signature Is Admitted and Examination Serves No Purpose: Madras High Court",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFVZR3hVUVRqbVJ3bDhybkxmT1dnckdrRV9FYnJyR0k2a0VLUFJRTVEtSHZvV2E4YWx5aGM1U1lubkR1bm5odGRJal9HcDdBdjNiTkpUQ1o4RFFMUVEyMk5BcEhfeVlyLWdvSWd6OW80cXZvdTRRSlBkNkhsVWVTT3ZHX0NWeDRleWVRUURLeVptSl8t?oc=5",
+   "id": "aabaf64723f9",
+   "titulo": "Milton Hatoum abre a FliRui e reflete sobre literatura e inteligência artificial: 'exige as emoções do autor'",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUkpiN1dIYjFSOWpwZWdsdHhSN2JlRXdCRGNpSVd4VUdHTWM3a0VMRjN5bUc0cVFxTUZ5eUI5NGhWek5qYW5jSF9GSnpjOUdXQ2JwdVlud2VudzNmamgtaXZMLUtPN2F1UGJpUl9EN2YtdGtHSlFrTDdJeVJyTTd4TU9CRk9hc2JkbHczOEthT055cWlZeGV2T2hDaWJCZU9VN2l2eHdheHlLQzF4bUk4NzYwTWVhLUh6ZEtQZUEwem95R0tSTUtVQ2M4RERJWEdJNXFHSGpyOEI0Q2Y0TnZENURMX0tocHNneUdTcTh1amk1OEtnRjhZaDFBdUJ1bVdzb0NPYVMtN0kwbjlBZXBJ0gGPAkFVX3lxTFBSSmI3V0hiMVI5anBlZ2x0eFI3YmVFd0JEY2lJV3hVR0dNYzdrRUxGM3ltRzRxUXFNRnl5Qjk0aFZ6TmphbmNIX0ZKemM5R1dDYnB1WW53ZW53M2ZqaC1pdkwtS083YXVQYmlSX0Q3Zi10a0dKUWtMN0l5UnJNN3hNT0JGT2FzYmRsdzM4S2FPTnlxaVl4ZXZPaENpYkJlT1U3aXZ4d2F4eUtDMXhtSTg3NjBNZWEtSHpkS1BlQTB6b3lHS1JNS1VDYzhERElYR0k1cUdIanI4QjRDZjROdkQ1RExfS2hwc2d5R1NxOHVqaTU4S2dGOFloMUF1QnVtV3NvQ09hUy03STBuOUFlcEk?oc=5",
    "resumo": "",
-   "fonte": "Law Trend (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T12:07-03:00",
-   "tags": [
-    "cadernos"
-   ],
+   "fonte": "CBN (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T12:51-03:00",
+   "tags": [],
    "para_voce": {
-    "pontos": 1,
+    "pontos": 2,
     "autores": [],
     "temas": [
-     "cadernos"
+     "mente"
     ]
    }
   },
   {
-   "id": "249cd84d3dca",
-   "titulo": "TCL Highlights Note A1 NXTPAPER Black Friday Offer For Digital Note-Taking And Meeting Workflows",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQc0JxemhuYnlhYWlBa1BEUTk0ZXVZYlFFTFFoeHdaTWdnRE94S2RSMHlMbGRuTzBxZUVrekZPN0I4TVNXNy1zNXp2LWttZ1ZXNU9fR1NJd3puVXFqT0NUZU1XUXc4Y21nMEY2ckpYWVFVR01qLTQ0RVdFYmpERElockc2d1lncy1UbnpyM1ZFOS01a3RBVC13TzlLSUlLQklYZ01aTkxwTTEycGpfRS1nazdQc1oyN1JYa0dLMlJxOFJTZkxuUDgyUXU1RXo1SGtxS3pzOVpFUmRfczV6V19YLW1OaGNpLW9qeEpwM1ZHY2dFb053UWc0cGhJdU5mQTROSDdZTjBHR1VObk0?oc=5",
-   "resumo": "",
-   "fonte": "Bluefield Daily Telegraph (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T12:04-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "d4a2061af7f4",
-   "titulo": "Fim de semana tem show de Seal, Festa do Livro da USP, nova exposição no Masp e mais; veja agenda",
-   "link": "https://www.estadao.com.br/cultura/fim-de-semana-tem-show-de-seal-festa-do-livro-da-usp-exposicao-no-masp-e-mais/",
-   "resumo": "",
-   "fonte": "Estadão – Cultura",
-   "fonte_id": "estadao",
+   "id": "25831d8fd746",
+   "titulo": "Eu mereço parcelar",
+   "link": "https://quatrocincoum.com.br/podcasts/repertorio-451-mhz/eu-mereco-parcelar/",
+   "resumo": "Está no ar o 223º episódio do 451 MHz, o podcast dos livros. Esta edição, que vai ao ar na Black Friday, reúne o geógrafo Kauê Lopes dos Santos e a antropóloga Paula Sibilia para discutir o que a cultura do consumo e o endividamento têm a ver com a moralidade contemporânea, que associa bens […] O…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-26T12:00-03:00",
+   "publicado_em": "2026-11-27T12:38-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 0,
@@ -314,104 +279,323 @@
    }
   },
   {
-   "id": "e8126c9bfa39",
-   "titulo": "Tonight the Music Seems So Loud by Sathnam Sanghera audiobook review – in praise of George Michael",
-   "link": "https://www.theguardian.com/books/2026/nov/26/tonight-the-music-seems-so-loud-by-sathnam-sanghera-audiobook-review-in-praise-of-george-michael",
-   "resumo": "The author blends teen memories and biographical details for a very personal tribute to the late singer When Sathnam Sanghera was a child, his older sisters fell under the spell of Wham!, the pop duo behind hits including Last Christmas and Young Guns (Go for It). Their brother soon caught the bug,…",
-   "fonte": "The Guardian – Books",
-   "fonte_id": "guardian",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T12:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "b43cc58b9e56",
-   "titulo": "A sala vazia",
-   "link": "https://rascunho.com.br/cronistas/carolina-vigna/a-sala-vazia/",
-   "resumo": "À espera dos alunos, uma sala vazia provoca reflexões sobre celulares, crenças, devoções e as escolhas que dão sentido à vida The post A sala vazia first appeared on Rascunho .",
-   "fonte": "Rascunho",
-   "fonte_id": "rascunho",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T11:51-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "adde5c1eb74e",
-   "titulo": "Our Favorite Kids’ Books for Holiday Gifts",
-   "link": "https://www.nytimes.com/2026/11/26/books/review/kids-books-holiday-gift-guide.html",
-   "resumo": "Need the perfect holiday gift? Try one of these recent releases.",
-   "fonte": "The New York Times – Books",
-   "fonte_id": "nyt",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T11:50-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "94cc8e9607db",
-   "titulo": "Leão XIV se reúne com cardeal que organizou diário pessoal do papa Francisco",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT3NURDdJc21JdFZLdjkxTWZXTmtVS2dmNm1YODdpVDM5LUg5eDhydGtLbkc5Z1M1amNGTmFUblZjMXVWQ3p4SE1RdW9MTjZhNFJiNGJGNDBiNmNreUc3bHZmYjZXUXBXZFc5ejlHQXZyd0oxdURnTlhSRDRTeExjV0Z1RkZMSDhvaW5hQU5xeUtiQk1Ya1FySWlDQ3VhS1FZVXFJcWNxOGtIRDczZDdCbXJleW1sSUhlMU8tZEtpdXlvS184X0hmWjN0UGtabUVuUnlhSlNORnJ5N1g2dF96TUZROVJTYWlXb2xRRlhHR0F4XzYz?oc=5",
+   "id": "ae4b009e3a24",
+   "titulo": "Where Does Dan Brown Live? Inside His Rye Beach Home",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMUDZEMldzRUJYRTJ4LTFsaWNQZ3hDYlc1OEU5VHB5MVpzT29qSllNdHRlLW5HelpzR2hUODByaDFUb2w2RDEya0FtZUNSNjU4NWpYRg?oc=5",
    "resumo": "",
-   "fonte": "Terra (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T11:30-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "5cb5ab5b514c",
-   "titulo": "Threshing Day Sells Over One Million Print Copies",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1N4ak9POTJIcVAxbk44U21PRjhueTRZSlhROUpXUktmYllUb2Vzd3NzUlRtX0NDaWV0YlBNVXZlU0U4aVdNa203WVVlYXEydEpQa213c0dEMzJoSUk4ZVRiYS1MVmFMbWlEZlBqUVVGZ0RWbGZudFF5N3FFc3dqclM2ZHctd2oyTlVTQnI0WQ?oc=5",
-   "resumo": "",
-   "fonte": "Wisevoter (via Google)",
-   "fonte_id": "gn-yarros-en",
+   "fonte": "glamhomeguide.com (via Google)",
+   "fonte_id": "gn-estante-en",
    "grupo": "internacional",
    "idioma": "en",
-   "publicado_em": "2026-11-26T11:10-03:00",
+   "publicado_em": "2026-11-27T12:38-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 3,
     "autores": [
-     "Rebecca Yarros"
+     "Dan Brown"
     ],
     "temas": []
    }
   },
   {
-   "id": "3dc2931094b4",
-   "titulo": "Pecadora",
-   "link": "https://infonet.com.br/entretenimento-infonet/cinema/pecadora/",
-   "resumo": "Baseado no livro homônimo de Nana Pauvolih, Pecadora acompanha a jornada de autodescoberta de uma jovem aprisionada por seus desejos.",
+   "id": "45577b54586e",
+   "titulo": "Festa do Livro da USP atrai grande público ávido por desconto e munido de malas",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/festa-do-livro-da-usp-atrai-grande-publico-avido-por-desconto-e-munido-de-malas.shtml",
+   "resumo": "Mesmo acumulando livros em casa, Beatriz Torres não pôde recusar o convite de uma amiga para ir à Festa do Livro da Universidade de São Paulo sob a promessa de \"livros muito baratos\". Leia mais (11/27/2026 - 12h18)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T12:18-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "caaab17bba5b",
+   "titulo": "Desenvolvimento humano: 10 nomes que conquistaram o público",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFBReVRsWV9mcmVZMXJ4RXVjc3J2MXlPd2lTNHhKRElZUWpqMmpId3pEMDdYYkZ3SWpkclFKWFkzMmVCWDlDQVF6V2xDWTE2UW0tdjVkVGdoMWl6X05PM1NoQkd3OTdpZEt5NHZkVXNhU1hIdERyeFA4dW5TaTJybWpXOW11YzVUSThrN0FzWHhyUlk3ckJZdU1TNzF6eDJsWm45aFpnaldTdjlVVlQ3NGdTMkV4d0g3Rno3QlRJSl9jbWtQczdyMkpEOGlSOVFJQ2FSNTIyUGY4QXRHNmZmR2loZmRFQ1YxWEHSAeoBQVVfeXFMTXhQUXlUbFlfZnJlWTFyeEV1Y3NydjF5T3dpUzR4SkRJWVFqajJqSHd6RDA3WGJGd0lqZHJRSlhZMzJlQlg5Q0FReldsQ1kxNlFtLXY1ZFRnaDFpel9OTzNTaEJHdzk3aWRLeTR2ZFVzYVNYSHREcnhQOHVuU2kycm1qVzltdWM1VEk4azdBc1h4clJZN3JCWXVNUzcxengybFpuOWhaZ2pXU3Y5VVZUNzRnUzJFeHdIN0Z6N0JUSUpfY21rUHM3cjJKRDhpUjlRSUNhUjUyMlBmOEF0RzZmZkdpaGZkRUNWMVhB?oc=5",
+   "resumo": "",
+   "fonte": "Portal UAI (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T11:37-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "361e9831b588",
+   "titulo": "Uma dupla de leitura",
+   "link": "https://rascunho.com.br/cronistas/sabina-anzuategui/uma-dupla-de-leitura/",
+   "resumo": "Uma amizade construída ao longo de dez anos de leituras compartilhadas revela como os livros aproximam pessoas e atravessam diferentes momentos da vida The post Uma dupla de leitura first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:55-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "42ab68db57ec",
+   "titulo": "Estes 15 livros estão custando menos de R$20 cada na Black Friday da Amazon",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdxU0MtbmllQjhXQ1dMaUlqODc4S0U1bUUzZlEtaVFRWVlobDZtajg0T293XzFSc3VkdXBMWW9RZVU0TXF1dDNjQmk5TXp2TVFueTFmZldCZDY0WEYyUnVtMDFxVFR0WGhCS0p3dU5MbTZpZDhpVkhIVkZJaVpRZTVIa1ZnQ2dxOGJlV1lIbHJvMXROTGxIOC1KdldvLWxiRFpZZURwQQ?oc=5",
+   "resumo": "",
+   "fonte": "INSPI (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:19-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "57a6469866b4",
+   "titulo": "Cada um no seu quadrado",
+   "link": "https://rascunho.com.br/cronistas/clarisse-escorel/cada-um-no-seu-quadrado/",
+   "resumo": "Dois passageiros inconvenientes, um avião e a difícil convivência com quem transforma espaços coletivos em extensão da própria casa The post Cada um no seu quadrado first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:13-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b616bb932a29",
+   "titulo": "Luz e sombra",
+   "link": "https://quatrocincoum.com.br/resenhas/literatura/luz-e-sombra-2/",
+   "resumo": "Um dos trunfos da escritora argentina Mariana Enriquez é sua habilidade em trazer elementos fantasmagóricos para fatos históricos — como no magistral romance Nossa parte da noite (trad. Elisa Menezes, Intrínseca, 2021), em que dá um verniz sobrenatural para o período da ditadura argentina —, além…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "61ab99f6561b",
+   "titulo": "O ovo do pato",
+   "link": "https://quatrocincoum.com.br/resenhas/critica-literaria/o-ovo-do-pato/",
+   "resumo": "Caso a comissão do Prêmio Nobel de Literatura — interessada este ano em escolher uma autora anglófona, branca, beirando os oitenta — tivesse se dado ao trabalho de falar comigo, eu teria delicadamente mencionado que bem valia a pena considerar o nome de Lydia Davis. Por algum motivo, no entanto,…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "a4aed5250319",
+   "titulo": "O poeta e suas obsessões",
+   "link": "https://quatrocincoum.com.br/resenhas/poesia/o-poeta-e-suas-obsessoes/",
+   "resumo": "Foi neste ano que tive a oportunidade, pela primeira vez, de dividir uma mesa com Paulo Henriques Britto, embora há muitos anos já nos conhecêssemos e eventualmente nos encontrássemos em eventos ou lançamentos de livros. Convidado para estar ao seu lado em uma mesa no Festival Poesia no Centro,…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "fcb0d784524e",
+   "titulo": "Os Melhores Livros de 2026",
+   "link": "https://quatrocincoum.com.br/noticias/os-melhores-livros-de-2026/os-melhores-livros-de-2026/",
+   "resumo": "Cento e vinte e sete colaboradores da Quatro Cinco Um participaram da votação — 76 escolheram, sem listas preliminares, os lançamentos do ano de que mais gostaram, e 112 votaram na shortlist com as principais escolhas em não ficção, literatura brasileira, literatura estrangeira, poesia e…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [
+    "premios",
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "8ed56b96c72c",
+   "titulo": "Sonhar com a encantaria",
+   "link": "https://quatrocincoum.com.br/resenhas/literatura/literatura-infantojuvenil/sonhar-com-a-encantaria/",
+   "resumo": "Clássico não é o livro que perdura. É aquele cujo enredo julgamos conhecer, mas, a cada nova leitura, nos surpreende com o inesperado e o inédito. Essa definição veio à minha mente quando reencontrei Histórias de índio, de Daniel Munduruku, que encanta, ironiza e convoca nossas sensibilidades à…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "Stephen King"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "896af25cb29b",
+   "titulo": "O assombro da nossa jornada",
+   "link": "https://quatrocincoum.com.br/resenhas/literatura/literatura-brasileira/o-assombro-da-nossa-jornada/",
+   "resumo": "Pela estrada afora eu vou bem sozinha […] o caminho é deserto […] Em grandes momentos da literatura, a clássica canção infantil ecoa várias vezes com voz estridente. Penso em A estrada, de Cormac McCarthy, em que dois personagens vagam por um mundo pós-apocalíptico. Eles são desprovidos de nomes…",
+   "fonte": "Quatro Cinco Um",
+   "fonte_id": "quatrocincoum",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "e21659011545",
+   "titulo": "Livro de Luana Chnaiderman mistura os clássicos ao pop sob urgência da menopausa",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/livro-de-luana-chnaiderman-mistura-os-classicos-ao-pop-sob-urgencia-da-menopausa.shtml",
+   "resumo": "Foi a astróloga de Luana Chnaiderman que deu a ela o incentivo que faltava para publicar um romance. Aos 50 anos, a escritora e professora de português já havia publicado o infantil \"Minhocas\" e a coletânea de contos \"Os Animais Domésticos e Outras Receitas\", semifinalista do Prêmio Jabuti em 2019,…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "4a52d7429893",
+   "titulo": "Livro 'Feiura' apresenta a arquitetura dos horrores da pressão estética",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/livro-feiura-apresenta-a-arquitetura-dos-horrores-da-pressao-estetica.shtml",
+   "resumo": "Quando tinha apenas 14 anos, Moshtari Hilal recebeu um comentário em um vídeo postado no YouTube associando o seu rosto ao de um cavalo. Ali, formou-se o princípio de um estudo que a artista afegã, crescida na Alemanha, desenvolveria por toda a sua carreira. Leia mais (11/27/2026 - 10h00)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T10:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "e4b953e586c2",
+   "titulo": "🔓 Túlio Pires Bragança vence o Prêmio Caminhos",
+   "link": "https://rascunho.com.br/noticias/tulio-pires-braganca-vence-o-premio-caminhos/",
+   "resumo": "Romance de estreia do escritor mineiro será publicado em 2027 pela Dublinense no Brasil e também terá edições em Portugal e Angola The post 🔓 Túlio Pires Bragança vence o Prêmio Caminhos first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T09:46-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "4e47a6b579df",
+   "titulo": "The 10 Best Pulitzer Prize-Winning Books of All Time, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mMnhxR01GOWtzN0xVa2RXdjJqSE91VkF6dUd6UDlxd0x2ZEZBWmdaaHNkLWRyalNWbkhwRm5WektiRTMya0puek9FaFl4R09BN29EVWg2czBKV0g5R01Yb1NCeU1DcldYM3kzTGdweHZBUlFvMzhlM3ZISQ?oc=5",
+   "resumo": "",
+   "fonte": "Collider (via Google)",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T09:45-03:00",
+   "tags": [
+    "premios"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "5d23dc5df7c5",
+   "titulo": "🔓 Simon Taylor lança “Paraná em traço”",
+   "link": "https://rascunho.com.br/noticias/simon-taylor-lanca-parana-em-traco/",
+   "resumo": "Ilustrador do \"Rascunho\" apresenta neste domingo (29) livro com 104 desenhos que retratam a arquitetura e as paisagens do estado The post 🔓 Simon Taylor lança “Paraná em traço” first appeared on Rascunho .",
+   "fonte": "Rascunho",
+   "fonte_id": "rascunho",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T09:38-03:00",
+   "tags": [
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "99dbdd2b26a8",
+   "titulo": "O PT não deve apoiar uma candidatura indicada por Mitidieri em Aracaju",
+   "link": "https://infonet.com.br/blogs/adiberto/o-pt-nao-deve-apoiar-uma-candidatura-indicada-por-mitidieri-em-aracaju/",
+   "resumo": "A pressa do governador Fábio Mitidieri (PSD) em colocar na mesa já agora a discussão sobre as eleições para a Prefeitura de Aracaju serviu para cutucar um forte aliado. Após o líder pedessista insinuar que pretende lançar a candidatura da deputada federal Katarina Feitoza (PSD) à sucessão da…",
    "fonte": "Infonet",
    "fonte_id": "infonet",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-26T11:00-03:00",
+   "publicado_em": "2026-11-27T09:32-03:00",
    "tags": [
     "sergipe"
    ],
@@ -423,34 +607,142 @@
    "quando": null
   },
   {
-   "id": "74961b49bcdc",
-   "titulo": "‘Fourth Wing’ Leads Have Been Cast – and the Internet is not Happy",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVWdEtXYndzTEY2WmgyM1d5STFvb1RmSFdmaHR2TDNieW5EMzZmT0JLY1E5dklUR3VwcVNGaktJaTVZRnRJS0FGcUxuUGV1YTFqTDNHS05HYm45YnJuX0xSNk1YdHN1OUZ2U3ZjR1BTNWc4R3pnTFhmWDZXbXI4U1RSZTVIVW1yZjNPcTZiTl9HZVRZbGdUczBGbTBVQl9GUU96U0MwTno4VHJzWEE?oc=5",
+   "id": "87ef6668f355",
+   "titulo": "Vaticano publica diário pessoal do papa Francisco",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85UHduU0lqamJhUEY1VWdQbnBRNklpU3ZTTG1MZG5LcjZCdUVKMWhoOTkzY0dvSVZpNzNMZkdfXzN0bG9Ib1B6OVdPRTN4R09JZXliR0I1d29jdE1LV0VDMW5mMFZXRE9iMEtiOXV0OVAzMms?oc=5",
    "resumo": "",
-   "fonte": "Her Campus (via Google)",
-   "fonte_id": "gn-yarros-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T11:00-03:00",
+   "fonte": "Diário da Guanabara (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T09:29-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "bc540c041833",
+   "titulo": "No coração da Europa com o impenetrável Thomas Mann e a frágil Romy Schneider",
+   "link": "https://www.publico.pt/2026/11/27/culturaipsilon/podcast/coracao-europa-impenetravel-thomas-mann-fragil-romy-schneider-2196417",
+   "resumo": "Um No Escuro marcado por rostos da Europa, do impenetrável Thomas Mann (escritor em viagem em Fatherland ) à frágil Romy Schneider (actriz em queda em O Importante é Amar )",
+   "fonte": "Público – Cultura",
+   "fonte_id": "publico",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T09:27-03:00",
    "tags": [],
    "para_voce": {
-    "pontos": 3,
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "7f99a1b09529",
+   "titulo": "Children’s and teens roundup – the best new picture books and novels",
+   "link": "https://www.theguardian.com/books/2026/nov/27/childrens-and-teens-roundup-the-best-new-picture-books-and-novels",
+   "resumo": "A countdown to Christmas; musical mice; archeological treasure; a disgraced magician; a terrifying curse and more And a Partridge in a Pear Tree by Fay Evans, illustrated by Jono Ganz, Flying Eye, £8.99 Partridge’s solitary splendour is rudely and cumulatively interrupted in this riotous, collage…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T09:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "52138868ad51",
+   "titulo": "Esta minissérie da Netflix é tão boa porque só tem uma temporada, e é ela que devemos rever depois de Carrie",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44cldZQ1lXVEktbTduM29oQkF4U1pBZWhJR2tTbTZjSTFYR0JEb19DenpzZHBjdkwtQ1VlNmVZc29Mdm52c2xCbFJfM0R0am1lWU1oR1dranJPa0RZek1lS0FDcHpaQ1dpQURDdnVudF9sV2pTakHSAXZBVV95cUxOOHJXWUNZV1RJLW03bjNvaEJBeFNaQWVoSUdrU202Y0kxWEdCRG9fQ3p6c2RwY3ZMLUNVZTZlWXNvTHZudnNsQmxSXzNEdGptZVlNaEdXa2pyT2tEWXpNZUtBQ3B6WkNXaUFEQ3Z1bnRfbFdqU2pB?oc=5",
+   "resumo": "",
+   "fonte": "AdoroCinema (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T08:30-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
     "autores": [
-     "Rebecca Yarros"
+     "Stephen King"
     ],
     "temas": []
    }
   },
   {
-   "id": "6d8b1ba9340d",
-   "titulo": "Grandeza feminina",
-   "link": "https://quatrocincoum.com.br/resenhas/literatura/grandeza-feminina/",
-   "resumo": "Vencedor do International Booker Prize de 2025, Coração iluminado, da escritora indiana Banu Mushtaq, chega agora ao Brasil e mergulha os leitores na perspectiva feminina das comunidades muçulmanas do sul da Índia. Alternando drama e humor, o livro de contos traz histórias centradas no cotidiano.…",
-   "fonte": "Quatro Cinco Um",
-   "fonte_id": "quatrocincoum",
+   "id": "a0933d66464b",
+   "titulo": "Book Club: Let’s Talk About ‘The Calamity Club’",
+   "link": "https://www.nytimes.com/2026/11/27/books/review/podcast-book-club-calamity-club.html",
+   "resumo": "Kathryn Stockett’s second novel is about two outcasts in Mississippi working to change their fate.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T08:05-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "9dcabe887554",
+   "titulo": "‘Shameless cheating’: Near-identical version of handwriting essay published years later",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2QxcFdCZDMySWkxWi1MN1V3cS1Pdy1RXzNFakVtT2dzZUxSMWFIRENKM1VRcmliZlNhTkp0eVgxcTNqTzdGOEJGeno1bUxTaWdwT1hCeXNlRUVhOUhmcXV0RVdOVFB6OEh2QUtTME9vZ2hYVTlCMzRrbzNwdXB4cWdwaU5xZVdRVGYzVW5pOGdTZXUtSktMcGxZcnpuTWMxWmJOTkZxbVpHenZ3SE51dkFHTU9kM1RzTk9fa2VKdjF2UQ?oc=5",
+   "resumo": "",
+   "fonte": "Retraction Watch (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T08:00-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "cadernos"
+    ]
+   }
+  },
+  {
+   "id": "74ebc803c49a",
+   "titulo": "Quando as galinhas tiverem dentes…",
+   "link": "https://www.publico.pt/2026/11/27/culturaipsilon/cronica/galinhas-dentes-2196081",
+   "resumo": "Desde que vim para o monte aprendi alguma coisa sobre galinhas. Crónica de Ana Cristina Leonardo",
+   "fonte": "Público – Cultura",
+   "fonte_id": "publico",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-26T10:59-03:00",
+   "publicado_em": "2026-11-27T07:33-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "80c73fdcc718",
+   "titulo": "Book Club: Read ‘The End of Everything,’ by M. John Harrison, With the Book Review",
+   "link": "https://www.nytimes.com/2026/11/27/books/review/the-end-of-everything-m-john-harrison-book-club.html",
+   "resumo": "In December, the Book Review Book Club will read and discuss Harrison’s Booker Prize-winning novel, about a strange future where aliens have invaded Earth.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:02-03:00",
    "tags": [
     "premios"
    ],
@@ -461,15 +753,15 @@
    }
   },
   {
-   "id": "a45ab57e1c78",
-   "titulo": "Festival Mário de Andrade, Tamara Klink e mais: os eventos da semana",
-   "link": "https://quatrocincoum.com.br/noticias/agenda-451/festival-mario-de-andrade-tamara-klink-e-mais-os-eventos-da-semana/",
-   "resumo": "No último fim de semana de novembro, São Paulo recebe o 6º Festival Mário de Andrade, que acontece de sexta (27) até domingo (29), na Biblioteca Mário de Andrade e entorno. O evento tem entrada gratuita e atividades como conversas, saraus, slams e feira de livros. Destaque para a participação da…",
-   "fonte": "Quatro Cinco Um",
-   "fonte_id": "quatrocincoum",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T10:37-03:00",
+   "id": "3ea20b79839e",
+   "titulo": "Why Are So Many Novels Placing Their Protagonists on Their Deathbeds?",
+   "link": "https://www.nytimes.com/2026/11/27/t-magazine/deathbed-novels.html",
+   "resumo": "George Saunders, Emma Cline and Ben Lerner were among those who mined characters’ last days, seeking renewed poignancy in a timeless theme.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:02-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 0,
@@ -478,11 +770,682 @@
    }
   },
   {
-   "id": "a976ffadf805",
-   "titulo": "Gabriela Mistral, primeira latina a ganhar o Prêmio Nobel de Literatura, em 1945: 'Há sorrisos que não são de felicidade, mas uma forma de chorar com bondade'",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaUVhVzVGRkRLajhUck1iY1g4Yk5XaWYxVnJfUC15QllZdlczYUt3TDkxOGtUcUJwdzRfcmwzT1ZrWUFsMmI5dzlTck1FY0kzM1FOVndVZXRnQ21lbVItdFppdGs2aUxXVFE4RmVjWVpRNS1YRjZ1Q2ZZZ2xfaU1EYXFtcjBHMDBNeF8xSkdBQ2ticlVWVmY3MmVHWFNnRS1HVGhTZXB4ZTZTMlpacTBiZDMxTWhUX1BXYzh2Uk9MTzBpY0x4bzk5TnlkLTNhb3UtQnAtQUREajl1NUNWNjFSWXhmM29ZaU0xd2RtTUlpLW5KbENWT3Q4dXFzVdIB-wFBVV95cUxNaUVhVzVGRkRLajhUck1iY1g4Yk5XaWYxVnJfUC15QllZdlczYUt3TDkxOGtUcUJwdzRfcmwzT1ZrWUFsMmI5dzlTck1FY0kzM1FOVndVZXRnQ21lbVItdFppdGs2aUxXVFE4RmVjWVpRNS1YRjZ1Q2ZZZ2xfaU1EYXFtcjBHMDBNeF8xSkdBQ2ticlVWVmY3MmVHWFNnRS1HVGhTZXB4ZTZTMlpacTBiZDMxTWhUX1BXYzh2Uk9MTzBpY0x4bzk5TnlkLTNhb3UtQnAtQUREajl1NUNWNjFSWXhmM29ZaU0xd2RtTUlpLW5KbENWT3Q4dXFzVQ?oc=5",
+   "id": "29cec066d658",
+   "titulo": "14 New Books to Read in December: Casey McQuiston, Chris Wallace, Rosie Danan and More",
+   "link": "https://www.nytimes.com/2026/11/27/books/new-books-december.html",
+   "resumo": "Holiday romance, an Alpine thriller, an inside look at the founding of Pitchfork and more.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:01-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 2,
+    "autores": [],
+    "temas": [
+     "suspense"
+    ]
+   }
+  },
+  {
+   "id": "743a47252c5d",
+   "titulo": "Book Review: ‘Reading the Bones,’ by Marc Aronson and John S. Mead",
+   "link": "https://www.nytimes.com/2026/11/27/books/review/reading-the-bones-marc-aronson-john-mead.html",
+   "resumo": "In “Reading the Bones,” an award-winning nonfiction writer and a sixth-grade science teacher tell the riveting tale.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:01-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b62610b269a0",
+   "titulo": "‘I am scared’: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech",
+   "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+   "resumo": "Since writing her bestselling exposé, the former employee has been forbidden from speaking publicly about Meta. In an exclusive extract from her Orwell lecture, she talks about corporate lawfare, and the growing backlash against NDAs George Orwell understood that what is missing often tells you…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "440c634be3b8",
+   "titulo": "Why That Book You Want May Be Out of Stock",
+   "link": "https://www.nytimes.com/2026/11/27/books/book-printing-holiday-shopping.html",
+   "resumo": "Printing delays have been putting the squeeze on booksellers and frustrating their customers all through the fall. The holiday season could be worse.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T07:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "d8b0f9f0d48e",
+   "titulo": "The Alan Lee Lord of the Rings Illustrated Editions Are at Their Lowest Price Ever for Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa20xZE5pcHFxZHg1TTJPcjF0Q05RVEhud0Z6UENCVnpoOEMtWVpmZzhjMHhldXVoQW9kRlRJT0dXVHVvUkxSMlNZdnc3NXVLazZIaXU2ak5OTzFRaFplLXVDam00dGZqaFVPaUd4aWtYM3hsUm5wUk5Jb2pJSjd6SlpBVU1nWndTaHFPSVNGQlZIQlVGMVVNV0c1NFh5U28yVFZIbGcyYm1ZYWtkbzJR?oc=5",
    "resumo": "",
-   "fonte": "Purepeople (via Google)",
+   "fonte": "IGN (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T05:14-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "831f53cbe755",
+   "titulo": "Prefácios revelam como a obra de Conceição Evaristo foi recebida pela crítica",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1l0bzFPdEhiYm53YnV3WGRzTjRjbDBwMGFQUm1TUjl5N1BOS3JDRXRzNllsRW1JaW5IYzZhLWx5WmhaRHB4NUZtNXhqY2dXVUI2c2dnc0dNdDJuYXZHb2ZIaFBvQjVCR0tSM1dlTGFlUFFmZi1QU2tKNmpodjl2Vmt3QTk?oc=5",
+   "resumo": "",
+   "fonte": "Orlando Gonzalez (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T04:53-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "a849bc7a27f1",
+   "titulo": "Romances de 'garota maluca' reacendem debate de rótulos em livros de mulheres",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/romances-de-garota-maluca-reacendem-debate-de-rotulos-em-livros-de-mulheres.shtml",
+   "resumo": "Uma mulher de 30 e poucos anos mora no bairro valorizado de uma metrópole, ocupa um cargo de destaque na área de comunicação, é atraente e tem vida sexual ativa. Leia mais (11/27/2026 - 04h00)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T04:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "455198d661c8",
+   "titulo": "Luciany Aparecida prepara novo romance 'Tinta da Bahia' para julho de 2027",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/11/luciany-aparecida-prepara-novo-romance-tinta-da-bahia-para-julho-de-2027.shtml",
+   "resumo": "A Alfaguara marcou para julho de 2027 o lançamento do aguardado novo romance de Luciany Aparecida , \"Tinta da Bahia\". A autora despontou na cena nacional com \"Mata Doce\" , há quatro anos, pelo qual venceu o Prêmio São Paulo de Literatura . Leia mais (11/27/2026 - 04h00)",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T04:00-03:00",
+   "tags": [
+    "premios",
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "73cc79127043",
+   "titulo": "Djaimilia Pereira de Almeida: “Um romance é um abrigo”",
+   "link": "https://www.publico.pt/2026/11/27/culturaipsilon/entrevista/djaimilia-pereira-almeida-romance-abrigo-2196115",
+   "resumo": "Em Leva-me, Comboio, a Ver o Campo Roxo , escreve sobre um casal de escritores. Nesta entrevista, anuncia que vai deixar os romances por algum tempo para fazer poesia.",
+   "fonte": "Público – Cultura",
+   "fonte_id": "publico",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T04:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "60b45e56cf31",
+   "titulo": "The Metaphor Zoo by Jeremy Butterfield review – how animals influence our language",
+   "link": "https://www.theguardian.com/books/2026/nov/27/the-metaphor-zoo-by-jeremy-butterfield-review-how-animals-influence-our-language",
+   "resumo": "A lexicographer reveals the surprising origins of common zoological turns of phrase, from fat cats to fur babies Anyone who has grown up in the country knows that cows come home. They do it at tea time, like clockwork, because an unmilked cow is an uncomfortable cow. So how did “till the cows come…",
+   "fonte": "The Guardian – Books",
+   "fonte_id": "guardian",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T04:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "626cc9ef039f",
+   "titulo": "Flic 2026 traz a Cascavel 2 nomes consagrados da literatura brasileira",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVg5andHeFgyVjY4OTRqdkVGMkdiVGlqci02ZEpjUXVuUmZiekdaTi0ybHNoclkwZW9KeV9JdU91ZC1uVExqVnNabkowdVlXRWt0QlFqVTE3MDFsMU5VUlZkV29aekNkZkp6djJ5eW40cWhRZ1lLdVIzaVJYRW1Oc0hvVGthTE14d2hQb1lQNWROLWRJLWRac1F1UjJDUjVBWko4Q0RwbkdRUGFGWnRn?oc=5",
+   "resumo": "",
+   "fonte": "Alerta Paraná (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T03:50-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "918c9561ac0a",
+   "titulo": "Papa Francisco revelou em diário pessoal que viu o diabo: \"Não esquecerei seus olhos ameaçadores\"",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0dZV2I0SEtTQ19kRHBZS0w0dkZEZy16WmtUb0JDbGV5NkxuSXpUZi1tZDBRbW85WnB4SWNpUHlhVlppWjh0WjlWNEU4R3FUSTd0VHY1MXNYWUNybUctTXVyZVBWTzRoX0k1TlV0R245TFQ5cHhGSVBZVjRhdXdHZ3VGSFR2LUJiMzJ3M09veFQ0cUpRZHZLd21kMjM5ZnQybW5udXgtdm5aQ0JIUzFyZWd4dXdoTVhSYXZLTS0zQ3R4MkJISUczbktXek5pVjJnLWJtdlNJZ2U?oc=5",
+   "resumo": "",
+   "fonte": "GZH (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T03:48-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "cb1e2d621c19",
+   "titulo": "How Translated Fiction Is Challenging The Dominance Of English Language Literature",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcWtlcWx4MnctT0V3R3RfbnhWRFUwOEVrcjB2VXNxbDdzcmFja0VIS20zU3ZublNpbmN0a25QbkhheWxIaE5PZzF3VTlySmZtN3JOaDZuU0ZCTGR5a29Tbld4X190d2hsSkM4NlFIbUJ6LURObHdmdlNyMTlNX2tXOVBOeEZ2blJpcHBJNnJRbUJCSjluTzJxWk5BSXRtZzM4VTJxcDQtc3QzYzhiTFpMOThac3M0eVFtU04tX3piUjM1RDJFN01IMjM1Y1NEdGNoc3JxT0gyaEVqd1pMalHSAeMBQVVfeXFMUGFVRDlNOFN2Nm1wMFVzOGJ2d3NlZmNKSFh1Q3dRbmpuVXNlYUdQN0J2S3hOclNxVzdpRG9iaTExR0hYblZUWkFfUkYzX05OLXN6YW1OWGpkNXI0N1FIcnNvSUh4NkhMek1YNHd0eEdGSUFsYkYzZXptMFJzbk5LbHRmMHV5aTlReWYxcDlmMTVOSk5rMENMMDFkSGZYdDE3Y0kyVEVqOUhmQmc3akhNd1VvYlFYcmo2WXRDb2plZjc4RkVwV0RXclRVOGRWSG1rTFlmcnlVb0ZOQVNsSnB0WnFXWDg?oc=5",
+   "resumo": "",
+   "fonte": "Times Now (via Google)",
+   "fonte_id": "gn-prizes",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T02:39-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "604845beaafd",
+   "titulo": "Castle Rock sai da Netflix em 15/12: último dia de streaming",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZWa0VKY0FiTlZwdkxRS0tZMWU1WldfMVpPMk00dHN5c0dkaGNlMHBxQWE0LXktSWgzNHc0djA0ZUpDWGV5Qk94eHBWay1lU0tHZDhtZU5pNlNNUGdmOXF0blZRZXhXbGlvaDE1RWo3RnJPc1RVWXpFVTVpODRfc3pQY1Q1Q0tQZmhxQw?oc=5",
+   "resumo": "",
+   "fonte": "culpadolag.com.br (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-27T02:10-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "4865cc12b456",
+   "titulo": "Is It Revival?",
+   "link": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/is-it-revival/",
+   "resumo": "We’ve heard dramatic reports from around the United States of spiritual movements, especially among young adults. Is this a biblical revival?",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T02:04-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "fe"
+    ]
+   }
+  },
+  {
+   "id": "67a8bc536a4b",
+   "titulo": "Baby Jesus, Gentle and Mighty",
+   "link": "https://www.thegospelcoalition.org/article/baby-jesus-gentle-mighty/",
+   "resumo": "We love the quiet baby Jesus, but his holy gentleness is only part of the story.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T02:03-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "60e2dd119bab",
+   "titulo": "Will Buying ‘Grand Theft Auto’ Get You the Good Life?",
+   "link": "https://www.thegospelcoalition.org/article/grand-theft-auto-good-life/",
+   "resumo": "Last week’s release of ‘Grand Theft Auto VI’ was perhaps the biggest cultural moment of the year. But is there room for religion and repentance in Vice City?",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T02:02-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "d52ad58c9c98",
+   "titulo": "Man and Woman: Partners in the Regency Mandate",
+   "link": "https://www.thegospelcoalition.org/article/man-woman-regency-mandate/",
+   "resumo": "Jesus is the definition for all human beings as they seek to image God well and is the sufficient Savior when they don’t.",
+   "fonte": "The Gospel Coalition – resenhas",
+   "fonte_id": "tgc",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-27T02:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b2986f7fd65e",
+   "titulo": "'Os Altruístas' reconta maior fraude de cripto da história por meio de romance tóxico",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/11/os-altruistas-reconta-maior-fraude-de-cripto-da-historia-por-meio-de-romance-toxico.shtml",
+   "resumo": "Estelionatários, golpistas e charlatões têm rendido material farto para livros, filmes e séries nos últimos anos, com histórias como as da WeWork, de Adam Neumann , e da Theranos, de Elizabeth Holmes , revisitada agora no documentário de Nathan Fielder \"Tudo Pode Ser Visto\" . Startups são um…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T23:03-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "9b6330ebf2de",
+   "titulo": "Mesa-redonda \"Doze anos de residência no Brasil\"",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWMzUWFDeFpaS2Q0VDlzajFTR25ZaFdOVDdQNXEzMEp0c1hFYzlKckNBUkZGOTlQU2RERHZWOXpHUWx6d0RkalhlcWNBZzJYZTB1eHhhUUhFb01KbUJCQ1poak9xWTBFWXhNVTlTLTRGYnFueXdDTmZkWkVfX2pvbk90bFc4SHBBMVVHRi01WHVtUlZWRHIwN2t3?oc=5",
+   "resumo": "",
+   "fonte": "Academia Brasileira de Letras | (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T19:25-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "96ae15e96dae",
+   "titulo": "O Senhor dos Anéis: 8 mudanças que os filmes fizeram em Frodo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSDVDbjJ6R3lvTS1WR3ZQb2NjWndxLVhEUUQ2ZVJnb2h1WnJOMUQwTmsyajRLcnNaVEM5SEJoS3dLYXhGbW9NaHFRdlJWejZra1RxZk5PSjNkeFJrYl96ZHY3R1lmWGkzRnhNenNGdTJ3dEpzd2RUY3h2T1RXZ3JPMzdYb0VsdGJWckdDMjI5SklUeW1vOUQ4cHN2NlZKc29Sa1hvaUJaOWo1Zw?oc=5",
+   "resumo": "",
+   "fonte": "Legião dos Heróis (via Google)",
+   "fonte_id": "gn-estante-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T18:16-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "5013f7621c7a",
+   "titulo": "Livro investigativo sobre Elizabeth Holmes vai ganhar nova edição na Intrínseca",
+   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/11/livro-investigativo-sobre-elizabeth-holmes-vai-ganhar-nova-edicao-na-intrinseca.shtml",
+   "resumo": "Em breve, tudo poderá ser lido. A Intrínseca comprou os direitos para relançar \"Bad Blood\", livro com a investigação seminal sobre a ascensão e queda de Elizabeth Holmes , ex-bilionária do Vale do Silício que voltou aos holofotes com o filme-sensação \"Tudo Pode Ser Visto\" . Leia mais (11/26/2026 -…",
+   "fonte": "Folha – Ilustrada",
+   "fonte_id": "folha",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T17:54-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "a60b4956e1c4",
+   "titulo": "Books Our Editors Loved This Week",
+   "link": "https://www.nytimes.com/2026/11/26/books/review/new-recommended-books.html",
+   "resumo": "Reading recommendations from critics and editors at The New York Times.",
+   "fonte": "The New York Times – Books",
+   "fonte_id": "nyt",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T17:47-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "3b2538052732",
+   "titulo": "Rio de Letras 2026 premia estudante de Itaguaí",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5eWJuaG5HMGx1WWxrM19WbDNGZzQxa0szS1VLeDlpOF9NMzVjc2Y4MTNlZkJrWXo5TmU4R2M5YkRaUTBOV2tQRkgtcEk3bXZrQkJHVGdQWUg2ZHJmVWRvUUUwVUM4UTd4UlE2endPbU9kUGkycGRFSWpKWS1IaGc?oc=5",
+   "resumo": "",
+   "fonte": "Jornal Atual (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T17:10-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "ca591512f0f3",
+   "titulo": "Jeferson Tenório discute o Avesso da Pele em encontro literário",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVAwbEdYRXhJZy1mRFNBYmlTV05wdVNLdHprMFpJR0JQZHQ4dlJ5S19KRThBLVVfd3d3T3E2MTJyclVZUjltQ1BuSWk0VWUzZGdzMDUzOEN6V3huX0k4WGhhRE1nclBwRWNUT3pQanM0Ylh6UFlQZHJwQmhZVWZ4d0ZET2JxRVBXaFp5VHNTTENnSFNkMVFpZXBjS001YmM?oc=5",
+   "resumo": "",
+   "fonte": "Jornal Metropolitan (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T17:02-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "22f29376b4ed",
+   "titulo": "“O Que Fica de Nós”. Neste romance de Natal há amores, segredos e uma regra – só pode ler um capítulo por dia",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1lPdzZOeDI1cHQ1NFBFYWxiZE91Q1U5NUYwOWJNakpEa2VBYUpCWHNxNzhIUWItaVZlNEdJQ1JVQmVaUWNvVWc3VjJRSlliLU1mY0tBZHZ0MTNTQl94V1lJV1ZRV2tuaGVJUU53VzVKcUdOQjh5ekN4Uy1iYnRVUW9WaXI1M3J6S3gtUnBtaEpIM3pWaVh1dGdzc3VoMEVITlpOQk1TUDlKRnc4MnhkZkltMUpjWGc1SG5oSC1PZ0JhOHBVSGhDRzdTTWZPSnhPZWN4RVpSSXhVem5IR1ZnVUlB?oc=5",
+   "resumo": "",
+   "fonte": "SAPO (via Google)",
+   "fonte_id": "gn-acompanhados-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T17:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "0be5afa209eb",
+   "titulo": "Handwriting experts testify against Kamugisha",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QM1dBUzctOWRON3kzZTNMQzQ2cktaUS1OMGo5d0x2eTlDY3FmVk1MVXZ0UmZiakI5M2M2ei13YllSaDJ2NXRGMGJVX2VLcXFvSDNtNVJPVmdyMlVyeHRwWnZPMXpjLWNmTzdHMTFuYkVadU52Mnk0?oc=5",
+   "resumo": "",
+   "fonte": "NTV Uganda (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T16:58-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "cadernos"
+    ]
+   }
+  },
+  {
+   "id": "948437cec296",
+   "titulo": "Literatura e música: Alan Rocha apresenta “Bisavô Lanka” ao público carioca",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTdGZWJCUVkySVdNMjhtcnQ0cHFrZU1OcjhiMXVMYkhUWkgxZGFNdnVGRE5CN0pCZ1RCTjVRb0swN1JjRDR5eFVkeS0tV3A4Q2w2SXBRNng2NUdiZFgtVEpuN3RhMTROam9uQ0haOWlTR0QzU2JBWDZpVG1OZTVQWGpMRndjQmpnS0ZUblIwcnh0SG55dFBJTjlPeFUwUVFYWkFlOWgtcWZEajdrTmVHMHVYbVNheE1kYTNzSEEyN0U0c3pm?oc=5",
+   "resumo": "",
+   "fonte": "Sala da Notícia (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T16:41-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "094e621d66c2",
+   "titulo": "Rings of Power Balrog: 'True to the Books', Says McKay",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTBFQjN3MVNTYW02b1ZWLW5wdXNnV2FVXzZVYjMtdXh0TUQ3aV9UOGt3SDJmNW9DbFlBY3JTcWthTjFpcGk0TXZMNGthVl9EM3pVeDdOX1ZDS1Jyd056VmZNZFdRQ1RLWmxsclZ2V3cxRzMzR3Nrb0U5cTBfU3ZXRkc0LUlkVEJkU21wY2h1NmJhWDNraWhF?oc=5",
+   "resumo": "",
+   "fonte": "Everything Edinburgh (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T16:29-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "75034ad5be6d",
+   "titulo": "Escritor Jeferson Tenório participa de encontro literário aberto ao público em Goiânia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVp1RWt2Ymtyd0FpVkRvQVBkU1JTT0hNeVFhS3J3MlVXX0R3clRRMHFvRWlmR3k4SmFQSGpOcU5lSVBjZ0Zzb1V0ZU9RSU9Sdi1lYTd6a0pjUVBfUDI1MEhvVllDb09xbXk0ZXcyd1M2MVdiM211aFFoY3Z0TmNwQXVqWk5JT2ZzdTVtRFlERkFoN3NPTUVBU1VaejZkV3RPZ2JtaC1IRk1FSkRScXlIdXBqS1lHV0U3SHZVbQ?oc=5",
+   "resumo": "",
+   "fonte": "Tribuna do Planalto (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T16:24-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "cef83b4d1ec5",
+   "titulo": "João Pessoa recebe mostra de teatro e direitos humanos; veja programação",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPei1zdnMtcWNudnpnaF9sdTQwdmlGSzE0R3lORGJ0cHl4MHgxR0prVWdkeW56UGpubGxNNExFaHlkdnJTdmFYY1luN1BiNHczUnV4aUpqNEhLckdkZHp4aG1FT0pQX0dOR0R2Rl9aSkZyeEltMVIwdEtHRTc1d21yelZlVzgyZkV1Y3VySVhhdTQzN0NBbWMxUlpnUjhKVXBOOU9wTUpmRzZOUWVLVzNsNk0tX2dDb05PRlpQZkpoSVRFNklGQmlvcDQtdHVtbEYtWFFrSA?oc=5",
+   "resumo": "",
+   "fonte": "Repórter PB (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T16:01-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b4bb2d1c870c",
+   "titulo": "CCTV, Handwriting Evidence Link Kamugisha to Murder of Unidentified Woman, Court Hears",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVBsMWNTMnZsT3dsMFBTOFRGUS1relktQm9reWlEaFM0NG1qMEp0azViWTBmN1YtbDZBQmtzRXBBWElLX2xlWGhiVVFSRExDYTFUNnJnZFVfWmRUdUxqTmQ3MHhMQi0xdk54ejR6cXh0S1VIRjFadUtlNi1GMGJtVy1QS3NsMzNzSFllYnlJLTJUMDZqSm40UzdPWkFCVVZFVzJFWlJWNTVMYVh6NS1iQ0w4MDgzNWtkQ01N0gHEAUFVX3lxTE9lalhaeGozTUdIcG45OWZ0bE10ZGRXMmJfamxzajl4ckw2REJ5UGRkTjBtWUZaeERLNWpqSVljamxDX0ZXN202Q1cyU21WRU1MR0FqTmlHdHNic2Y4dkZ2a1JZRlV3dVZpRjV1NVc4Ui1NLW8ySGJMTG9Ja29IaHlrLXJ2eGJjVlhOZ0tWS29lMmNkNGpEVUo3UWZRNGk0NExmSUxWSlVmMjM4Qk5BWUppSTlLcWFEYi1kcGVaZ1prQkY1T20?oc=5",
+   "resumo": "",
+   "fonte": "Nilepost (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T15:33-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "cadernos"
+    ]
+   }
+  },
+  {
+   "id": "aedcb491e35c",
+   "titulo": "Newest Lord Of The Rings Movie Officially Hits Prime Video In 2 Days",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFZveHlPd2oweVFSTS1TSXE5STQ1cWZpdkU3YTBTc3ljei1mcGlScmttSkJ0cHQwWHpkQlNnZmNyUU16NFZpZXFhN1REbmtROWhnMG1RaU00VVg3TlJva2tKUmRXQzF6QnByMm0wTDljbERmTTEzMDlXVUlLMlU4QTB4VW02dzhRdmxzZGp3TFhtN0dZNU5R?oc=5",
+   "resumo": "",
+   "fonte": "ScreenRant (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T15:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "a18fd4bcd60f",
+   "titulo": "Novo convite para A Festa",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10WXd3NzVRLUtQLWlYa3JwNk9wWTlEdFF6RHlXWUYxbDVYTTFHTkdHSC1CRUxObWtxVFppWnY0N0NIcng4Qmlkam1IMS1senVKZkpRa3dlMVZ3R2ZtdW5nYUVJTkxMWHVyRWs2Qll3REQ1Yl9J?oc=5",
+   "resumo": "",
+   "fonte": "CartaCapital (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T14:04-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "ca61d8f15333",
+   "titulo": "Itamar Vieira Junior participa de encontro do Clube de Leitura do CCBB Brasília",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU5XNHpKTHR5NW5vTXdLRGp4ekJucU5tN3BLUlRsSnZjdU9MZlMwN1o2UzNqTmFORjRnX2lGSXFZS0lyc0t0WVllcm4zOERpOWo3RXVaVHBxVTdMU3RpTVVHRVAzQU1TSUwtX3o5MnNfZ0lVQnNlcnhLTF9RLXpTRWYwcEFVTGNNYUUzUFpVX2dlMzRmTDg5bzZPV3U0dkJkaGlQdm9aZG4tWmtxUGMzZ1BJMTJIeFFhcE5SeUU1NmVuYlI3RE04?oc=5",
+   "resumo": "",
+   "fonte": "Jornal de Brasília (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T13:42-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "cc9e9f7f6b83",
+   "titulo": "Bloquear",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tWWZYWmFvMzl3R0pWQVF0N2E5ZzhQZFJxS2FpRW1HRlFLeUdJRWhOQ2N3ZEhWTXBaMUQzSlExQjdzaGRUTkwtUzEtYw?oc=5",
+   "resumo": "",
+   "fonte": "paranahoje.com.br (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T12:57-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "b071f2ca7d4c",
+   "titulo": "Leão XIV se reúne com cardeal que organizou diário pessoal do papa Francisco",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelAwZEtITXlzb1lydVpyZ2pic1NGRE1SQ1huenpjZ3hRbEVOOWlyLUxoOWNtMWNISUVaMjlUc1UyeXZES2FRV3pEYVFFMXM2T3QxVHFLTklvU2xyY2FTMVVEanR2NVdsQ1RlaWo3TmJuMjU0dHpjS3BfWXhBUC1laHNtYWt0R0FLTFo2d2VuWHhXVlZxRHQ3aUdVbHBUc0hlQXRldE5tN1Y1MjNtdmk2VnFqWGp2b0VKd2xtNGhtbm4yYUh4ZjQ4OGFvelZPQ1dnQzB1NG45VTFNUTZ2NURsTTdfOGZIUFVlMnJFN2ZSTmp1Z3pQUkNXXzdYMEVmeWvSAYQCQVVfeXFMTmZBN3dvSlZQVFU2VktSTHUwbnMwWkNCb3VyVGQ0TXU0TTQ3cjhXeERkbm1OczVESWktZWtpV1FYWDlYNjluZDFrOFVKSFpzMjNCNENwOHljV2xQYk11MjBSLS1xbVJMUDNnR1M4eERuUEhJMHdWRTFydGp4Z1dwbU16ZWY5RTVPTTJmZW1XZGswdnp6cjdkSTlNTkxxR0UyUnAwdkRicFZKUmYwcFpocjRYVzd6OEJabEJ1dktRMklMVVZNZFRPUV9kWDU3X3JnWDAtZkVTeEtNeDhFeEZPSUc5ajdDT0thanc2SFpHa2lrU21GdWlsRWIyYmtKNEJFNU9keW4?oc=5",
+   "resumo": "",
+   "fonte": "ANSA Brasil (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T11:26-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "fc243223ab69",
+   "titulo": "Vem aí Diatribe de Amor, única peça teatral de Gabriel García Márquez",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVFfV09aVTlBWFRuRnVWbnBKQkxGcWVTdGU1U1RsZzFvNHJpTTN2azA3MVBQTnNrS1VNaWJsV3RuakozSmxXSjhpMGE3S0J4NEVPZlRZVzRWVVRIU0x6Rkw2QlZ0bENSTHdhd25SZkhGUmpqbWRXaG5WS0xEd3NzTlVaT2Viam5YRTlkVG5HS25id0xOa0d6cWlIUFFUR3lMRF95Q1NxdkIyLVFJWVNzZUEzeDlWQQ?oc=5",
+   "resumo": "",
+   "fonte": "Me Gusta Curitiba (via Google)",
+   "fonte_id": "gn-premios-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-26T11:20-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "75492c3df252",
+   "titulo": "Fotos: Gabriela Mistral, primeira latina a ganhar o Prêmio Nobel de Literatura, em 1945: 'Há sorrisos que não são de felicidade, mas uma forma de chorar com bondade'",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORDVaSjl3azhraGRlNXY5NE42TTRtYVlRNlN2d2NFVE5vdU9fd3Vja096Zlk2aG1jbXBtZTRjN1duOG5yNkJTd3gtR2xLc3JlYTZKTkZDSGNKRUdERnVFVlktRHlRczY4ZW44aUhMVGowa3hLRmo5SlNOSjgzOWpPNjBpNGxTSHUwbEZscWRzYVNuTnBSckVjTlF6bW1oZ18tR0FWbi1KdFYzc3BKc3BqX3pPT0N5MmdsMXRCMzg4Wlg4c2owY2pwaXE1MzhkTTk2ZzV0SS16dVBtdnZUd3BWOEFzUnpkQjNMWDhKVFNTdi1USmhLYVE?oc=5",
+   "resumo": "",
+   "fonte": "www.purepeople.com.br (via Google)",
    "fonte_id": "gn-premios-br",
    "grupo": "brasil-portugal",
    "idioma": "pt",
@@ -497,1144 +1460,34 @@
    }
   },
   {
-   "id": "89a82ed54f24",
-   "titulo": "Professor de Presidente Prudente lança livro após vencer câncer raro no braço",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhMNGtURnVVNWgyb0hTd2xhTUFLbnlMdHZDMnliUWttZ0VYTUhkZnVNVTVaQVdaRnVOTlBGYk8wUUNjSUcyZlBEOUpFellSU3hPWUp4ZGtZVC1tU0Fzc3ItRVpTZm5IeXNvMHFCZ0NTYXktbmhZcU95SFotQWV6RHNSSW1DalJ2S2ZVQ01CdFRjOFNGQnZMX2VCQjB1WWd1bnRFVmFoNEoyVWN2?oc=5",
-   "resumo": "",
-   "fonte": "sentidohorario.com.br (via Google)",
-   "fonte_id": "gn-acompanhados-br",
+   "id": "24965f8f73e2",
+   "titulo": "Livros de autobiografia e biografia cristã: histórias para conhecer e refletir",
+   "link": "https://www.mundocristao.com.br/blog/livros-autobiografia-e-biografia-crista/",
+   "resumo": "A leitura de histórias reais sempre teve um papel importante na formação do pensamento e…",
+   "fonte": "Mundo Cristão (editora)",
+   "fonte_id": "mundocristao",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-26T10:05-03:00",
-   "tags": [
-    "lancamentos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "917f89d2079b",
-   "titulo": "Homem de 63 anos condenado por estupro de vulnerável é preso em Ouro Verde",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEQ3WmFJMmhjS2lUTy1oVEpvRmJJb3JaOV9rOG1TX2xKODRmYmF5Mm9OcDViaE9SOWc5aVBya3BNNkd6TERBNV9LRWJqSmFlQzRtRlNBUG9IMTU0R2hpaGlNa3VUa1cwNl9mOEluZHBhcnFSTGZPQ1Nfb2JFQ2FSbHVKYk9tM0F0RmRDUUZETl9TOXJpVVFvRDhBSkhnbHNGWW1YWmhOQks?oc=5",
-   "resumo": "",
-   "fonte": "sentidohorario.com.br (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T10:05-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "fa46a3566a35",
-   "titulo": "Víctor Vainerman presents his new book about Dostoevsky's heroes in Omsk",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkFlTkNSOHN0ZXR0YVpCUjc4LXFETTFKdWhVbUxILXpybkxjVnBqQnFMRlF5RzF3TU1tLU5BNFRXWmhydDZESGhsV01Tc0VnUWJJWURNcGZrb3d2Y3RJVnJMVnRfRzI2OWV0bDZ4cE9OY3ZBUmJaUzZGbnI5dkdKeFBibkdKUFZCVHB1MEszVWUxV2hJaHBqSm9BNVdaU2d1Z19qTnd5cnpaVWE5VnM5UXBR?oc=5",
-   "resumo": "",
-   "fonte": "Foro3D (via Google)",
-   "fonte_id": "gn-estante-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T09:51-03:00",
-   "tags": [
-    "lancamentos"
-   ],
-   "para_voce": {
-    "pontos": 2,
-    "autores": [
-     "Dostoiévski"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "cea17aaf8258",
-   "titulo": "‘Fourth Wing’ Author’s New Book Officially Passes First Major Milestone",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWVSYkdPMmJaeWJwZ2ZVY21yODUtRXFwekVmeGRrYWw4aWVjQ0FCbnVLWGpPd0E3QVFwaVhib1B6MHcxZm1MQmU3Ql9XOGFqOWtkOWN0OUc3bW5BZ1N6cEE1LVh0MWxIQnF2OEgzQ1puWEhTYUY1S21MSXE5dzlqWk0zVWNhdjRjY1RlS2ZJbkdwZEk?oc=5",
-   "resumo": "",
-   "fonte": "Collider (via Google)",
-   "fonte_id": "gn-yarros-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T09:30-03:00",
-   "tags": [
-    "lancamentos"
-   ],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "Rebecca Yarros"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "93412a3d3ca3",
-   "titulo": "Meet Prakriti Malla, the Nepali woman whose handwriting is considered the most beautiful in the world",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUG9kejB4ZllPbkFCSGxrWUY5YTZ3MDdpWjJDU3c0cHFieVJUeGs2XzZsbkdoU2xNb21OVjgxZE1BUlBqeXhtc3lCM1RpY1owaGFtQ0F4ci00RC1BaEp5bkRpbi1qNmNVdzd3c01iTXE2c2JyUzZzRGc0WS1GaWpZRjNOV0pTNTdaYkIwX0RIYW9LVC12ZUxMNjhOdEdIOWZ6M05DMWtFbVRTaGJBWk54R0ZzZDF5OF80WjEzT3FXa3hJbWJMX2xaVGpMaU1qX1lCazBpV1J4b3ZTbDVRNlBUTVJLNElaZ9IB8wFBVV95cUxQZllnUVRieHRNMWxzMUV0dWg1dkpGdjJsTkwxUTNIb2JKU283bkhLd2JmdHNId1I3ZlpLemsxQ09MOWY5OFJnZDl6cUdmOTVZNUFxaVFEY2ZzaVJJODVMV3BXRmZhVTJKQUM4amd0MVRmZ0hoSWlhTG1ZRGpoeWdGdFdveGVZcTlscE80RFhKWTN0ZHpDbEZPYlpIc25UN2xaQUZ0MlEzNHhJU2RIN2h5ZFg0bEZkWGdZSE1jYnByMF9rLWk0TzJZeEgzempuV0JpU3ZhTm96SUVpRUN0eWI4NlhWN0tHQ0Y2aURCT0IwcFZ0R1k?oc=5",
-   "resumo": "",
-   "fonte": "IndulgExpress (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T07:51-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "84b8dafe8a3d",
-   "titulo": "Black Friday dos livros: Grande sertão e Jabuti 2026 com 40% de desconto",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZHNGQjR3RkdGZ0t2OEZhRU9sY2pqSG1JQkRZYTc1MXZzYUlLUDFtQ0JWd2Z5aVptNkZkUENqY2hDT0YteWd5dF9yNFBQR3o1SE9tSkVRLXJ3cGVrT2lTZjVzRE5Gamh4Z2htaHpOajRHYThGOVY0UEFB?oc=5",
-   "resumo": "",
-   "fonte": "Espaço do Povo (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T07:14-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "84976cea6588",
-   "titulo": "Fourth Wing Meets Gladiator In Spring 2027 With New Release",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjVlTk5odHo3WmN0aUg0UXgzcGx1WEVIb05hczV3b29NTnJkbTBCLTJ0MFBiNFhqXzVIOWsyNDdiTV9vZUJlRnI3d2RVSG05SGRhR3dRRGd4TnVRX2o4X1JtZnkzdVk4ZUJOaC1GSDkxX3VpSE1yNGFZOHRaaDFLakRwc1N5UQ?oc=5",
-   "resumo": "",
-   "fonte": "ScreenRant (via Google)",
-   "fonte_id": "gn-yarros-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T07:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "Rebecca Yarros"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "9aaa48998a80",
-   "titulo": "Fatherland , Memória de Rapariga e outras estreias para esta semana",
-   "link": "https://www.publico.pt/2026/11/26/culturaipsilon/noticia/fatherland-memoria-rapariga-estreias-semana-2195719",
-   "resumo": "Há ainda lugar para uma homenagem a Victor Hugo, um dos mais relevantes escritores do séc. XIX, para uma “conversa açorda” sobre os portugueses e para um reencontro com os piores sogros de Hollywood.",
-   "fonte": "Público – Cultura",
-   "fonte_id": "publico",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T05:58-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "32f986e415dd",
-   "titulo": "Kushner gushes over Putin's note-taking, crowns him peace-loving 'grandmaster of politics'",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHhSOW9ydVpMSEUxNVZrSmhMUGhXUnNqTnMxR2YzT3M2cHpDemVCZE1ScDBmeElTTVBMQ2tVQnpJTU5JVm1uSDkyekcyRDZYOXE2UlJhamU4cTNwOUZjUUFPaUxyQzIzWnhfY253NGY4LW1PS25UNjE0Nl9MUzlLWDAxZ2tFamtUbG5WQUdEMkRVTTE3bmo4dGg4OEs3S1o3N1lEMElnVjFJQjR5MnlGTnBpVEFjVGvSAbMBQVVfeXFMTzN5YVBKQmh6dWF5ZEZrcVQzWmVXbFpyQlRmeVBnREczY1lNd2x3bG94Z3FFVVhoNklfRGc1V3BaU0FiSXdpTXI2WDRyZVBrdnNCQWZwUGlsYktCU0RTNnlfVnJFVHEydkVMdkhmMEVUWFRIbjI0a1RZZUV4MGJJWTZPbHlYVEtSZl91dHVad3ZKNkF1cnkyMkloNjBDaFh4QmVRUFlrb1lNZXZFSW5oS215Rzg?oc=5",
-   "resumo": "",
-   "fonte": "The New Voice of Ukraine (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T05:45-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "42dd18d0df96",
-   "titulo": "Clube de Leitura do Sesc: veja a programação de dezembro",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWl9RQVB2TXZXWmtrcWtnRGMzblV5TXplRnoxQU1RakU4WEtKS19BQ1NjTlIxR1k1d19MbmJiS0ZBWGJqU09iRzRsenRxQmxiTWQxQ0NoUWNySWNlaWVfajRuNzFDaVlKOWJyT2xRcF92ZHpkeE56ME0tZzZWd1gzY09XWDhzdHVvTi1BSVhQVTFoWHpEY3RuQXMyUm44RWVLUlhZcEtmeWhSYTBfYUZLNXp0c0tLQQ?oc=5",
-   "resumo": "",
-   "fonte": "Surgiu (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T05:33-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "6eab9f964687",
-   "titulo": "Nothing Reveals Ear (note), Its AI Note-Taking Earbuds, Before Dec. 8",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YlNweUQ4dUxnQlhXNGxIVmxQUUxFTWlfbm0yZkRoOFV2RHM2SkpsTXF3M05CN1ZkT04wb0U0U2otODNBVWlsSkZFWXlSamFYNGo2TWxvdW9qQU84YTBlNVVLSS1OeHBERktCS3ZxTmRqR19Q?oc=5",
-   "resumo": "",
-   "fonte": "ShiftDelete.Net (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T04:13-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "4f74671ea538",
-   "titulo": "Honey by Elizabeth Jenkins review – a rediscovered 60s classic of sex, money and power",
-   "link": "https://www.theguardian.com/books/2026/nov/26/honey-by-elizabeth-jenkins-review-a-rediscovered-60s-classic-of-sex-money-and-power",
-   "resumo": "The beautiful and mercenary Honey is a monstrously compelling character, in a novel with the ruthlessness of Richard Yates but more wit ‘A sweet white grape of a book” is how Virginia Woolf described Elizabeth Jenkins’s first novel, Virginia Water, published in 1929 when Jenkins was 24. Jenkins may…",
-   "fonte": "The Guardian – Books",
-   "fonte_id": "guardian",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T04:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "3f88cc4ed40e",
-   "titulo": "IIM-A Alumnus Advises CAT 2026 Candidates on Time Management Tips",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdHdCWTBNSVMzR1BrTGtHSlZTbnhhLWRhb1laQjVBWlVqbTJuSVRGQ1ZjekU5WC1rU0dWc0xKblpFZW1QR3Fsb3hWU0xuUVd3M3VWR3pGX1huekQ2WFkweENFWXJmd2xMQ0htWXg1WEw2b3c3YTZCdDN1TGxYdzhSMm5xUzZ3RDFFWklibktOV3RsOVhENTlXQjFqUE1FU3J5VlNGVFBUUlJfbDhodFN0akt1WHIwRnRoMzlzbTJ5MGptY1F6TFpTY20tN3c3d0J0bWsydlVHTUhwS3RFMGt5QXlJbG12OTQ?oc=5",
-   "resumo": "",
-   "fonte": "The CSR Journal (via Google)",
-   "fonte_id": "gn-produtividade-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T03:46-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "2a3c617be237",
-   "titulo": "How J.R.R. Tolkien created the languages of Middle-earth",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90d1pqMG1PRVhzdVpSUVlvR3NGbXNqWWN1SVRqQW5JZzQ0VExKY3hRM2RBMHhHbUk5WENCOFJMZWp6a1pWdlo3cEpBbnF1RnJBZmlmaU1RLXlDZW54UHNpY2ptcUo?oc=5",
-   "resumo": "",
-   "fonte": "IMDb (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-26T03:43-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "4b796718fd1b",
-   "titulo": "Full-time teacher, time management ti tulbek iti panagbalinna a topnotcher",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemxxTGN5LTQ2T0lsdXBTRTluT0NJN183akkzYVpBUFR0TUoyUnAyWmpIWlpnQkw4YXlmdTkyZmVjWlNzRWxKdzh3eTdWVjlCUFEwNnFDalNNU0liX1JOa3NOSl84bi16UnEwbkFHdk0xYW5wamo0bkdZc1UzNU5hcHVBWnNHanJpQXM4MEk0SjhFYVM5VWFQVXBnMVd1MDdENDdqN2N3?oc=5",
-   "resumo": "",
-   "fonte": "Bombo Radyo Vigan (via Google)",
-   "fonte_id": "gn-produtividade-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T03:31-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "47059c8dcab1",
-   "titulo": "\"Can Never Be Conclusive\": Supreme Court Says Handwriting Experts Don't Have the Last Word on a Will",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdl9pcXF3R3BBT0xqNFNYVzZVWmw3WjdtM2pIYTJfVEU0enVVcWdxVm9uZ1lpckV3Qnk5S0dVOEpNNWRJMlJSYTdIRGdmLUhRd1JCalZ3Y0NuT0hhVlg5RnFGSlFpN29Rb2U0VHVkQ1RVdjM1TU5EUC03c2V1NXo0TXVyUFFnWHFBM0pZUTA4cHh5Mjl3T2VvTnlOeGEtLUdfUGlDbDh1amhXOFhjR3cyb256enVGYW01YTZXTTBjY1RiQU0?oc=5",
-   "resumo": "",
-   "fonte": "Lawful Talks (via Google)",
-   "fonte_id": "gn-cadernos-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T03:16-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "41db2d3a5475",
-   "titulo": "Pomodoro & Sottsass. A Friendship Seen by Ugo Mulas",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzVhaXlvekI0Z2VrY3FlbGdnRk02NU5XTmRXMV9mNVhqUUlZUUk4QjlKNW9qNW1iZ3plRk1UQ1VLSzItdV9uQXJvMEhvOFNhVDkzaE9veW9FYWtzc2NOaml2WXZmZHNzLV9MdkhBTXBzS0JBWXUtZUkxWXhtT29fZG8tUXJaNFBueDg5ZEQ3ZjNFOF9BVy1SY2RlMlFQdw?oc=5",
-   "resumo": "",
-   "fonte": "Artnet (via Google)",
-   "fonte_id": "gn-produtividade-en",
-   "grupo": "cadernos",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T03:01-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [],
-    "temas": [
-     "cadernos"
-    ]
-   }
-  },
-  {
-   "id": "8c5663cde9af",
-   "titulo": "People Pleasing (with Ruth Chou Simons)",
-   "link": "https://www.thegospelcoalition.org/podcasts/deep-dish/people-pleasing/",
-   "resumo": "Melissa and Courtney talk with Ruth Chou Simons about how to recognize and resist sinful people-pleasing tendencies and how to pursue pleasing the Lord in whatever we do.",
-   "fonte": "The Gospel Coalition – resenhas",
-   "fonte_id": "tgc",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T02:04-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "67ad51d30323",
-   "titulo": "Where to Find True Abundance",
-   "link": "https://www.thegospelcoalition.org/article/find-true-abundance/",
-   "resumo": "Job learns God can sustain even when what he’s given is gone, that God can take away precious gifts without taking his precious love.",
-   "fonte": "The Gospel Coalition – resenhas",
-   "fonte_id": "tgc",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-26T02:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "1a70219fb944",
-   "titulo": "Imortal da Academia Brasileira de Letras, Drauzio Varella abre programação do Festival Iguassu Inova 2026",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcTBEd1ZWVHQ3S3ljNHYwVGRSTWFPVllLaFN2T0Qxdm5DMjRJSjZTWU5PNndhMXdkM0xUa280UzJWQWFpaVdscENndVVXSU8xX21IVjc2TjZUUzMtbG5XS3VBaGlienU4TGp1NkE5dFo1RHJpRnZjZHRhMHNjN2hod2tSeEtyNVBrRkkzZ0dfeDBvVHJSdTNTanBEbW0zNW12NkxRcWRBdVBnbTd2ank5dzVOMGE1TV8zOUNkdHdxWHJhQWhnZmZXeW83YjVTZjhoeGM0?oc=5",
-   "resumo": "",
-   "fonte": "GDia (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T23:31-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "9989aa2dd80a",
-   "titulo": "‘O Diário Pessoal do Papa Francisco’. Um excerto",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZfRDNwaXBHNzhOTnB1TEJMcUlYYnNmSFhsdUl2bDA2WFl2MzJtVG9zbTFfZUduOGN4UzhmSEJsX2NGWmFVZzBzN3BTaWxyUW9QcWVtTTlqYlRZMDl1dkFEZ25NR1lsb1pOcFZOb3NDbDNHRG1iejI0RHpzSGJkenJ0Z2IyS2FOMUh2S2M5NFU2Z00?oc=5",
-   "resumo": "",
-   "fonte": "Instituto Humanitas Unisinos - IHU (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T22:44-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "0b0f3bccf7e9",
-   "titulo": "Ciência impulsiona literatura brasileira e autores criam distopias inspiradas em 'geopolítica caótica'",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZG00TENPRkxTN3BxNmZQdDRyRmdJX1Jaa2djWEFkZGtpb1J6Tzc1RjVSQU14Q2NySXRoTkhrNlFHVm9sOC00QW5XTk9kSG0wVnd5TXNOakQ2aEdsMFB5dk5NWVVpNzVfY1BUVms1ZVpCZzd4elotdy0yS3FaczZJSFByc1FTU09FV3hOT3BDYUVvTm0xRW1GaG1sODFMNjcySEdvVnRrTk9vQ0ctd1AtN0JBRmlrcXpBUWJUT2dEd05hbDYzdzUweHRVSHA0dGNmYlFNTA?oc=5",
-   "resumo": "",
-   "fonte": "CNN Brasil (via Google)",
-   "fonte_id": "gn-mercado-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T22:05-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "847905d894ec",
-   "titulo": "O Senhor dos Anéis em edição de colecionador está 45% mais barato na Amazon",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rZldyUk5aUVU0blkxYm1pOGVQWERxelc3b2hUeGZDdUJoVVhlTEtna3AtOEJHRUNVbHV5a25PS0JXTm56QmVndFZrbEpNUHREMDBPUmVENC1oNFpiODNJWWR6bXR5LWtsUWdSNzRuYmhBQ0JJSFHSAXZBVV95cUxPa2ZXclJOWlFVNG5ZMWJtaThlUFhEcXpXN29oVHhmQ3VCaFVYZUxLZ2twLThCR0VDVWx1eWtuT0tCV05uekJlZ3RWa2xKTVB0RDAwT1JlRDQtaDRaYjgzSVlkem10eS1rbFFnUjc0bmJoQUNCSUhR?oc=5",
-   "resumo": "",
-   "fonte": "AdoroCinema (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T21:30-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "818fb29328c1",
-   "titulo": "Ana Paula Tavares, a quem só resta a palavra, agradece Prémio Camões",
-   "link": "https://www.publico.pt/2026/11/26/culturaipsilon/noticia/ana-paula-tavares-so-resta-palavra-agradece-premio-camoes-2196341",
-   "resumo": "Numa cerimónia que decorreu ao final desta tarde no Palácio Nacional da Ajuda, em Lisboa, a poeta e historiadora angolana recebeu o diploma do Prémio Camões 2025.",
-   "fonte": "Público – Cultura",
-   "fonte_id": "publico",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T21:08-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "42104a1f18a9",
-   "titulo": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
-   "link": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
-   "resumo": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’ London Falling, Patrick Radden Keefe’s bestselling investigation into the mysterious death of a London teenager, has been named Waterstones book of…",
-   "fonte": "The Guardian – Books",
-   "fonte_id": "guardian",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-25T21:01-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "08cc04713390",
-   "titulo": "Diário pessoal do papa Francisco revela relatos sobre o diabo e angústias do pontífice",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1obFhodkthVmZrbi1hSUJaSGYwdFBDdnF0SjN2UTBOT1MwdWt3TGtfdzhGTjN4WUNSTEl3YWxRYTg0eUhVVDAwQ18yZGxKbHVKSnk0Rl9qRzNETnRCTWZyalNZbHhkMklyNGlubFVxcjJ5MHhPWFF1ZjZjRQ?oc=5",
-   "resumo": "",
-   "fonte": "vtvnews.com.br (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T20:30-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "871e2af8b262",
-   "titulo": "The Lord of the Rings Tolkien Illustrated Editions Are Buy 2, Get 1 Free at Amazon Today for Black Friday",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEJrb2prclk0ZlRqN2Y0aXRCMTBKYlI5N0pZRTdFN2dtSHUzclQwa2FhRlZhaE5jRE9aMkxtaVhPS2xoVEUxMVUtTTAtY0pMbUhjTy0yR1FQU0F3U3RRN0JFQ3k5QUlCOE5IS1lzSXNudElBOXJNZFdtRjdjMWI4YjZqaTRPUWNGZ05hSkZ1U2c?oc=5",
-   "resumo": "",
-   "fonte": "IGN (via Google)",
-   "fonte_id": "gn-estante-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-25T19:39-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "88cc2149bfdd",
-   "titulo": "O Senhor dos Anéis: A Caçada por Gollum encerra filmagens e ganha teaser",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVJmenNfbGtGWTNOQ1lqRFlwWWpZWkdxdFo1ZEVqRWhwZU9xeWFWQlM0MlpBVzJ2b0FXUWwwMHNuSFpraGVtV3lWbVo2bWV5cnFxQTd3TnZwUnAzMUZscXVndEFkZkxaS0hSUm04QVVMcGtyYWtZZGtZdUJFNzJTQjdKM0N3UEtkZldHTUtMcFJxaDNwemNPV1ZqSmNRZHJDUDZ5eWd2cU5JcmxoTXFzRTh0LTI5UUlpaGtQQdIBwgFBVV95cUxOV1RUUFI0OUtvV0VKNXJkRDBienpnUUhGWDQ1ZEJYMFFWVXMwRVpJY0NyN1B4RWtkckhPV0dUUS12YUgxUEVxa2JrM0Q5MlRVYWNGdUJnYjk3ZFhZc3FMenBBQkZ6VW10NzJrNzhNWGtSQ0pzOEFzU1U4Qy1pTEFxSVl0Q0cxR2dLRXFTRkg1OGltbFdyVXVLSmVFT2tWRDlzSkVoNDRNcVk3QmhGd3ltNjFsbWx6V3VkSzc3bDlmYnpsUQ?oc=5",
-   "resumo": "",
-   "fonte": "Bnews (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T18:59-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "0a2464461aae",
-   "titulo": "Find out which books are on the shortlist for the inaugural Children’s Booker Prize",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFJjQ2hEMURfQ3NucTFlY2U4RElwM2ZkNXFta1FTNWxXOW9CY3hHVXRZVVhyS3JDUVVXQXBDc1NkWFVxSkZ6R25KVnNTcXlnZE1zb2hyNzNhMERlaDYzWnlVTlRDdmwwYUUyaUlkWFB2ODZtOFZYUTlKNmdkTmZFMEs2ZVBHSUZMSXVVTUxUalZLSlNUM25DN2JOX2dqdC1GNzlmTlBNWV9GY3ppZW95cmV4QmxoMGty?oc=5",
-   "resumo": "",
-   "fonte": "CBC (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-25T18:54-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "fbbf3ce6747f",
-   "titulo": "Prêmio LeYa decide não selecionar nenhum livro em 2026 por 'falta de qualidade'",
-   "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/premio-leya-decide-nao-selecionar-nenhum-livro-em-2026-por-falta-de-qualidade.shtml",
-   "resumo": "O júri do Prêmio LeYa reuniu-se ontem, 24 de novembro, na sede da LeYa , em Alfragide, com o propósito de anunciar o vencedor da edição deste ano. Leia mais (11/25/2026 - 18h51)",
-   "fonte": "Folha – Ilustrada",
-   "fonte_id": "folha",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T18:51-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "6141c53ea5b5",
-   "titulo": "Painel Ciclo da Autora Homenageada FLIP",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXh0dHhNT2dBakFWb0psUmtLalV0dHZEcTh6T2FsdHVZeDBLMFNRd2FpMFJtbklVWG9tM0RsTVY1b1o2U0ljYmd5dlJrU1NVMkNSYlBsWTZkUlBnR3Q3Nk9RM3NYUlN3Y0pQbTU3ald4ZUluYklsSWt6TlNMYzRsTDBB?oc=5",
-   "resumo": "",
-   "fonte": "Sesc São Paulo (via Google)",
-   "fonte_id": "gn-mercado-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T18:21-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "fd604e4d8270",
-   "titulo": "Notícias do Acadêmico José Roberto de Castro Neves",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWZxc2VkekpRcXZPZUFvZDdKWFdtY05ISXVwUWNsNzAwVm5WRTJsY19vSmFHQnJwNzFfQUVCbDRRUzZjdVcxdzhGRTZtTjBEODhKWnFGS2lDSUtuQldJaHdvcmxsYnRfeDRvejltTDJBY1EwaE53Wi1jdTNyTGJGYy1iWTU3T1JRay1nM0ZnalhqYkZV?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:49-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "a2d461f9f17a",
-   "titulo": "Notícias do Acadêmico João Almino",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qZm1ZYS1iMWx5RGlyVVRBdy00anNrLWhVMGVwSnRheWIxTm11YWRhOUcxc3pPWXdTbi11ZjJGb1pYTUZNMFVaNEZlQXdJVzRxd3FvdXR2M0EyOU03dVpuV1lfeGt4RVlpOWo1ZF93MDdPNlhhYzhGalBJTDJQUQ?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:48-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "b3dab9b4e0f3",
-   "titulo": "Notícias do Acadêmico Marco Lucchesi",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1kzVS1GUmtqN3lqX2QyUnhRdlJUbTVMZGpDT3dQTzFYOW1hWDRrSTVFaEFRb3BHVDdHQ0VSZXRhdnpSdEYwYWpUNlVLVEQySFEyTk5wU05pZ0lmdnBWMGd4LTUtVGJjSHhoR2k5Y0VNcUxta2NaaTBLdGtzZTdzdUYzdw?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:47-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "d1a38d15799e",
-   "titulo": "Posse da Diretoria para o exercício de 2027",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGpNaXgzdHNiTWNWS0VNb0o0UjZ6czNWN1VTM3pzenBWWG1VeHcwejJUTWg3UnJzN0lJTUJWbE5JVGwzbTFWSHhQcWU3a3ViNUJYc1hXWVU2U2tDd3BDUFVBQkd4ek9KLXBPcE1VZkN6VFF2dUUzZ18wcnpXYjVuTVpZai1nSkk?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:45-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "8c2ed29de5f8",
-   "titulo": "Quinta é Cultura",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80dGNLMm0xY3loanpONlVpUHZod2dXT0hqU2FPTXlxVGZhdGF3S09qY3R6NFpqTDNOM3V3ZTRDMS1CazZ1MUNCSHFBb0poTUpCaDM2aUtJc0RFMmY4TjJJbDA1aXAzVkU?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:43-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "5a76b6f0e316",
-   "titulo": "Warner encerra filmagens de The Hunt for Gollum rumo a 2027",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1ZUb3VhQ1JDTk5tOTBqbDVwS1RUeXBNZDhuVkpJZEVHQVpkLXd5Mi1EVWo1M21BWlpyUkM3ZTNqOHhxUzJVUHBWVVBxV3FnLWw0MlFPTW0xXzVxVkUteFNOaTdmempEc1R6QlQ0QVhEWV9ONXltTXJoM0V2eGswZGVRcXFyZDd4S3lNdWYzUFRXZVpxWEdKbDVtUGxvUQ?oc=5",
-   "resumo": "",
-   "fonte": "Máquina Nerd (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:05-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "22e77ac4ea77",
-   "titulo": "Autora de “Quarta Asa” troca os dragões por um romance que promete conquistar (e emocionar) todos os leitores",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2ZIc1BHTjVVU2Y3aFRtek1iVnNvSHc5VnE2M3pMRTk5WkhEMDUzQ1hsSXViclhKUVZfT0tnWXB1c3VwTGQ0MWhpSmpza2tmT0hCMjc2dng1dG9UMVZGaHFrTFp4T19rOHJoanpUZmIwQnVjay03c01sZUZOVXpqMWhhVWxnaVh4YWRPbkU4WUdUdEhtSW5nQmZGTDYtWkR3eXcwdjFxQXpsWU9xRFNBYlFoQlNWMjR5aXB6VG9IMFVsX3kzbTdHalp5WHhISVRDQ0d4Y3FKSGlvRm9keHBJTHR3TEw?oc=5",
-   "resumo": "",
-   "fonte": "SAPO (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "Rebecca Yarros"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "e9e60d4e44fc",
-   "titulo": "Autora de “Quarta Asa” troca os dragões por um romance que promete conquistar (e emocionar) todos os leitores",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTDFnaDlXdjRpNmlKMjZfNmE4N0dRYjRKa2pIeksyMk52QUtIUHo0R05kMHVoYWwwSml2RTZKTENES1otNTY3ZnZQdFVfTjlLUWdNMlRKeF9zSXllclc4eWExcFVPYTZmRE14NHFHY0NXZUNIZHVnNnJUYmZqbkthT01GQk9NYUhBbUZzWHJEV3JTTTIyc2RxWW13NHBBOXp0VEtOaUdkS1VsUkoxel9nNHpRRXA1b3h4Ung3VmJJSHdsUHo1b1N2SUlJd1FGRE9ZWmF5Wk0tYlhkdk94X3hETWh5THhzcGhl?oc=5",
-   "resumo": "",
-   "fonte": "SAPO (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T17:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "Rebecca Yarros"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "d56a5a504f5a",
-   "titulo": "Recap: THE LORD OF THE RINGS: THE RINGS OF POWER season 3×8",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxemNvM3lKQUxpVmNkcmpieVdybEZXcGFUQkxNSld4c1hablRWdTdURFU5MGVxMDdzVjNGb1dnNjZnVVhaMXhuVkkxM25kNlB1ckpv?oc=5",
-   "resumo": "",
-   "fonte": "Comics Beat (via Google)",
-   "fonte_id": "gn-estante-en",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-25T16:45-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "3388d115210e",
-   "titulo": "Festival Mário de Andrade traz autores, feira do livro e shows para o centro de São Paulo",
-   "link": "https://quatrocincoum.com.br/noticias/festival-literario/festival-mario-de-andrade-traz-autores-feira-do-livro-e-shows-para-o-centro-de-sao-paulo/",
-   "resumo": "A Biblioteca Mário de Andrade será palco da sexta edição do Festival Mário de Andrade, com o tema “A cidade lê, a cidade lida”. O evento gratuito é organizado pela Prefeitura de São Paulo, por meio da Secretaria Municipal de Cultura e Economia Criativa, e acontece entre sexta (27) e domingo (29),…",
-   "fonte": "Quatro Cinco Um",
-   "fonte_id": "quatrocincoum",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T16:44-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "797f37af5d70",
-   "titulo": "Melhores Filmes com Glen Powell: 7 Títulos e Onde Assistir",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhNm1Kak5mS21JWC0wbGkxOUw4TW1PWThpdXcxV0FMNEFfNUNGczVkQU90ZGdPNVoxT3RYNm1DNWpIeGZNWlNVdlRQczdTWk5rc2J4XzROYk5IWmNabE04V3UwZHlQLUF4bzl1SzEzRFNWMlVYY1R5STNTWVRTQQ?oc=5",
-   "resumo": "",
-   "fonte": "Cinema de Buteco (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T16:22-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "b5f14616aa8b",
-   "titulo": "\"Espetáculo: O Homem da Última Noite\" - Anderson Barroso retorna a Macapá com monólogo inspirado em Dostoiévski",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVBrbkpvdUNOSWZXeWhkV1I1Tm1iUkI0dXV4ZVl3a2pCSFA5S28yMUNTUjhGaVBQLXlpbE5qd2Y1cjhiYkdXOHVEWUxkTDlBYTBEZW1tRk15UjhaSmRya2k0WHNyV0tCQjZrWUZUVzNkTkZhY0V3OFJ2VW9CZ2pMend0LVVpc25zUW9uLWxoYl9hekdmQWZ4Wmx1R2dIMTc3bU8yaEF2MzNqTXVmcGF0RE5UaFQ2OHlTVzB4VjllR0NTdjNJdWpOQXhSaG9YUzY5alFhbQ?oc=5",
-   "resumo": "",
-   "fonte": "Blog de Rocha (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T16:21-03:00",
+   "publicado_em": "2026-11-26T09:49-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 2,
-    "autores": [
-     "Dostoiévski"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "d73da3a3c9ee",
-   "titulo": "What I’m thankful for, literarily.",
-   "link": "https://lithub.com/what-im-thankful-for-literarily/",
-   "resumo": "– Weird and in person celebrations of books. – Listening to a poem while doing my little stretches. The Library of Congress and Poetry Archive collections, to be specific. – And I’m thankful in advance to the programmer who builds",
-   "fonte": "Literary Hub",
-   "fonte_id": "lithub",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-25T15:54-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
     "autores": [],
-    "temas": []
+    "temas": [
+     "fe"
+    ]
    }
   },
   {
-   "id": "c5e60ccf9807",
-   "titulo": "Final da 3ª Temporada de O Senhor dos Anéis: Os Anéis de Poder divide opiniões dos fãs",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZFl2ZVdqNWhIRkxGX2Z6elZtSE1sUFN2WDhiSnZQZ2hreVJBbFR3RGtjbWhaMFdaMGx1QW5QLVM4MWxobjZ1bUV3REo5NXFiWE1xQ1VHajVBV3VwLU9QMlJ5dWhzSnBCc3hIVGctU2xySURrUXlhbTJwY2szNm8?oc=5",
-   "resumo": "",
-   "fonte": "Mix de Séries (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T15:30-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "7ea2cb4ccd5c",
-   "titulo": "Série favorita de Stephen King com 96% no Rotten Tomatoes já no Top da Netflix Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWm5uNWxVckVLVjh6NlFQT281UDhLNWpDS2dqcXBvNVdjeFgzLWliWVd1SWNoRGZGQVloNkZLcmRiSmxUMEtHYWN3V2F3bEVJTm1neFBPRlUyQjVwQUpYVjRCVThSOE5xcnBKODFfQ3NNaEF6OE43cC1DQ1RhRDRqeG5sNi1qVjBHX2VUWU5ZOGVoWGUwLVNSM2s2WU1tNnpCLVE?oc=5",
-   "resumo": "",
-   "fonte": "Magazine.HD (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T15:30-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [
-     "Stephen King"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "6e27a1fc1327",
-   "titulo": "A beleza salvará o mundo",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JTzg5ZGQzczZfT2htWC1fc3R1ellOVlVMejVUbXg2dG5YZDhMdTRHX2c5R3h5Rnc5anlSWTY5VlRMaGhVdVdPQ2NxRU95RlZveDVQYTBad1FIMnRaNVNBREs2aUhkV0lFM1F1TXVNemJaQQ?oc=5",
-   "resumo": "",
-   "fonte": "Tribuna da Bahia (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T14:59-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "3115423739b2",
-   "titulo": "Por que a 3ª temporada de O Senhor dos Anéis: Os Anéis de Poder mudou a forma como Sauron forjou o Um Anel?",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmlXZ2s2alIzbUtHNVJna3JsaXlBbzE0MjZua3RpMXJlUDhNR21ycnF1SzZDWDZ6eFBjd1dOeDdMdVZXRlJlbmV5OHp1cHNCZzhEZjlmWkdIdW9nX2diT3hEVWdfQ0ZROXk4Z2tHY29wZzlZaDJ4SWRfTTNJdnVDM1NIWFVkc0laMFVJQVlJUWdnNlVEU3ZLbmxZdVRnWjhKWkNBLWJfVFF2bVM1c1VjclViTTNHX3k4NFFDSERuUzctenJUY2RhTXZLZ04zbmlBNDQ0ek5hOXRBalROc21jdV81cw?oc=5",
-   "resumo": "",
-   "fonte": "IGN Brasil (via Google)",
-   "fonte_id": "gn-estante-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T12:44-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 1,
-    "autores": [
-     "J. R. R. Tolkien"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "d622b1a4d542",
-   "titulo": "Stephen King e a dimensão mística e psicodélica do Kingverso",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3k2cU9DbEc3eFprZGVxRHQtZlNNUjlzUWlTTjlaTXY0LVAwTE5FNkphOExVSkhKZUxIU3hUZG5SZFMteklFcFkzWEpoOVlGLUtPVWg3MzRFZWdOWTdEWDlVcGZQNzJPQkVjcG8ydWhReS1KT2ZHRDJQRnItWWF2V1FUekhzY2pQNkhMNFpRZ0pWZTJhWXJBZjNfRmc3U01NSVhN?oc=5",
-   "resumo": "",
-   "fonte": "CartaCapital (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T11:05-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 3,
-    "autores": [
-     "Stephen King"
-    ],
-    "temas": []
-   }
-  },
-  {
-   "id": "87a58316c10c",
-   "titulo": "Como encontrar 'easter eggs' de 'O Exterminador do Futuro 2' e das Tartarugas Ninja em GTA 6",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGlibTRkbVFYT2wyZWl5SzVDdjB2NWw4d2R5WnZJNjA0Y2xRTnpaelNQWEsyZUNqWjh2Vzc4c3VsSjZSbkdtNF9Kb0hkU3BKU3VCbTl4aWV3bGstUHlBVXFfbnVQdHR6QWg4TnZlY19zRGg4Z1ZlWksxS01HM21tMlktdWJrMUZoVkFLN2kzQ01qbWE0cWZGXzF1TERuaTg?oc=5",
-   "resumo": "",
-   "fonte": "EGW.News (via Google)",
-   "fonte_id": "gn-acompanhados-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T10:44-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "1ab683d4aebf",
-   "titulo": "O diário pessoal do Papa Francisco revela encontros com o diabo, uma crise espiritual e uma profunda vida interior",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUnE2Q0l0TWJka2dwUG5pYUh5b2RHWHNyeWh0TUpIQVNmMXpCaFM2amRhVjAwVEJxM0VrRFdmaEtUc1k3TzBHUDhnaU9JYXFYU01lN0VUWHFjbEFWbzJsVGlYOFVmWk1HbjJlNlpLWHZXQlEyZnpiNzFMR2NPX0xtOHVqOHBvOWFRUERvTmFzYy1ndUFNOU1jSWpKTXdVVkJGamlvYmpWYWJwSFNFT1dqekJybjVsTkJZdlVHeDZPRHItZ3MwV1FvZ2pmcTVzblZQQXZVMVVtQ1VYamFSckhsNk9vVEZ5cjA1U1NxNEEzRDU3TEdRUjMwaUxlTEI?oc=5",
-   "resumo": "",
-   "fonte": "Instituto Humanitas Unisinos - IHU (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T03:48-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "f9215bcfdf8b",
-   "titulo": "Diário pessoal do Papa Francisco é publicado e revela angústias e profunda crise espiritual",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWkRmSEphRFdLMXotbENPUnZsRE5BcjNBWG1mWW9NaURvT3czcjdhbUtXa1ZadC02NXNpRUlXUWFkQzRFbGxZY1VVM3hvUXJaVk5UX2JQY01pQWRvSTZkSkcwVkpIY1YwUGlHVEVqY0xjckN5cExkckRud2hlV3lkeWIzZjBLalBfZ183ZmRQdnd3TERObm1ldVFvVm4zd0NFMmdUX2VkMXRoWHBDXzRBcWNfbkdnQURKUk9pd3hoM0NPZjFqcHNvLVd4RlZhNlJ2bUdnVFlLc0VHRDNqX1daZ1BqNHVqTnJRQzQxWDJMU005UdIB8gFBVV95cUxPWkRmSEphRFdLMXotbENPUnZsRE5BcjNBWG1mWW9NaURvT3czcjdhbUtXa1ZadC02NXNpRUlXUWFkQzRFbGxZY1VVM3hvUXJaVk5UX2JQY01pQWRvSTZkSkcwVkpIY1YwUGlHVEVqY0xjckN5cExkckRud2hlV3lkeWIzZjBLalBfZ183ZmRQdnd3TERObm1ldVFvVm4zd0NFMmdUX2VkMXRoWHBDXzRBcWNfbkdnQURKUk9pd3hoM0NPZjFqcHNvLVd4RlZhNlJ2bUdnVFlLc0VHRDNqX1daZ1BqNHVqTnJRQzQxWDJMU005UQ?oc=5",
-   "resumo": "",
-   "fonte": "G1 (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-25T01:01-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "303bf0bf273b",
-   "titulo": "Shaun Tan could win a Booker Prize. Four children will help decide",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUUzRDhSUE04Rk9XTk9mZ1hNLU9xRWZCbUlBLUlpY0o4anNiRzUxSVd1UGIzOHhwbzBxNzE2UzhJdU00bFhveXNfOFl5T3Q0OHA0MEZJVmYyYkh6Qnc0TEVwZk04SFowNGpsMk1sa2FCc0JGX0MtX0hhaGRFYWVYNnExMHo4UG9WeVEwSzA4TTY5T3owc2NBcUhISmxwUmlCN015WEV1ZXBvcHBUU2VsX0hDYzNMcXVfLW1yVHBsWFo?oc=5",
-   "resumo": "",
-   "fonte": "SMH.com.au (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-24T23:15-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "b3eecea9b170",
-   "titulo": "O diário pessoal do Papa Francisco revela visões diabólicas, visão do inferno e crise de 2 anos",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0M4VlBob0l4dEhIM2lucW9ZMHR4Y1NISVM5dVotcWt5OUZROWVXX3g4SENUdUdmLS1uUk41Z0t2RXRvYXBWYlZwUVVuektLTkp6OG9nQlMwRVM4WGo3ME44Q3hKdWlucFdLb0Z2V2RzSjBONENDWnpwdXpzUzhwNU50ODg0Mk4xY19TNUNueVl3REtNS01YYm10MHFrZFJ4a2ZFcXBVZ2hRMEt6MVZLOUlnZmpvb1lldGtpZjR6eXZTVjZkRUtjYkwzSFZjcVhUU29vWEVn?oc=5",
-   "resumo": "",
-   "fonte": "Segunda Base (via Google)",
-   "fonte_id": "gn-cadernos-pt",
-   "grupo": "cadernos",
-   "idioma": "pt",
-   "publicado_em": "2026-11-24T20:58-03:00",
-   "tags": [
-    "cadernos"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "fd2803550791",
-   "titulo": "Drauzio Varella, eleito para a ABL aos 83 anos: “A vida vai levando a gente para caminhos que não se prevê”",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYW9yejk0LVJPOWJ0MEhyUmR6cHpQaWdGQUtYdGROd05aUUZkeVZsaXJrTklKMjRZaW9IMHlLMzRGczYtS1VLcU9DUmpkNmJqWURkcGVXOVZsTWl0alkyR2VQbnpnU25HZlhLM3E1V3JuMnVfdDBSOW1XZndrVnFXd0VLRWRlNVpXSlZqTUtuaFNjWUs1bEhURGRDZ1pTc2Ewb00tcWg1b3J5VE9pOHk4N2xXMVVBa2pfT1JrNWpMel9SVjVVeHY4dkd5N1h5RFEzQVBZWXZHSDlLcU0?oc=5",
-   "resumo": "",
-   "fonte": "Diário do Comércio (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-24T17:53-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "1b07e8f4013b",
-   "titulo": "Children’s Booker Prize 2027 Shortlist: Full List of 8 Books",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNms2MHhnTkhQZ3BXRHJrb1VUWWFKOTRVcTEzSEZSSVNHYVN6MnRBMUVxVzRqY3BRZkxnU3BmOC1fRHFSWHZkNlpfMGdaTHF1SngtWHo5SEd3QVBvTmoxcmxXd2FtQkJyYkpnYkxJRWYyYmdLam84SEVwZ040NzAtZC1BemM1d1VGaGhVa2JDVU03bmdEUWhIVlFMeXV0Q3JRcHRaX3RON051ek1JQlRWTXgtTHp6V2I5dUxibkpXZDhQeTZTTGVfZUxMUzNpU3dYel9aVFVvOV9yWU5zWWN1QXhmY25vcG4wdFdLem1yYjd1elZqcUtLTXZ3?oc=5",
-   "resumo": "",
-   "fonte": "Adda247 (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-24T07:50-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "537ae743987e",
-   "titulo": "Shortlist announced for first Children's Booker Prize for literature",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa3FFVjdtN2FSZGY1N1d1dHVhTHVsRWhRZGp3M3VxaU90cTlpMUd5MGZVY3BWZjlzY29aOE5UUmg2aS1fN2x6OGNjbjllcTdDRndLSVRnd2pXMHpxRW1FR25hY1Q2T1V0MEJvZVQ1MVU3cUxxdHptb3FtVmtnMk45aFVaTFZXVGtfSTNDMHpxMXhpdS1QeW1xVkhXd1hnMzdfdXlzTWpGcjJudnd4S1JHRE1IZHM0OTFMX2liWWJvdVdXd9IBwgFBVV95cUxNa3FFVjdtN2FSZGY1N1d1dHVhTHVsRWhRZGp3M3VxaU90cTlpMUd5MGZVY3BWZjlzY29aOE5UUmg2aS1fN2x6OGNjbjllcTdDRndLSVRnd2pXMHpxRW1FR25hY1Q2T1V0MEJvZVQ1MVU3cUxxdHptb3FtVmtnMk45aFVaTFZXVGtfSTNDMHpxMXhpdS1QeW1xVkhXd1hnMzdfdXlzTWpGcjJudnd4S1JHRE1IZHM0OTFMX2liWWJvdVdXdw?oc=5",
-   "resumo": "",
-   "fonte": "TAG24 NEWS USA INC (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-24T06:29-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "d2f205744872",
-   "titulo": "\"A poesia brasileira na Coleção Ciranda da Poesia\"",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbS1fZko1RGxscUJuaXdlcVJ3UUdZajJoaGNlUmxrU3BVbkVGTWVTSXhxQ1hXalZHblRkVlgtS2xmTWo1dzh6Q1I5d2FyZk1ZQUNTN3dCeWF4ck5vTjVwWG1uT3FkemF0aGdPaG9lVUs4Q1U4UUs5N2VOTTVxTE5HTEhHdndhZGZuRFE?oc=5",
-   "resumo": "",
-   "fonte": "Academia Brasileira de Letras | (via Google)",
-   "fonte_id": "gn-premios-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-24T05:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "10687f13094e",
-   "titulo": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlfRm1HenlJSDl4TUtpc2I2dThxclVWR1RpQWI4MWZhcE1HVENLb3phUmZhQ1ByRUZOVlJJamJzUWttUmlaaExhcHB3WjdnWTViVV9UVWVYeGNXM000b1VsbV9fd0M3OC1PS0NKNkJaelVBMlpwQ1VWQ3Bfd1h6Y3RsYlhLZlNlZTNrZ2NWU05QSk94cGJYaHdaZnpXNW1PXzRHLU16Zw?oc=5",
-   "resumo": "",
-   "fonte": "The Guardian (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-24T04:30-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "a14fa7268e38",
-   "titulo": "The 17 best science-fiction novels of all time",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmlYcDlNdUlzZVRDRWp5MUp0RWRINE1FbXJRdFhzYzdKeHUzTWFzdkN2N29LS2ZQczdHeEx3dXotZGxHVTI3bFVod3RJb1dDeTZuT2Z0c0ZGOUU3TE1qUnVuYkZJOU4xa2hfR3ExNHYzR3F1MXZ3RlFTTGJFS3RSUHdLUHROOHYw?oc=5",
-   "resumo": "",
-   "fonte": "The i Paper (via Google)",
-   "fonte_id": "gn-prizes",
-   "grupo": "internacional",
-   "idioma": "en",
-   "publicado_em": "2026-11-24T03:00-03:00",
-   "tags": [],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "a1f809d25f6e",
-   "titulo": "Two-Time Booker Prize Winner Peter Carey Is Finally Writing His Memoir",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzdmZklBRTdLVC1yVzNlNVkxYktoNGFxQWxMZXBNbmxXbGlHakRxal9RN3F1eDBVR3hvODV4YTVsUE9YcEFpQWZaMVFXVnJsR2VnNk9uMjV6VFlNU2t1TXROMnRZV3JCMjhZbDRnTmFlTkhxYjNROHNXQmZzOVlYWGZkT2pId3lhVVRQOFMxbWFqbGROVl9VRl9TVkZ6SDQ2cFdMRm9JY01obVg1WHBQdlhmTzBxOUszbFAyOXc5ZkV1SHBsNy1JXzlraUtvd9IB0wFBVV95cUxNdEZ4Y0dnSnBtRnJjbFpnYzFGMGJyT1VHVnNCVW44ajJDTmsxOHlvNjVud1ZnMk83UFlEM2N2bkFTbG5HN1FVLXp2QTZkekYyYzFaaW1UcGJ1LUNJd08wV0dtaThseVFDVlY4SmgwVUsxSkpvX01NaFJoYTFwRWh1UXZPQTZKMUN2X25NalJuaEtRRUpZM1dSQ2JheUE3RUhqT0htSFFHYXpUUmk5blZvb0t2cWhRUDJ5Y05nZXBfQ0FUenFhQXJKVlBJYWVpOGpiN3lV?oc=5",
+   "id": "580a00a28742",
+   "titulo": "Why Publishers Are Betting on Books That Have Already Been Published",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU19Yd2ZmYkFRR2hpamNXd3liUXR6amcxcV9pWnVDZGFSbFV2X1d5cjRoQkZ4MGFSM1EwdUhLYjhGdjJ0QjhfQVlvNnowblo1NVhwYnI3NWhHR01QZDZRVmFCdW53V3Uza1BiTDhfQXZZb29CTDhzbjloMlNqc2R0bjFyOFpnelh1ckxQUjRwc0wzeG91WWstYm1qaFQtdERCc281dkpvVXVObGtkZ0hEa19OU0hBMnFBV2dMdkVVckFscFRWOC1JejFCRdIB0AFBVV95cUxPZWpYSzBXbTBtV0xyLURia0FzZTRMem00RHU5TVhRZ3V5MUNKcW00bXZVOHpQVm1xYlNENkl3VkIwQmZDbWJtbjdfbUhTaWE0WDNuVDh0OHdrQ0RsdGZmbDZEZ25BOVRvZ2tmbGJ1SlBGZ3dsNmQ0UFdfdlc5V05oQUxFMUlkNGNmRVRISUI4dUpfYmxfMVRGRTZTRGtZZTN0T2RfUlJLa3p4Z1BHR210MWlVb1I1LThTSVZiZ3N2RExsZUEtUHpLaURZN3k4bmVO?oc=5",
    "resumo": "",
    "fonte": "Times Now (via Google)",
-   "fonte_id": "gn-prizes",
+   "fonte_id": "gn-yarros-en",
    "grupo": "internacional",
    "idioma": "en",
-   "publicado_em": "2026-11-24T02:30-03:00",
-   "tags": [
-    "premios"
-   ],
-   "para_voce": {
-    "pontos": 0,
-    "autores": [],
-    "temas": []
-   }
-  },
-  {
-   "id": "a1b85643b349",
-   "titulo": "Governo do Amapá realiza 4ª edição da Folia Literária Internacional de 26 a 28 de novembro",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGd5TlhXbGFiM1gxNG5qTjJ2LUlfbHVJS3N1UXNkaVFJUjVnRldmd1V4cWViV21WMldYN1dab1lTMnFNcFVCTUdDdEc5akt0S25oakQxR2dybFdxOWI2Vy0waHJoUGVHcDByT3dxY3ZXNnl4bmd6d29Ic3U2NEZqWHc1MDQteTdUZjE3a0tQY3RCZHFoY1ZodURYTWExUTZRVkxwTW90YXpUOWQwMUJuZ0s5Y3gwSjNodlZyZW1HU2d4UU0?oc=5",
-   "resumo": "",
-   "fonte": "amazônia brasil rádio web (via Google)",
-   "fonte_id": "gn-mercado-br",
-   "grupo": "brasil-portugal",
-   "idioma": "pt",
-   "publicado_em": "2026-11-23T22:23-03:00",
+   "publicado_em": "2026-11-26T05:30-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 0,
@@ -1643,15 +1496,89 @@
    }
   },
   {
-   "id": "318f545cdd17",
-   "titulo": "10 essential J.R.R. Tolkien legendarium books to read if you love The Rings of Power",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uMDdzR3hCMDAtSzdJdUNCOHZxOWxZbWhpREVqdVFBVjV6SE9CV0VvSUVFNFhfQzJHY3JZeEwtd2taVVVqdVN6YmlzQU9xMXpKSHp1aGFGWmhuREtKNHRCT2R3?oc=5",
+   "id": "832ee5469e99",
+   "titulo": "Emergency clinicians in Leeds benefit from AI note-taking tool",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWRiOGVKMjhuYTFyN3ZHYl9sM1ZEcUJZQlV1WDFTRkFFU0dCdmVjemgtT0VHVVhoZXFWOU1FTG9hSW54b0tCTy12T2RBS29KR04xS3BnTllsNFZaYnpTb1BOQ2VPREozdVpha3NrTy1uTlZoQmNNd1Y2ckJfUU5KOFhScnNhXzVHdWstWU96VS1sOEgwcHRvT0RnUFRxeXM?oc=5",
    "resumo": "",
-   "fonte": "IMDb (via Google)",
+   "fonte": "Healthcare Today (via Google)",
+   "fonte_id": "gn-cadernos-en",
+   "grupo": "cadernos",
+   "idioma": "en",
+   "publicado_em": "2026-11-26T03:05-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 1,
+    "autores": [],
+    "temas": [
+     "cadernos"
+    ]
+   }
+  },
+  {
+   "id": "8a8de757e403",
+   "titulo": "José Eduardo Sabo Paes e Raquel Grazzioli lançam livro em Brasília com autoridades",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUJsWFd4eUdSOWlMYmJhZExUYkM5SjlhVndCVnc2dFA5SkJNcUNWc25wUUhkUFdSWUlXZnFqczBlcjJPLTY3cng5Ymc5VGFOdGxNNFJWMk9LaXZkU0hBcXpoQmlBOHVmWUhLQ0pGNURxVFNmUlZCZ2ptMW55c2MyT1pkZHJicm1YQVUtTUxndUFmYi1lcVZJNmE5elM1UQ?oc=5",
+   "resumo": "",
+   "fonte": "Sobral Online (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-25T23:37-03:00",
+   "tags": [
+    "lancamentos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "88c8d2280ed0",
+   "titulo": "Governo do Amapá realiza 4ª edição da Folia Literária Internacional de 26 a 28 de novembro",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFF0bklXY05TMEFVOUY5akpuM1dvenZIX3BpQUdGUTlqdkcxSUFSOTVLeGhvbmhLVHlUbnZWTFZIZk1yM3p1LTRUY3RtaWRVVlFpZFJvc3FzSGFEYnNveHBqQjNIcXBRdGFYeW1iN1g1OXZFWTZWSWtyblpOaTFEbVZYZEtEYkVZYzhPd2NvMVI5ZGh0bVZxRHc2dXRSWjhJektIM0s2eUFpVDN0UDJQMTBGcE5FcnpHc0w3VWRoWQ?oc=5",
+   "resumo": "",
+   "fonte": "Blog de Rocha (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-25T17:14-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "a1b4237175ac",
+   "titulo": "2ª Feira Literária Antirracista acontece em São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5cnR5VjRWVGhkY2g0MDVpNXZPYngtdnIwMEdJaERWbmlDVTVuVlZ3cmtzM3JaNTFUMktWNEg3azhDa01FOGJHN3VhSGlhR0ZVSE01UGtZTGY2ZXZ5WUg1aEZWekZnXzZFTW5NcmJSUmdJaFU?oc=5",
+   "resumo": "",
+   "fonte": "TVT News (via Google)",
+   "fonte_id": "gn-mercado-br",
+   "grupo": "brasil-portugal",
+   "idioma": "pt",
+   "publicado_em": "2026-11-25T16:28-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "f6d157331875",
+   "titulo": "How Sauron Forges The One Ring: Tolkien Vs. The Rings Of Power",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WdndLZ3J0bE1NVFRjSEZtRE9seGVudzhLeXY0UUhMejNuQ3BQanF5LU9INUMwdk5oLTNNdlZsU3E2NzFBYWtCcGhfRVoxaEhSZTJCaTd4anU4YnJoTGRlZ09PbzZGVS1UWmpzcEFLM2t2SGhYLURUTkhB?oc=5",
+   "resumo": "",
+   "fonte": "ScreenRant (via Google)",
    "fonte_id": "gn-estante-en",
    "grupo": "internacional",
    "idioma": "en",
-   "publicado_em": "2026-11-23T19:06-03:00",
+   "publicado_em": "2026-11-25T12:47-03:00",
    "tags": [],
    "para_voce": {
     "pontos": 1,
@@ -1662,69 +1589,130 @@
    }
   },
   {
-   "id": "a850bbbba720",
-   "titulo": "Salão de Literatura do Fasc recebe programação especial no Dia da Consciência Negra",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm9rRkhOdTA0R0RrSXNueTJyVUYwdF9nNDFkVzhSYlgwMjNiS2F4S3hPSUZTQmFTZ2xqY3ZlaHBwVnFaZnFtOGxTWEtMMVJCdk4xTG01ZVZXRkI3S3pLZHQ2WFNqZ0lsaDJnR0NlZFFxVmsxd0dvUzhwSHFLOVBmaVJtZUs0VTI4ekoyREJyLTBwNDdJbENiZk0tc3ZuVVB5UWdqSXJ6a2p6bU5hbWpRMGpkcXVmZHZEX0tBNmFTQlBqQUFnNEE?oc=5",
+   "id": "f053add2e5c7",
+   "titulo": "Comissão de Cultura debaterá incentivo à literatura de escritoras negras",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWh5VXZnSUowc0lXVU1qOFA1ODBWcC1XZk9LSDVJeFctNVF2ZUc5SGpyQ09kZG1RSTFCXzJ0TmVlN1VYWHpmd0t1bGh0LUF2UTdxV1FjSUc2LXdaNm9ZZUxtRVBtS2syQUxqeHZRQVJuakI4QzNxS1pCaUN1T1NKbWFITG9Td2hLNUUyOGI0aXVMQVdRVk1yTk1jU0ozd3YzYnFKZG5Na2tiQlk?oc=5",
    "resumo": "",
-   "fonte": "reconcavobahia.com.br (via Google)",
-   "fonte_id": "gn-sergipe-instituicoes",
+   "fonte": "Página 1 MT (via Google)",
+   "fonte_id": "gn-mercado-br",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-21T10:44-03:00",
-   "tags": [
-    "sergipe"
-   ],
+   "publicado_em": "2026-11-25T09:31-03:00",
+   "tags": [],
    "para_voce": {
-    "pontos": 2,
+    "pontos": 0,
     "autores": [],
-    "temas": [
-     "filosofia"
-    ]
-   },
-   "quando": null
+    "temas": []
+   }
   },
   {
-   "id": "cbbe5f5bf050",
-   "titulo": "Bienal do Livro acontece no Centro Cultural de Aracaju",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUdMMkxVbEI2aGVmekgtTXlVRlV3M2RuSXNUTHhaTjNVZEpiV1lEdUZmV1l2MnExQzVFWU1sY1pIQWRqZEFIalZwb2tUX2Zfd3lZeWxCM1NlbHJwdmJLZ1RSNDJsUmVNMkpLcHMwOU1zRjhYUklEUFJYVnVqMGVqXzhMajF1M3JGaUlDcm9ibnQ0eWNVSnBrZWNPSlFHT2lUYkdKcDJncFhibFhmRE5hOHZCTWlJNElydVRaaW91bWVCV1g3YVdV0gHWAUFVX3lxTFB0Tk92OWoteDY0TDI5S09DQWxjNy1qT1duaTR0MFE0RWd3cUF4bzJmSGNSUmhYZUNoWWJDdFNrcUJKNkpQSVN3cHZGR2ZWTVpLOVdockNGTnZ0UkgxbGNQUnhuVFV5emg5NklaZHA5MzFTRmozTUVPdDFTSG1NUTNoUlBod3g2bEFYTGVPdGRBcmg2a2xOdnI5WEVWX3dYRnBCOGt0YWw0UXVPMHh3bVh3YXdnMUxMTUpZNXVOYklwcGY0UmtQTlNOUmpvZTh4U1dyOTQ5X1E?oc=5",
+   "id": "b0e3b3f23ef3",
+   "titulo": "J. R. R. Tolkien Net Worth",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmt1MTRXM05qdVE0dXRBaDFJMXBCdmlRelRsd2JYX0RXYmx6M1l4ZmRJa3lzYmQ4d29kSGRJc1FqTS0zUGN6QkZoUDAzYldLN2JPNjJ6MmdXaUhJNUw3UjRQRzZzc2hwVGZ4R3I4NWFUa3U2QVhsbTdjNmFtbTZZVFBLWmRsQk0?oc=5",
    "resumo": "",
-   "fonte": "G1 (via Google)",
-   "fonte_id": "gn-sergipe-eventos",
+   "fonte": "Celebrity Net Worth (via Google)",
+   "fonte_id": "gn-estante-en",
+   "grupo": "internacional",
+   "idioma": "en",
+   "publicado_em": "2026-11-25T05:00-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 3,
+    "autores": [
+     "J. R. R. Tolkien"
+    ],
+    "temas": []
+   }
+  },
+  {
+   "id": "3c5ce4ce4775",
+   "titulo": "Direita não se endireita",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yX3ExOU1IVWVrOVJYdzFYdnl1RGFnWE1QWW5MZThOM2dtRE1idUFVRkVOejVSTkZ2RE5pb195V0l5d2VzVzh4VDBmZTRqVDdoTk5SaE5UUWRLV3NQLV9jcEFRNGdlVkk?oc=5",
+   "resumo": "",
+   "fonte": "Mídia NINJA (via Google)",
+   "fonte_id": "gn-estante-br",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-07T05:00-03:00",
+   "publicado_em": "2026-11-24T20:52-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "89688c402fbd",
+   "titulo": "Papa Francisco: 'O diabo me olhou com olhos flamejantes', diz visão relatada em diário pessoal revelado após sua morte",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRVJpVE5zYmRqQlR2WVFFZWFOdGt5RGlORVhnYkxON2NqVWY1LWRjZ0xLMEZaaHBnbVVPWW5UWkJabm0xTkZRbDNNZkRMdVJVbUdCaVpYSFBIMnRuU3BBcDNqazZZRTBZejdNV2QxR0hicGg3OGczZkZSMzhHTllrLXJtMDdfNy1SSE9OM09ham1CUTFoTzJBMWhjYzdtUi1TNzhaOHBVMGlzYi15RXlOZ2tGNHA2Z2w5TlVnT3NWQkZJZllZWTNWYUUyQ0VOTEpEam5Ba2pOaW9IaVdrVlY2M0VtSQ?oc=5",
+   "resumo": "",
+   "fonte": "Gazeta de São Paulo (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-24T19:30-03:00",
    "tags": [
-    "sergipe"
+    "cadernos"
    ],
    "para_voce": {
     "pontos": 0,
     "autores": [],
     "temas": []
-   },
-   "quando": null
+   }
   },
   {
-   "id": "2055ceb2700b",
-   "titulo": "AGENDA MANGUE CULTURAL DE 6 a 12 de Novembro: “Festivais culturais, Bienal do Livro, Gaymado e muito mais em Sergipe”",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWxOYmpYWWpWWDNzRXJNVXN4b1BnWUpvOFZwb1ExMS1RSHVoMXhqSVRtR3A0TjVxQmphbk1pZkhQTkEtTGREbVBwb0RnSklIVVN5ZGdiM2p4U21yYi01UVhRSWcybmVKby0yR0ZQQXBfclB1SVFBS2NmV1NHMUd2dnkxVFhZUHNqQnM0dnZoS2Q1YXF2bEJpVHdXSlhTYlliemVwSnN1SUl1c05MLWlheGZLNlhORWpwZ2ItWHZRZnN4YWhPWnpUZFlmd1lFYTkxX09MNlNMQ3Ezdw?oc=5",
+   "id": "36410cda4eb4",
+   "titulo": "Leitura voluntária cresce e alunos avançam para clássicos em escolas acompanhadas por estudo da Árvore |...",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSUJCTlU2ZHdUTTN2MW9JR3h4V0toR3p2cTBHOG8yRWZhTTBDT0lRT2VNeWtONDdIeHlxN2gzYkktcU5iYU8wd21HY2wxNHpOcXVWR2Z2cThhZ3hiaUY0MVgzQTdxN2VtQnY5WTZ3RTRZLWlzMUI4RHBTVTFYNndhN19ibVc3WkZEOF9fWklOQno0ejFxWnkySGVHWjU4Vjk5TEFsWkpUdEZUQmlnTnZyM1B4NTB2YTJhR1pmZGJfdUxOSEczcjQwcU4zd0JoWnBPNExPTjhDX3lxUdIB3wFBVV95cUxQblBMdVJKMzJpU200QjFPVkNNS0dGcTkzZGJ1UlFmRXZnMG5aSDNCR0RYR1JCQUxvdGJBV0xpX2NVU1VlSHIwN3pKVEhma2F4d2liYi1HWGxNNnZNTG9OZHl5MDNEVG9MMXRfRFBnLU9rZVRaTzlaTUkxaThUN2VQZk00V2FrUTNoaGRhbXE1b3ZVaV96SDV4X2hLSFJjTl9aeWlROHFjcDJLaXBhNjlUa3RXVlozNko0NVNNTHNBN3NZOVlPR21VdmkxclF5U0NBMTZoX0NJNWlvcFFtY0hF?oc=5",
    "resumo": "",
-   "fonte": "Mangue Jornalismo (via Google)",
-   "fonte_id": "gn-sergipe-eventos",
+   "fonte": "SEGS Portal Nacional (via Google)",
+   "fonte_id": "gn-estante-br",
    "grupo": "brasil-portugal",
    "idioma": "pt",
-   "publicado_em": "2026-11-06T05:00-03:00",
+   "publicado_em": "2026-11-24T18:11-03:00",
+   "tags": [],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "876f8aa14ce9",
+   "titulo": "Diário pessoal do papa Francisco revela encontros com Diabo",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CdzRyY1BNRG9IUUVrU1ItRzgyU1JSM180TU85VFJ0Um1mUnVaU2R5aExmZU56REhlcnZEWDkxcjFkbkkxZ2lzYVRHZ1VGVHJlQWx5cmdjd1ZoSVR2T1ZEREVrQ1BsaV9tb3hlTFpucjdwb3hnMWpCTHBFeEFPQQ?oc=5",
+   "resumo": "",
+   "fonte": "Tribuna Online (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-24T16:54-03:00",
    "tags": [
-    "sergipe"
+    "cadernos"
    ],
    "para_voce": {
     "pontos": 0,
     "autores": [],
     "temas": []
-   },
-   "quando": {
-    "inicio": "2026-11-06",
-    "fim": "2026-11-12",
-    "origem": "texto"
+   }
+  },
+  {
+   "id": "f7536bdac8e2",
+   "titulo": "Diário pessoal de Papa Francisco revela relatos de visões do diabo e do inferno",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0JaWGVGUFdRU19kSlFNN05FSWhadDhzQUtTc3pwVUpOS094ZnJnbHJrR3ZmOXFsYnZBSkxuYVplOVZtbVpBQ0JXaUVrWmk1U0xJd0x4elBzSG9LMTJnNkxKUzhVbWk4NmVTZld3b1VjMlE2bk5qZHBRVzFHX3dTZk1rMWh5S1puZnYyRE9WX2gtVDVrU1M1NzhUS2pDaEVVSEt1VDA3YkZwRzlidmZYY1FjTnpPV0N1Q2xBeXhRRQ?oc=5",
+   "resumo": "",
+   "fonte": "Portal Felipeh Campos (via Google)",
+   "fonte_id": "gn-cadernos-pt",
+   "grupo": "cadernos",
+   "idioma": "pt",
+   "publicado_em": "2026-11-24T16:00-03:00",
+   "tags": [
+    "cadernos"
+   ],
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
    }
   }
  ]

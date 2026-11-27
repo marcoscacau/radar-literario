@@ -1,30 +1,30 @@
 {
- "gerado_em": "2026-11-26T15:51:15-03:00",
+ "gerado_em": "2026-11-27T15:42:54-03:00",
  "dias": [
+  "2026-11-27",
   "2026-11-26",
   "2026-11-25",
   "2026-11-24",
   "2026-11-23",
   "2026-11-22",
-  "2026-11-21",
-  "2026-11-20"
+  "2026-11-21"
  ],
- "total": 575,
+ "total": 584,
  "por_grupo": {
-  "brasil-portugal": 250,
-  "internacional": 244,
-  "cadernos": 81
+  "brasil-portugal": 272,
+  "internacional": 227,
+  "cadernos": 85
  },
  "temas": [
   {
    "id": "cadernos",
    "nome": "cadernos e produtividade",
-   "noticias": 49
+   "noticias": 48
   },
   {
    "id": "fantasia",
    "nome": "fantasia e ficção científica",
-   "noticias": 16
+   "noticias": 14
   },
   {
    "id": "fe",
@@ -34,17 +34,17 @@
   {
    "id": "filosofia",
    "nome": "filosofia",
-   "noticias": 5
+   "noticias": 4
+  },
+  {
+   "id": "mente",
+   "nome": "mente e emoções",
+   "noticias": 3
   },
   {
    "id": "suspense",
    "nome": "suspense e mistério",
    "noticias": 3
-  },
-  {
-   "id": "mente",
-   "nome": "mente e emoções",
-   "noticias": 2
   },
   {
    "id": "fisica",
@@ -55,27 +55,27 @@
  "autores": [
   {
    "nome": "J. R. R. Tolkien",
-   "noticias": 43
+   "noticias": 44
   },
   {
    "nome": "Stephen King",
-   "noticias": 25
+   "noticias": 27
   },
   {
    "nome": "Rebecca Yarros",
-   "noticias": 19
+   "noticias": 14
   },
   {
    "nome": "C. S. Lewis",
-   "noticias": 9
+   "noticias": 8
   },
   {
    "nome": "Dostoiévski",
-   "noticias": 6
+   "noticias": 5
   },
   {
-   "nome": "Raphael Montes",
-   "noticias": 2
+   "nome": "Dan Brown",
+   "noticias": 1
   },
   {
    "nome": "Augusto Cury",
@@ -99,23 +99,13 @@
   "Senhor dos Anéis",
   "Anéis de Poder",
   "Bienal do Livro Rio",
-  "Rick Riordan"
+  "São Paulo"
  ],
  "subindo": [
   {
-   "termo": "Children Booker Prize",
-   "ultimos_3_dias": 11,
-   "antes": 1
-  },
-  {
-   "termo": "Senhor dos Anéis",
-   "ultimos_3_dias": 9,
-   "antes": 4
-  },
-  {
    "termo": "São Paulo",
    "ultimos_3_dias": 5,
-   "antes": 0
+   "antes": 1
   },
   {
    "termo": "Shaun Tan",
@@ -123,19 +113,29 @@
    "antes": 0
   },
   {
+   "termo": "Children Booker Prize",
+   "ultimos_3_dias": 7,
+   "antes": 5
+  },
+  {
+   "termo": "Anéis de Poder",
+   "ultimos_3_dias": 4,
+   "antes": 2
+  },
+  {
    "termo": "Comissão de Cultura",
    "ultimos_3_dias": 3,
-   "antes": 0
+   "antes": 1
   }
  ],
  "destaques": [
   "b31931315f79",
   "960a913a8bc1",
   "5979f12b426f",
+  "ae4b009e3a24",
   "5cb5ab5b514c",
   "b2b2151365f9",
   "8ef16ff2988b",
-  "e2d23b78d290",
-  "2c0445c722fa"
+  "e2d23b78d290"
  ]
 }

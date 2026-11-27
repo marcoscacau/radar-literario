@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T09:58:08-03:00",
+ "gerado_em": "2026-11-27T15:43:03-03:00",
  "fontes": [
   {
    "fonte": "Pelando",
@@ -17,11 +17,47 @@
    "fonte": "Imprensa",
    "ok": true,
    "erro": null,
-   "ofertas": 6
+   "ofertas": 8
   }
  ],
- "total": 44,
+ "total": 46,
  "ofertas": [
+  {
+   "id": "bddb432a3ad6",
+   "titulo": "Cupom Amazon libera 3 meses de Kindle Unlimited por R$ 1,99 na Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY29HTmdxM3lYZmdUVHp5X3JqV1huSHI2VnR2cXpmcU1NZk1NUGxTeThhbUF2b0ZaZE9odENSM21CakFuZWFIMGJsZzZPX1NKeDhVT1NGUTVBdTNuOXdQX1dRYzI2SGtwV0luTlJzNGRFRzlTUVVWc2ROblBhaXBFcGYyUQ?oc=5",
+   "fonte": "Seletronic",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-27T17:05+00:00",
+   "visto_em": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
+  {
+   "id": "f98d15e0b780",
+   "titulo": "Kindle Colorsoft por R$ 999 supera oferta do Paperwhite na Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGMzOUFaMHhnQ3pqN1pFZTlxNmxfcHhHSnlTOWJiSG9PUXVnRTBHOGNCbVJhVDUyYnM3QVJlbXhyWTVnZ2JXZjQ1WEo0RlNseUtlRk80QUJXalV3a3VWeTQySWIwRHZHaVRkbnQ2ZzJSVXNDZzU0TW9kQlFDV1lGZksweHlwNVQ3c3NOVA?oc=5",
+   "fonte": "Game Overdrive",
+   "loja": "",
+   "preco": null,
+   "tipo": "imprensa",
+   "nota": "",
+   "postado_em": "2026-11-27T15:13+00:00",
+   "visto_em": "2026-11-27T15:43-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
+   "para_voce": {
+    "pontos": 0,
+    "autores": [],
+    "temas": []
+   }
+  },
   {
    "id": "779cd457b005",
    "titulo": "Kindle Colorsoft está saindo por menos de R$ 1.000 em oferta Black Friday",
@@ -33,7 +69,7 @@
    "nota": "",
    "postado_em": "2026-11-27T01:29+00:00",
    "visto_em": "2026-11-27T09:58-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -51,7 +87,7 @@
    "nota": "",
    "postado_em": "2026-11-26T23:04+00:00",
    "visto_em": "2026-11-26T22:52-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -69,7 +105,7 @@
    "nota": "",
    "postado_em": "2026-11-26T19:54+00:00",
    "visto_em": "2026-11-26T22:52-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -87,7 +123,7 @@
    "nota": "",
    "postado_em": "2026-11-26T17:58+00:00",
    "visto_em": "2026-11-26T15:51-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -105,7 +141,7 @@
    "nota": "",
    "postado_em": "2026-11-26T14:55+00:00",
    "visto_em": "2026-11-26T14:12-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],
@@ -123,7 +159,7 @@
    "nota": "",
    "postado_em": "2026-11-25T19:28+00:00",
    "visto_em": "2026-11-25T16:30-03:00",
-   "ultima_vez": "2026-11-27T09:58-03:00",
+   "ultima_vez": "2026-11-27T15:43-03:00",
    "para_voce": {
     "pontos": 0,
     "autores": [],

@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-11-26T15:51:15-03:00",
+ "gerado_em": "2026-11-27T15:42:54-03:00",
  "dias": [
-  "2026-11-20",
   "2026-11-21",
   "2026-11-22",
   "2026-11-23",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "termos": [
   {
@@ -15,13 +15,13 @@
    "fontes": 11,
    "mencoes": 12,
    "por_dia": [
-    0,
     1,
     0,
     0,
     4,
     5,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -41,19 +41,20 @@
   },
   {
    "termo": "Senhor dos Anéis",
-   "fontes": 7,
-   "mencoes": 13,
+   "fontes": 8,
+   "mencoes": 14,
    "por_dia": [
-    0,
     2,
     0,
     2,
     3,
     2,
-    4
+    4,
+    1
    ],
    "novo_hoje": false,
    "itens": [
+    "96ae15e96dae",
     "847905d894ec",
     "88cc2149bfdd",
     "c5e60ccf9807",
@@ -64,22 +65,21 @@
     "3748fe0926b3",
     "f98945088664",
     "9b9e4ae7c2a6",
-    "055155e4ee72",
-    "f926fd1aeb8f"
+    "055155e4ee72"
    ]
   },
   {
    "termo": "Anéis de Poder",
    "fontes": 6,
-   "mencoes": 7,
+   "mencoes": 6,
    "por_dia": [
-    1,
     2,
     0,
     0,
     0,
     2,
-    2
+    2,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -88,21 +88,20 @@
     "559c2c1ec9be",
     "b182e798ec48",
     "f926fd1aeb8f",
-    "a8df0fe9134c",
-    "a97c53818311"
+    "a8df0fe9134c"
    ]
   },
   {
    "termo": "Bienal do Livro Rio",
-   "fontes": 6,
-   "mencoes": 7,
+   "fontes": 5,
+   "mencoes": 6,
    "por_dia": [
-    1,
     1,
     1,
     0,
     1,
     3,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -112,120 +111,133 @@
     "84f7ecba1d3c",
     "307d11071cc2",
     "703ee019d7cb",
-    "a4d209bbbcb7",
-    "208f74f11995"
+    "a4d209bbbcb7"
+   ]
+  },
+  {
+   "termo": "São Paulo",
+   "fontes": 4,
+   "mencoes": 6,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a1b4237175ac",
+    "a45ab57e1c78",
+    "3388d115210e",
+    "273d5d48e296",
+    "48d9750071de",
+    "cef0ffc45be4"
+   ]
+  },
+  {
+   "termo": "Prêmio Jabuti",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "e21659011545",
+    "8c183b32e2bd",
+    "82d32e1271f4",
+    "0d04ee7613f8"
+   ]
+  },
+  {
+   "termo": "Comissão de Cultura",
+   "fontes": 4,
+   "mencoes": 4,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "f053add2e5c7",
+    "de6bddc21197",
+    "9d7227e2afa8",
+    "45d98d71a4ee"
    ]
   },
   {
    "termo": "Rick Riordan",
-   "fontes": 5,
-   "mencoes": 6,
-   "por_dia": [
-    2,
-    1,
-    0,
-    0,
-    2,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "84f7ecba1d3c",
-    "307d11071cc2",
-    "5abd77e05735",
-    "a4d209bbbcb7",
-    "208f74f11995",
-    "4994460e1fdb"
-   ]
-  },
-  {
-   "termo": "National Book Award",
-   "fontes": 4,
-   "mencoes": 7,
-   "por_dia": [
-    4,
-    2,
-    0,
-    1,
-    0,
-    0,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "18c7bc3d0989",
-    "da307f9c0c30",
-    "689eec59b87b",
-    "8a1370e85ec2",
-    "75a4937ee3ab",
-    "c01e7921b560",
-    "5653dc5a55f0"
-   ]
-  },
-  {
-   "termo": "Percy Jackson",
-   "fontes": 4,
-   "mencoes": 5,
-   "por_dia": [
-    2,
-    0,
-    0,
-    0,
-    2,
-    1,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "84f7ecba1d3c",
-    "307d11071cc2",
-    "5abd77e05735",
-    "208f74f11995",
-    "4994460e1fdb"
-   ]
-  },
-  {
-   "termo": "Dia da Consciência Negra",
-   "fontes": 4,
+   "fontes": 3,
    "mencoes": 4,
    "por_dia": [
     1,
+    0,
+    0,
+    2,
+    1,
+    0,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "84f7ecba1d3c",
+    "307d11071cc2",
+    "5abd77e05735",
+    "a4d209bbbcb7"
+   ]
+  },
+  {
+   "termo": "Nobel de Literatura",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
     1,
     0,
     0,
+    0,
+    1
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "d5c45a34225e",
+    "5aa6ec07d942",
+    "c6d4f7bd0ba9"
+   ]
+  },
+  {
+   "termo": "Folia Literária Internacional",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    0,
+    0,
+    0,
+    1,
     0,
     1,
     1
    ],
    "novo_hoje": false,
    "itens": [
-    "a850bbbba720",
-    "386aabe5c288",
-    "c4a318b342f9",
-    "9d68105348bf"
-   ]
-  },
-  {
-   "termo": "São Paulo",
-   "fontes": 3,
-   "mencoes": 5,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    2,
-    2
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "a45ab57e1c78",
-    "3388d115210e",
-    "273d5d48e296",
-    "48d9750071de",
-    "cef0ffc45be4"
+    "88c8d2280ed0",
+    "a1b85643b349",
+    "f73753af9a4e"
    ]
   },
   {
@@ -237,9 +249,9 @@
     0,
     0,
     0,
-    0,
     2,
-    1
+    1,
+    0
    ],
    "novo_hoje": false,
    "itens": [
@@ -249,16 +261,36 @@
    ]
   },
   {
+   "termo": "Dia da Consciência Negra",
+   "fontes": 3,
+   "mencoes": 3,
+   "por_dia": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0
+   ],
+   "novo_hoje": false,
+   "itens": [
+    "a850bbbba720",
+    "386aabe5c288",
+    "c4a318b342f9"
+   ]
+  },
+  {
    "termo": "Mike Flanagan",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
-    0,
     1,
     0,
     0,
     0,
     2,
+    0,
     0
    ],
    "novo_hoje": false,
@@ -269,26 +301,6 @@
    ]
   },
   {
-   "termo": "Comissão de Cultura",
-   "fontes": 3,
-   "mencoes": 3,
-   "por_dia": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    2,
-    0
-   ],
-   "novo_hoje": false,
-   "itens": [
-    "de6bddc21197",
-    "9d7227e2afa8",
-    "45d98d71a4ee"
-   ]
-  },
-  {
    "termo": "Eoin Colfer",
    "fontes": 3,
    "mencoes": 3,
@@ -296,8 +308,8 @@
     0,
     0,
     0,
-    0,
     3,
+    0,
     0,
     0
    ],
@@ -309,23 +321,23 @@
    ]
   },
   {
-   "termo": "Prêmio Jabuti",
+   "termo": "National Book Award",
    "fontes": 3,
    "mencoes": 3,
    "por_dia": [
+    2,
+    0,
+    1,
     0,
     0,
-    1,
-    1,
-    1,
     0,
     0
    ],
    "novo_hoje": false,
    "itens": [
-    "8c183b32e2bd",
-    "82d32e1271f4",
-    "0d04ee7613f8"
+    "18c7bc3d0989",
+    "da307f9c0c30",
+    "689eec59b87b"
    ]
   }
  ]

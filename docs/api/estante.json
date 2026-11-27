@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T15:51:15-03:00",
+ "gerado_em": "2026-11-27T15:42:54-03:00",
  "autores": [
   {
    "nome": "Rebecca Yarros",
@@ -8,11 +8,7 @@
     "2aa4683af02b",
     "3f4e3040b4cf",
     "e00245545a06",
-    "6c2c6ce14171",
-    "4a955830edbc",
-    "7fb6363fa469",
-    "fa0eaf6a7825",
-    "73ead809c1d1"
+    "6c2c6ce14171"
    ],
    "livros": [
     {
@@ -135,10 +131,7 @@
       "2aa4683af02b",
       "3f4e3040b4cf",
       "e00245545a06",
-      "6c2c6ce14171",
-      "7fb6363fa469",
-      "fa0eaf6a7825",
-      "edc1a89315da"
+      "6c2c6ce14171"
      ]
     },
     {
@@ -184,8 +177,7 @@
      "ano": null,
      "anunciado": true,
      "noticias": [
-      "e0fd406574a7",
-      "4a955830edbc"
+      "e0fd406574a7"
      ]
     }
    ]
@@ -193,8 +185,7 @@
   {
    "nome": "Raphael Montes",
    "noticias": [
-    "3fb59abf6a54",
-    "2c0445c722fa"
+    "3fb59abf6a54"
    ],
    "livros": [
     {
@@ -282,6 +273,7 @@
      "ano": 1974,
      "unico": true,
      "noticias": [
+      "52138868ad51",
       "031f0efd219f",
       "6ab774c9e29b",
       "8c71bdf3d88b"
@@ -357,7 +349,9 @@
      "titulo": "Cujo",
      "ano": 1981,
      "unico": true,
-     "noticias": []
+     "noticias": [
+      "8ed56b96c72c"
+     ]
     },
     {
      "titulo": "Danse Macabre",
@@ -812,8 +806,7 @@
     "5979f12b426f",
     "aa8e1ab2ff31",
     "4751530401de",
-    "3a90a4b25e8f",
-    "5db7762afe64"
+    "3a90a4b25e8f"
    ],
    "livros": [
     {
